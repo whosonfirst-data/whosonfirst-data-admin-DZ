@@ -1,0 +1,68 @@
+{
+  "id": 1343850691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.88417,36.11194,2.88417,36.11194",
+    "geom:latitude":36.11194,
+    "geom:longitude":2.88417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar el Mehadjbia",
+    "gn:country_code":"DZ",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2575023,
+    "gn:latitude":36.11194,
+    "gn:longitude":2.88417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Mehadjbia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mehadjbia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2575023
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cef8e8fffddfa37d37520d7439145bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343850691,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1343850691,
+    "wof:lastmodified":1537620264,
+    "wof:name":"Douar el Mehadjbia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88417,
+    36.11194,
+    2.88417,
+    36.11194
+],
+  "geometry": {"coordinates":[2.88417,36.11194],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293656491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.25558,35.3443,0.25558,35.3443",
+    "geom:latitude":35.3443,
+    "geom:longitude":0.25558,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Zaouia",
+    "gn:country_code":"DZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579128,
+    "gn:latitude":35.3443,
+    "gn:longitude":0.25558,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Zaouia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar ez Zaou\u00efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579128
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c6307f9bc94ca1c494dbc56c74fdee74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293656491,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1293656491,
+    "wof:lastmodified":1537620266,
+    "wof:name":"Douar Zaouia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.25558,
+    35.3443,
+    0.25558,
+    35.3443
+],
+  "geometry": {"coordinates":[0.25558,35.3443],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309841819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.69792,36.07463,1.69792,36.07463",
+    "geom:latitude":36.07463,
+    "geom:longitude":1.69792,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Souk el Tleta",
+    "gn:country_code":"DZ",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525268,
+    "gn:latitude":36.07463,
+    "gn:longitude":1.69792,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Souk el Tleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525268
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"22af80846bfe465fcc109bdbda819224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309841819,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1309841819,
+    "wof:lastmodified":1536878322,
+    "wof:name":"Souk el Tleta",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.69792,
+    36.07463,
+    1.69792,
+    36.07463
+],
+  "geometry": {"coordinates":[1.69792,36.07463],"type":"Point"}
+}

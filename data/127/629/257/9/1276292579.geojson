@@ -1,0 +1,69 @@
+{
+  "id": 1276292579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56306,35.55389,7.56306,35.55389",
+    "geom:latitude":35.55389,
+    "geom:longitude":7.56306,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Darhar",
+    "gn:country_code":"DZ",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489619,
+    "gn:latitude":35.55389,
+    "gn:longitude":7.56306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Darhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Darhar",
+        "Mechta Darhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489619
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9f0dbae608f73f5be80f34d772d1d479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276292579,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1276292579,
+    "wof:lastmodified":1537620165,
+    "wof:name":"Mechta Darhar",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56306,
+    35.55389,
+    7.56306,
+    35.55389
+],
+  "geometry": {"coordinates":[7.56306,35.55389],"type":"Point"}
+}

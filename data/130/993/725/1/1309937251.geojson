@@ -1,0 +1,65 @@
+{
+  "id": 1309937251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.99072,36.81322,2.99072,36.81322",
+    "geom:latitude":36.81322,
+    "geom:longitude":2.99072,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bains Romains",
+    "gn:country_code":"DZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505707,
+    "gn:latitude":36.81322,
+    "gn:longitude":2.99072,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bains Romains",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505707
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c8076253adc82e0e45805a628c251bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309937251,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":1309937251,
+    "wof:lastmodified":1536741558,
+    "wof:name":"Bains Romains",
+    "wof:parent_id":85670761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.99072,
+    36.81322,
+    2.99072,
+    36.81322
+],
+  "geometry": {"coordinates":[2.99072,36.81322],"type":"Point"}
+}

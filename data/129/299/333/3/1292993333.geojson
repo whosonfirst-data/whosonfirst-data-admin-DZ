@@ -1,0 +1,65 @@
+{
+  "id": 1292993333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.20437,35.85089,3.20437,35.85089",
+    "geom:latitude":35.85089,
+    "geom:longitude":3.20437,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mechta Lathamnia",
+    "gn:country_code":"DZ",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489476,
+    "gn:latitude":35.85089,
+    "gn:longitude":3.20437,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Lathamnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489476
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8ddfad567047f1021774dec334b5d872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292993333,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1292993333,
+    "wof:lastmodified":1537001696,
+    "wof:name":"Mechta Lathamnia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.20437,
+    35.85089,
+    3.20437,
+    35.85089
+],
+  "geometry": {"coordinates":[3.20437,35.85089],"type":"Point"}
+}

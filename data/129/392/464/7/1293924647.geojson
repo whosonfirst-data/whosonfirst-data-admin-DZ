@@ -1,0 +1,65 @@
+{
+  "id": 1293924647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.00711,29.30866,0.00711,29.30866",
+    "geom:latitude":29.30866,
+    "geom:longitude":0.00711,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Bour Ouled Moussa",
+    "gn:country_code":"DZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502409,
+    "gn:latitude":29.30866,
+    "gn:longitude":0.00711,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bour Ouled Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502409
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7df6802ec33d7e09a917426cb988003c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293924647,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1293924647,
+    "wof:lastmodified":1536653945,
+    "wof:name":"Bour Ouled Moussa",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.00711,
+    29.30866,
+    0.00711,
+    29.30866
+],
+  "geometry": {"coordinates":[0.00711,29.30866],"type":"Point"}
+}

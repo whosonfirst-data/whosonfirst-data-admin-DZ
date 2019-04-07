@@ -1,0 +1,65 @@
+{
+  "id": 1242612067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.96398,36.5172,1.96398,36.5172",
+    "geom:latitude":36.5172,
+    "geom:longitude":1.96398,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Douar Tizardheth",
+    "gn:country_code":"DZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573051,
+    "gn:latitude":36.5172,
+    "gn:longitude":1.96398,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Douar Tizardheth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573051
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a39519690fff0281c18d9051eb1b9a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242612067,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1242612067,
+    "wof:lastmodified":1537013328,
+    "wof:name":"Douar Tizardheth",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.96398,
+    36.5172,
+    1.96398,
+    36.5172
+],
+  "geometry": {"coordinates":[1.96398,36.5172],"type":"Point"}
+}

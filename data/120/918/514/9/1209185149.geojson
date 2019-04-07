@@ -1,0 +1,67 @@
+{
+  "id": 1209185149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01692,36.72615,4.01692,36.72615",
+    "geom:latitude":36.72615,
+    "geom:longitude":4.01692,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bou Khalfa",
+    "gn:country_code":"DZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502868,
+    "gn:latitude":36.72615,
+    "gn:longitude":4.01692,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou Khalfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guvnemer",
+        "Bou Kralfa",
+        "Guynemer",
+        "Bou Khalfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502868
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2c0c986c9a72dd86b20bba8b4e83631e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209185149
+        }
+    ],
+    "wof:id":1209185149,
+    "wof:lastmodified":1537620234,
+    "wof:name":"Bou Khalfa",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01692,
+    36.72615,
+    4.01692,
+    36.72615
+],
+  "geometry": {"coordinates":[4.01692,36.72615],"type":"Point"}
+}

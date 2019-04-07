@@ -1,0 +1,103 @@
+{
+  "id": 890444497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87374,35.97108,6.87374,35.97108",
+    "geom:latitude":35.97108,
+    "geom:longitude":6.87374,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":68433,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0641\u0643\u0631\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:kab_x_preferred":[
+        "Tifkert"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0641\u06a9\u0631\u0648\u0646"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Fakroun"
+    ],
+    "qs:name":"A\u00efn Fakroun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508102,
+        "gp:id":1257019,
+        "qs:id":1036062,
+        "wd:id":"Q2876323",
+        "wk:page":"A\u00efn Fakroun"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052471,
+    "wof:geomhash":"9ab091f6e8e3e9266ec64b8c5661bf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890444497,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":890444497,
+    "wof:lastmodified":1527782130,
+    "wof:name":"A\u00efn Fakroun",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:population":68433,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.87374,
+    35.97108,
+    6.87374,
+    35.97108
+],
+  "geometry": {"coordinates":[6.87374,35.97108],"type":"Point"}
+}

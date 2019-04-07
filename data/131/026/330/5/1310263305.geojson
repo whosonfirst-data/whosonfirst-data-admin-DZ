@@ -1,0 +1,65 @@
+{
+  "id": 1310263305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.02391,35.15777,3.02391,35.15777",
+    "geom:latitude":35.15777,
+    "geom:longitude":3.02391,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Guelt es Stel",
+    "gn:country_code":"DZ",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2495621,
+    "gn:latitude":35.15777,
+    "gn:longitude":3.02391,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Guelt es Stel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2495621
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"90ffdeb58a85744725fe707fdace9138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310263305,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1310263305,
+    "wof:lastmodified":1536769398,
+    "wof:name":"Guelt es Stel",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.02391,
+    35.15777,
+    3.02391,
+    35.15777
+],
+  "geometry": {"coordinates":[3.02391,35.15777],"type":"Point"}
+}

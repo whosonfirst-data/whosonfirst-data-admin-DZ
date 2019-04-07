@@ -1,0 +1,119 @@
+{
+  "id": 1125915061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.30258,36.46472,1.30258,36.46472",
+    "geom:latitude":36.46472,
+    "geom:longitude":1.30258,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26558,
+    "gn:population":26558,
+    "iso:country":"DZ",
+    "lbl:latitude":36.46472,
+    "lbl:longitude":1.30258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u0643\u0627\u0634\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi \u0190ekkaca"
+    ],
+    "name:may_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u06a9\u0627\u0634\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "name:unk_x_variant":[
+        "Montenotte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u06a9\u0627\u0634\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Akkacha"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2481207,
+    "qs_pg:gn_pop":26558,
+    "qs_pg:name":"Sidi Akkacha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1035932,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481207,
+        "qs_pg:id":1035932,
+        "wd:id":"Q1650037"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497296290,
+    "wof:geomhash":"4afda60a65799694dc5c9752b3b04080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125915061,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1125915061,
+    "wof:lastmodified":1513956083,
+    "wof:name":"Sidi Akkacha",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:population":26558,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.30258,
+    36.46472,
+    1.30258,
+    36.46472
+],
+  "geometry": {"coordinates":[1.30258,36.46472],"type":"Point"}
+}

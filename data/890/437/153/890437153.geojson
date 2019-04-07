@@ -1,0 +1,103 @@
+{
+  "id": 890437153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.69474,36.63709,3.69474,36.63709",
+    "geom:latitude":36.63709,
+    "geom:longitude":3.69474,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":19522,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628\u0629 \u0627\u0644\u0639\u0627\u0645\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:eng_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:fre_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:ita_x_preferred":[
+        "Chabet El Ameur"
+    ],
+    "name:kab_x_preferred":[
+        "Taca\u025bbet"
+    ],
+    "name:may_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:por_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:rum_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:swe_x_preferred":[
+        "Chabet el Ameur"
+    ],
+    "name:unk_x_variant":[
+        "Chabet -el -Ameuro"
+    ],
+    "name:vie_x_preferred":[
+        "Chabet El Ameur"
+    ],
+    "qs:name":"Chabet el Ameur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501873,
+        "gp:id":1253782,
+        "qs:id":1036015,
+        "wd:id":"Q37926868",
+        "wk:page":"Chabet el Ameur"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052140,
+    "wof:geomhash":"ce5836749bcf4dc056031b8b2898f66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890437153,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":890437153,
+    "wof:lastmodified":1527729751,
+    "wof:name":"Chabet el Ameur",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:population":19522,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.69474,
+    36.63709,
+    3.69474,
+    36.63709
+],
+  "geometry": {"coordinates":[3.69474,36.63709],"type":"Point"}
+}

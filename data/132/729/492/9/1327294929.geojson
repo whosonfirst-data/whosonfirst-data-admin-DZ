@@ -1,0 +1,65 @@
+{
+  "id": 1327294929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38672,35.53708,7.38672,35.53708",
+    "geom:latitude":35.53708,
+    "geom:longitude":7.38672,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Safel Touzelt",
+    "gn:country_code":"DZ",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489250,
+    "gn:latitude":35.53708,
+    "gn:longitude":7.38672,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Safel Touzelt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489250
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9e4f16bba54588b129addde66220ca31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327294929,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1327294929,
+    "wof:lastmodified":1536878692,
+    "wof:name":"Mechta Safel Touzelt",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38672,
+    35.53708,
+    7.38672,
+    35.53708
+],
+  "geometry": {"coordinates":[7.38672,35.53708],"type":"Point"}
+}

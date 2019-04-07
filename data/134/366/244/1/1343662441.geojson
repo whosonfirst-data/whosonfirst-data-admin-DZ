@@ -1,0 +1,71 @@
+{
+  "id": 1343662441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.47203,36.37925,6.47203,36.37925",
+    "geom:latitude":36.37925,
+    "geom:longitude":6.47203,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ebn Ziad",
+    "gn:country_code":"DZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498978,
+    "gn:latitude":36.37925,
+    "gn:longitude":6.47203,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ebn Ziad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rouffach",
+        "Ibn Ziad",
+        "Ebn Ziad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498978,
+        "wk:page":"Ibn_Ziad"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ac0c219f49e1d5f88537c8eb4f2fe935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343662441,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1343662441,
+    "wof:lastmodified":1537620205,
+    "wof:name":"Ebn Ziad",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.47203,
+    36.37925,
+    6.47203,
+    36.37925
+],
+  "geometry": {"coordinates":[6.47203,36.37925],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260072587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33954,36.24338,3.33954,36.24338",
+    "geom:latitude":36.24338,
+    "geom:longitude":3.33954,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bir Ouled Aicha",
+    "gn:country_code":"DZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280584,
+    "gn:latitude":36.24338,
+    "gn:longitude":3.33954,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bir Ouled A\u00efcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280584
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7ca7681b326390af353acbfdbe9c637e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260072587,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1260072587,
+    "wof:lastmodified":1537002997,
+    "wof:name":"Bir Ouled Aicha",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33954,
+    36.24338,
+    3.33954,
+    36.24338
+],
+  "geometry": {"coordinates":[3.33954,36.24338],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259824193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.69239,36.33229,1.69239,36.33229",
+    "geom:latitude":36.33229,
+    "geom:longitude":1.69239,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Labadnia",
+    "gn:country_code":"DZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573205,
+    "gn:latitude":36.33229,
+    "gn:longitude":1.69239,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Labadnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573205
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"334e551bd99bea41f777d14a7c6830b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259824193,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1259824193,
+    "wof:lastmodified":1536863300,
+    "wof:name":"Labadnia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.69239,
+    36.33229,
+    1.69239,
+    36.33229
+],
+  "geometry": {"coordinates":[1.69239,36.33229],"type":"Point"}
+}

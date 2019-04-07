@@ -1,0 +1,65 @@
+{
+  "id": 1259550175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33393,35.62988,5.33393,35.62988",
+    "geom:latitude":35.62988,
+    "geom:longitude":5.33393,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechta Chir",
+    "gn:country_code":"DZ",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489630,
+    "gn:latitude":35.62988,
+    "gn:longitude":5.33393,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Chir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489630
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"177317eb348bf83ac9551e51b6a844d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259550175,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1259550175,
+    "wof:lastmodified":1536763280,
+    "wof:name":"Mechta Chir",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33393,
+    35.62988,
+    5.33393,
+    35.62988
+],
+  "geometry": {"coordinates":[5.33393,35.62988],"type":"Point"}
+}

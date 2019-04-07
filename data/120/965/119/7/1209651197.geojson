@@ -1,0 +1,68 @@
+{
+  "id": 1209651197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.02012,32.86427,0.02012,32.86427",
+    "geom:latitude":32.86427,
+    "geom:longitude":0.02012,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Boussemghoun",
+    "gn:country_code":"DZ",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502296,
+    "gn:latitude":32.86427,
+    "gn:longitude":0.02012,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boussemghoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boussemghoum",
+        "Bou Semghoun",
+        "Bou Semrhoun",
+        "Boussemghoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502296,
+        "wk:page":"Boussemghoun"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"324ad1dcf511496e133882daa7d6af83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209651197
+        }
+    ],
+    "wof:id":1209651197,
+    "wof:lastmodified":1537620232,
+    "wof:name":"Boussemghoun",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.02012,
+    32.86427,
+    0.02012,
+    32.86427
+],
+  "geometry": {"coordinates":[0.02012,32.86427],"type":"Point"}
+}

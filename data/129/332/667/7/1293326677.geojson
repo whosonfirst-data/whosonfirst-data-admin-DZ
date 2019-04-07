@@ -1,0 +1,68 @@
+{
+  "id": 1293326677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77796,35.97788,0.77796,35.97788",
+    "geom:latitude":35.97788,
+    "geom:longitude":0.77796,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled el Djilalli",
+    "gn:country_code":"DZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485293,
+    "gn:latitude":35.97788,
+    "gn:longitude":0.77796,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Ouled el Djilalli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Djilali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485293
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5d6274de3bc3087e58e66db1b17e0680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293326677,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1293326677,
+    "wof:lastmodified":1537620130,
+    "wof:name":"Douar Ouled el Djilalli",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77796,
+    35.97788,
+    0.77796,
+    35.97788
+],
+  "geometry": {"coordinates":[0.77796,35.97788],"type":"Point"}
+}

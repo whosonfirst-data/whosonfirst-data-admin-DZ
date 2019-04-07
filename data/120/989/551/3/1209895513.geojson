@@ -1,0 +1,70 @@
+{
+  "id": 1209895513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6674,35.35325,1.6674,35.35325",
+    "geom:latitude":35.35325,
+    "geom:longitude":1.6674,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"'Ain Dzarit",
+    "gn:country_code":"DZ",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508213,
+    "gn:latitude":35.35325,
+    "gn:longitude":1.6674,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Dzarit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Djarit",
+        "A\u00efne Dzarit",
+        "\u2019A\u00efn Dzarit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508213
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c7570dae68027a7d3a34e09e2d9aaeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209895513,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1209895513,
+    "wof:lastmodified":1537620259,
+    "wof:name":"'Ain Dzarit",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6674,
+    35.35325,
+    1.6674,
+    35.35325
+],
+  "geometry": {"coordinates":[1.6674,35.35325],"type":"Point"}
+}

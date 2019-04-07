@@ -1,0 +1,65 @@
+{
+  "id": 1309903445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.44395,35.52002,2.44395,35.52002",
+    "geom:latitude":35.52002,
+    "geom:longitude":2.44395,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Ben Saha Mokhtar",
+    "gn:country_code":"DZ",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438065,
+    "gn:latitude":35.52002,
+    "gn:longitude":2.44395,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Dar Ben Saha Mokhtar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438065
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1b6f94c4ecd9824106bd2eda42aa824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309903445,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1309903445,
+    "wof:lastmodified":1536790760,
+    "wof:name":"Dar Ben Saha Mokhtar",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.44395,
+    35.52002,
+    2.44395,
+    35.52002
+],
+  "geometry": {"coordinates":[2.44395,35.52002],"type":"Point"}
+}

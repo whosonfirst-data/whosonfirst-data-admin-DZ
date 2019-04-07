@@ -1,0 +1,68 @@
+{
+  "id": 1259518237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15639,36.08072,1.15639,36.08072",
+    "geom:latitude":36.08072,
+    "geom:longitude":1.15639,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boukaat Bachir",
+    "gn:country_code":"DZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498572,
+    "gn:latitude":36.08072,
+    "gn:longitude":1.15639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boukaat Bachir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bachiria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498572
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0dcf3e637457f85746e0e66ac04e8579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259518237,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1259518237,
+    "wof:lastmodified":1537620203,
+    "wof:name":"Boukaat Bachir",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15639,
+    36.08072,
+    1.15639,
+    36.08072
+],
+  "geometry": {"coordinates":[1.15639,36.08072],"type":"Point"}
+}

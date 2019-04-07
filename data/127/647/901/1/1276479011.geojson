@@ -1,0 +1,65 @@
+{
+  "id": 1276479011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.08291,36.70406,3.08291,36.70406",
+    "geom:latitude":36.70406,
+    "geom:longitude":3.08291,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Djisr Ksentina",
+    "gn:country_code":"DZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205039,
+    "gn:latitude":36.70406,
+    "gn:longitude":3.08291,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Djisr Ksentina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205039
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"713a0b1c751da385fd5f0d9b7dde7da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276479011,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":1276479011,
+    "wof:lastmodified":1537077675,
+    "wof:name":"Djisr Ksentina",
+    "wof:parent_id":85670761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.08291,
+    36.70406,
+    3.08291,
+    36.70406
+],
+  "geometry": {"coordinates":[3.08291,36.70406],"type":"Point"}
+}

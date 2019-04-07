@@ -1,0 +1,65 @@
+{
+  "id": 1293619377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93253,35.70765,0.93253,35.70765",
+    "geom:latitude":35.70765,
+    "geom:longitude":0.93253,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled Amar",
+    "gn:country_code":"DZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417604,
+    "gn:latitude":35.70765,
+    "gn:longitude":0.93253,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417604
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f40139e78b3f2480b5822ef47d9f7b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293619377,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1293619377,
+    "wof:lastmodified":1537091007,
+    "wof:name":"Douar Ouled Amar",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93253,
+    35.70765,
+    0.93253,
+    35.70765
+],
+  "geometry": {"coordinates":[0.93253,35.70765],"type":"Point"}
+}

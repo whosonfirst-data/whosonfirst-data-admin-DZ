@@ -1,0 +1,65 @@
+{
+  "id": 1310654985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7,35.71667,4.7,35.71667",
+    "geom:latitude":35.71667,
+    "geom:longitude":4.7,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Douar el Areib",
+    "gn:country_code":"DZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499455,
+    "gn:latitude":35.71667,
+    "gn:longitude":4.7,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Are\u00efb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499455
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"42424b79c533ad25d9a54a52448b7f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310654985,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1310654985,
+    "wof:lastmodified":1536701646,
+    "wof:name":"Douar el Areib",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7,
+    35.71667,
+    4.7,
+    35.71667
+],
+  "geometry": {"coordinates":[4.7,35.71667],"type":"Point"}
+}

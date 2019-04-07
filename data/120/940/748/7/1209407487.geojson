@@ -1,0 +1,61 @@
+{
+  "id": 1209407487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.82364,36.20731,2.82364,36.20731",
+    "geom:latitude":36.20731,
+    "geom:longitude":2.82364,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haouch el Hofra",
+    "gn:country_code":"DZ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450276,
+    "gn:latitude":36.20731,
+    "gn:longitude":2.82364,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Haouch el Hofra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450276
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b9fa31c93458f9c6f30c2e2ae8f44bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209407487
+        }
+    ],
+    "wof:id":1209407487,
+    "wof:lastmodified":1536287947,
+    "wof:name":"Haouch el Hofra",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.82364,
+    36.20731,
+    2.82364,
+    36.20731
+],
+  "geometry": {"coordinates":[2.82364,36.20731],"type":"Point"}
+}

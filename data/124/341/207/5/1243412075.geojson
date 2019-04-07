@@ -1,0 +1,70 @@
+{
+  "id": 1243412075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37308,36.7863,6.37308,36.7863",
+    "geom:latitude":36.7863,
+    "geom:longitude":6.37308,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zaouia Ras Bellout",
+    "gn:country_code":"DZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489687,
+    "gn:latitude":36.7863,
+    "gn:longitude":6.37308,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zaouia Ras Bellout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Bo\u00fb el Bellout",
+        "Zaouia Ras Bou el Bellout",
+        "Zaouia Ras Bellout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489687
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9ad83abb8b8c5566918803cb97187243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243412075,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1243412075,
+    "wof:lastmodified":1537620167,
+    "wof:name":"Zaouia Ras Bellout",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37308,
+    36.7863,
+    6.37308,
+    36.7863
+],
+  "geometry": {"coordinates":[6.37308,36.7863],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243576297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84447,35.93935,2.84447,35.93935",
+    "geom:latitude":35.93935,
+    "geom:longitude":2.84447,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zennzela",
+    "gn:country_code":"DZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474596,
+    "gn:latitude":35.93935,
+    "gn:longitude":2.84447,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zennzela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474596
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a7c8658e53904e4f8dea93e8bc52d8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243576297,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243576297,
+    "wof:lastmodified":1536616184,
+    "wof:name":"Zennzela",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84447,
+    35.93935,
+    2.84447,
+    35.93935
+],
+  "geometry": {"coordinates":[2.84447,35.93935],"type":"Point"}
+}

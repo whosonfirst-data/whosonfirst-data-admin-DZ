@@ -1,0 +1,65 @@
+{
+  "id": 1242709311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.10008,36.01704,6.10008,36.01704",
+    "geom:latitude":36.01704,
+    "geom:longitude":6.10008,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"'Ain el Kebch",
+    "gn:country_code":"DZ",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508145,
+    "gn:latitude":36.01704,
+    "gn:longitude":6.10008,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2019A\u00efn el Kebch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508145
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b6c419da1dd390bcdc22dfcbdbaf1a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242709311,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1242709311,
+    "wof:lastmodified":1536873095,
+    "wof:name":"'Ain el Kebch",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.10008,
+    36.01704,
+    6.10008,
+    36.01704
+],
+  "geometry": {"coordinates":[6.10008,36.01704],"type":"Point"}
+}

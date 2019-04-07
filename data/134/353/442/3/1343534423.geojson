@@ -1,0 +1,65 @@
+{
+  "id": 1343534423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53752,34.64364,-1.53752,34.64364",
+    "geom:latitude":34.64364,
+    "geom:longitude":-1.53752,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beni Hammou",
+    "gn:country_code":"DZ",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504680,
+    "gn:latitude":34.64364,
+    "gn:longitude":-1.53752,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Beni Hammou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504680
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fc02fa92458298de2d39d1b3bd7aa4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343534423,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1343534423,
+    "wof:lastmodified":1536638549,
+    "wof:name":"Beni Hammou",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53752,
+    34.64364,
+    -1.53752,
+    34.64364
+],
+  "geometry": {"coordinates":[-1.53752,34.64364],"type":"Point"}
+}

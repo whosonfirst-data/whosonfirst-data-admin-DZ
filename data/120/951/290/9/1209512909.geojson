@@ -1,0 +1,61 @@
+{
+  "id": 1209512909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.27134,35.65503,2.27134,35.65503",
+    "geom:latitude":35.65503,
+    "geom:longitude":2.27134,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Slimane",
+    "gn:country_code":"DZ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438109,
+    "gn:latitude":35.65503,
+    "gn:longitude":2.27134,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ouled Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438109
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c78b372f9de6229e79bd0e6c40fe40b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209512909
+        }
+    ],
+    "wof:id":1209512909,
+    "wof:lastmodified":1536284825,
+    "wof:name":"Ouled Slimane",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2713400000000004,
+    35.65503,
+    2.2713400000000004,
+    35.65503
+],
+  "geometry": {"coordinates":[2.27134,35.65503],"type":"Point"}
+}

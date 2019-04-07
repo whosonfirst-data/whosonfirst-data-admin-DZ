@@ -1,0 +1,70 @@
+{
+  "id": 1192981793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03869,36.75596,5.03869,36.75596",
+    "geom:latitude":36.75596,
+    "geom:longitude":5.03869,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ibouhathmane",
+    "gn:country_code":"DZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493722,
+    "gn:latitude":36.75596,
+    "gn:longitude":5.03869,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibouhathmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibaouchene",
+        "Ibouhathman",
+        "Ibouhathmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493722
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"240464f3247d6c64ebfdaa9ae51ccd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192981793,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1192981793,
+    "wof:lastmodified":1537620183,
+    "wof:name":"Ibouhathmane",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03869,
+    36.75596,
+    5.03869,
+    36.75596
+],
+  "geometry": {"coordinates":[5.03869,36.75596],"type":"Point"}
+}

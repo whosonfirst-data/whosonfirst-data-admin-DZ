@@ -1,0 +1,62 @@
+{
+  "id": 1209254879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.3125,35.28123,-1.3125,35.28123",
+    "geom:latitude":35.28123,
+    "geom:longitude":-1.3125,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Sidi Safi",
+    "gn:country_code":"DZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479852,
+    "gn:latitude":35.28123,
+    "gn:longitude":-1.3125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Safi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479852,
+        "wk:page":"Sidi_Safi"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b8cea4578ea4e1e3011b8ab6ff7fb356",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209254879
+        }
+    ],
+    "wof:id":1209254879,
+    "wof:lastmodified":1537504269,
+    "wof:name":"Sidi Safi",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.3125,
+    35.28123,
+    -1.3125,
+    35.28123
+],
+  "geometry": {"coordinates":[-1.3125,35.28123],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209849443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63296,36.45808,1.63296,36.45808",
+    "geom:latitude":36.45808,
+    "geom:longitude":1.63296,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bouzelaza",
+    "gn:country_code":"DZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573311,
+    "gn:latitude":36.45808,
+    "gn:longitude":1.63296,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Bouzelaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573311
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"79913e2932d2fb34ab8a06765a346806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209849443,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1209849443,
+    "wof:lastmodified":1536389141,
+    "wof:name":"Bouzelaza",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63296,
+    36.45808,
+    1.63296,
+    36.45808
+],
+  "geometry": {"coordinates":[1.63296,36.45808],"type":"Point"}
+}

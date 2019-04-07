@@ -1,0 +1,61 @@
+{
+  "id": 1209595619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.86386,36.33263,4.86386,36.33263",
+    "geom:latitude":36.33263,
+    "geom:longitude":4.86386,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taourirt Tamelalt",
+    "gn:country_code":"DZ",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477884,
+    "gn:latitude":36.33263,
+    "gn:longitude":4.86386,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Taourirt Tamelalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477884
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d7bdce0e182531b0bf0169e049ed99e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209595619
+        }
+    ],
+    "wof:id":1209595619,
+    "wof:lastmodified":1536282334,
+    "wof:name":"Taourirt Tamelalt",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86386,
+    36.33263,
+    4.86386,
+    36.33263
+],
+  "geometry": {"coordinates":[4.86386,36.33263],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292994607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.01586,34.64919,0.01586,34.64919",
+    "geom:latitude":34.64919,
+    "geom:longitude":0.01586,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Moulay Larbi",
+    "gn:country_code":"DZ",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486942,
+    "gn:latitude":34.64919,
+    "gn:longitude":0.01586,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moulay Larbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wagram",
+        "Moulay Larbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486942,
+        "wk:page":"Moulay_Larbi"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9b9e56eafb9c7a054367d6c04a8d3504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292994607,
+            "region_id":85670797
+        }
+    ],
+    "wof:id":1292994607,
+    "wof:lastmodified":1537620137,
+    "wof:name":"Moulay Larbi",
+    "wof:parent_id":85670797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.01586,
+    34.64919,
+    0.01586,
+    34.64919
+],
+  "geometry": {"coordinates":[0.01586,34.64919],"type":"Point"}
+}

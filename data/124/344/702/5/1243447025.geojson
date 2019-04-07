@@ -1,0 +1,65 @@
+{
+  "id": 1243447025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33848,36.13044,3.33848,36.13044",
+    "geom:latitude":36.13044,
+    "geom:longitude":3.33848,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Znim",
+    "gn:country_code":"DZ",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281329,
+    "gn:latitude":36.13044,
+    "gn:longitude":3.33848,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ouled Znim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281329
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9096bfbece0b601b61e85777a533f9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243447025,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243447025,
+    "wof:lastmodified":1536804566,
+    "wof:name":"Ouled Znim",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33848,
+    36.13044,
+    3.33848,
+    36.13044
+],
+  "geometry": {"coordinates":[3.33848,36.13044],"type":"Point"}
+}

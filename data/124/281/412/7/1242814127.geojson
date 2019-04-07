@@ -1,0 +1,73 @@
+{
+  "id": 1242814127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.24,36.33805,1.24,36.33805",
+    "geom:latitude":36.33805,
+    "geom:longitude":1.24,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bouzeghaia",
+    "gn:country_code":"DZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502135,
+    "gn:latitude":36.33805,
+    "gn:longitude":1.24,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bouzeghaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chass\u00e9rian",
+        "Chassoriau",
+        "Chass\u00e9riau",
+        "Bouzeghaia",
+        "Bouzgha\u00efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502135,
+        "wk:page":"Bouzghaia"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f439e34e6b66adee76aebeeec68c9b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242814127,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242814127,
+    "wof:lastmodified":1537620231,
+    "wof:name":"Bouzeghaia",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.24,
+    36.33805,
+    1.24,
+    36.33805
+],
+  "geometry": {"coordinates":[1.24,36.33805],"type":"Point"}
+}

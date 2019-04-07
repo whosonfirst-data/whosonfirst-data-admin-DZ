@@ -1,0 +1,69 @@
+{
+  "id": 1259632095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13129,35.25,8.13129,35.25",
+    "geom:latitude":35.25,
+    "geom:longitude":8.13129,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechtat Ouled ez Zouairia",
+    "gn:country_code":"DZ",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2488985,
+    "gn:latitude":35.25,
+    "gn:longitude":8.13129,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Ouled ez Zoua\u00efria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Oulad ez Zoua\u00efria",
+        "Mechtat Ouled ez Zoua\u00efria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488985
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"32b9db4b098ffcf7df025c6b48b80360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259632095,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1259632095,
+    "wof:lastmodified":1537620147,
+    "wof:name":"Mechtat Ouled ez Zouairia",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13129,
+    35.25,
+    8.13129,
+    35.25
+],
+  "geometry": {"coordinates":[8.13129,35.25],"type":"Point"}
+}

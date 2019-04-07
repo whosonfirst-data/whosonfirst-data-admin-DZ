@@ -1,0 +1,73 @@
+{
+  "id": 1293625655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.46806,32.49212,-0.46806,32.49212",
+    "geom:latitude":32.49212,
+    "geom:longitude":-0.46806,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Moghtar Tahtani",
+    "gn:country_code":"DZ",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487179,
+    "gn:latitude":32.49212,
+    "gn:longitude":-0.46806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moghtar Tahtani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moghrar Tahtania",
+        "Mograr Tahtani",
+        "Moghar-Tahtani",
+        "Morhar Tahtania",
+        "Mograr Tahtania",
+        "Moghtar Tahtani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487179
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7927782184dc1e87c3e284291e4d4397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293625655,
+            "region_id":85670707
+        }
+    ],
+    "wof:id":1293625655,
+    "wof:lastmodified":1537620137,
+    "wof:name":"Moghtar Tahtani",
+    "wof:parent_id":85670707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.46806,
+    32.49212,
+    -0.46806,
+    32.49212
+],
+  "geometry": {"coordinates":[-0.46806,32.49212],"type":"Point"}
+}

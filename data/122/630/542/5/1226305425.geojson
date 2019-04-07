@@ -1,0 +1,65 @@
+{
+  "id": 1226305425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.41964,34.63941,5.41964,34.63941",
+    "geom:latitude":34.63941,
+    "geom:longitude":5.41964,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sahira",
+    "gn:country_code":"DZ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482601,
+    "gn:latitude":34.63941,
+    "gn:longitude":5.41964,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sahira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482601
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b4de297c6168949aebb2e110434459cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226305425,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1226305425,
+    "wof:lastmodified":1536846658,
+    "wof:name":"Sahira",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.41964,
+    34.63941,
+    5.41964,
+    34.63941
+],
+  "geometry": {"coordinates":[5.41964,34.63941],"type":"Point"}
+}

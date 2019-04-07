@@ -1,0 +1,72 @@
+{
+  "id": 1259536975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.50972,36.19667,2.50972,36.19667",
+    "geom:latitude":36.19667,
+    "geom:longitude":2.50972,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Amoura",
+    "gn:country_code":"DZ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485651,
+    "gn:latitude":36.19667,
+    "gn:longitude":2.50972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Amoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dollfusville",
+        "Amoura",
+        "Dolfusville",
+        "Oued Cheurfa",
+        "Oued Chorfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485651
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8daff161401b298489c9bbd56bf6d3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259536975,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1259536975,
+    "wof:lastmodified":1537620134,
+    "wof:name":"Amoura",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.50972,
+    36.19667000000001,
+    2.50972,
+    36.19667000000001
+],
+  "geometry": {"coordinates":[2.50972,36.19667000000001],"type":"Point"}
+}

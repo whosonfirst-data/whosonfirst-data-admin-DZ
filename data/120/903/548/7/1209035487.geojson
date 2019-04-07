@@ -1,0 +1,61 @@
+{
+  "id": 1209035487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67679,36.08803,1.67679,36.08803",
+    "geom:latitude":36.08803,
+    "geom:longitude":1.67679,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Djouahra",
+    "gn:country_code":"DZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525326,
+    "gn:latitude":36.08803,
+    "gn:longitude":1.67679,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Djouahra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525326
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5993632bde9028270a0afb0d85c9571a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209035487
+        }
+    ],
+    "wof:id":1209035487,
+    "wof:lastmodified":1536299715,
+    "wof:name":"Djouahra",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6767900000000002,
+    36.08803,
+    1.6767900000000002,
+    36.08803
+],
+  "geometry": {"coordinates":[1.67679,36.08803],"type":"Point"}
+}

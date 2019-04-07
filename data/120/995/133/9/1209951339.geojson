@@ -1,0 +1,67 @@
+{
+  "id": 1209951339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32,36.59028,8.32,36.59028",
+    "geom:latitude":36.59028,
+    "geom:longitude":8.32,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Mechta Ouldja",
+    "gn:country_code":"DZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585427,
+    "gn:latitude":36.59028,
+    "gn:longitude":8.32,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Ouldja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Oulja",
+        "Mechta Ouldja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585427
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7a48ff139b82cb5759510f2adc1d0544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209951339,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209951339,
+    "wof:lastmodified":1537620275,
+    "wof:name":"Mechta Ouldja",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.32,
+    36.59028,
+    8.32,
+    36.59028
+],
+  "geometry": {"coordinates":[8.32,36.59028],"type":"Point"}
+}

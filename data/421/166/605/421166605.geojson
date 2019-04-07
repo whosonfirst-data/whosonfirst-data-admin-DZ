@@ -1,0 +1,113 @@
+{
+  "id": 421166605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3925,36.57,2.3925,36.57",
+    "geom:latitude":36.57,
+    "geom:longitude":2.3925,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Nador"
+    ],
+    "name:eng_x_preferred":[
+        "Nador"
+    ],
+    "name:fra_x_preferred":[
+        "Nador"
+    ],
+    "name:fre_x_preferred":[
+        "Nador"
+    ],
+    "name:ita_x_preferred":[
+        "Nador"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u0638\u0648\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Nador"
+    ],
+    "name:ron_x_preferred":[
+        "Nador"
+    ],
+    "name:rum_x_preferred":[
+        "Nador"
+    ],
+    "name:unk_x_variant":[
+        "Desaix"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nador"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2486492,
+    "qs:gn_pop":0,
+    "qs:name":"Nador",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Tipaza",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267948,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1256533,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486492,
+        "gp:id":1256533,
+        "qs:id":267948,
+        "wd:id":"Q3325575",
+        "wk:page":"Nador, Tipaza"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008696,
+    "wof:geomhash":"7280e80ba716607bdb5887eacb97b73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421166605,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":421166605,
+    "wof:lastmodified":1553816354,
+    "wof:name":"Nador",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3925,
+    36.57,
+    2.3925,
+    36.57
+],
+  "geometry": {"coordinates":[2.3925,36.57],"type":"Point"}
+}

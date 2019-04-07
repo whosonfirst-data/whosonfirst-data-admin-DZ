@@ -1,0 +1,65 @@
+{
+  "id": 1226694811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.08563,36.17369,2.08563,36.17369",
+    "geom:latitude":36.17369,
+    "geom:longitude":2.08563,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kouadria",
+    "gn:country_code":"DZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430034,
+    "gn:latitude":36.17369,
+    "gn:longitude":2.08563,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kouadria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430034
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aa025f28b7eff6a5181e8a3ab0674a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226694811,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1226694811,
+    "wof:lastmodified":1536789422,
+    "wof:name":"Kouadria",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.08563,
+    36.17369,
+    2.08563,
+    36.17369
+],
+  "geometry": {"coordinates":[2.08563,36.17369],"type":"Point"}
+}

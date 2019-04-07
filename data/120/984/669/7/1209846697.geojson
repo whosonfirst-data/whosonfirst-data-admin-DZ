@@ -1,0 +1,71 @@
+{
+  "id": 1209846697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.431,36.35085,1.431,36.35085",
+    "geom:latitude":36.35085,
+    "geom:longitude":1.431,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Zeboudja",
+    "gn:country_code":"DZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474750,
+    "gn:latitude":36.35085,
+    "gn:longitude":1.431,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zeboudja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanoteau",
+        "Timezratine",
+        "Zeboudja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474750,
+        "wk:page":"Zeboudja"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fcf099d17b91b8593e996edd4120388d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209846697,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1209846697,
+    "wof:lastmodified":1537620091,
+    "wof:name":"Zeboudja",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.431,
+    36.35085,
+    1.431,
+    36.35085
+],
+  "geometry": {"coordinates":[1.431,36.35085],"type":"Point"}
+}

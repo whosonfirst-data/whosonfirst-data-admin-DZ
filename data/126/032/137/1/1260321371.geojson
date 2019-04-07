@@ -1,0 +1,68 @@
+{
+  "id": 1260321371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.68712,36.07762,1.68712,36.07762",
+    "geom:latitude":36.07762,
+    "geom:longitude":1.68712,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bouzefour",
+    "gn:country_code":"DZ",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502163,
+    "gn:latitude":36.07762,
+    "gn:longitude":1.68712,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bouzefour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Zefour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502163
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4501a06a4cb851a54ae1d1547d4ea6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260321371,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1260321371,
+    "wof:lastmodified":1537620231,
+    "wof:name":"Bouzefour",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.68712,
+    36.07762,
+    1.68712,
+    36.07762
+],
+  "geometry": {"coordinates":[1.68712,36.07762],"type":"Point"}
+}

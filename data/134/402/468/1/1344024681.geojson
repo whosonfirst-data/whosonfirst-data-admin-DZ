@@ -1,0 +1,69 @@
+{
+  "id": 1344024681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.78395,35.61561,4.78395,35.61561",
+    "geom:latitude":35.61561,
+    "geom:longitude":4.78395,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechta Sidi Bel Kassem",
+    "gn:country_code":"DZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489227,
+    "gn:latitude":35.61561,
+    "gn:longitude":4.78395,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Sidi Bel Kassem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Sidi Bel Kassem",
+        "Mechta Sidi Bel Kassem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489227
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7335e1f524e637b920674be059a4987b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344024681,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1344024681,
+    "wof:lastmodified":1537620153,
+    "wof:name":"Mechta Sidi Bel Kassem",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.78395,
+    35.61561,
+    4.78395,
+    35.61561
+],
+  "geometry": {"coordinates":[4.78395,35.61561],"type":"Point"}
+}

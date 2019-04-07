@@ -1,0 +1,65 @@
+{
+  "id": 1276835953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.60442,36.24652,4.60442,36.24652",
+    "geom:latitude":36.24652,
+    "geom:longitude":4.60442,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kariou",
+    "gn:country_code":"DZ",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2492717,
+    "gn:latitude":36.24652,
+    "gn:longitude":4.60442,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kariou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2492717
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dda36d24fbd9bc7ecca04228a61be5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276835953,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1276835953,
+    "wof:lastmodified":1537096708,
+    "wof:name":"Kariou",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60442,
+    36.24652,
+    4.60442,
+    36.24652
+],
+  "geometry": {"coordinates":[4.60442,36.24652],"type":"Point"}
+}

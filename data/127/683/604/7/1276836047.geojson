@@ -1,0 +1,69 @@
+{
+  "id": 1276836047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80944,36.52517,4.80944,36.52517",
+    "geom:latitude":36.52517,
+    "geom:longitude":4.80944,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tiksarine",
+    "gn:country_code":"DZ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476574,
+    "gn:latitude":36.52517,
+    "gn:longitude":4.80944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tiksarine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikssarine",
+        "Tiksarine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476574
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5e886dbddc1638154531f339ba034281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276836047,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1276836047,
+    "wof:lastmodified":1537620097,
+    "wof:name":"Tiksarine",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80944,
+    36.52517,
+    4.80944,
+    36.52517
+],
+  "geometry": {"coordinates":[4.80944,36.52517],"type":"Point"}
+}

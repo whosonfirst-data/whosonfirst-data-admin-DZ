@@ -1,0 +1,65 @@
+{
+  "id": 1260010839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16012,36.03075,1.16012,36.03075",
+    "geom:latitude":36.03075,
+    "geom:longitude":1.16012,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Allal",
+    "gn:country_code":"DZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485384,
+    "gn:latitude":36.03075,
+    "gn:longitude":1.16012,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Allal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485384
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1921d364d1d67ce50b2970ac30740261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260010839,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1260010839,
+    "wof:lastmodified":1537089407,
+    "wof:name":"Ouled Allal",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16012,
+    36.03075,
+    1.16012,
+    36.03075
+],
+  "geometry": {"coordinates":[1.16012,36.03075],"type":"Point"}
+}

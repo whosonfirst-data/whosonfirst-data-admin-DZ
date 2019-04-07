@@ -1,0 +1,65 @@
+{
+  "id": 1327200117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31335,36.4993,5.31335,36.4993",
+    "geom:latitude":36.4993,
+    "geom:longitude":5.31335,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"El Merdj",
+    "gn:country_code":"DZ",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497575,
+    "gn:latitude":36.4993,
+    "gn:longitude":5.31335,
+    "gn:modification_date":"1994-06-10",
+    "gn:name":"El Merdj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497575
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5ce7de7badfce78eecdd2c60bac03a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327200117,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1327200117,
+    "wof:lastmodified":1537015592,
+    "wof:name":"El Merdj",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31335,
+    36.4993,
+    5.31335,
+    36.4993
+],
+  "geometry": {"coordinates":[5.31335,36.4993],"type":"Point"}
+}

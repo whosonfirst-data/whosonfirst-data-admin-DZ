@@ -1,0 +1,73 @@
+{
+  "id": 1209772533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.24539,35.48047,0.24539,35.48047",
+    "geom:latitude":35.48047,
+    "geom:longitude":0.24539,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ain Fares",
+    "gn:country_code":"DZ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508099,
+    "gn:latitude":35.48047,
+    "gn:longitude":0.24539,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ain Fares",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Fares",
+        "\u2019A\u00efn Fares",
+        "A\u00efne Faress",
+        "Ain Fares",
+        "A\u00efn Fares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508099,
+        "wk:page":"A%C3%AFn_Fares%2C_Mascara"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2e8730af5f19ab665b95de02fb537d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209772533,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1209772533,
+    "wof:lastmodified":1537620257,
+    "wof:name":"Ain Fares",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.24539,
+    35.48047000000001,
+    0.24539,
+    35.48047000000001
+],
+  "geometry": {"coordinates":[0.24539,35.48047000000001],"type":"Point"}
+}

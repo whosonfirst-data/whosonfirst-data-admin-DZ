@@ -1,0 +1,65 @@
+{
+  "id": 1277105217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98187,33.63939,5.98187,33.63939",
+    "geom:latitude":33.63939,
+    "geom:longitude":5.98187,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"El Arfiane",
+    "gn:country_code":"DZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498639,
+    "gn:latitude":33.63939,
+    "gn:longitude":5.98187,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"El Arfiane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498639
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"10d18d74e22d8b6d8df43f16c73b879b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277105217,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1277105217,
+    "wof:lastmodified":1536735475,
+    "wof:name":"El Arfiane",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98187,
+    33.63939,
+    5.98187,
+    33.63939
+],
+  "geometry": {"coordinates":[5.98187,33.63939],"type":"Point"}
+}

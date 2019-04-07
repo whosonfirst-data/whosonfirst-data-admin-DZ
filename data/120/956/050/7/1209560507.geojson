@@ -1,0 +1,61 @@
+{
+  "id": 1209560507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34394,28.68638,0.34394,28.68638",
+    "geom:latitude":28.68638,
+    "geom:longitude":0.34394,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tinekline",
+    "gn:country_code":"DZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476249,
+    "gn:latitude":28.68638,
+    "gn:longitude":0.34394,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tinekline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476249
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ae3e24a406a6b1ed95bde38067329387",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209560507
+        }
+    ],
+    "wof:id":1209560507,
+    "wof:lastmodified":1536283406,
+    "wof:name":"Tinekline",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34394,
+    28.68638,
+    0.34394,
+    28.68638
+],
+  "geometry": {"coordinates":[0.34394,28.68638],"type":"Point"}
+}

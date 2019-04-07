@@ -1,0 +1,65 @@
+{
+  "id": 1343798481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36806,36.27074,1.36806,36.27074",
+    "geom:latitude":36.27074,
+    "geom:longitude":1.36806,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar el M'Den",
+    "gn:country_code":"DZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572658,
+    "gn:latitude":36.27074,
+    "gn:longitude":1.36806,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar el M\u2019Den",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572658
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"30dd84dab91d5bb1744c8ea76cc22ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343798481,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1343798481,
+    "wof:lastmodified":1536756130,
+    "wof:name":"Douar el M'Den",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36806,
+    36.27074,
+    1.36806,
+    36.27074
+],
+  "geometry": {"coordinates":[1.36806,36.27074],"type":"Point"}
+}

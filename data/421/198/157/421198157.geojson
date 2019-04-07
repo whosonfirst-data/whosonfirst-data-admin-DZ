@@ -1,0 +1,92 @@
+{
+  "id": 421198157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.61667,35.7,-0.61667,35.7",
+    "geom:latitude":35.7,
+    "geom:longitude":-0.61667,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Jean Fran\u00e7ois Carteaux"
+    ],
+    "name:deu_x_preferred":[
+        "Jean-Fran\u00e7ois Carteaux"
+    ],
+    "name:fra_x_preferred":[
+        "Jean-Fran\u00e7ois Carteaux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30f3\u30fb\u30d5\u30e9\u30f3\u30bd\u30ef\u30fb\u30ab\u30eb\u30c8\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a5 \ud504\ub791\uc218\uc544 \uce74\ub974\ud1a0"
+    ],
+    "name:ron_x_preferred":[
+        "Jean-Fran\u00e7ois Carteaux"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2501944,
+    "qs:gn_pop":0,
+    "qs:name":"Carteaux",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189687,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253775,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501944,
+        "gp:id":1253775,
+        "qs:id":1189687
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009938,
+    "wof:geomhash":"fa99e26f5a7b78d4783076d7f1fe018b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421198157,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":421198157,
+    "wof:lastmodified":1531858758,
+    "wof:name":"Carteaux",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.61667,
+    35.7,
+    -0.61667,
+    35.7
+],
+  "geometry": {"coordinates":[-0.61667,35.7],"type":"Point"}
+}

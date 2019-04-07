@@ -1,0 +1,61 @@
+{
+  "id": 1209449071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.02955,36.33305,1.02955,36.33305",
+    "geom:latitude":36.33305,
+    "geom:longitude":1.02955,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Boukria",
+    "gn:country_code":"DZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467359,
+    "gn:latitude":36.33305,
+    "gn:longitude":1.02955,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Boukria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467359
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"607d04febe8adefbb21121cd2b642360",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209449071
+        }
+    ],
+    "wof:id":1209449071,
+    "wof:lastmodified":1536286727,
+    "wof:name":"Ouled Boukria",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.02955,
+    36.33305,
+    1.02955,
+    36.33305
+],
+  "geometry": {"coordinates":[1.02955,36.33305],"type":"Point"}
+}

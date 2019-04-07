@@ -1,0 +1,65 @@
+{
+  "id": 1310400795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80858,34.92898,0.80858,34.92898",
+    "geom:latitude":34.92898,
+    "geom:longitude":0.80858,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Safene",
+    "gn:country_code":"DZ",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2482699,
+    "gn:latitude":34.92898,
+    "gn:longitude":0.80858,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Safene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482699
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"57bbf9aed64bd7228c44c66acba98e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310400795,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1310400795,
+    "wof:lastmodified":1537065186,
+    "wof:name":"Safene",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80858,
+    34.92898,
+    0.80858,
+    34.92898
+],
+  "geometry": {"coordinates":[0.80858,34.92898],"type":"Point"}
+}

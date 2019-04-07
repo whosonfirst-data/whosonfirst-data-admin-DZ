@@ -1,0 +1,64 @@
+{
+  "id": 1326663689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.60926,36.60293,2.60926,36.60293",
+    "geom:latitude":36.60293,
+    "geom:longitude":2.60926,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Berard",
+    "gn:country_code":"DZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504244,
+    "gn:latitude":36.60293,
+    "gn:longitude":2.60926,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"B\u00e9rard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504244
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"276121b3a49b1f9a366c61d030766b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326663689,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326663689,
+    "wof:lastmodified":1536794817,
+    "wof:name":"Berard",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.60926,
+    36.60293,
+    2.60926,
+    36.60293
+],
+  "geometry": {"coordinates":[2.60926,36.60293],"type":"Point"}
+}

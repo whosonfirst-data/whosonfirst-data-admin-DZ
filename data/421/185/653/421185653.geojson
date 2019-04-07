@@ -1,0 +1,148 @@
+{
+  "id": 421185653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.7693,35.74381,-0.7693,35.74381",
+    "geom:latitude":35.74381,
+    "geom:longitude":-0.7693,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062a\u0631\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Ayn \u018fl T\u00fcrk"
+    ],
+    "name:cat_x_preferred":[
+        "Ain El Turk"
+    ],
+    "name:ceb_x_preferred":[
+        "'A\u00efn el Turk"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:glg_x_preferred":[
+        "Ain El Turk"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u062a\u0631\u06a9"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u044d\u043b\u044c-\u0422\u0435\u0440\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ain El Turk"
+    ],
+    "name:swe_x_preferred":[
+        "'A\u00efn el Turk"
+    ],
+    "name:tur_x_preferred":[
+        "Ayn el T\u00fcrk"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efn-et-Turk"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "A\u00efn El Turk"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508119,
+    "qs:gn_pop":45323,
+    "qs:name":"Ain Turk",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1036063,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":56123361,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508119,
+        "gp:id":56123361,
+        "qs:id":1036063,
+        "wd:id":"Q740498",
+        "wk:page":"A\u00efn El Turk"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009450,
+    "wof:geomhash":"7bdd4d46aad737818388238c41da10e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421185653,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":421185653,
+    "wof:lastmodified":1553816375,
+    "wof:name":"Ain Turk",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:population":45323,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.7693,
+    35.74381,
+    -0.7693,
+    35.74381
+],
+  "geometry": {"coordinates":[-0.7693,35.74381],"type":"Point"}
+}

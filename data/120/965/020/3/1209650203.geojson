@@ -1,0 +1,61 @@
+{
+  "id": 1209650203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34447,36.8853,7.34447,36.8853",
+    "geom:latitude":36.8853,
+    "geom:longitude":7.34447,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Mechtat el Asnab",
+    "gn:country_code":"DZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489128,
+    "gn:latitude":36.8853,
+    "gn:longitude":7.34447,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat el Asnab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489128
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fd6898a2a7387d52459b76a33b3cc90c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209650203
+        }
+    ],
+    "wof:id":1209650203,
+    "wof:lastmodified":1536280605,
+    "wof:name":"Mechtat el Asnab",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3444699999999985,
+    36.8853,
+    7.3444699999999985,
+    36.8853
+],
+  "geometry": {"coordinates":[7.34447,36.8853],"type":"Point"}
+}

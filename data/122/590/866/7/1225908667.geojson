@@ -1,0 +1,66 @@
+{
+  "id": 1225908667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.07348,36.30964,4.07348,36.30964",
+    "geom:latitude":36.30964,
+    "geom:longitude":4.07348,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bechloul",
+    "gn:country_code":"DZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505514,
+    "gn:latitude":36.30964,
+    "gn:longitude":4.07348,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bechloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505514,
+        "wk:page":"Bechloul"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c75b105ee846b552cc2f830c284c8707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225908667,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1225908667,
+    "wof:lastmodified":1537504304,
+    "wof:name":"Bechloul",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.07348,
+    36.30964,
+    4.07348,
+    36.30964
+],
+  "geometry": {"coordinates":[4.07348,36.30964],"type":"Point"}
+}

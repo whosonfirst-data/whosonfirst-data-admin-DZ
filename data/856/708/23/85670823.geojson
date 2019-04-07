@@ -1,0 +1,360 @@
+{
+  "id": 85670823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.454634,
+    "geom:area_square_m":4531948484.869579,
+    "geom:bbox":"3.28303510868,35.8611188827,4.40446536628,36.6957966169",
+    "geom:latitude":36.27712,
+    "geom:longitude":3.849002,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Bouira Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.208051,
+    "lbl:longitude":3.857482,
+    "mps:latitude":36.208051,
+    "mps:longitude":3.857482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0648\u064a\u0631\u0629",
+        "\u0627\u0644\u0628\u0648\u064a\u0631\u0629"
+    ],
+    "name:baq_x_preferred":[
+        "Bou\u00efra probintzia"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0443\u0456\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u0987\u09b0\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0438\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Bouira"
+    ],
+    "name:ceb_x_preferred":[
+        "Bou\u00efra"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u7ef4\u62c9\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Bou\u00efra Province"
+    ],
+    "name:dut_x_preferred":[
+        "Bouira"
+    ],
+    "name:eng_x_preferred":[
+        "Bouira"
+    ],
+    "name:eng_x_variant":[
+        "Bouira Province",
+        "Bou\u00efra Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Buira"
+    ],
+    "name:fin_x_preferred":[
+        "Bou\u00efran provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Bouira"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Bouira"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Bouira"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Bouira"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03af\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0a88\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0909\u0907\u0930\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Bouira"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Bouira"
+    ],
+    "name:ita_x_preferred":[
+        "Bouira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30a4\u30e9"
+    ],
+    "name:kab_x_preferred":[
+        "Tubiret"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccb\u0caf\u0cbf\u0caf\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc774\ub77c"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Buira"
+    ],
+    "name:lav_x_preferred":[
+        "B\u016b\u012bras vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Buiros vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0939\u0940\u0930\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Bouira Province"
+    ],
+    "name:msa_x_preferred":[
+        "Bouira"
+    ],
+    "name:nan_x_preferred":[
+        "Bou\u00efra S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Bouira"
+    ],
+    "name:nob_x_preferred":[
+        "Bouira"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u06cc\u0631\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0631\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Al-Buwajra"
+    ],
+    "name:por_x_preferred":[
+        "Bouira"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Bouira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0438\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dde\u0d89\u0dbb\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Bou\u00efra eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Bouira"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0458\u0440\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Bouira"
+    ],
+    "name:swe_x_preferred":[
+        "Bouira"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0baf\u0bcd\u0bb0\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c2f\u0c3f\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0443\u0432\u0438\u0440\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Bou\u00efra"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e38\u0e22\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Buira Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0457\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Bouira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0628\u0648\u06cc\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Bouira"
+    ],
+    "name:war_x_preferred":[
+        "Bou\u00efra"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2210",
+    "ne:adm1_code":"DZA-2210",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.BU",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2210",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG21",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.21",
+    "ne:gn_id":"2502951",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Bouira",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG21",
+    "ne:gns_id":"-462911",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Bouira",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"36.18840000000",
+    "ne:longitude":"3.84375000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Bouira",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0648\u064a\u0631\u0629",
+    "ne:note":"",
+    "ne:postal":"BU",
+    "ne:provnum_ne":"45",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344593,
+    "ne:woe_label":"Bouira, DZ, Algeria",
+    "ne:woe_name":"Bouira",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Bouira",
+    "qs:a1_lc":"DZA-2210",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"4,517",
+    "statoids:area_mi":"1,744",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Bouira",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG21",
+    "statoids:hasc":"DZ.BU",
+    "statoids:iso":"10",
+    "statoids:name":"Bouira",
+    "statoids:population":"695583",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-10",
+    "wd:latitude":36.378333,
+    "wd:longitude":3.8925,
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG21",
+        "gn:id":2502951,
+        "gp:id":2344593,
+        "hasc:id":"DZ.BU",
+        "iso:id":"DZ-10",
+        "qs:id":1134883,
+        "unlc:id":"DZ-10",
+        "wd:id":"Q233655"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9863b9175e427d81f1b118c0708b5907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":85670823,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550367,
+    "wof:name":"Bouira",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":695583,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"BU",
+    "wof:subdivision":"DZ-10",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28303510868335,
+    35.8611188827303,
+    4.40446536628366,
+    36.6957966169204
+],
+  "geometry": {"coordinates":[[[3.65122968889909,36.59732717510911],[3.66611250199043,36.5974563672176],[3.73365359943409,36.60761078510967],[3.76186893110633,36.56779409382244],[3.79230634905883,36.54676178582781],[3.81850630002577,36.53247325283837],[3.85142418757624,36.50629914029315],[3.88878624768722,36.48852244735309],[3.93612186033562,36.474414781517],[4.1862874690915,36.46624990500914],[4.20210045727032,36.46935049133214],[4.23408816883398,36.48064179078608],[4.24881595229442,36.48002167406105],[4.29119062664614,36.4702031520539],[4.30932905389278,36.47004812332227],[4.35108361241885,36.4780062933558],[4.37092736200822,36.47265778323015],[4.38038414880947,36.45622467742697],[4.40089969196725,36.43570913336987],[4.40446536628366,36.4259422882061],[4.40322513193434,36.41772573485486],[4.39981448724882,36.41080109269632],[4.39671390092582,36.40082754195754],[4.39562869620744,36.38863190403919],[4.39872928163106,36.37369741500373],[4.39640384256336,36.36612681679918],[4.39061608196664,36.3610883650361],[4.37805870884239,36.35617910448212],[4.36550133571814,36.34894440396113],[4.35635460817866,36.34044363156841],[4.30653852683162,36.2894131542937],[4.25951297434432,36.22902924210587],[4.23703372642541,36.2081778021639],[4.1906282888645,36.17650014896276],[4.17636559429678,36.160738836728],[4.16716718901461,36.14368561509912],[4.15553999187716,36.10751211249402],[4.14468794109564,36.08766836200533],[4.13058027525955,36.072785548914],[4.10014285640773,36.05164988903118],[4.09363162629859,36.04606883400953],[4.08432986822891,36.02909312584711],[4.04583092565673,35.94705678983905],[4.03993981317188,35.90922964083529],[4.04211022260876,35.89525116620842],[4.04180016424624,35.87972239797034],[4.03513390540547,35.8708082144276],[4.02226647301939,35.86685496738289],[4.0055233088537,35.8711957871559],[3.96779951263744,35.88773224484726],[3.95415693479475,35.89075531680447],[3.94092776900141,35.88974762645188],[3.92542483918504,35.88406321954199],[3.89209353958523,35.86628652570266],[3.8726632020452,35.8611188827303],[3.85080407085121,35.86197154435132],[3.83121870278097,35.86897369997632],[3.81649092021985,35.87956736923877],[3.80532881017649,35.89021271444528],[3.79556196501272,35.8978608261163],[3.78408979660685,35.90333852835045],[3.77148074663921,35.90739512818266],[3.75985355040109,35.91227855121423],[3.73985477118077,35.92783315697466],[3.73551394960913,35.92997772888913],[3.70647179473758,35.93227733043449],[3.62844038261761,35.92279470521152],[3.57893435963302,35.99935333898549],[3.56436160580353,36.05097809546277],[3.56172610837325,36.07940013271002],[3.5623462259976,36.10575511330791],[3.57397342313504,36.19319163718438],[3.5731982758798,36.22122610080396],[3.5693225441002,36.24024302809335],[3.55376793833972,36.28062816016154],[3.55175255673515,36.29830150031404],[3.55221764472856,36.30827505105282],[3.55692019970752,36.3141661653363],[3.57598880384029,36.32868724232242],[3.58312015067446,36.33866079396051],[3.58094974123759,36.34915110953614],[3.56374148907849,36.37447256135965],[3.56095096201733,36.39204254782538],[3.56048587402393,36.41204132704564],[3.55552493662657,36.42294505556993],[3.54555138498847,36.42873281526727],[3.53314904059579,36.43098073996924],[3.50896447123341,36.43880971879355],[3.50012780115713,36.43896474932376],[3.49077436714339,36.43689769087581],[3.45821821479882,36.42555471457848],[3.44860639836662,36.4193535428318],[3.4342920260562,36.4057884793549],[3.42266482891876,36.40785553600426],[3.40514651929647,36.41806163253835],[3.38153038891636,36.44335724504089],[3.3626168153138,36.45880849891313],[3.3418428888383,36.46958303532887],[3.28303510868335,36.49017609285244],[3.2937321307333,36.5141539584385],[3.30473921114572,36.53363597282191],[3.31202558761083,36.54239512853241],[3.3217924327746,36.55037913698766],[3.33548668836005,36.55608938231921],[3.44318037297586,36.57257416406645],[3.45635786282514,36.57683747037299],[3.46736494323761,36.5831678333289],[3.47604658368294,36.59143606172495],[3.49263471821774,36.61228750346555],[3.49873253717692,36.61724843996359],[3.51004967595185,36.62316539176948],[3.51035973521368,36.63156281227401],[3.50818932487749,36.6425698917871],[3.47744184676384,36.68856191729867],[3.53795495016089,36.67693471926196],[3.56839236811334,36.67879507123558],[3.60699466257364,36.69243764907827],[3.62316938595842,36.6957966169204],[3.63572675908273,36.69440135294013],[3.64735395711949,36.6918175323533],[3.66678429465952,36.68458283093292],[3.67500084801077,36.68011281995075],[3.67965172704561,36.67414419220074],[3.68073693176405,36.66680613889224],[3.67670617035356,36.65771108729689],[3.6490592785629,36.6270411244484],[3.64161787336622,36.61621491118927],[3.63836225831164,36.60742991795638],[3.64192793082941,36.60040192301039],[3.65122968889909,36.59732717510911]]],"type":"Polygon"}
+}

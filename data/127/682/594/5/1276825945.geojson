@@ -1,0 +1,65 @@
+{
+  "id": 1276825945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51028,35.47917,0.51028,35.47917",
+    "geom:latitude":35.47917,
+    "geom:longitude":0.51028,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dar Adda Ouled Mohammed Ben Tahar",
+    "gn:country_code":"DZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2580915,
+    "gn:latitude":35.47917,
+    "gn:longitude":0.51028,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Dar Adda Ouled Mohammed Ben Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580915
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bbff0f2377fefca848b67ff99065c2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276825945,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1276825945,
+    "wof:lastmodified":1536613618,
+    "wof:name":"Dar Adda Ouled Mohammed Ben Tahar",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51028,
+    35.47917,
+    0.51028,
+    35.47917
+],
+  "geometry": {"coordinates":[0.51028,35.47917],"type":"Point"}
+}

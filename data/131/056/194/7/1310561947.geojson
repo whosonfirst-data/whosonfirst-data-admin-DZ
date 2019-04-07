@@ -1,0 +1,65 @@
+{
+  "id": 1310561947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35748,35.06596,-0.35748,35.06596",
+    "geom:latitude":35.06596,
+    "geom:longitude":-0.35748,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Alexandre Dumas",
+    "gn:country_code":"DZ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507486,
+    "gn:latitude":35.06596,
+    "gn:longitude":-0.35748,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Alexandre Dumas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507486
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"746b7ded441095db610d3d63349e4ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310561947,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1310561947,
+    "wof:lastmodified":1536834644,
+    "wof:name":"Alexandre Dumas",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35748,
+    35.06596,
+    -0.35748,
+    35.06596
+],
+  "geometry": {"coordinates":[-0.35748,35.06596],"type":"Point"}
+}

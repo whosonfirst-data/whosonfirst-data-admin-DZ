@@ -1,0 +1,65 @@
+{
+  "id": 1242634265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.30028,35.485,0.30028,35.485",
+    "geom:latitude":35.485,
+    "geom:longitude":0.30028,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Beni Krerassane",
+    "gn:country_code":"DZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2579595,
+    "gn:latitude":35.485,
+    "gn:longitude":0.30028,
+    "gn:modification_date":"1997-03-19",
+    "gn:name":"Douar Beni Krerassane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579595
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2aec9b7c387666d0e1277b34665b87a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242634265,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1242634265,
+    "wof:lastmodified":1536981658,
+    "wof:name":"Douar Beni Krerassane",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.30028,
+    35.485,
+    0.30028,
+    35.485
+],
+  "geometry": {"coordinates":[0.30028,35.485],"type":"Point"}
+}

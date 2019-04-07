@@ -1,0 +1,65 @@
+{
+  "id": 1276157213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48686,33.92223,1.48686,33.92223",
+    "geom:latitude":33.92223,
+    "geom:longitude":1.48686,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Mkam Sidi en Nasser",
+    "gn:country_code":"DZ",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2480471,
+    "gn:latitude":33.92223,
+    "gn:longitude":1.48686,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mkam Sidi en Nasser",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480471
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f4f6fd6682c877a9319e68b39e87ddab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276157213,
+            "region_id":85670741
+        }
+    ],
+    "wof:id":1276157213,
+    "wof:lastmodified":1537014085,
+    "wof:name":"Mkam Sidi en Nasser",
+    "wof:parent_id":85670741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48686,
+    33.92223,
+    1.48686,
+    33.92223
+],
+  "geometry": {"coordinates":[1.48686,33.92223],"type":"Point"}
+}

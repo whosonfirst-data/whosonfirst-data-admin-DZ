@@ -1,0 +1,66 @@
+{
+  "id": 1209046719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.14776,35.58116,-1.14776,35.58116",
+    "geom:latitude":35.58116,
+    "geom:longitude":-1.14776,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Bou Zadjar",
+    "gn:country_code":"DZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502183,
+    "gn:latitude":35.58116,
+    "gn:longitude":-1.14776,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou Zadjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plage de Bou-Zadjar",
+        "Plage de Bou-Zadjer",
+        "Bou Zadjar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502183
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f483360d7ebb2d909506823fa31e4357",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209046719
+        }
+    ],
+    "wof:id":1209046719,
+    "wof:lastmodified":1537620231,
+    "wof:name":"Bou Zadjar",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.14776,
+    35.58116,
+    -1.14776,
+    35.58116
+],
+  "geometry": {"coordinates":[-1.14776,35.58116],"type":"Point"}
+}

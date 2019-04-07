@@ -1,0 +1,66 @@
+{
+  "id": 1243038859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.33505,36.58907,4.33505,36.58907",
+    "geom:latitude":36.58907,
+    "geom:longitude":4.33505,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ait Yahia",
+    "gn:country_code":"DZ",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":9858858,
+    "gn:latitude":36.58907,
+    "gn:longitude":4.33505,
+    "gn:modification_date":"2014-11-25",
+    "gn:name":"Ait Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9858858,
+        "wk:page":"A%C3%AFt_Yahia"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"114d8e4974e98b1722b7e4d926a33572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243038859,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1243038859,
+    "wof:lastmodified":1537504314,
+    "wof:name":"Ait Yahia",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.33505,
+    36.58907,
+    4.33505,
+    36.58907
+],
+  "geometry": {"coordinates":[4.33505,36.58907],"type":"Point"}
+}

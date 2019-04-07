@@ -1,0 +1,65 @@
+{
+  "id": 1343571323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33333,36.45,3.33333,36.45",
+    "geom:latitude":36.45,
+    "geom:longitude":3.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nahmine Tahta",
+    "gn:country_code":"DZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486430,
+    "gn:latitude":36.45,
+    "gn:longitude":3.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nahmine Tahta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486430
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"11431be8f553cf3b7e141d61201e2e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343571323,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1343571323,
+    "wof:lastmodified":1537080562,
+    "wof:name":"Nahmine Tahta",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33333,
+    36.45,
+    3.33333,
+    36.45
+],
+  "geometry": {"coordinates":[3.33333,36.45],"type":"Point"}
+}

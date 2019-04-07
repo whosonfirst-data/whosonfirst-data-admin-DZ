@@ -1,0 +1,65 @@
+{
+  "id": 1327488365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.52315,35.16178,0.52315,35.16178",
+    "geom:latitude":35.16178,
+    "geom:longitude":0.52315,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar el Harayzia",
+    "gn:country_code":"DZ",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468893,
+    "gn:latitude":35.16178,
+    "gn:longitude":0.52315,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Harayzia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468893
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1a6b94e089c3303e387f0e92d8ffc311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327488365,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1327488365,
+    "wof:lastmodified":1537094598,
+    "wof:name":"Douar el Harayzia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.52315,
+    35.16178,
+    0.52315,
+    35.16178
+],
+  "geometry": {"coordinates":[0.52315,35.16178],"type":"Point"}
+}

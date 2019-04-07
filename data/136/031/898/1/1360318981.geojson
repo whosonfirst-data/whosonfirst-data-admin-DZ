@@ -1,0 +1,65 @@
+{
+  "id": 1360318981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80306,35.58311,0.80306,35.58311",
+    "geom:latitude":35.58311,
+    "geom:longitude":0.80306,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled Ben Aadda",
+    "gn:country_code":"DZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7417301,
+    "gn:latitude":35.58311,
+    "gn:longitude":0.80306,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Ben A\u00e2dda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417301
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"63b0fbc36cb92c1f7dad8759d33b9c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360318981,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1360318981,
+    "wof:lastmodified":1536605261,
+    "wof:name":"Douar Ouled Ben Aadda",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80306,
+    35.58311,
+    0.80306,
+    35.58311
+],
+  "geometry": {"coordinates":[0.80306,35.58311],"type":"Point"}
+}

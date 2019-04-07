@@ -1,0 +1,70 @@
+{
+  "id": 1310238679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93306,23.82364,5.93306,23.82364",
+    "geom:latitude":23.82364,
+    "geom:longitude":5.93306,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ideles",
+    "gn:country_code":"DZ",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493692,
+    "gn:latitude":23.82364,
+    "gn:longitude":5.93306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Idel\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arrem Ideles",
+        "Idel\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493692,
+        "wk:page":"Idl%C3%A8s"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d043a6768785407a883de338100bde7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310238679,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1310238679,
+    "wof:lastmodified":1537620183,
+    "wof:name":"Ideles",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93306,
+    23.82364,
+    5.93306,
+    23.82364
+],
+  "geometry": {"coordinates":[5.93306,23.82364],"type":"Point"}
+}

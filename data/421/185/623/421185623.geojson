@@ -1,0 +1,131 @@
+{
+  "id": 421185623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6453,35.67384,5.6453,35.67384",
+    "geom:latitude":35.67384,
+    "geom:longitude":5.6453,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00e2s el A\u00efoun"
+    ],
+    "name:dut_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:eng_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:fra_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:fre_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:ita_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:kab_x_preferred":[
+        "Ixf n Talawin"
+    ],
+    "name:may_x_preferred":[
+        "Ras Ei Aioun"
+    ],
+    "name:msa_x_preferred":[
+        "Ras Ei Aioun"
+    ],
+    "name:por_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:ron_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:rum_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00e2s el A\u00efoun"
+    ],
+    "name:unk_x_variant":[
+        "Rass el A\u00efoun"
+    ],
+    "name:vie_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ras El Aioun"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2483968,
+    "qs:gn_pop":34167,
+    "qs:name":"Ras el Aioun",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u062a\u0646\u0629",
+    "qs:photos":97,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":97,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1035953,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257094,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483968,
+        "gp:id":1257094,
+        "qs:id":1035953,
+        "wd:id":"Q982735",
+        "wk:page":"Ras El Aioun"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009449,
+    "wof:geomhash":"d3392a90e418446da420fb53114f56ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421185623,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":421185623,
+    "wof:lastmodified":1527726509,
+    "wof:name":"Ras el Aioun",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:population":34167,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6453,
+    35.67384,
+    5.6453,
+    35.67384
+],
+  "geometry": {"coordinates":[5.6453,35.67384],"type":"Point"}
+}

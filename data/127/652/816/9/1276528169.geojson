@@ -1,0 +1,70 @@
+{
+  "id": 1276528169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.44306,36.14781,5.44306,36.14781",
+    "geom:latitude":36.14781,
+    "geom:longitude":5.44306,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"'Ain Trick",
+    "gn:country_code":"DZ",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507872,
+    "gn:latitude":36.14781,
+    "gn:longitude":5.44306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Trick",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Trick",
+        "A\u00efn Trik",
+        "\u2019A\u00efn Trick"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507872
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a24e6be765c7bd0423b7014f761d97cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276528169,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1276528169,
+    "wof:lastmodified":1537620252,
+    "wof:name":"'Ain Trick",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.44306,
+    36.14781,
+    5.44306,
+    36.14781
+],
+  "geometry": {"coordinates":[5.44306,36.14781],"type":"Point"}
+}

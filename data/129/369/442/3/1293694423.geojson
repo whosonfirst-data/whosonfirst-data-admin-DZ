@@ -1,0 +1,65 @@
+{
+  "id": 1293694423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.28456,35.30419,6.28456,35.30419",
+    "geom:latitude":35.30419,
+    "geom:longitude":6.28456,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oulad Azouz",
+    "gn:country_code":"DZ",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485356,
+    "gn:latitude":35.30419,
+    "gn:longitude":6.28456,
+    "gn:modification_date":"1996-01-31",
+    "gn:name":"Oulad Azouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485356
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"58e0d18b7938d240aedc467b8d723a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293694423,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1293694423,
+    "wof:lastmodified":1536985144,
+    "wof:name":"Oulad Azouz",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28456,
+    35.30419000000001,
+    6.28456,
+    35.30419000000001
+],
+  "geometry": {"coordinates":[6.28456,35.30419000000001],"type":"Point"}
+}

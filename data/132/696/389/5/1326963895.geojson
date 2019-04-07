@@ -1,0 +1,70 @@
+{
+  "id": 1326963895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34555,26.37817,5.34555,26.37817",
+    "geom:latitude":26.37817,
+    "geom:longitude":5.34555,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Amguid",
+    "gn:country_code":"DZ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507189,
+    "gn:latitude":26.37817,
+    "gn:longitude":5.34555,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Amguid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj Amguid",
+        "Bordi Amguid",
+        "Amguid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507189
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bfea45fa8e6a1c4ce7d1de2c3ec5069c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326963895,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1326963895,
+    "wof:lastmodified":1537620250,
+    "wof:name":"Amguid",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34555,
+    26.37817,
+    5.34555,
+    26.37817
+],
+  "geometry": {"coordinates":[5.34555,26.37817],"type":"Point"}
+}

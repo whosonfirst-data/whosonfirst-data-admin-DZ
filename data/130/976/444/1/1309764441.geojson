@@ -1,0 +1,70 @@
+{
+  "id": 1309764441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5137,36.24323,7.5137,36.24323",
+    "geom:latitude":36.24323,
+    "geom:longitude":7.5137,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mechta 'Ain Sandel",
+    "gn:country_code":"DZ",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489791,
+    "gn:latitude":36.24323,
+    "gn:longitude":7.5137,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta \u2019A\u00efn Sandel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta \u2019A\u00efn Sanndel",
+        "Mechta \u2019A\u00efn Sandel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489791,
+        "wk:page":"A%C3%AFn_Sandel"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ff0db914292a670abf2924726c40dad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309764441,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1309764441,
+    "wof:lastmodified":1537620170,
+    "wof:name":"Mechta 'Ain Sandel",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5137,
+    36.24323,
+    7.5137,
+    36.24323
+],
+  "geometry": {"coordinates":[7.5137,36.24323],"type":"Point"}
+}

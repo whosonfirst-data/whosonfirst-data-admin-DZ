@@ -1,0 +1,65 @@
+{
+  "id": 1243009873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42455,36.01073,1.42455,36.01073",
+    "geom:latitude":36.01073,
+    "geom:longitude":1.42455,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Rehamnia",
+    "gn:country_code":"DZ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572885,
+    "gn:latitude":36.01073,
+    "gn:longitude":1.42455,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Ouled Rehamnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572885
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0e867b17e2f86f7d18bf6f5f82807323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243009873,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1243009873,
+    "wof:lastmodified":1536938651,
+    "wof:name":"Ouled Rehamnia",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42455,
+    36.01073,
+    1.42455,
+    36.01073
+],
+  "geometry": {"coordinates":[1.42455,36.01073],"type":"Point"}
+}

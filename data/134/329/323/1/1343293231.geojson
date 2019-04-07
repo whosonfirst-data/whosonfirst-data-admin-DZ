@@ -1,0 +1,65 @@
+{
+  "id": 1343293231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72773,36.45946,1.72773,36.45946",
+    "geom:latitude":36.45946,
+    "geom:longitude":1.72773,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Daddaini",
+    "gn:country_code":"DZ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573268,
+    "gn:latitude":36.45946,
+    "gn:longitude":1.72773,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Dadda\u00efni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573268
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b4fb1af128d8ba0f26c7b92a804d01b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343293231,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1343293231,
+    "wof:lastmodified":1536986867,
+    "wof:name":"Daddaini",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72773,
+    36.45946,
+    1.72773,
+    36.45946
+],
+  "geometry": {"coordinates":[1.72773,36.45946],"type":"Point"}
+}

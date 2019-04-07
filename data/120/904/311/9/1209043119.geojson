@@ -1,0 +1,61 @@
+{
+  "id": 1209043119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01639,33.54167,6.01639,33.54167",
+    "geom:latitude":33.54167,
+    "geom:longitude":6.01639,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tiguedidine",
+    "gn:country_code":"DZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476686,
+    "gn:latitude":33.54167,
+    "gn:longitude":6.01639,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tiguedidine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476686
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"14baefac22f9b64879ad40281f659adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209043119
+        }
+    ],
+    "wof:id":1209043119,
+    "wof:lastmodified":1536299481,
+    "wof:name":"Tiguedidine",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01639,
+    33.54167,
+    6.01639,
+    33.54167
+],
+  "geometry": {"coordinates":[6.01639,33.54167],"type":"Point"}
+}

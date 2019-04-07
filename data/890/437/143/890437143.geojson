@@ -1,0 +1,104 @@
+{
+  "id": 890437143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25538,36.19591,1.25538,36.19591",
+    "geom:latitude":36.19591,
+    "geom:longitude":1.25538,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":167955,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0637\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Chettia"
+    ],
+    "name:eng_x_preferred":[
+        "Chettia"
+    ],
+    "name:fre_x_preferred":[
+        "Chettia"
+    ],
+    "name:ita_x_preferred":[
+        "Chettia"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160etija"
+    ],
+    "name:may_x_preferred":[
+        "Chettia"
+    ],
+    "name:por_x_preferred":[
+        "Chettia"
+    ],
+    "name:rum_x_preferred":[
+        "Chettia"
+    ],
+    "name:swe_x_preferred":[
+        "Ech Chettia"
+    ],
+    "name:unk_x_variant":[
+        "Ech Ch\u00e9tia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0637\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Chettia"
+    ],
+    "qs:name":"Ech Chettia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498954,
+        "gp:id":1254330,
+        "qs:id":1036010,
+        "wd:id":"Q2962891"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052140,
+    "wof:geomhash":"3ce8d0562cb5bffeddd287403f45c355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890437143,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":890437143,
+    "wof:lastmodified":1513956037,
+    "wof:name":"Ech Chettia",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:population":167955,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25538,
+    36.19591,
+    1.25538,
+    36.19591
+],
+  "geometry": {"coordinates":[1.25538,36.19591],"type":"Point"}
+}

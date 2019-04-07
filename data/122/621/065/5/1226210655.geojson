@@ -1,0 +1,70 @@
+{
+  "id": 1226210655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99254,36.72375,5.99254,36.72375",
+    "geom:latitude":36.72375,
+    "geom:longitude":5.99254,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mechta Abriri",
+    "gn:country_code":"DZ",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489826,
+    "gn:latitude":36.72375,
+    "gn:longitude":5.99254,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Abr\u00eer\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Briri",
+        "Mechta Briri",
+        "Mechta Abr\u00eer\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489826
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b4bc099b5efa66041a8f9da0235ea303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226210655,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1226210655,
+    "wof:lastmodified":1537620171,
+    "wof:name":"Mechta Abriri",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99254,
+    36.72375,
+    5.99254,
+    36.72375
+],
+  "geometry": {"coordinates":[5.99254,36.72375],"type":"Point"}
+}

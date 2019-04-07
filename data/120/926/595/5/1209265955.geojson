@@ -1,0 +1,65 @@
+{
+  "id": 1209265955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.23195,31.56306,-2.23195,31.56306",
+    "geom:latitude":31.56306,
+    "geom:longitude":-2.23195,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Bechar-Djedid",
+    "gn:country_code":"DZ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505524,
+    "gn:latitude":31.56306,
+    "gn:longitude":-2.23195,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u00e9char-Djedid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nouveau-Bechar",
+        "B\u00e9char-Djedid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505524
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"50f1b4406604ab8977ca9a380dc135e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209265955
+        }
+    ],
+    "wof:id":1209265955,
+    "wof:lastmodified":1537620247,
+    "wof:name":"Bechar-Djedid",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.23195,
+    31.56306,
+    -2.23195,
+    31.56306
+],
+  "geometry": {"coordinates":[-2.23195,31.56306],"type":"Point"}
+}

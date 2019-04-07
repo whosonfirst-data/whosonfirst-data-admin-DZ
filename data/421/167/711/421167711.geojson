@@ -1,0 +1,128 @@
+{
+  "id": 421167711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19176,36.67176,4.19176,36.67176",
+    "geom:latitude":36.67176,
+    "geom:longitude":4.19176,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0632\u064a \u0631\u0627\u0634\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:dut_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:eng_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:fra_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:fre_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:ita_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:kab_x_preferred":[
+        "Tizi Raced"
+    ],
+    "name:may_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:msa_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u06cc\u0632\u06cc \u0631\u0627\u0634\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:ron_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:rum_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:swe_x_preferred":[
+        "Tizi Rached"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tizi Rached"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2475740,
+    "qs:gn_pop":17872,
+    "qs:name":"Tizi Rached",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u062a\u064a\u0632\u064a \u0648\u0632\u0648",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":140148,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257879,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475740,
+        "gp:id":1257879,
+        "qs:id":140148,
+        "wd:id":"Q3529993",
+        "wk:page":"Tizi Rached"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008741,
+    "wof:geomhash":"32329ddb0101bda9218aa3bb60c3f4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421167711,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":421167711,
+    "wof:lastmodified":1527716163,
+    "wof:name":"Tizi Rached",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:population":17872,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.19176,
+    36.67176,
+    4.19176,
+    36.67176
+],
+  "geometry": {"coordinates":[4.19176,36.67176],"type":"Point"}
+}

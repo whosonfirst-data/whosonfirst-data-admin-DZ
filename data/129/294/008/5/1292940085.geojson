@@ -1,0 +1,70 @@
+{
+  "id": 1292940085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7638,36.65901,6.7638,36.65901",
+    "geom:latitude":36.65901,
+    "geom:longitude":6.7638,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Mechtet Ch'ab Ben Hadid",
+    "gn:country_code":"DZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488921,
+    "gn:latitude":36.65901,
+    "gn:longitude":6.7638,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtet Ch\u2019\u00e2b Ben Had\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Ben Addid",
+        "Mechtat Ben Addid",
+        "Mechtet Ch\u2019\u00e2b Ben Had\u00eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488921
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4166c6b70debe114814dab84c39b5e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292940085,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1292940085,
+    "wof:lastmodified":1537620145,
+    "wof:name":"Mechtet Ch'ab Ben Hadid",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7638,
+    36.65901,
+    6.7638,
+    36.65901
+],
+  "geometry": {"coordinates":[6.7638,36.65901],"type":"Point"}
+}

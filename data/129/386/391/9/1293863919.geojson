@@ -1,0 +1,65 @@
+{
+  "id": 1293863919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76915,36.45286,5.76915,36.45286",
+    "geom:latitude":36.45286,
+    "geom:longitude":5.76915,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechtat el Louza",
+    "gn:country_code":"DZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489065,
+    "gn:latitude":36.45286,
+    "gn:longitude":5.76915,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat el Louza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489065
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"36930c8a4830e5932e9f20329cf0aa64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293863919,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1293863919,
+    "wof:lastmodified":1536741384,
+    "wof:name":"Mechtat el Louza",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76915,
+    36.45286,
+    5.76915,
+    36.45286
+],
+  "geometry": {"coordinates":[5.76915,36.45286],"type":"Point"}
+}

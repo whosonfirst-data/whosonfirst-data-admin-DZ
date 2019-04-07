@@ -1,0 +1,69 @@
+{
+  "id": 1226193027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30304,35.79952,7.30304,35.79952",
+    "geom:latitude":35.79952,
+    "geom:longitude":7.30304,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Ras el Hassi",
+    "gn:country_code":"DZ",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489295,
+    "gn:latitude":35.79952,
+    "gn:longitude":7.30304,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta R\u00e2s el Hassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Rass el Hassi",
+        "Mechta R\u00e2s el Hassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489295
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"110d9e944eb2376684a97bbcd523664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226193027,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1226193027,
+    "wof:lastmodified":1537620155,
+    "wof:name":"Mechta Ras el Hassi",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30304,
+    35.79952,
+    7.30304,
+    35.79952
+],
+  "geometry": {"coordinates":[7.30304,35.79952],"type":"Point"}
+}

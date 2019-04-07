@@ -1,0 +1,61 @@
+{
+  "id": 1209449279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.33964,36.5165,1.33964,36.5165",
+    "geom:latitude":36.5165,
+    "geom:longitude":1.33964,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Mahiedine",
+    "gn:country_code":"DZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572391,
+    "gn:latitude":36.5165,
+    "gn:longitude":1.33964,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Ouled Mahiedine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572391
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"26d1f9f292a58d89e6c5c6ecb5b04d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209449279
+        }
+    ],
+    "wof:id":1209449279,
+    "wof:lastmodified":1536286721,
+    "wof:name":"Ouled Mahiedine",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.33964,
+    36.5165,
+    1.33964,
+    36.5165
+],
+  "geometry": {"coordinates":[1.33964,36.5165],"type":"Point"}
+}

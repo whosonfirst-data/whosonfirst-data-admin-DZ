@@ -1,0 +1,65 @@
+{
+  "id": 1193269857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.32257,35.77215,0.32257,35.77215",
+    "geom:latitude":35.77215,
+    "geom:longitude":0.32257,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar es Soualmia",
+    "gn:country_code":"DZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7411239,
+    "gn:latitude":35.77215,
+    "gn:longitude":0.32257,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar es Soualmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7411239
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1a43afd66b6c281992022ca7a04db702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193269857,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1193269857,
+    "wof:lastmodified":1536371878,
+    "wof:name":"Douar es Soualmia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.32257,
+    35.77215,
+    0.32257,
+    35.77215
+],
+  "geometry": {"coordinates":[0.32257,35.77215],"type":"Point"}
+}

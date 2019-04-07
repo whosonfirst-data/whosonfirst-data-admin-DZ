@@ -1,0 +1,65 @@
+{
+  "id": 1209749701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8686,36.4784,1.8686,36.4784",
+    "geom:latitude":36.4784,
+    "geom:longitude":1.8686,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bouhriz",
+    "gn:country_code":"DZ",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7514414,
+    "gn:latitude":36.4784,
+    "gn:longitude":1.8686,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bouhriz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7514414
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"285067e6c141251102ce5ef4fac949c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209749701,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1209749701,
+    "wof:lastmodified":1536393348,
+    "wof:name":"Bouhriz",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8686,
+    36.4784,
+    1.8686,
+    36.4784
+],
+  "geometry": {"coordinates":[1.8686,36.4784],"type":"Point"}
+}

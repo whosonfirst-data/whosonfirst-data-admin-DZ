@@ -1,0 +1,65 @@
+{
+  "id": 1276427333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.7086,35.10713,0.7086,35.10713",
+    "geom:latitude":35.10713,
+    "geom:longitude":0.7086,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cite el Guercha",
+    "gn:country_code":"DZ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468803,
+    "gn:latitude":35.10713,
+    "gn:longitude":0.7086,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Cit\u00e9 el Guercha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468803
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ad435e68064a849fc0b45bee5be71650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276427333,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1276427333,
+    "wof:lastmodified":1536652612,
+    "wof:name":"Cite el Guercha",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.7086,
+    35.10713,
+    0.7086,
+    35.10713
+],
+  "geometry": {"coordinates":[0.7086,35.10713],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310684029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85889,35.06811,-1.85889,35.06811",
+    "geom:latitude":35.06811,
+    "geom:longitude":-1.85889,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tebouchkourt",
+    "gn:country_code":"DZ",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477447,
+    "gn:latitude":35.06811,
+    "gn:longitude":-1.85889,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tebouchkourt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477447
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b9910d85708ae3406ac355698aba73aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310684029,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1310684029,
+    "wof:lastmodified":1536659455,
+    "wof:name":"Tebouchkourt",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85889,
+    35.06811,
+    -1.85889,
+    35.06811
+],
+  "geometry": {"coordinates":[-1.85889,35.06811],"type":"Point"}
+}

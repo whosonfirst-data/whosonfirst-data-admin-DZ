@@ -1,0 +1,67 @@
+{
+  "id": 1209248355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48484,36.05288,1.48484,36.05288",
+    "geom:latitude":36.05288,
+    "geom:longitude":1.48484,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Sidi Yahia",
+    "gn:country_code":"DZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485117,
+    "gn:latitude":36.05288,
+    "gn:longitude":1.48484,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Sidi Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Oulad Sidi Yaya",
+        "Ouled Sidi Yaya",
+        "Oulad Sidi Yaya",
+        "Ouled Sidi Yahia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485117
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1f02a7a4ad9e7b2ac30d77a4619550fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209248355
+        }
+    ],
+    "wof:id":1209248355,
+    "wof:lastmodified":1537620127,
+    "wof:name":"Ouled Sidi Yahia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48484,
+    36.05288,
+    1.48484,
+    36.05288
+],
+  "geometry": {"coordinates":[1.48484,36.05288],"type":"Point"}
+}

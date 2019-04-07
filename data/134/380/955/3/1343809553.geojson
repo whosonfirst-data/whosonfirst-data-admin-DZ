@@ -1,0 +1,65 @@
+{
+  "id": 1343809553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.22464,31.92404,-2.22464,31.92404",
+    "geom:latitude":31.92404,
+    "geom:longitude":-2.22464,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Souissifa",
+    "gn:country_code":"DZ",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479220,
+    "gn:latitude":31.92404,
+    "gn:longitude":-2.22464,
+    "gn:modification_date":"1994-06-10",
+    "gn:name":"Souissifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479220
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"74210bde0493a91d694310a572e9b14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343809553,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1343809553,
+    "wof:lastmodified":1536740064,
+    "wof:name":"Souissifa",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.22464,
+    31.92404,
+    -2.22464,
+    31.92404
+],
+  "geometry": {"coordinates":[-2.22464,31.92404],"type":"Point"}
+}

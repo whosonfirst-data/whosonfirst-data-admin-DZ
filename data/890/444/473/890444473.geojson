@@ -1,0 +1,104 @@
+{
+  "id": 890444473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.52168,35.65903,-0.52168,35.65903",
+    "geom:latitude":35.65903,
+    "geom:longitude":-0.52168,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":35512,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0644\u0634\u062d\u0645\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:may_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0634\u062d\u0645\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u0428\u0430\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Chami"
+    ],
+    "name:unk_x_variant":[
+        "Sidi Chamy"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Chahmi"
+    ],
+    "qs:name":"Sidi ech Chahmi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480618,
+        "gp:id":56558415,
+        "qs:id":1035931,
+        "wd:id":"Q2621177"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052470,
+    "wof:geomhash":"14a0cce2ce835a7861f063562345cd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890444473,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":890444473,
+    "wof:lastmodified":1513956086,
+    "wof:name":"Sidi ech Chahmi",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:population":35512,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.52168,
+    35.65903,
+    -0.52168,
+    35.65903
+],
+  "geometry": {"coordinates":[-0.52168,35.65903],"type":"Point"}
+}

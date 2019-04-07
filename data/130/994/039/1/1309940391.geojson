@@ -1,0 +1,70 @@
+{
+  "id": 1309940391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9728,32.94305,5.9728,32.94305",
+    "geom:latitude":32.94305,
+    "geom:longitude":5.9728,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Blidet Amor",
+    "gn:country_code":"DZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503763,
+    "gn:latitude":32.94305,
+    "gn:longitude":5.9728,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Blidet Amor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bled et Amor",
+        "Blidet Amor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503763,
+        "wk:page":"Balidat_Ameur"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f606926cc45a70209ef121f980992942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309940391,
+            "region_id":85670759
+        }
+    ],
+    "wof:id":1309940391,
+    "wof:lastmodified":1537620240,
+    "wof:name":"Blidet Amor",
+    "wof:parent_id":85670759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9728,
+    32.94305,
+    5.9728,
+    32.94305
+],
+  "geometry": {"coordinates":[5.9728,32.94305],"type":"Point"}
+}

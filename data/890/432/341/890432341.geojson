@@ -1,0 +1,106 @@
+{
+  "id": 890432341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69528,35.92472,6.69528,35.92472",
+    "geom:latitude":35.92472,
+    "geom:longitude":6.69528,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":32497,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0643\u0631\u0634\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:kab_x_preferred":[
+        "Tikercet"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u06a9\u0631\u0634\u0647"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn Kercha"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Kercha"
+    ],
+    "qs:name":"A\u00efn Kercha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508059,
+        "gp:id":1257019,
+        "qs:id":278742,
+        "wd:id":"Q593739",
+        "wk:page":"A\u00efn Kercha"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051937,
+    "wof:geomhash":"9f411fbf518c5ef40b463fe97961376d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890432341,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":890432341,
+    "wof:lastmodified":1527793037,
+    "wof:name":"A\u00efn Kercha",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:population":32497,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69528,
+    35.92472,
+    6.69528,
+    35.92472
+],
+  "geometry": {"coordinates":[6.69528,35.92472],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209812987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.02038,35.86095,3.02038,35.86095",
+    "geom:latitude":35.86095,
+    "geom:longitude":3.02038,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Abid",
+    "gn:country_code":"DZ",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485423,
+    "gn:latitude":35.86095,
+    "gn:longitude":3.02038,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Abid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485423
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8c1af710aed5a5c0c098bb89cce77ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209812987,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1209812987,
+    "wof:lastmodified":1536385591,
+    "wof:name":"Oulad Abid",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.02038,
+    35.86095,
+    3.02038,
+    35.86095
+],
+  "geometry": {"coordinates":[3.02038,35.86095],"type":"Point"}
+}

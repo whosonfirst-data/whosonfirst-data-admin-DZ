@@ -1,0 +1,61 @@
+{
+  "id": 1209251119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.34944,36.62028,8.34944,36.62028",
+    "geom:latitude":36.62028,
+    "geom:longitude":8.34944,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Mechtat el Guitna",
+    "gn:country_code":"DZ",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585455,
+    "gn:latitude":36.62028,
+    "gn:longitude":8.34944,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechtat el Guitna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585455
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"488c1851ed3558530649940bb74f5ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209251119
+        }
+    ],
+    "wof:id":1209251119,
+    "wof:lastmodified":1536293001,
+    "wof:name":"Mechtat el Guitna",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.34944,
+    36.62028,
+    8.34944,
+    36.62028
+],
+  "geometry": {"coordinates":[8.34944,36.62028],"type":"Point"}
+}

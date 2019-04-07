@@ -1,0 +1,69 @@
+{
+  "id": 1326685793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77904,36.63431,5.77904,36.63431",
+    "geom:latitude":36.63431,
+    "geom:longitude":5.77904,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Rekkada",
+    "gn:country_code":"DZ",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483678,
+    "gn:latitude":36.63431,
+    "gn:longitude":5.77904,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rekkada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Rekkada",
+        "Rekkada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483678
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"00c52b8e3f35601ab8c531da2b474050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326685793,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1326685793,
+    "wof:lastmodified":1537620118,
+    "wof:name":"Rekkada",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77904,
+    36.63431,
+    5.77904,
+    36.63431
+],
+  "geometry": {"coordinates":[5.77904,36.63431],"type":"Point"}
+}

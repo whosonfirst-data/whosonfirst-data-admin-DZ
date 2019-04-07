@@ -1,0 +1,65 @@
+{
+  "id": 1343332599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37972,36.58461,4.37972,36.58461",
+    "geom:latitude":36.58461,
+    "geom:longitude":4.37972,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Irhil Igoulmimene",
+    "gn:country_code":"DZ",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493105,
+    "gn:latitude":36.58461,
+    "gn:longitude":4.37972,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Irhil Igoulmimene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493105
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"026ed3189b6d9dbbc58fb5e430b7934f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343332599,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1343332599,
+    "wof:lastmodified":1536931652,
+    "wof:name":"Irhil Igoulmimene",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37972,
+    36.58461,
+    4.37972,
+    36.58461
+],
+  "geometry": {"coordinates":[4.37972,36.58461],"type":"Point"}
+}

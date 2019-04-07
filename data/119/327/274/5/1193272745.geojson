@@ -1,0 +1,65 @@
+{
+  "id": 1193272745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.17013,35.65695,0.17013,35.65695",
+    "geom:latitude":35.65695,
+    "geom:longitude":0.17013,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouled Bouriahi",
+    "gn:country_code":"DZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577758,
+    "gn:latitude":35.65695,
+    "gn:longitude":0.17013,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Bouriahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577758
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7fa8b4ee912ad2ad7b02c800d05cd503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193272745,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1193272745,
+    "wof:lastmodified":1536368744,
+    "wof:name":"Ouled Bouriahi",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.17013,
+    35.65695,
+    0.17013,
+    35.65695
+],
+  "geometry": {"coordinates":[0.17013,35.65695],"type":"Point"}
+}

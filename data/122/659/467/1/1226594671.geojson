@@ -1,0 +1,72 @@
+{
+  "id": 1226594671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39556,35.89583,6.39556,35.89583",
+    "geom:latitude":35.89583,
+    "geom:longitude":6.39556,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bir Chouhada",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503889,
+    "gn:latitude":35.89583,
+    "gn:longitude":6.39556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bir Chouhada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Levasseur",
+        "Azlet el Be\u00eflek",
+        "Bir Chouhada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503889,
+        "wk:page":"Bir_Chouhada"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"30fe33e5c28d75c324ee03d38141358e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226594671,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1226594671,
+    "wof:lastmodified":1537620241,
+    "wof:name":"Bir Chouhada",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39556,
+    35.89583,
+    6.39556,
+    35.89583
+],
+  "geometry": {"coordinates":[6.39556,35.89583],"type":"Point"}
+}

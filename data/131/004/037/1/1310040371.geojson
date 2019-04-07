@@ -1,0 +1,65 @@
+{
+  "id": 1310040371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.15531,36.55343,2.15531,36.55343",
+    "geom:latitude":36.55343,
+    "geom:longitude":2.15531,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bel Lezhar",
+    "gn:country_code":"DZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505094,
+    "gn:latitude":36.55343,
+    "gn:longitude":2.15531,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bel Lezhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505094
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c52aaac94183dac866d28e7fcc5cfb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310040371,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1310040371,
+    "wof:lastmodified":1537087203,
+    "wof:name":"Bel Lezhar",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.15531,
+    36.55343,
+    2.15531,
+    36.55343
+],
+  "geometry": {"coordinates":[2.15531,36.55343],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293187937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18038,36.50027,5.18038,36.50027",
+    "geom:latitude":36.50027,
+    "geom:longitude":5.18038,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Takleat",
+    "gn:country_code":"DZ",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478423,
+    "gn:latitude":36.50027,
+    "gn:longitude":5.18038,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Takleat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478423
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"52c11ff1bb72e8a4172bc6b048a98860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293187937,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1293187937,
+    "wof:lastmodified":1536722311,
+    "wof:name":"Takleat",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18038,
+    36.50027,
+    5.18038,
+    36.50027
+],
+  "geometry": {"coordinates":[5.18038,36.50027],"type":"Point"}
+}

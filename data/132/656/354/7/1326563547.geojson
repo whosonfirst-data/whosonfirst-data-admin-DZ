@@ -1,0 +1,65 @@
+{
+  "id": 1326563547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92609,33.28993,6.92609,33.28993",
+    "geom:latitude":33.28993,
+    "geom:longitude":6.92609,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Nezlet Chaamba",
+    "gn:country_code":"DZ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486184,
+    "gn:latitude":33.28993,
+    "gn:longitude":6.92609,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Nezlet Cha\u00e2mba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486184
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"69043f9edefeb9d7b3992e5200049a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326563547,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1326563547,
+    "wof:lastmodified":1536939617,
+    "wof:name":"Nezlet Chaamba",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92609,
+    33.28993,
+    6.92609,
+    33.28993
+],
+  "geometry": {"coordinates":[6.92609,33.28993],"type":"Point"}
+}

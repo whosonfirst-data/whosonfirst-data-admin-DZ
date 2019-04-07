@@ -1,0 +1,65 @@
+{
+  "id": 1226519511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64895,35.82901,5.64895,35.82901",
+    "geom:latitude":35.82901,
+    "geom:longitude":5.64895,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ouled Sellem",
+    "gn:country_code":"DZ",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484800,
+    "gn:latitude":35.82901,
+    "gn:longitude":5.64895,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Ouled Sellem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484800
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"558c3871d245b69d65f5d53acb73fc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226519511,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1226519511,
+    "wof:lastmodified":1537034428,
+    "wof:name":"Ouled Sellem",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64895,
+    35.82901,
+    5.64895,
+    35.82901
+],
+  "geometry": {"coordinates":[5.64895,35.82901],"type":"Point"}
+}

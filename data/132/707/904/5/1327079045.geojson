@@ -1,0 +1,65 @@
+{
+  "id": 1327079045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.89864,36.22694,1.89864,36.22694",
+    "geom:latitude":36.22694,
+    "geom:longitude":1.89864,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Houachmia",
+    "gn:country_code":"DZ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7496987,
+    "gn:latitude":36.22694,
+    "gn:longitude":1.89864,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Houachmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7496987
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"da920ed4e294442560bb5749d0664f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327079045,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1327079045,
+    "wof:lastmodified":1536693478,
+    "wof:name":"Houachmia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.89864,
+    36.22694,
+    1.89864,
+    36.22694
+],
+  "geometry": {"coordinates":[1.89864,36.22694],"type":"Point"}
+}

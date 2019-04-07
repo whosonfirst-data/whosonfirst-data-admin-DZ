@@ -1,0 +1,65 @@
+{
+  "id": 1326583587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.30419,27.62734,-0.30419,27.62734",
+    "geom:latitude":27.62734,
+    "geom:longitude":-0.30419,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ben Henni",
+    "gn:country_code":"DZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504760,
+    "gn:latitude":27.62734,
+    "gn:longitude":-0.30419,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ben Henni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504760
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"53a7e37a9f51a558ff5c10d9e9e23046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326583587,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1326583587,
+    "wof:lastmodified":1536910448,
+    "wof:name":"Ben Henni",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.30419,
+    27.62734,
+    -0.30419,
+    27.62734
+],
+  "geometry": {"coordinates":[-0.30419,27.62734],"type":"Point"}
+}

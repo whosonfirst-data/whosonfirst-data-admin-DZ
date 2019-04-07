@@ -1,0 +1,65 @@
+{
+  "id": 1260342515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26457,27.43622,-0.26457,27.43622",
+    "geom:latitude":27.43622,
+    "geom:longitude":-0.26457,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tahmat",
+    "gn:country_code":"DZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478541,
+    "gn:latitude":27.43622,
+    "gn:longitude":-0.26457,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tahmat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478541
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"349c69867b1dc72759ad1fa062e6ba24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260342515,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1260342515,
+    "wof:lastmodified":1536631557,
+    "wof:name":"Tahmat",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26457,
+    27.43622,
+    -0.26457,
+    27.43622
+],
+  "geometry": {"coordinates":[-0.26457,27.43622],"type":"Point"}
+}

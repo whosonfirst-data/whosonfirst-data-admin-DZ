@@ -1,0 +1,65 @@
+{
+  "id": 1276944139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98624,35.71702,4.98624,35.71702",
+    "geom:latitude":35.71702,
+    "geom:longitude":4.98624,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Menaifa",
+    "gn:country_code":"DZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488179,
+    "gn:latitude":35.71702,
+    "gn:longitude":4.98624,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mena\u00effa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488179
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bc5e4171ec86cbf753a90581255798dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276944139,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1276944139,
+    "wof:lastmodified":1536955333,
+    "wof:name":"Menaifa",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98624,
+    35.71702,
+    4.98624,
+    35.71702
+],
+  "geometry": {"coordinates":[4.98624,35.71702],"type":"Point"}
+}

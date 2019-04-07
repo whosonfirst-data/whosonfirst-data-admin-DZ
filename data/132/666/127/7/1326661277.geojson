@@ -1,0 +1,65 @@
+{
+  "id": 1326661277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.70257,35.81443,0.70257,35.81443",
+    "geom:latitude":35.81443,
+    "geom:longitude":0.70257,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Mechtat Beni Cheikh",
+    "gn:country_code":"DZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580060,
+    "gn:latitude":35.81443,
+    "gn:longitude":0.70257,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Mechtat Beni Che\u00efkh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580060
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b10b1660669d837c61e86842a1f36efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326661277,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1326661277,
+    "wof:lastmodified":1536798145,
+    "wof:name":"Mechtat Beni Cheikh",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.70257,
+    35.81443,
+    0.70257,
+    35.81443
+],
+  "geometry": {"coordinates":[0.70257,35.81443],"type":"Point"}
+}

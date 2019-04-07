@@ -1,0 +1,64 @@
+{
+  "id": 1209445741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48171,35.66856,0.48171,35.66856",
+    "geom:latitude":35.66856,
+    "geom:longitude":0.48171,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Tnafir",
+    "gn:country_code":"DZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578154,
+    "gn:latitude":35.66856,
+    "gn:longitude":0.48171,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tnafir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Tnaffi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578154
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"43206a3cb2f254fa5e8bd21220797e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209445741
+        }
+    ],
+    "wof:id":1209445741,
+    "wof:lastmodified":1537620265,
+    "wof:name":"Tnafir",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48171,
+    35.66856,
+    0.48171,
+    35.66856
+],
+  "geometry": {"coordinates":[0.48171,35.66856],"type":"Point"}
+}

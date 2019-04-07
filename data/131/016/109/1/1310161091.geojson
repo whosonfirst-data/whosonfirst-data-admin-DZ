@@ -1,0 +1,70 @@
+{
+  "id": 1310161091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.34026,33.84985,2.34026,33.84985",
+    "geom:latitude":33.84985,
+    "geom:longitude":2.34026,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kourdane",
+    "gn:country_code":"DZ",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491454,
+    "gn:latitude":33.84985,
+    "gn:longitude":2.34026,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kourdane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Sidi Ahmed Tedjini",
+        "Sidi Ahmed Tedjini",
+        "Kourdane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491454
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f5331624221c6e28929ecc1713cf99c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310161091,
+            "region_id":85670753
+        }
+    ],
+    "wof:id":1310161091,
+    "wof:lastmodified":1537620177,
+    "wof:name":"Kourdane",
+    "wof:parent_id":85670753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.34026,
+    33.84985,
+    2.34026,
+    33.84985
+],
+  "geometry": {"coordinates":[2.34026,33.84985],"type":"Point"}
+}

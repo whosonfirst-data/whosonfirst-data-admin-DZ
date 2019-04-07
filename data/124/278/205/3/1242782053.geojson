@@ -1,0 +1,76 @@
+{
+  "id": 1242782053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23753,36.79802,3.23753,36.79802",
+    "geom:latitude":36.79802,
+    "geom:longitude":3.23753,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tamentfoust",
+    "gn:country_code":"DZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478141,
+    "gn:latitude":36.79802,
+    "gn:longitude":3.23753,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Tamentfoust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_historical":[
+        "La P\u00e9rouse"
+    ],
+    "name:fra_x_preferred":[
+        "La P\u00e9rouse"
+    ],
+    "name:und_x_variant":[
+        "Tamenfoust",
+        "Tamentfoust"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478141,
+        "wk:page":"Tamentfoust"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6345f4448fb9f35a78091bdf7d358e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242782053,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1242782053,
+    "wof:lastmodified":1537620104,
+    "wof:name":"Tamentfoust",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23753,
+    36.79802,
+    3.23753,
+    36.79802
+],
+  "geometry": {"coordinates":[3.23753,36.79802],"type":"Point"}
+}

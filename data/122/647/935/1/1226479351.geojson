@@ -1,0 +1,65 @@
+{
+  "id": 1226479351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39646,35.66316,1.39646,35.66316",
+    "geom:latitude":35.66316,
+    "geom:longitude":1.39646,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Chehama",
+    "gn:country_code":"DZ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501605,
+    "gn:latitude":35.66316,
+    "gn:longitude":1.39646,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Chehama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501605
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4a07518b9287687e2b51f80dd16efea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226479351,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1226479351,
+    "wof:lastmodified":1537090361,
+    "wof:name":"Chehama",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39646,
+    35.66316,
+    1.39646,
+    35.66316
+],
+  "geometry": {"coordinates":[1.39646,35.66316],"type":"Point"}
+}

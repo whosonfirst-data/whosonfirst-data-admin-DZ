@@ -1,0 +1,65 @@
+{
+  "id": 1276972297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92449,35.82297,2.92449,35.82297",
+    "geom:latitude":35.82297,
+    "geom:longitude":2.92449,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Mennif",
+    "gn:country_code":"DZ",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485210,
+    "gn:latitude":35.82297,
+    "gn:longitude":2.92449,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Mennif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485210
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c55c3ebcbe30d1e3adf4559187205391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276972297,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1276972297,
+    "wof:lastmodified":1536917977,
+    "wof:name":"Oulad Mennif",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92449,
+    35.82297,
+    2.92449,
+    35.82297
+],
+  "geometry": {"coordinates":[2.92449,35.82297],"type":"Point"}
+}

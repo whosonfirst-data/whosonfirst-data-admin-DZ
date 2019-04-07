@@ -1,0 +1,69 @@
+{
+  "id": 1259347699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.87992,36.4004,2.87992,36.4004",
+    "geom:latitude":36.4004,
+    "geom:longitude":2.87992,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Guergour",
+    "gn:country_code":"DZ",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2495485,
+    "gn:latitude":36.4004,
+    "gn:longitude":2.87992,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guergo\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gourgour",
+        "Guergo\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2495485
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"deed1c65b35a892d1d26298e5fa14214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259347699,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":1259347699,
+    "wof:lastmodified":1537620189,
+    "wof:name":"Guergour",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.87992,
+    36.4004,
+    2.87992,
+    36.4004
+],
+  "geometry": {"coordinates":[2.87992,36.4004],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343904629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8188,34.49791,-0.8188,34.49791",
+    "geom:latitude":34.49791,
+    "geom:longitude":-0.8188,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ras el Ma",
+    "gn:country_code":"DZ",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483952,
+    "gn:latitude":34.49791,
+    "gn:longitude":-0.8188,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e2s el Ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedeau",
+        "R\u00e2s el Ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483952,
+        "wk:page":"Ras_El_Ma%2C_Sid_Bel_Abb%C3%A9s"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3feaeccbd4179fac83e40a20f293d669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343904629,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1343904629,
+    "wof:lastmodified":1537620119,
+    "wof:name":"Ras el Ma",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8188,
+    34.49791,
+    -0.8188,
+    34.49791
+],
+  "geometry": {"coordinates":[-0.8188,34.49791],"type":"Point"}
+}

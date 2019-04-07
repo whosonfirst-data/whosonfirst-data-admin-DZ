@@ -1,0 +1,68 @@
+{
+  "id": 1276610545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.88882,35.38518,0.88882,35.38518",
+    "geom:latitude":35.38518,
+    "geom:longitude":0.88882,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ouled Kacem",
+    "gn:country_code":"DZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579194,
+    "gn:latitude":35.38518,
+    "gn:longitude":0.88882,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Ouled Kacem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Kassem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579194
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aafce587385e1cde8b796e89b3e43c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276610545,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1276610545,
+    "wof:lastmodified":1537620266,
+    "wof:name":"Douar Ouled Kacem",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.88882,
+    35.38518,
+    0.88882,
+    35.38518
+],
+  "geometry": {"coordinates":[0.88882,35.38518],"type":"Point"}
+}

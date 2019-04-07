@@ -1,0 +1,70 @@
+{
+  "id": 1276690465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68333,36.1,0.68333,36.1",
+    "geom:latitude":36.1,
+    "geom:longitude":0.68333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Takhemaret",
+    "gn:country_code":"DZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478440,
+    "gn:latitude":36.1,
+    "gn:longitude":0.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Takhemaret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dominique-Luciani",
+        "A\u00efn-El-Khadra",
+        "Takhemaret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478440
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d9f284c5134b11ef891c78eac0417e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276690465,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1276690465,
+    "wof:lastmodified":1537620105,
+    "wof:name":"Takhemaret",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68333,
+    36.1,
+    0.68333,
+    36.1
+],
+  "geometry": {"coordinates":[0.68333,36.1],"type":"Point"}
+}

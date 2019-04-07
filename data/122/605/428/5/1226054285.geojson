@@ -1,0 +1,66 @@
+{
+  "id": 1226054285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.54961,35.40506,6.54961,35.40506",
+    "geom:latitude":35.40506,
+    "geom:longitude":6.54961,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Foum Toub",
+    "gn:country_code":"DZ",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496291,
+    "gn:latitude":35.40506,
+    "gn:longitude":6.54961,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Foum Toub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496291,
+        "wk:page":"Foum_Toub"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e12428c62b1560cbbf9f3b81504a6c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226054285,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1226054285,
+    "wof:lastmodified":1537504291,
+    "wof:name":"Foum Toub",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.54961,
+    35.40506,
+    6.54961,
+    35.40506
+],
+  "geometry": {"coordinates":[6.54961,35.40506],"type":"Point"}
+}

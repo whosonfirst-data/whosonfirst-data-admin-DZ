@@ -1,0 +1,72 @@
+{
+  "id": 1293518237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.12285,36.58327,2.12285,36.58327",
+    "geom:latitude":36.58327,
+    "geom:longitude":2.12285,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sidi Ghiles",
+    "gn:country_code":"DZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480447,
+    "gn:latitude":36.58327,
+    "gn:longitude":2.12285,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Sidi Ghiles",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_historical":[
+        "Novi"
+    ],
+    "name:fra_x_preferred":[
+        "Novi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480447,
+        "wk:page":"Sidi_Ghiles"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"de504c97ff6c75d4b9c536a5f3d6458e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293518237,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1293518237,
+    "wof:lastmodified":1537620111,
+    "wof:name":"Sidi Ghiles",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.12285,
+    36.58327,
+    2.12285,
+    36.58327
+],
+  "geometry": {"coordinates":[2.12285,36.58327],"type":"Point"}
+}

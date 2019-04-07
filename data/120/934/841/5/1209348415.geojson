@@ -1,0 +1,65 @@
+{
+  "id": 1209348415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.45233,36.9469,6.45233,36.9469",
+    "geom:latitude":36.9469,
+    "geom:longitude":6.45233,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ed Douar",
+    "gn:country_code":"DZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498896,
+    "gn:latitude":36.9469,
+    "gn:longitude":6.45233,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ed Douar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Douar",
+        "Ed Douar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498896
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a92d475d1f41f1f02cd17049e503ec85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209348415
+        }
+    ],
+    "wof:id":1209348415,
+    "wof:lastmodified":1537620205,
+    "wof:name":"Ed Douar",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.45233,
+    36.9469,
+    6.45233,
+    36.9469
+],
+  "geometry": {"coordinates":[6.45233,36.9469],"type":"Point"}
+}

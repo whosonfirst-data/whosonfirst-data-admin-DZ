@@ -1,0 +1,65 @@
+{
+  "id": 1277113723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07167,35.92111,6.07167,35.92111",
+    "geom:latitude":35.92111,
+    "geom:longitude":6.07167,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mechta Chouf",
+    "gn:country_code":"DZ",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489627,
+    "gn:latitude":35.92111,
+    "gn:longitude":6.07167,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Mechta Chouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489627
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c6635eb307140b68e8b677dd6a2b9c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277113723,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1277113723,
+    "wof:lastmodified":1536723240,
+    "wof:name":"Mechta Chouf",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07167,
+    35.92111,
+    6.07167,
+    35.92111
+],
+  "geometry": {"coordinates":[6.07167,35.92111],"type":"Point"}
+}

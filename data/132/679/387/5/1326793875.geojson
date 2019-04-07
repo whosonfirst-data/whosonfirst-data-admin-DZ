@@ -1,0 +1,65 @@
+{
+  "id": 1326793875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.89888,36.82548,4.89888,36.82548",
+    "geom:latitude":36.82548,
+    "geom:longitude":4.89888,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Isbikene",
+    "gn:country_code":"DZ",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493046,
+    "gn:latitude":36.82548,
+    "gn:longitude":4.89888,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Isbikene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493046
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"347bc768255a6e0e6a9342f75f654dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326793875,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1326793875,
+    "wof:lastmodified":1536603932,
+    "wof:name":"Isbikene",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.89888,
+    36.82548,
+    4.89888,
+    36.82548
+],
+  "geometry": {"coordinates":[4.89888,36.82548],"type":"Point"}
+}

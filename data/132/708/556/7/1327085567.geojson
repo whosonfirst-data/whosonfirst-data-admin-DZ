@@ -1,0 +1,65 @@
+{
+  "id": 1327085567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.89469,36.77816,3.89469,36.77816",
+    "geom:latitude":36.77816,
+    "geom:longitude":3.89469,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Dar Beida",
+    "gn:country_code":"DZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500920,
+    "gn:latitude":36.77816,
+    "gn:longitude":3.89469,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Dar Be\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500920
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9d4e69bf5d34aee3ce37daf73a684803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327085567,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1327085567,
+    "wof:lastmodified":1536683881,
+    "wof:name":"Dar Beida",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.89469,
+    36.77816,
+    3.89469,
+    36.77816
+],
+  "geometry": {"coordinates":[3.89469,36.77816],"type":"Point"}
+}

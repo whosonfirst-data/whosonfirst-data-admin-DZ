@@ -1,0 +1,65 @@
+{
+  "id": 1276541711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41867,35.73947,2.41867,35.73947",
+    "geom:latitude":35.73947,
+    "geom:longitude":2.41867,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ech Chaib",
+    "gn:country_code":"DZ",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428885,
+    "gn:latitude":35.73947,
+    "gn:longitude":2.41867,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ech Chaib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428885
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"67abe81a819831c8b9f467bc3021812c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276541711,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1276541711,
+    "wof:lastmodified":1536995988,
+    "wof:name":"Ech Chaib",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41867,
+    35.73947000000001,
+    2.41867,
+    35.73947000000001
+],
+  "geometry": {"coordinates":[2.41867,35.73947000000001],"type":"Point"}
+}

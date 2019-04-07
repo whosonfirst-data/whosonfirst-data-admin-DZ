@@ -1,0 +1,67 @@
+{
+  "id": 1209546737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35433,36.25695,1.35433,36.25695",
+    "geom:latitude":36.25695,
+    "geom:longitude":1.35433,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Medjadja",
+    "gn:country_code":"DZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497679,
+    "gn:latitude":36.25695,
+    "gn:longitude":1.35433,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Medjadja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village des Medjada",
+        "Medinet Medjadja",
+        "El Md\u00eena",
+        "Medjadja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497679
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8eb62cff90cd21cfb3f600e097fd77a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209546737
+        }
+    ],
+    "wof:id":1209546737,
+    "wof:lastmodified":1537620196,
+    "wof:name":"Medjadja",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35433,
+    36.25695,
+    1.35433,
+    36.25695
+],
+  "geometry": {"coordinates":[1.35433,36.25695],"type":"Point"}
+}

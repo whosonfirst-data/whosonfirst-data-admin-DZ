@@ -1,0 +1,72 @@
+{
+  "id": 1293193315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.90429,36.00129,2.90429,36.00129",
+    "geom:latitude":36.00129,
+    "geom:longitude":2.90429,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seghouane",
+    "gn:country_code":"DZ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475670,
+    "gn:latitude":36.00129,
+    "gn:longitude":2.90429,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Seghouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arthur",
+        "Tlelat ed Doua\u00efr",
+        "Tletat ed Doua\u00efr",
+        "Seghouane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475670,
+        "wk:page":"Seghouane"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"074316eebd88c1001d16b3496c34bf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293193315,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293193315,
+    "wof:lastmodified":1537620093,
+    "wof:name":"Seghouane",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.90429,
+    36.00129000000001,
+    2.90429,
+    36.00129000000001
+],
+  "geometry": {"coordinates":[2.90429,36.00129000000001],"type":"Point"}
+}

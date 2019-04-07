@@ -1,0 +1,61 @@
+{
+  "id": 1209265747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.69361,36.83389,3.69361,36.83389",
+    "geom:latitude":36.83389,
+    "geom:longitude":3.69361,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ouled Ghnim",
+    "gn:country_code":"DZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573666,
+    "gn:latitude":36.83389,
+    "gn:longitude":3.69361,
+    "gn:modification_date":"1997-03-04",
+    "gn:name":"Ouled Ghnim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573666
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"87d6a0ce4063329e49290e23f80b29f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209265747
+        }
+    ],
+    "wof:id":1209265747,
+    "wof:lastmodified":1536292538,
+    "wof:name":"Ouled Ghnim",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.69361,
+    36.83389,
+    3.69361,
+    36.83389
+],
+  "geometry": {"coordinates":[3.69361,36.83389],"type":"Point"}
+}

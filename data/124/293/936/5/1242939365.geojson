@@ -1,0 +1,65 @@
+{
+  "id": 1242939365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.66926,36.26086,4.66926,36.26086",
+    "geom:latitude":36.26086,
+    "geom:longitude":4.66926,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tazalemt",
+    "gn:country_code":"DZ",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477580,
+    "gn:latitude":36.26086,
+    "gn:longitude":4.66926,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tazalemt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477580
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b491fafc7ba59055f2b476d9b25cebc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242939365,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1242939365,
+    "wof:lastmodified":1537038112,
+    "wof:name":"Tazalemt",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66926,
+    36.26086,
+    4.66926,
+    36.26086
+],
+  "geometry": {"coordinates":[4.66926,36.26086],"type":"Point"}
+}

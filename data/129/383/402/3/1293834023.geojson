@@ -1,0 +1,71 @@
+{
+  "id": 1293834023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.83034,35.1028,-0.83034,35.1028",
+    "geom:latitude":35.1028,
+    "geom:longitude":-0.83034,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sidi Ali Boussidi",
+    "gn:country_code":"DZ",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481125,
+    "gn:latitude":35.1028,
+    "gn:longitude":-0.83034,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Ali Boussidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parmentier",
+        "A\u00efne el Hadjar",
+        "Sidi Ali Boussidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481125,
+        "wk:page":"Sidi_Ali_Boussidi"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f9003d2c5ea3d7bca06a8edf024bae4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293834023,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1293834023,
+    "wof:lastmodified":1537620113,
+    "wof:name":"Sidi Ali Boussidi",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.83034,
+    35.1028,
+    -0.83034,
+    35.1028
+],
+  "geometry": {"coordinates":[-0.83034,35.1028],"type":"Point"}
+}

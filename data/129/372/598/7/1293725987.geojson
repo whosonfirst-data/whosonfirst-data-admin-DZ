@@ -1,0 +1,65 @@
+{
+  "id": 1293725987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.13935,36.43576,1.13935,36.43576",
+    "geom:latitude":36.43576,
+    "geom:longitude":1.13935,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ghebal - Telassa",
+    "gn:country_code":"DZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467552,
+    "gn:latitude":36.43576,
+    "gn:longitude":1.13935,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ghebal - Telassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467552
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"90aab1dc3518fedcdf23f84855485fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293725987,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1293725987,
+    "wof:lastmodified":1536941119,
+    "wof:name":"Ghebal - Telassa",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.13935,
+    36.43576,
+    1.13935,
+    36.43576
+],
+  "geometry": {"coordinates":[1.13935,36.43576],"type":"Point"}
+}

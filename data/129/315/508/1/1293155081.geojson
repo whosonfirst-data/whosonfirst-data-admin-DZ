@@ -1,0 +1,69 @@
+{
+  "id": 1293155081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.94284,35.78507,4.94284,35.78507",
+    "geom:latitude":35.78507,
+    "geom:longitude":4.94284,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechta Chorfa",
+    "gn:country_code":"DZ",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489629,
+    "gn:latitude":35.78507,
+    "gn:longitude":4.94284,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Chorfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat ech Cheurfa",
+        "Mechta Chorfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489629
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"db965955885e8040d1db4c3915b3b507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293155081,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1293155081,
+    "wof:lastmodified":1537620166,
+    "wof:name":"Mechta Chorfa",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.94284,
+    35.78507000000001,
+    4.94284,
+    35.78507000000001
+],
+  "geometry": {"coordinates":[4.94284,35.78507000000001],"type":"Point"}
+}

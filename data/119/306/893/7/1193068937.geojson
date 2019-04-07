@@ -1,0 +1,65 @@
+{
+  "id": 1193068937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2491,29.29948,0.2491,29.29948",
+    "geom:latitude":29.29948,
+    "geom:longitude":0.2491,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tadlest",
+    "gn:country_code":"DZ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478832,
+    "gn:latitude":29.29948,
+    "gn:longitude":0.2491,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tadlest",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478832
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ddcc9f89d5ec9b635a298af562ef7e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193068937,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1193068937,
+    "wof:lastmodified":1536369853,
+    "wof:name":"Tadlest",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2491,
+    29.29948,
+    0.2491,
+    29.29948
+],
+  "geometry": {"coordinates":[0.2491,29.29948],"type":"Point"}
+}

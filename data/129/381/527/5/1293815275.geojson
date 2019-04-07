@@ -1,0 +1,66 @@
+{
+  "id": 1293815275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96667,33.4,6.96667,33.4",
+    "geom:latitude":33.4,
+    "geom:longitude":6.96667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Lizerg",
+    "gn:country_code":"DZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490792,
+    "gn:latitude":33.4,
+    "gn:longitude":6.96667,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Lizerg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490792,
+        "wk:page":"Lizerg"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7088c4a4b18c2781316ddb4b9100cb14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293815275,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1293815275,
+    "wof:lastmodified":1537504286,
+    "wof:name":"Lizerg",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96667,
+    33.4,
+    6.96667,
+    33.4
+],
+  "geometry": {"coordinates":[6.96667,33.4],"type":"Point"}
+}

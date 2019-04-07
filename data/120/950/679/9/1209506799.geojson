@@ -1,0 +1,61 @@
+{
+  "id": 1209506799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34873,35.76709,0.34873,35.76709",
+    "geom:latitude":35.76709,
+    "geom:longitude":0.34873,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Redjim en Nessara",
+    "gn:country_code":"DZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7411245,
+    "gn:latitude":35.76709,
+    "gn:longitude":0.34873,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Redjim en Nessara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7411245
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a989ede2e7fd4739490a7e70511aaf13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209506799
+        }
+    ],
+    "wof:id":1209506799,
+    "wof:lastmodified":1536285009,
+    "wof:name":"Redjim en Nessara",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34873000000000004,
+    35.76709,
+    0.34873000000000004,
+    35.76709
+],
+  "geometry": {"coordinates":[0.34873,35.76709],"type":"Point"}
+}

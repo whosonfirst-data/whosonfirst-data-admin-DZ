@@ -1,0 +1,69 @@
+{
+  "id": 1242664655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84351,36.31258,5.84351,36.31258",
+    "geom:latitude":36.31258,
+    "geom:longitude":5.84351,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta Marjet Ben Charia",
+    "gn:country_code":"DZ",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489460,
+    "gn:latitude":36.31258,
+    "gn:longitude":5.84351,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Marjet Ben Charia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Marjet Ben Charia",
+        "Mechta Marjet Ben Charia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489460
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4ede5831c104aeafa5272ff3f3bd9ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242664655,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1242664655,
+    "wof:lastmodified":1537620160,
+    "wof:name":"Mechta Marjet Ben Charia",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84351,
+    36.31258,
+    5.84351,
+    36.31258
+],
+  "geometry": {"coordinates":[5.84351,36.31258],"type":"Point"}
+}

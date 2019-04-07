@@ -1,0 +1,70 @@
+{
+  "id": 1192973325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34736,35.45159,0.34736,35.45159",
+    "geom:latitude":35.45159,
+    "geom:longitude":0.34736,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Tahar",
+    "gn:country_code":"DZ",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499249,
+    "gn:latitude":35.45159,
+    "gn:longitude":0.34736,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ouled Sidi Takar",
+        "Douar Tahar",
+        "Ouled Sidi Takar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499249
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e0dd407b0fc0e0eeb3ca19389449b3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192973325,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1192973325,
+    "wof:lastmodified":1537620208,
+    "wof:name":"Douar Tahar",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34736,
+    35.45159,
+    0.34736,
+    35.45159
+],
+  "geometry": {"coordinates":[0.34736,35.45159],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225847021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56246,34.91877,6.56246,34.91877",
+    "geom:latitude":34.91877,
+    "geom:longitude":6.56246,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"El Baal",
+    "gn:country_code":"DZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498573,
+    "gn:latitude":34.91877,
+    "gn:longitude":6.56246,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"El Baal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498573
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"316db7f12ba632a8c48e8a2ad920087a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225847021,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1225847021,
+    "wof:lastmodified":1537011112,
+    "wof:name":"El Baal",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56246,
+    34.91877,
+    6.56246,
+    34.91877
+],
+  "geometry": {"coordinates":[6.56246,34.91877],"type":"Point"}
+}

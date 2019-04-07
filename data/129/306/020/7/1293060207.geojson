@@ -1,0 +1,65 @@
+{
+  "id": 1293060207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01013,35.96091,4.01013,35.96091",
+    "geom:latitude":35.96091,
+    "geom:longitude":4.01013,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mechta Hadjer es Soufr",
+    "gn:country_code":"DZ",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489544,
+    "gn:latitude":35.96091,
+    "gn:longitude":4.01013,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Hadjer es Soufr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489544
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"59e21aeccf6923b4fa98d96e66cdc33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293060207,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1293060207,
+    "wof:lastmodified":1536906544,
+    "wof:name":"Mechta Hadjer es Soufr",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01013,
+    35.96091,
+    4.01013,
+    35.96091
+],
+  "geometry": {"coordinates":[4.01013,35.96091],"type":"Point"}
+}

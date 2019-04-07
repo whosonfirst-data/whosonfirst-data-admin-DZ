@@ -1,0 +1,65 @@
+{
+  "id": 1293623105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77601,36.4829,1.77601,36.4829",
+    "geom:latitude":36.4829,
+    "geom:longitude":1.77601,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Iril Yer",
+    "gn:country_code":"DZ",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493071,
+    "gn:latitude":36.4829,
+    "gn:longitude":1.77601,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Iril Yer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493071
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5e2c67e18a6e949a177fafc5c3c2c52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293623105,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1293623105,
+    "wof:lastmodified":1537085566,
+    "wof:name":"Iril Yer",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77601,
+    36.4829,
+    1.77601,
+    36.4829
+],
+  "geometry": {"coordinates":[1.77601,36.4829],"type":"Point"}
+}

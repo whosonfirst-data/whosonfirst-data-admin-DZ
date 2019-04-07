@@ -1,0 +1,65 @@
+{
+  "id": 1243490267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.32861,36.39227,1.32861,36.39227",
+    "geom:latitude":36.39227,
+    "geom:longitude":1.32861,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar Cheaala",
+    "gn:country_code":"DZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572574,
+    "gn:latitude":36.39227,
+    "gn:longitude":1.32861,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar Cheaala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572574
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e9347072c6a3c08fc83bce394ad5430e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243490267,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1243490267,
+    "wof:lastmodified":1536742049,
+    "wof:name":"Douar Cheaala",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.32861,
+    36.39227,
+    1.32861,
+    36.39227
+],
+  "geometry": {"coordinates":[1.32861,36.39227],"type":"Point"}
+}

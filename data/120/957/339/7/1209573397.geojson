@@ -1,0 +1,66 @@
+{
+  "id": 1209573397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73855,36.68494,5.73855,36.68494",
+    "geom:latitude":36.68494,
+    "geom:longitude":5.73855,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Rhar 'Amrane",
+    "gn:country_code":"DZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483484,
+    "gn:latitude":36.68494,
+    "gn:longitude":5.73855,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rhar \u2019Amr\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghir Hamrane",
+        "Rhir Hamrane",
+        "Rhar \u2019Amr\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483484
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"de6d4ad9a5f34d88278f7075ea6433d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209573397
+        }
+    ],
+    "wof:id":1209573397,
+    "wof:lastmodified":1537620117,
+    "wof:name":"Rhar 'Amrane",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73855,
+    36.68494000000001,
+    5.73855,
+    36.68494000000001
+],
+  "geometry": {"coordinates":[5.73855,36.68494000000001],"type":"Point"}
+}

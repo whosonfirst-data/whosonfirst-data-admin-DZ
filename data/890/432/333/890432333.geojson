@@ -1,0 +1,70 @@
+{
+  "id": 890432333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91085,36.13516,2.91085,36.13516",
+    "geom:latitude":36.13516,
+    "geom:longitude":2.91085,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":80573,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Berrouarhia"
+    ],
+    "qs:name":"Berrouaghia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504099,
+        "gp:id":1253417,
+        "qs:id":278734,
+        "wd:id":"Q2214965",
+        "wk:page":"Berrouaghia"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051937,
+    "wof:geomhash":"ec42b8f1aa032454146dd2536ec722e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890432333,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":890432333,
+    "wof:lastmodified":1527793040,
+    "wof:name":"Berrouaghia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:population":80573,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91085,
+    36.13516,
+    2.91085,
+    36.13516
+],
+  "geometry": {"coordinates":[2.91085,36.13516],"type":"Point"}
+}

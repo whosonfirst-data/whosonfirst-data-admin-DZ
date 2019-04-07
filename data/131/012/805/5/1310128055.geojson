@@ -1,0 +1,65 @@
+{
+  "id": 1310128055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.30819,36.04789,3.30819,36.04789",
+    "geom:latitude":36.04789,
+    "geom:longitude":3.30819,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Thabet",
+    "gn:country_code":"DZ",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280702,
+    "gn:latitude":36.04789,
+    "gn:longitude":3.30819,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ouled Thabet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280702
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a35044bb514d849043edd1b59af171ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310128055,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1310128055,
+    "wof:lastmodified":1536963843,
+    "wof:name":"Ouled Thabet",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.30819,
+    36.04789,
+    3.30819,
+    36.04789
+],
+  "geometry": {"coordinates":[3.30819,36.04789],"type":"Point"}
+}

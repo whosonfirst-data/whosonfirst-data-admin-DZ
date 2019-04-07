@@ -1,0 +1,68 @@
+{
+  "id": 1309940601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72605,36.00526,1.72605,36.00526",
+    "geom:latitude":36.00526,
+    "geom:longitude":1.72605,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boutouchent",
+    "gn:country_code":"DZ",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502230,
+    "gn:latitude":36.00526,
+    "gn:longitude":1.72605,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boutouchent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Touchennt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502230
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"03fbb4fe55e51ec830e51ee13b5377f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309940601,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1309940601,
+    "wof:lastmodified":1537620231,
+    "wof:name":"Boutouchent",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72605,
+    36.00526,
+    1.72605,
+    36.00526
+],
+  "geometry": {"coordinates":[1.72605,36.00526],"type":"Point"}
+}

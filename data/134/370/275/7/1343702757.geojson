@@ -1,0 +1,66 @@
+{
+  "id": 1343702757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33519,28.70289,0.33519,28.70289",
+    "geom:latitude":28.70289,
+    "geom:longitude":0.33519,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Aougrout",
+    "gn:country_code":"DZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506851,
+    "gn:latitude":28.70289,
+    "gn:longitude":0.33519,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aougrout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506851,
+        "wk:page":"Aougrout"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"80853c3ea5ef10d28e5fd992ad3715b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343702757,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1343702757,
+    "wof:lastmodified":1537504305,
+    "wof:name":"Aougrout",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33519,
+    28.70289,
+    0.33519,
+    28.70289
+],
+  "geometry": {"coordinates":[0.33519,28.70289],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 85859531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7509676.292841,
+    "geom:bbox":"3.042856,36.799183,3.042856,36.799183",
+    "geom:latitude":36.799183,
+    "geom:longitude":3.042856,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "lbl:latitude":36.799183,
+    "lbl:longitude":3.042856,
+    "mps:latitude":36.804346,
+    "mps:longitude":3.041708,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "Bologuine Ibnou Ziri"
+    ],
+    "name:unk_x_variant":[
+        "Bologuine Ibnou Ziri"
+    ],
+    "qs:gn_adm0_cc":"DZ",
+    "qs:gn_id":0,
+    "qs:gn_local":2507480,
+    "qs:gn_nam_loc":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631, DZ, \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:gn_namadm1":"01",
+    "qs:local_max":361,
+    "qs:local_sum":1976,
+    "qs:localhoods":16,
+    "qs:name":"Bologuine Ibnou Ziri",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_local":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photo_max":58,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424740,
+    "qs:woe_adm1":2344579,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1253079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15015584,
+        "qs:id":1251442,
+        "qs_pg:id":1251442
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e4ae32834e03ad60310503bece2215c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":85859531,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85859531,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531870385,
+    "wof:name":"Bologuine Ibnou Ziri",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.042856,
+    36.799183,
+    3.042856,
+    36.799183
+],
+  "geometry": {"coordinates":[3.042856,36.799183],"type":"Point"}
+}

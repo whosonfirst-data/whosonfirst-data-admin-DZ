@@ -1,0 +1,65 @@
+{
+  "id": 1309763059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16068,35.49572,0.16068,35.49572",
+    "geom:latitude":35.49572,
+    "geom:longitude":0.16068,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Chabet Bahlout",
+    "gn:country_code":"DZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392941,
+    "gn:latitude":35.49572,
+    "gn:longitude":0.16068,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Chabet Bahlout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392941
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"046f403c4784fb995504f9ecd2db9048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309763059,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1309763059,
+    "wof:lastmodified":1536992028,
+    "wof:name":"Chabet Bahlout",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16068,
+    35.49572,
+    0.16068,
+    35.49572
+],
+  "geometry": {"coordinates":[0.16068,35.49572],"type":"Point"}
+}

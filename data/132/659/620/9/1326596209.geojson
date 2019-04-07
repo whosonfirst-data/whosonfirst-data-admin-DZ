@@ -1,0 +1,65 @@
+{
+  "id": 1326596209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.62755,36.29226,4.62755,36.29226",
+    "geom:latitude":36.29226,
+    "geom:longitude":4.62755,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bounda el Kebira",
+    "gn:country_code":"DZ",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502583,
+    "gn:latitude":36.29226,
+    "gn:longitude":4.62755,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bounda el Kebira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502583
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"11b0257a560662466b741ae138b306fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326596209,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1326596209,
+    "wof:lastmodified":1536891546,
+    "wof:name":"Bounda el Kebira",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.62755,
+    36.29226,
+    4.62755,
+    36.29226
+],
+  "geometry": {"coordinates":[4.62755,36.29226],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226572081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51444,35.87722,0.51444,35.87722",
+    "geom:latitude":35.87722,
+    "geom:longitude":0.51444,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Amour",
+    "gn:country_code":"DZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499460,
+    "gn:latitude":35.87722,
+    "gn:longitude":0.51444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Amour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Ameur",
+        "Douar el Amour",
+        "El Ameur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499460
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3242601ec3039978d42913afa6dc1f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226572081,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1226572081,
+    "wof:lastmodified":1537620219,
+    "wof:name":"Douar el Amour",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51444,
+    35.87722,
+    0.51444,
+    35.87722
+],
+  "geometry": {"coordinates":[0.51444,35.87722],"type":"Point"}
+}

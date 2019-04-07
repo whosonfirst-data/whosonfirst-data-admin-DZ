@@ -1,0 +1,65 @@
+{
+  "id": 1209749591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.85612,35.6203,0.85612,35.6203",
+    "geom:latitude":35.6203,
+    "geom:longitude":0.85612,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Zeguaiguia",
+    "gn:country_code":"DZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417260,
+    "gn:latitude":35.6203,
+    "gn:longitude":0.85612,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Zegua\u00efguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417260
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"75fe6fb7a4a4bd47839d31c79804787b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209749591,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1209749591,
+    "wof:lastmodified":1536393395,
+    "wof:name":"Douar Zeguaiguia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.85612,
+    35.6203,
+    0.85612,
+    35.6203
+],
+  "geometry": {"coordinates":[0.85612,35.6203],"type":"Point"}
+}

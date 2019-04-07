@@ -1,0 +1,65 @@
+{
+  "id": 1344044381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19724,36.41599,5.19724,36.41599",
+    "geom:latitude":36.41599,
+    "geom:longitude":5.19724,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Merdj Moumene",
+    "gn:country_code":"DZ",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488001,
+    "gn:latitude":36.41599,
+    "gn:longitude":5.19724,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Merdj Moumene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488001
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b67b55cc3c89eb9270cd4d0038c70c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344044381,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1344044381,
+    "wof:lastmodified":1536898804,
+    "wof:name":"Merdj Moumene",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19724,
+    36.41599,
+    5.19724,
+    36.41599
+],
+  "geometry": {"coordinates":[5.19724,36.41599],"type":"Point"}
+}

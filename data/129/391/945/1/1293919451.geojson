@@ -1,0 +1,65 @@
+{
+  "id": 1293919451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64008,36.27737,1.64008,36.27737",
+    "geom:latitude":36.27737,
+    "geom:longitude":1.64008,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Chakoura",
+    "gn:country_code":"DZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573285,
+    "gn:latitude":36.27737,
+    "gn:longitude":1.64008,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Chakoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573285
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"723ac6eb544cf83a3fbb1e72fe47e09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293919451,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1293919451,
+    "wof:lastmodified":1536661501,
+    "wof:name":"Chakoura",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64008,
+    36.27737,
+    1.64008,
+    36.27737
+],
+  "geometry": {"coordinates":[1.64008,36.27737],"type":"Point"}
+}

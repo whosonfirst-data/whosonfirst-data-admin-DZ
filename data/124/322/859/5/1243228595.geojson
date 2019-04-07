@@ -1,0 +1,65 @@
+{
+  "id": 1243228595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.68055,36.39756,2.68055,36.39756",
+    "geom:latitude":36.39756,
+    "geom:longitude":2.68055,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Talaouch",
+    "gn:country_code":"DZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478327,
+    "gn:latitude":36.39756,
+    "gn:longitude":2.68055,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Talaouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478327
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7297809e88450c6e7929462b1d6203e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243228595,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":1243228595,
+    "wof:lastmodified":1536620627,
+    "wof:name":"Talaouch",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.68055,
+    36.39756,
+    2.68055,
+    36.39756
+],
+  "geometry": {"coordinates":[2.68055,36.39756],"type":"Point"}
+}

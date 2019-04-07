@@ -1,0 +1,65 @@
+{
+  "id": 1293481509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.19989,35.66697,0.19989,35.66697",
+    "geom:latitude":35.66697,
+    "geom:longitude":0.19989,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bou Tafaha",
+    "gn:country_code":"DZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577713,
+    "gn:latitude":35.66697,
+    "gn:longitude":0.19989,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bou Tafaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577713
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"91ee8d7d4bdd13b429a0e24423f3754e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293481509,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1293481509,
+    "wof:lastmodified":1536795950,
+    "wof:name":"Bou Tafaha",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.19989,
+    35.66697,
+    0.19989,
+    35.66697
+],
+  "geometry": {"coordinates":[0.19989,35.66697],"type":"Point"}
+}

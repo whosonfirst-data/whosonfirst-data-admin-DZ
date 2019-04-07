@@ -1,0 +1,73 @@
+{
+  "id": 1343605661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.10145,35.33619,-1.10145,35.33619",
+    "geom:latitude":35.33619,
+    "geom:longitude":-1.10145,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Chaabat el Leham",
+    "gn:country_code":"DZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501934,
+    "gn:latitude":35.33619,
+    "gn:longitude":-1.10145,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chaabat el Leham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laferri\u00e8re",
+        "Chabet el Leham",
+        "Chahat el Leham",
+        "Chabaat El Leham",
+        "Chaabat el Leham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501934,
+        "wk:page":"Chaabet_El_Ham"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5b68bfda9bc3dab89e2b6a8c8d1b02d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343605661,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1343605661,
+    "wof:lastmodified":1537620230,
+    "wof:name":"Chaabat el Leham",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.10145,
+    35.33619,
+    -1.10145,
+    35.33619
+],
+  "geometry": {"coordinates":[-1.10145,35.33619],"type":"Point"}
+}

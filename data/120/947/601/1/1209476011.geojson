@@ -1,0 +1,61 @@
+{
+  "id": 1209476011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.0023,36.03307,7.0023,36.03307",
+    "geom:latitude":36.03307,
+    "geom:longitude":7.0023,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Rharbi el Merra",
+    "gn:country_code":"DZ",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489276,
+    "gn:latitude":36.03307,
+    "gn:longitude":7.0023,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Rharbi el Merra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489276
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8df6123e2321294080fafe96551c749d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209476011
+        }
+    ],
+    "wof:id":1209476011,
+    "wof:lastmodified":1536285934,
+    "wof:name":"Mechta Rharbi el Merra",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.0023,
+    36.03307,
+    7.0023,
+    36.03307
+],
+  "geometry": {"coordinates":[7.0023,36.03307],"type":"Point"}
+}

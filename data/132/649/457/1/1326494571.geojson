@@ -1,0 +1,71 @@
+{
+  "id": 1326494571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80733,36.33889,3.80733,36.33889",
+    "geom:latitude":36.33889,
+    "geom:longitude":3.80733,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ain el Hadjar",
+    "gn:country_code":"DZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508160,
+    "gn:latitude":36.33889,
+    "gn:longitude":3.80733,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn el Hadjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboutville",
+        "A\u00efne el Hadiar",
+        "A\u00efn el Hadjar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508160,
+        "wk:page":"Ain_El_Hadjar"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2dbd046c81d2cd35b6ce12778e848634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326494571,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1326494571,
+    "wof:lastmodified":1537620258,
+    "wof:name":"Ain el Hadjar",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80733,
+    36.33889,
+    3.80733,
+    36.33889
+],
+  "geometry": {"coordinates":[3.80733,36.33889],"type":"Point"}
+}

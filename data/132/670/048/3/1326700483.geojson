@@ -1,0 +1,70 @@
+{
+  "id": 1326700483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.22198,34.78451,-1.22198,34.78451",
+    "geom:latitude":34.78451,
+    "geom:longitude":-1.22198,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ouled Bou Hamida",
+    "gn:country_code":"DZ",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484962,
+    "gn:latitude":34.78451,
+    "gn:longitude":-1.22198,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Bou Hamida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Bou Hamida",
+        "Ouled\u2019Ben Hamida",
+        "Ouled Bou Hamida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484962
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6f984c63adf59919e795bcaeda05426a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326700483,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1326700483,
+    "wof:lastmodified":1537620125,
+    "wof:name":"Ouled Bou Hamida",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.22198,
+    34.78451,
+    -1.22198,
+    34.78451
+],
+  "geometry": {"coordinates":[-1.22198,34.78451],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242614101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.37857,36.40058,1.37857,36.40058",
+    "geom:latitude":36.40058,
+    "geom:longitude":1.37857,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar en Nakhla",
+    "gn:country_code":"DZ",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572566,
+    "gn:latitude":36.40058,
+    "gn:longitude":1.37857,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar en Nakhla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572566
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"622b6e6132e7edb2defebee2fa3fac36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242614101,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242614101,
+    "wof:lastmodified":1537010327,
+    "wof:name":"Douar en Nakhla",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.37857,
+    36.40058,
+    1.37857,
+    36.40058
+],
+  "geometry": {"coordinates":[1.37857,36.40058],"type":"Point"}
+}

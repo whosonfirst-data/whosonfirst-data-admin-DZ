@@ -1,0 +1,134 @@
+{
+  "id": 421178263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.34018,36.73587,3.34018,36.73587",
+    "geom:latitude":36.73587,
+    "geom:longitude":3.34018,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0631\u063a\u0627\u064a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00e9gha\u00efa"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00e9gha\u00efa"
+    ],
+    "name:fra_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:fre_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:ita_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:kab_x_preferred":[
+        "Rr\u0263aya"
+    ],
+    "name:may_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:msa_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0631\u063a\u0627\u06cc\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:ron_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:rum_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:swe_x_preferred":[
+        "Regha\u00efa"
+    ],
+    "name:unk_x_variant":[
+        "La Reghia-Alma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u063a\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Reghaia"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2483757,
+    "qs:gn_pop":54962,
+    "qs:name":"Reghaia",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Boumerdes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":278709,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257112,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":505,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483757,
+        "gp:id":1257112,
+        "qs:id":278709,
+        "wd:id":"Q1649935",
+        "wk:page":"Regha\u00efa"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009176,
+    "wof:geomhash":"3326f94fbfaebf5795a11b0dccac1b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421178263,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":421178263,
+    "wof:lastmodified":1527717727,
+    "wof:name":"Reghaia",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:population":54962,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.34018,
+    36.73587,
+    3.34018,
+    36.73587
+],
+  "geometry": {"coordinates":[3.34018,36.73587],"type":"Point"}
+}

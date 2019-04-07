@@ -1,0 +1,65 @@
+{
+  "id": 1292939471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2131,36.15449,1.2131,36.15449",
+    "geom:latitude":36.15449,
+    "geom:longitude":1.2131,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boukaat el Ard el Beida",
+    "gn:country_code":"DZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430158,
+    "gn:latitude":36.15449,
+    "gn:longitude":1.2131,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Boukaat el Ard el Be\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430158
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"591961b2c775799365accda8d10ce4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292939471,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1292939471,
+    "wof:lastmodified":1537077083,
+    "wof:name":"Boukaat el Ard el Beida",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2131,
+    36.15449,
+    1.2131,
+    36.15449
+],
+  "geometry": {"coordinates":[1.2131,36.15449],"type":"Point"}
+}

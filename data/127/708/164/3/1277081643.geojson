@@ -1,0 +1,65 @@
+{
+  "id": 1277081643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41678,35.3375,6.41678,35.3375",
+    "geom:latitude":35.3375,
+    "geom:longitude":6.41678,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Afras",
+    "gn:country_code":"DZ",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508722,
+    "gn:latitude":35.3375,
+    "gn:longitude":6.41678,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Afras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508722
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"02a629525db24cbce2f0570697de831f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277081643,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1277081643,
+    "wof:lastmodified":1536769632,
+    "wof:name":"Afras",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41678,
+    35.3375,
+    6.41678,
+    35.3375
+],
+  "geometry": {"coordinates":[6.41678,35.3375],"type":"Point"}
+}

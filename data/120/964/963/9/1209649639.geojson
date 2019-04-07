@@ -1,0 +1,64 @@
+{
+  "id": 1209649639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4989,35.84067,0.4989,35.84067",
+    "geom:latitude":35.84067,
+    "geom:longitude":0.4989,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Belaassel Bouzagza",
+    "gn:country_code":"DZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505185,
+    "gn:latitude":35.84067,
+    "gn:longitude":0.4989,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Belaassel Bouzagza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bel Hacel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505185
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1f9b34e8ad7b2ae366609bcc940eee1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209649639
+        }
+    ],
+    "wof:id":1209649639,
+    "wof:lastmodified":1537620247,
+    "wof:name":"Belaassel Bouzagza",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4989,
+    35.84067,
+    0.4989,
+    35.84067
+],
+  "geometry": {"coordinates":[0.4989,35.84067],"type":"Point"}
+}

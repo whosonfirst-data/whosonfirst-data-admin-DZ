@@ -1,0 +1,134 @@
+{
+  "id": 421167715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3308,36.64997,3.3308,36.64997",
+    "geom:latitude":36.64997,
+    "geom:longitude":3.3308,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u0645\u064a\u0633 \u0627\u0644\u062e\u0634\u0646\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Khemis el Khechna"
+    ],
+    "name:dut_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:eng_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:fra_x_preferred":[
+        "Khemis El Khechna"
+    ],
+    "name:fre_x_preferred":[
+        "Khemis El Khechna"
+    ],
+    "name:ita_x_preferred":[
+        "Khemis El Khechna"
+    ],
+    "name:kab_x_preferred":[
+        "Lexmis n Lxecna"
+    ],
+    "name:may_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:msa_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0645\u06cc\u0633 \u062e\u0634\u0646\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:ron_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:rum_x_preferred":[
+        "Khemis El-Khechna"
+    ],
+    "name:swe_x_preferred":[
+        "Khemis El Khechna"
+    ],
+    "name:unk_x_variant":[
+        "Fondouk"
+    ],
+    "name:vie_x_preferred":[
+        "Khemis El Khechna"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Khemis El Khechna"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2491913,
+    "qs:gn_pop":49757,
+    "qs:name":"Khemis el Khechna",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":140180,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255199,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491913,
+        "gp:id":1255199,
+        "qs:id":140180,
+        "wd:id":"Q3142813",
+        "wk:page":"Khemis El-Khechna"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008741,
+    "wof:geomhash":"e9764ddcb616dbd0fdeab9ba777cd4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421167715,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":421167715,
+    "wof:lastmodified":1527716157,
+    "wof:name":"Khemis el Khechna",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:population":49757,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3308,
+    36.64997,
+    3.3308,
+    36.64997
+],
+  "geometry": {"coordinates":[3.3308,36.64997],"type":"Point"}
+}

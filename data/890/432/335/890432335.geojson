@@ -1,0 +1,145 @@
+{
+  "id": 890432335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.14037,35.29749,-1.14037,35.29749",
+    "geom:latitude":35.29749,
+    "geom:longitude":-1.14037,
+    "gn:country":"DZ",
+    "gn:fcode":"PPLA",
+    "gn:pop":57354,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ain Temouchent"
+    ],
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u56e0\u6cf0\u7a46\u5c1a\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u0390\u03bd \u03a4\u03b5\u03bc\u03bf\u03c5\u03c7\u03ad\u03bd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "\u02bfAyn Tem\u016bshent"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778\ud14c\ubb34\uc174\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Ain Temu\u0161entas"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:nob_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Tumuszanat"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Ain Temushent"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Temouchent"
+    ],
+    "name:war_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "qs:name":"\u2019A\u00efn Temouchent",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507901,
+        "gp:id":1252868,
+        "qs:id":278738,
+        "wd:id":"Q770504",
+        "wk:page":"A\u00efn T\u00e9mouchent"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051937,
+    "wof:geomhash":"e85f2714a05be64edd6e7dd45cd24af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890432335,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":890432335,
+    "wof:lastmodified":1527793039,
+    "wof:name":"\u2019A\u00efn Temouchent",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:population":57354,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.14037,
+    35.29749,
+    -1.14037,
+    35.29749
+],
+  "geometry": {"coordinates":[-1.14037,35.29749],"type":"Point"}
+}

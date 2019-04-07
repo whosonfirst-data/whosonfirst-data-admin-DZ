@@ -1,0 +1,71 @@
+{
+  "id": 1209849403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5325,36.56139,2.5325,36.56139",
+    "geom:latitude":36.56139,
+    "geom:longitude":2.5325,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sidi Rached",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479889,
+    "gn:latitude":36.56139,
+    "gn:longitude":2.5325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Rached",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montebello",
+        "Sidi Rached"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479889,
+        "wk:page":"Sidi_Rached"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"59ab34e1a7f8df82a9bd2d97308dabc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209849403,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1209849403,
+    "wof:lastmodified":1537620109,
+    "wof:name":"Sidi Rached",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5325,
+    36.56139,
+    2.5325,
+    36.56139
+],
+  "geometry": {"coordinates":[2.5325,36.56139],"type":"Point"}
+}

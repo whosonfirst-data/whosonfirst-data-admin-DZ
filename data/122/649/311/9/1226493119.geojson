@@ -1,0 +1,65 @@
+{
+  "id": 1226493119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.92262,35.58491,7.92262,35.58491",
+    "geom:latitude":35.58491,
+    "geom:longitude":7.92262,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat Ouled Rharbi",
+    "gn:country_code":"DZ",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488982,
+    "gn:latitude":35.58491,
+    "gn:longitude":7.92262,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechtat Ouled Rharbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488982
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8aeef4ad58d4618858d0fce8b3be5965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226493119,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1226493119,
+    "wof:lastmodified":1537070949,
+    "wof:name":"Mechtat Ouled Rharbi",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.92262,
+    35.58491,
+    7.92262,
+    35.58491
+],
+  "geometry": {"coordinates":[7.92262,35.58491],"type":"Point"}
+}

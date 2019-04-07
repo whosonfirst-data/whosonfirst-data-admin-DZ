@@ -1,0 +1,65 @@
+{
+  "id": 1310000403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.27916,35.86953,0.27916,35.86953",
+    "geom:latitude":35.86953,
+    "geom:longitude":0.27916,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Zaimia",
+    "gn:country_code":"DZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2580681,
+    "gn:latitude":35.86953,
+    "gn:longitude":0.27916,
+    "gn:modification_date":"1997-03-19",
+    "gn:name":"Douar Za\u00efmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580681
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e8cd59ea368ade08fa6c75432be8f04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310000403,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1310000403,
+    "wof:lastmodified":1536650483,
+    "wof:name":"Douar Zaimia",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.27916,
+    35.86953,
+    0.27916,
+    35.86953
+],
+  "geometry": {"coordinates":[0.27916,35.86953],"type":"Point"}
+}

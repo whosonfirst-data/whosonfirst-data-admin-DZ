@@ -1,0 +1,140 @@
+{
+  "id": 421185625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.79028,36.55528,2.79028,36.55528",
+    "geom:latitude":36.55528,
+    "geom:longitude":2.79028,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0639\u0644\u0627\u064a\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Oued el Alleug"
+    ],
+    "name:dut_x_preferred":[
+        "Oued El Alleug"
+    ],
+    "name:eng_x_preferred":[
+        "Oued El Alleug"
+    ],
+    "name:fra_x_preferred":[
+        "Oued Alleug"
+    ],
+    "name:fre_x_preferred":[
+        "Oued Alleug"
+    ],
+    "name:ita_x_preferred":[
+        "Oued Alleug"
+    ],
+    "name:kab_x_preferred":[
+        "Wad L\u025bellayeg"
+    ],
+    "name:may_x_preferred":[
+        "Oued El Alleug"
+    ],
+    "name:msa_x_preferred":[
+        "Oued El Alleug"
+    ],
+    "name:nan_x_preferred":[
+        "Oued Alleug"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0639\u0644\u0627\u06cc\u0642"
+    ],
+    "name:por_x_preferred":[
+        "Oued El Alleug"
+    ],
+    "name:ron_x_preferred":[
+        "Oued Alleug"
+    ],
+    "name:rum_x_preferred":[
+        "Oued Alleug"
+    ],
+    "name:swe_x_preferred":[
+        "Oued el Alleug"
+    ],
+    "name:unk_x_variant":[
+        "Oued el Alleng"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0627\u0644\u0639\u0644\u0627\u06cc\u0642"
+    ],
+    "name:vie_x_preferred":[
+        "Oued El Alleug"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Oued Alleug"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2485633,
+    "qs:gn_pop":21146,
+    "qs:name":"Oued el Alleug",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1035956,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1256591,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485633,
+        "gp:id":1256591,
+        "qs:id":1035956,
+        "wd:id":"Q941199",
+        "wk:page":"Oued El Alleug"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009449,
+    "wof:geomhash":"68cb6d6d9c508e92d595e0d7f20bf6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421185625,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":421185625,
+    "wof:lastmodified":1527726509,
+    "wof:name":"Oued el Alleug",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:population":21146,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.79028,
+    36.55528,
+    2.79028,
+    36.55528
+],
+  "geometry": {"coordinates":[2.79028,36.55528],"type":"Point"}
+}

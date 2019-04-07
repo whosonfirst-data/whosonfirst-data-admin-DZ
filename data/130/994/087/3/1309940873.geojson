@@ -1,0 +1,65 @@
+{
+  "id": 1309940873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29503,36.42161,1.29503,36.42161",
+    "geom:latitude":36.42161,
+    "geom:longitude":1.29503,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar Ounsour Enhas",
+    "gn:country_code":"DZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572519,
+    "gn:latitude":36.42161,
+    "gn:longitude":1.29503,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar Ounsour Enhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572519
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7331bab3e45a9b3780e315ad2c9c45d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309940873,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1309940873,
+    "wof:lastmodified":1536736498,
+    "wof:name":"Douar Ounsour Enhas",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29503,
+    36.42161,
+    1.29503,
+    36.42161
+],
+  "geometry": {"coordinates":[1.29503,36.42161],"type":"Point"}
+}

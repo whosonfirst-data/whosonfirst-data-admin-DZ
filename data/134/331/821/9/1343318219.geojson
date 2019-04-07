@@ -1,0 +1,65 @@
+{
+  "id": 1343318219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35149,36.39233,7.35149,36.39233",
+    "geom:latitude":36.39233,
+    "geom:longitude":7.35149,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mechtat el Hassemia",
+    "gn:country_code":"DZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489087,
+    "gn:latitude":36.39233,
+    "gn:longitude":7.35149,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat el Hassemia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489087
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6c34ad6584b4d69026b909883b9b895f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343318219,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1343318219,
+    "wof:lastmodified":1536951866,
+    "wof:name":"Mechtat el Hassemia",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35149,
+    36.39233,
+    7.35149,
+    36.39233
+],
+  "geometry": {"coordinates":[7.35149,36.39233],"type":"Point"}
+}

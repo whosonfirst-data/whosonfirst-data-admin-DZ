@@ -1,0 +1,65 @@
+{
+  "id": 1260034131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75599,34.81643,3.75599,34.81643",
+    "geom:latitude":34.81643,
+    "geom:longitude":3.75599,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bir Fodda",
+    "gn:country_code":"DZ",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503862,
+    "gn:latitude":34.81643,
+    "gn:longitude":3.75599,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bir Fodda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503862
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"84272d24e05e8ecaa88f93615f209a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260034131,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1260034131,
+    "wof:lastmodified":1537056741,
+    "wof:name":"Bir Fodda",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75599,
+    34.81643,
+    3.75599,
+    34.81643
+],
+  "geometry": {"coordinates":[3.75599,34.81643],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310567983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.50921,35.35696,4.50921,35.35696",
+    "geom:latitude":35.35696,
+    "geom:longitude":4.50921,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bir el Hamia",
+    "gn:country_code":"DZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503871,
+    "gn:latitude":35.35696,
+    "gn:longitude":4.50921,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bir el Hamia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503871
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d5facba62397c19ad4b0e59729e60de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310567983,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1310567983,
+    "wof:lastmodified":1536825975,
+    "wof:name":"Bir el Hamia",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.50921,
+    35.35696,
+    4.50921,
+    35.35696
+],
+  "geometry": {"coordinates":[4.50921,35.35696],"type":"Point"}
+}

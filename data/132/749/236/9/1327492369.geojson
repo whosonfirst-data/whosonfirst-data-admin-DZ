@@ -1,0 +1,65 @@
+{
+  "id": 1327492369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31417,36.32972,4.31417,36.32972",
+    "geom:latitude":36.32972,
+    "geom:longitude":4.31417,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Taourirt",
+    "gn:country_code":"DZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477913,
+    "gn:latitude":36.32972,
+    "gn:longitude":4.31417,
+    "gn:modification_date":"1999-07-14",
+    "gn:name":"Taourirt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477913
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1ee9976c7f4ef568eec15e1b01e43ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327492369,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1327492369,
+    "wof:lastmodified":1537088843,
+    "wof:name":"Taourirt",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31417,
+    36.32972,
+    4.31417,
+    36.32972
+],
+  "geometry": {"coordinates":[4.31417,36.32972],"type":"Point"}
+}

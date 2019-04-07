@@ -1,0 +1,65 @@
+{
+  "id": 1343582623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48306,36.19556,0.48306,36.19556",
+    "geom:latitude":36.19556,
+    "geom:longitude":0.48306,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Chachea",
+    "gn:country_code":"DZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573696,
+    "gn:latitude":36.19556,
+    "gn:longitude":0.48306,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Chachea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573696
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"030011804286da75b48e33b46b19fc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343582623,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1343582623,
+    "wof:lastmodified":1537064677,
+    "wof:name":"Douar Chachea",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48306,
+    36.19556,
+    0.48306,
+    36.19556
+],
+  "geometry": {"coordinates":[0.48306,36.19556],"type":"Point"}
+}

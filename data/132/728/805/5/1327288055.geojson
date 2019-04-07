@@ -1,0 +1,65 @@
+{
+  "id": 1327288055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96789,35.41465,7.96789,35.41465",
+    "geom:latitude":35.41465,
+    "geom:longitude":7.96789,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Youkous",
+    "gn:country_code":"DZ",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475002,
+    "gn:latitude":35.41465,
+    "gn:longitude":7.96789,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Youkous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475002
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c48bec07cb34f9b3e952e776e30781a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327288055,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1327288055,
+    "wof:lastmodified":1536889004,
+    "wof:name":"Youkous",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96789,
+    35.41465,
+    7.96789,
+    35.41465
+],
+  "geometry": {"coordinates":[7.96789,35.41465],"type":"Point"}
+}

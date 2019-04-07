@@ -1,0 +1,69 @@
+{
+  "id": 1326486255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7844,36.69083,5.7844,36.69083",
+    "geom:latitude":36.69083,
+    "geom:longitude":5.7844,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Dar el Hammoud",
+    "gn:country_code":"DZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500875,
+    "gn:latitude":36.69083,
+    "gn:longitude":5.7844,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u00e2r el Hammoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Dar el Hanout",
+        "D\u00e2r el Hammoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500875
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dbe0b3b49ec7df6f7f00e3059953b3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326486255,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1326486255,
+    "wof:lastmodified":1537620227,
+    "wof:name":"Dar el Hammoud",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7844,
+    36.69083,
+    5.7844,
+    36.69083
+],
+  "geometry": {"coordinates":[5.7844,36.69083],"type":"Point"}
+}

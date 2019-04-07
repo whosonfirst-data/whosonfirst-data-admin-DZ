@@ -1,0 +1,71 @@
+{
+  "id": 1343724545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00387,34.94967,6.00387,34.94967",
+    "geom:latitude":34.94967,
+    "geom:longitude":6.00387,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"M'Chouneche",
+    "gn:country_code":"DZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489940,
+    "gn:latitude":34.94967,
+    "gn:longitude":6.00387,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u2019Chouneche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mecheneche",
+        "M\u2019chounech",
+        "M\u2019Chouneche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489940,
+        "wk:page":"M%27Chouneche"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4858fa33941142256b7c05ff7e4a0739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343724545,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1343724545,
+    "wof:lastmodified":1537620172,
+    "wof:name":"M'Chouneche",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00387,
+    34.94967,
+    6.00387,
+    34.94967
+],
+  "geometry": {"coordinates":[6.00387,34.94967],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 890432331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.06024,34.74488,8.06024,34.74488",
+    "geom:latitude":34.74488,
+    "geom:longitude":8.06024,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":68703,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0639\u0627\u062a\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Bir el-Ater"
+    ],
+    "name:eng_x_preferred":[
+        "Bir el-Ater"
+    ],
+    "name:epo_x_preferred":[
+        "Bir el Ater"
+    ],
+    "name:fre_x_preferred":[
+        "Bir el-Ater"
+    ],
+    "name:ita_x_preferred":[
+        "Bir el-Ater"
+    ],
+    "name:may_x_preferred":[
+        "Bir El Ater"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0626\u0631 \u0639\u0627\u062a\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Bir al-Atir"
+    ],
+    "name:por_x_preferred":[
+        "Bir el-Ater"
+    ],
+    "name:rum_x_preferred":[
+        "Bir el-Ater"
+    ],
+    "name:swe_x_preferred":[
+        "Bir el Ater"
+    ],
+    "name:vie_x_preferred":[
+        "Bir-El-Ater"
+    ],
+    "qs:name":"Bir el Ater",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503878,
+        "gp:id":1253438,
+        "qs:id":278733,
+        "wd:id":"Q2904370",
+        "wk:page":"Bir el Ater"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051937,
+    "wof:geomhash":"f182217fc5b0b973ea8caa082ff6d283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890432331,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":890432331,
+    "wof:lastmodified":1527793032,
+    "wof:name":"Bir el Ater",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:population":68703,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.06024,
+    34.74488,
+    8.06024,
+    34.74488
+],
+  "geometry": {"coordinates":[8.06024,34.74488],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243208633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2435,36.3078,1.2435,36.3078",
+    "geom:latitude":36.3078,
+    "geom:longitude":1.2435,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Heumis",
+    "gn:country_code":"DZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490857,
+    "gn:latitude":36.3078,
+    "gn:longitude":1.2435,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Heumis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Heumis",
+        "Heumis",
+        "Douar Hamiss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490857
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e2fbac2334ead93ea44f4487e4d9f336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243208633,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1243208633,
+    "wof:lastmodified":1537620175,
+    "wof:name":"Heumis",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2435,
+    36.3078,
+    1.2435,
+    36.3078
+],
+  "geometry": {"coordinates":[1.2435,36.3078],"type":"Point"}
+}

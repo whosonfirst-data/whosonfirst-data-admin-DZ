@@ -1,0 +1,68 @@
+{
+  "id": 1243169617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.81927,36.01377,2.81927,36.01377",
+    "geom:latitude":36.01377,
+    "geom:longitude":2.81927,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sadokia",
+    "gn:country_code":"DZ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479377,
+    "gn:latitude":36.01377,
+    "gn:longitude":2.81927,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sadokia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sodokia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479377
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ad737f26e792787f83a343637d411a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243169617,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243169617,
+    "wof:lastmodified":1537620108,
+    "wof:name":"Sadokia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.81927,
+    36.01377,
+    2.81927,
+    36.01377
+],
+  "geometry": {"coordinates":[2.81927,36.01377],"type":"Point"}
+}

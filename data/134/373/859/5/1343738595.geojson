@@ -1,0 +1,65 @@
+{
+  "id": 1343738595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.29591,35.3196,2.29591,35.3196",
+    "geom:latitude":35.3196,
+    "geom:longitude":2.29591,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"'Ain el Beida",
+    "gn:country_code":"DZ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508185,
+    "gn:latitude":35.3196,
+    "gn:longitude":2.29591,
+    "gn:modification_date":"1995-12-12",
+    "gn:name":"\u2019A\u00efn el Be\u00efda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508185
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f3dd5b0e621c94b4bf8fe76ed07061da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343738595,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1343738595,
+    "wof:lastmodified":1536841422,
+    "wof:name":"'Ain el Beida",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.29591,
+    35.3196,
+    2.29591,
+    35.3196
+],
+  "geometry": {"coordinates":[2.29591,35.3196],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276284575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.06362,36.10297,2.06362,36.10297",
+    "geom:latitude":36.10297,
+    "geom:longitude":2.06362,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Taghlissia",
+    "gn:country_code":"DZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430160,
+    "gn:latitude":36.10297,
+    "gn:longitude":2.06362,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Taghlissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430160
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"af8c5132c6fb5a202f9cb434c9a6115e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276284575,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1276284575,
+    "wof:lastmodified":1536843092,
+    "wof:name":"Taghlissia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.06362,
+    36.10297,
+    2.06362,
+    36.10297
+],
+  "geometry": {"coordinates":[2.06362,36.10297],"type":"Point"}
+}

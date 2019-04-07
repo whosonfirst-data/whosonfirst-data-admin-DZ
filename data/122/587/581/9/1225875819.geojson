@@ -1,0 +1,65 @@
+{
+  "id": 1225875819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.94592,35.61557,0.94592,35.61557",
+    "geom:latitude":35.61557,
+    "geom:longitude":0.94592,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Kedadra",
+    "gn:country_code":"DZ",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417140,
+    "gn:latitude":35.61557,
+    "gn:longitude":0.94592,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kedadra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417140
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9f15f7c91db84a119c3dde0854e9c7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225875819,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1225875819,
+    "wof:lastmodified":1536970060,
+    "wof:name":"Kedadra",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.94592,
+    35.61557,
+    0.94592,
+    35.61557
+],
+  "geometry": {"coordinates":[0.94592,35.61557],"type":"Point"}
+}

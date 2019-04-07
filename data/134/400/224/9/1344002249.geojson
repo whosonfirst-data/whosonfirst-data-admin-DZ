@@ -1,0 +1,65 @@
+{
+  "id": 1344002249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.66667,35.4,-0.66667,35.4",
+    "geom:latitude":35.4,
+    "geom:longitude":-0.66667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Douar Chaiba",
+    "gn:country_code":"DZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499492,
+    "gn:latitude":35.4,
+    "gn:longitude":-0.66667,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Cha\u00efba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499492
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"04034e7ba69cc0e6e24273379458a314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344002249,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1344002249,
+    "wof:lastmodified":1536959657,
+    "wof:name":"Douar Chaiba",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.66667,
+    35.4,
+    -0.66667,
+    35.4
+],
+  "geometry": {"coordinates":[-0.66667,35.4],"type":"Point"}
+}

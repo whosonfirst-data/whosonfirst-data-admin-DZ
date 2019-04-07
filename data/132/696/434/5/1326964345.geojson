@@ -1,0 +1,65 @@
+{
+  "id": 1326964345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.31458,35.54935,2.31458,35.54935",
+    "geom:latitude":35.54935,
+    "geom:longitude":2.31458,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Douar el Merabtine",
+    "gn:country_code":"DZ",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437859,
+    "gn:latitude":35.54935,
+    "gn:longitude":2.31458,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Merabtine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437859
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"05168a8d4dfaf6309d3a6a43bfa821fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326964345,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1326964345,
+    "wof:lastmodified":1536857328,
+    "wof:name":"Douar el Merabtine",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.31458,
+    35.54935,
+    2.31458,
+    35.54935
+],
+  "geometry": {"coordinates":[2.31458,35.54935],"type":"Point"}
+}

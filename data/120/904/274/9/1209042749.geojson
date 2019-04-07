@@ -1,0 +1,66 @@
+{
+  "id": 1209042749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15202,36.08622,1.15202,36.08622",
+    "geom:latitude":36.08622,
+    "geom:longitude":1.15202,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boukaat Ouled Tahar",
+    "gn:country_code":"DZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2503731,
+    "gn:latitude":36.08622,
+    "gn:longitude":1.15202,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boukaat Ouled Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Ben-et Tahar",
+        "Boukaat Ouled Tahar",
+        "Boka\u2019et Ouled Tahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503731
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"50739440f0fcf3a74127241b33fb5e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209042749
+        }
+    ],
+    "wof:id":1209042749,
+    "wof:lastmodified":1537620239,
+    "wof:name":"Boukaat Ouled Tahar",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15202,
+    36.08622,
+    1.15202,
+    36.08622
+],
+  "geometry": {"coordinates":[1.15202,36.08622],"type":"Point"}
+}

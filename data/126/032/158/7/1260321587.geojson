@@ -1,0 +1,72 @@
+{
+  "id": 1260321587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97421,36.67273,7.97421,36.67273",
+    "geom:latitude":36.67273,
+    "geom:longitude":7.97421,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Asfour",
+    "gn:country_code":"DZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506350,
+    "gn:latitude":36.67273,
+    "gn:longitude":7.97421,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Asfour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Combes",
+        "Merdess",
+        "Merdes",
+        "Asfour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506350,
+        "wk:page":"Asfour"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"174e23f4db3ff9d99c71af88d30775fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260321587,
+            "region_id":85670719
+        }
+    ],
+    "wof:id":1260321587,
+    "wof:lastmodified":1537620249,
+    "wof:name":"Asfour",
+    "wof:parent_id":85670719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97421,
+    36.67273,
+    7.97421,
+    36.67273
+],
+  "geometry": {"coordinates":[7.97421,36.67273],"type":"Point"}
+}

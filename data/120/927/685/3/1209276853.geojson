@@ -1,0 +1,65 @@
+{
+  "id": 1209276853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73408,34.80535,5.73408,34.80535",
+    "geom:latitude":34.80535,
+    "geom:longitude":5.73408,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Korra",
+    "gn:country_code":"DZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491532,
+    "gn:latitude":34.80535,
+    "gn:longitude":5.73408,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Korra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Korra",
+        "Korra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491532
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b9ce82451b2565fb52e85f7637a65abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209276853
+        }
+    ],
+    "wof:id":1209276853,
+    "wof:lastmodified":1537620177,
+    "wof:name":"Korra",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73408,
+    34.80535,
+    5.73408,
+    34.80535
+],
+  "geometry": {"coordinates":[5.73408,34.80535],"type":"Point"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 421175473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67187,36.22393,1.67187,36.22393",
+    "geom:latitude":36.22393,
+    "geom:longitude":1.67187,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0637\u0627\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "El Attaf"
+    ],
+    "name:dut_x_preferred":[
+        "El Attaf"
+    ],
+    "name:eng_x_preferred":[
+        "El Attaf"
+    ],
+    "name:fra_x_preferred":[
+        "El Attaf"
+    ],
+    "name:fre_x_preferred":[
+        "El Attaf"
+    ],
+    "name:ita_x_preferred":[
+        "El Attaf"
+    ],
+    "name:may_x_preferred":[
+        "El Attaf"
+    ],
+    "name:msa_x_preferred":[
+        "El Attaf"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0637\u0627\u0641"
+    ],
+    "name:por_x_preferred":[
+        "El Attaf"
+    ],
+    "name:ron_x_preferred":[
+        "El Attaf"
+    ],
+    "name:rum_x_preferred":[
+        "El Attaf"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0442\u0442\u0430\u0444\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "El Attaf"
+    ],
+    "name:unk_x_variant":[
+        "Les Attefs"
+    ],
+    "name:vie_x_preferred":[
+        "El Attaf"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Attaf"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2498590,
+    "qs:gn_pop":43837,
+    "qs:name":"El Attaf",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Ain Defla",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":969678,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1254411,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498590,
+        "gp:id":1254411,
+        "qs:id":969678,
+        "wd:id":"Q1029528",
+        "wk:page":"El Attaf"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009068,
+    "wof:geomhash":"949c2a3febfbc79901118b29efbeb4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421175473,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":421175473,
+    "wof:lastmodified":1527716343,
+    "wof:name":"El Attaf",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:population":43837,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67187,
+    36.22393,
+    1.67187,
+    36.22393
+],
+  "geometry": {"coordinates":[1.67187,36.22393],"type":"Point"}
+}

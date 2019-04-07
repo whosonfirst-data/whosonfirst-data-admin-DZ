@@ -1,0 +1,65 @@
+{
+  "id": 1327387951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34038,28.69605,0.34038,28.69605",
+    "geom:latitude":28.69605,
+    "geom:longitude":0.34038,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ksar el Hadj",
+    "gn:country_code":"DZ",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491320,
+    "gn:latitude":28.69605,
+    "gn:longitude":0.34038,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ksar el Hadj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491320
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"73ccc99af4b2d904061fed8861281e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327387951,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1327387951,
+    "wof:lastmodified":1536744772,
+    "wof:name":"Ksar el Hadj",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34038,
+    28.69605,
+    0.34038,
+    28.69605
+],
+  "geometry": {"coordinates":[0.34038,28.69605],"type":"Point"}
+}

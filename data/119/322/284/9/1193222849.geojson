@@ -1,0 +1,73 @@
+{
+  "id": 1193222849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.14558,35.99377,2.14558,35.99377",
+    "geom:latitude":35.99377,
+    "geom:longitude":2.14558,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tarik Ibn Ziad",
+    "gn:country_code":"DZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477727,
+    "gn:latitude":35.99377,
+    "gn:longitude":2.14558,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tarik Ibn Ziad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marbot",
+        "Tarik Ibn Ziyad",
+        "Tarik Ibn Zayad",
+        "Tarik Ibn Zyad",
+        "Tarik Ibn Ziad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477727,
+        "wk:page":"Tarik_Ibn_Ziad"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d63768288895c2209c33dcca5dd05f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193222849,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1193222849,
+    "wof:lastmodified":1537620102,
+    "wof:name":"Tarik Ibn Ziad",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.14558,
+    35.99377,
+    2.14558,
+    35.99377
+],
+  "geometry": {"coordinates":[2.14558,35.99377],"type":"Point"}
+}

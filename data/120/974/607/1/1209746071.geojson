@@ -1,0 +1,65 @@
+{
+  "id": 1209746071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.71223,36.03302,4.71223,36.03302",
+    "geom:latitude":36.03302,
+    "geom:longitude":4.71223,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mechtat Sidi el Hadj Ben Rachdi",
+    "gn:country_code":"DZ",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488966,
+    "gn:latitude":36.03302,
+    "gn:longitude":4.71223,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat Sidi el Hadj Ben Rachdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488966
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fff6f9dc42a0b2ecc74b0b251de9bbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209746071,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1209746071,
+    "wof:lastmodified":1536394938,
+    "wof:name":"Mechtat Sidi el Hadj Ben Rachdi",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.71223,
+    36.03302,
+    4.71223,
+    36.03302
+],
+  "geometry": {"coordinates":[4.71223,36.03302],"type":"Point"}
+}

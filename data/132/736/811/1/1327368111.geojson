@@ -1,0 +1,65 @@
+{
+  "id": 1327368111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32533,36.80218,7.32533,36.80218",
+    "geom:latitude":36.80218,
+    "geom:longitude":7.32533,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Mechtat er R'Mel",
+    "gn:country_code":"DZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489023,
+    "gn:latitude":36.80218,
+    "gn:longitude":7.32533,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat er R\u2019Mel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489023
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"49644e59028f3436253f6304dbf51037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327368111,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1327368111,
+    "wof:lastmodified":1536774336,
+    "wof:name":"Mechtat er R'Mel",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32533,
+    36.80218,
+    7.32533,
+    36.80218
+],
+  "geometry": {"coordinates":[7.32533,36.80218],"type":"Point"}
+}

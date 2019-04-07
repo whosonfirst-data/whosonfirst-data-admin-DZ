@@ -1,0 +1,61 @@
+{
+  "id": 1209027991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29067,35.81874,0.29067,35.81874",
+    "geom:latitude":35.81874,
+    "geom:longitude":0.29067,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bel Laghouati",
+    "gn:country_code":"DZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7411235,
+    "gn:latitude":35.81874,
+    "gn:longitude":0.29067,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bel Laghouati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7411235
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6f58474ba17d17275c3b164f91d8d03a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209027991
+        }
+    ],
+    "wof:id":1209027991,
+    "wof:lastmodified":1536299935,
+    "wof:name":"Bel Laghouati",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29067,
+    35.81874000000001,
+    0.29067,
+    35.81874000000001
+],
+  "geometry": {"coordinates":[0.29067,35.81874000000001],"type":"Point"}
+}

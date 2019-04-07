@@ -1,0 +1,64 @@
+{
+  "id": 1209608405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.93242,36.22138,2.93242,36.22138",
+    "geom:latitude":36.22138,
+    "geom:longitude":2.93242,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Sidi Yahia",
+    "gn:country_code":"DZ",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2575306,
+    "gn:latitude":36.22138,
+    "gn:longitude":2.93242,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Sidi Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Slimane Ben Khalifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2575306
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f7f7d93f65eaed75b382f5a587bed8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209608405
+        }
+    ],
+    "wof:id":1209608405,
+    "wof:lastmodified":1537620264,
+    "wof:name":"Ouled Sidi Yahia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.93242,
+    36.22138,
+    2.93242,
+    36.22138
+],
+  "geometry": {"coordinates":[2.93242,36.22138],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1243041161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85772,35.09579,-1.85772,35.09579",
+    "geom:latitude":35.09579,
+    "geom:longitude":-1.85772,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ghazaouet",
+    "gn:country_code":"DZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496042,
+    "gn:latitude":35.09579,
+    "gn:longitude":-1.85772,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Ghazaouet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ghazaouet"
+    ],
+    "name:fra_x_historical":[
+        "Nemours",
+        "Nemours-d\u2019Alg\u00e9rie"
+    ],
+    "name:fra_x_preferred":[
+        "Nemours"
+    ],
+    "name:fra_x_variant":[
+        "Nemours-d\u2019Alg\u00e9rie",
+        "Ghazaouet"
+    ],
+    "name:und_x_variant":[
+        "Ghazouet",
+        "Ghazout",
+        "Ghazaouet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496042,
+        "wk:page":"Ghazaouet"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"13836d88506db822ae3f8d5328831c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243041161,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1243041161,
+    "wof:lastmodified":1537620190,
+    "wof:name":"Ghazaouet",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85772,
+    35.09579,
+    -1.85772,
+    35.09579
+],
+  "geometry": {"coordinates":[-1.85772,35.09579],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209061163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.19892,35.40687,-0.19892,35.40687",
+    "geom:latitude":35.40687,
+    "geom:longitude":-0.19892,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ouled Attou",
+    "gn:country_code":"DZ",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499288,
+    "gn:latitude":35.40687,
+    "gn:longitude":-0.19892,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Ouled Attou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Attou",
+        "Douar Ouled Attou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499288
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fb9e4715392e5160a6c0789c4c670d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209061163
+        }
+    ],
+    "wof:id":1209061163,
+    "wof:lastmodified":1537620210,
+    "wof:name":"Douar Ouled Attou",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.19892,
+    35.40687,
+    -0.19892,
+    35.40687
+],
+  "geometry": {"coordinates":[-0.19892,35.40687],"type":"Point"}
+}

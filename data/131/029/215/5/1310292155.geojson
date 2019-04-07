@@ -1,0 +1,65 @@
+{
+  "id": 1310292155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4098,36.25701,5.4098,36.25701",
+    "geom:latitude":36.25701,
+    "geom:longitude":5.4098,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta Gara",
+    "gn:country_code":"DZ",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489567,
+    "gn:latitude":36.25701,
+    "gn:longitude":5.4098,
+    "gn:modification_date":"1994-06-10",
+    "gn:name":"Mechta Gara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489567
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"de9759f74057e1aae13b592138c8080d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310292155,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1310292155,
+    "wof:lastmodified":1536727588,
+    "wof:name":"Mechta Gara",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4098,
+    36.25701,
+    5.4098,
+    36.25701
+],
+  "geometry": {"coordinates":[5.4098,36.25701],"type":"Point"}
+}

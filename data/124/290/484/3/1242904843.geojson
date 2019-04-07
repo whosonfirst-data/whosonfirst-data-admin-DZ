@@ -1,0 +1,65 @@
+{
+  "id": 1242904843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74639,36.6175,6.74639,36.6175",
+    "geom:latitude":36.6175,
+    "geom:longitude":6.74639,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Legbar Labyad",
+    "gn:country_code":"DZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2574137,
+    "gn:latitude":36.6175,
+    "gn:longitude":6.74639,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Legbar Labyad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2574137
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"09fa457a69fd58590f671129a1eee11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242904843,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1242904843,
+    "wof:lastmodified":1537086232,
+    "wof:name":"Legbar Labyad",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74639,
+    36.6175,
+    6.74639,
+    36.6175
+],
+  "geometry": {"coordinates":[6.74639,36.6175],"type":"Point"}
+}

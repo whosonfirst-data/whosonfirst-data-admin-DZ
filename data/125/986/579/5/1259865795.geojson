@@ -1,0 +1,70 @@
+{
+  "id": 1259865795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80127,35.17096,0.80127,35.17096",
+    "geom:latitude":35.17096,
+    "geom:longitude":0.80127,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"El Mssatfa",
+    "gn:country_code":"DZ",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485195,
+    "gn:latitude":35.17096,
+    "gn:longitude":0.80127,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Mssatfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metameur Oulad Mostefa",
+        "Oulad Mostefa",
+        "El Mssatfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485195
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6bce07fb81e1fb7e7d1442eb1d7229a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259865795,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1259865795,
+    "wof:lastmodified":1537620129,
+    "wof:name":"El Mssatfa",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80127,
+    35.17096,
+    0.80127,
+    35.17096
+],
+  "geometry": {"coordinates":[0.80127,35.17096],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259916415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.59979,36.09532,1.59979,36.09532",
+    "geom:latitude":36.09532,
+    "geom:longitude":1.59979,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Thouabet",
+    "gn:country_code":"DZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573421,
+    "gn:latitude":36.09532,
+    "gn:longitude":1.59979,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Thouabet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573421
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e39704fc1e55ab09959485022c6ceb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259916415,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1259916415,
+    "wof:lastmodified":1536731905,
+    "wof:name":"Thouabet",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.59979,
+    36.09532,
+    1.59979,
+    36.09532
+],
+  "geometry": {"coordinates":[1.59979,36.09532],"type":"Point"}
+}

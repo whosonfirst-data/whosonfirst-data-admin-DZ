@@ -1,0 +1,65 @@
+{
+  "id": 1326970681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.70977,36.3729,1.70977,36.3729",
+    "geom:latitude":36.3729,
+    "geom:longitude":1.70977,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ghoul Ou Melzi",
+    "gn:country_code":"DZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573224,
+    "gn:latitude":36.3729,
+    "gn:longitude":1.70977,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Ghoul Ou Melzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573224
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b25ab9746a9832585e3b6632a6d8ffd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326970681,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1326970681,
+    "wof:lastmodified":1536848345,
+    "wof:name":"Ghoul Ou Melzi",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.70977,
+    36.3729,
+    1.70977,
+    36.3729
+],
+  "geometry": {"coordinates":[1.70977,36.3729],"type":"Point"}
+}

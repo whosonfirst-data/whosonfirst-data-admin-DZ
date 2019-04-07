@@ -1,0 +1,73 @@
+{
+  "id": 1293722339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71237,36.53307,6.71237,36.53307",
+    "geom:latitude":36.53307,
+    "geom:longitude":6.71237,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zighout Youcef",
+    "gn:country_code":"DZ",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474399,
+    "gn:latitude":36.53307,
+    "gn:longitude":6.71237,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zighout Youcef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cond\u00e9-Smendou",
+        "Zirout-Youcef",
+        "Zighoud Youcef",
+        "Zighet-Youssef",
+        "Zighout Youcef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474399,
+        "wk:page":"Zighoud_Youcef_%28Town%29"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"058cbc65e28febd2c0c9d51f277e84f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293722339,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1293722339,
+    "wof:lastmodified":1537620090,
+    "wof:name":"Zighout Youcef",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71237,
+    36.53307,
+    6.71237,
+    36.53307
+],
+  "geometry": {"coordinates":[6.71237,36.53307],"type":"Point"}
+}

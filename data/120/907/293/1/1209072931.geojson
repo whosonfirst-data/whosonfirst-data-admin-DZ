@@ -1,0 +1,65 @@
+{
+  "id": 1209072931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.54654,35.87431,4.54654,35.87431",
+    "geom:latitude":35.87431,
+    "geom:longitude":4.54654,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechta Maaza",
+    "gn:country_code":"DZ",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489468,
+    "gn:latitude":35.87431,
+    "gn:longitude":4.54654,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Maaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Maaza",
+        "Mechta Maaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489468
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8b6f31b7aee928af0848ee5c9cc6b5d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209072931
+        }
+    ],
+    "wof:id":1209072931,
+    "wof:lastmodified":1537620161,
+    "wof:name":"Mechta Maaza",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.54654,
+    35.87430999999999,
+    4.54654,
+    35.87430999999999
+],
+  "geometry": {"coordinates":[4.54654,35.87430999999999],"type":"Point"}
+}

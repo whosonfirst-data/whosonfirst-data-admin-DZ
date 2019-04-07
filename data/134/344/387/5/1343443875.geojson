@@ -1,0 +1,70 @@
+{
+  "id": 1343443875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63527,34.77582,-1.63527,34.77582",
+    "geom:latitude":34.77582,
+    "geom:longitude":-1.63527,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sidi Medjahed",
+    "gn:country_code":"DZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480213,
+    "gn:latitude":34.77582,
+    "gn:longitude":-1.63527,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Medjahed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Station de Sidi Medjahed",
+        "Sidi Medjahed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480213,
+        "wk:page":"Sidi_Medjahed"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4a09ed552bc8c615cc92d7246cabf272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343443875,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1343443875,
+    "wof:lastmodified":1537620110,
+    "wof:name":"Sidi Medjahed",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63527,
+    34.77582,
+    -1.63527,
+    34.77582
+],
+  "geometry": {"coordinates":[-1.63527,34.77582],"type":"Point"}
+}

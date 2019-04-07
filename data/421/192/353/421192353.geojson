@@ -1,0 +1,88 @@
+{
+  "id": 421192353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.08482,36.7344,3.08482,36.7344",
+    "geom:latitude":36.7344,
+    "geom:longitude":3.08482,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0629"
+    ],
+    "name:kab_x_preferred":[
+        "Taqubbet"
+    ],
+    "name:unk_x_variant":[
+        "Qouba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0628\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2491518,
+    "qs:gn_pop":0,
+    "qs:name":"Kouba",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photos":214,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":214,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167956,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255222,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491518,
+        "gp:id":1255222,
+        "qs:id":1167956,
+        "wd:id":"Q3086863",
+        "wk:page":"Kouba, Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009733,
+    "wof:geomhash":"f30bd8c8ef55b4a2e95e5cabb09f9818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421192353,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":421192353,
+    "wof:lastmodified":1531858679,
+    "wof:name":"Kouba",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.08482,
+    36.7344,
+    3.08482,
+    36.7344
+],
+  "geometry": {"coordinates":[3.08482,36.7344],"type":"Point"}
+}

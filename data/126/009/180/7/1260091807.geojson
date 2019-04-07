@@ -1,0 +1,65 @@
+{
+  "id": 1260091807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73653,35.75015,5.73653,35.75015",
+    "geom:latitude":35.75015,
+    "geom:longitude":5.73653,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta 'Ain Afhassi",
+    "gn:country_code":"DZ",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2489819,
+    "gn:latitude":35.75015,
+    "gn:longitude":5.73653,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta \u2019A\u00efn Afhassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489819
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6c64ba3b91328035dd439e56654f7ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260091807,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1260091807,
+    "wof:lastmodified":1536975490,
+    "wof:name":"Mechta 'Ain Afhassi",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73653,
+    35.75015,
+    5.73653,
+    35.75015
+],
+  "geometry": {"coordinates":[5.73653,35.75015],"type":"Point"}
+}

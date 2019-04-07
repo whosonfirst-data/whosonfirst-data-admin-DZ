@@ -1,0 +1,65 @@
+{
+  "id": 1243488391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.987,36.42038,1.987,36.42038",
+    "geom:latitude":36.42038,
+    "geom:longitude":1.987,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sidi Ahmed Bel Hassene",
+    "gn:country_code":"DZ",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481305,
+    "gn:latitude":36.42038,
+    "gn:longitude":1.987,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi Ahmed Bel Hassene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481305
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"886704d5962b5b7cb077c022e1bc0e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243488391,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1243488391,
+    "wof:lastmodified":1536744752,
+    "wof:name":"Sidi Ahmed Bel Hassene",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.987,
+    36.42038,
+    1.987,
+    36.42038
+],
+  "geometry": {"coordinates":[1.987,36.42038],"type":"Point"}
+}

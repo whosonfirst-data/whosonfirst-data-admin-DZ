@@ -1,0 +1,68 @@
+{
+  "id": 1243533773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06732,35.01767,1.06732,35.01767",
+    "geom:latitude":35.01767,
+    "geom:longitude":1.06732,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taoughazout",
+    "gn:country_code":"DZ",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477880,
+    "gn:latitude":35.01767,
+    "gn:longitude":1.06732,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taoughazout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taourzaout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477880
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3e987cb773c07950744a668e4421dae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243533773,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1243533773,
+    "wof:lastmodified":1537620102,
+    "wof:name":"Taoughazout",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06732,
+    35.01767,
+    1.06732,
+    35.01767
+],
+  "geometry": {"coordinates":[1.06732,35.01767],"type":"Point"}
+}

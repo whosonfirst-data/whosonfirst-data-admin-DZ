@@ -1,0 +1,68 @@
+{
+  "id": 1243209077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.19747,36.24228,1.19747,36.24228",
+    "geom:latitude":36.24228,
+    "geom:longitude":1.19747,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ech Chnaifiya",
+    "gn:country_code":"DZ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7377018,
+    "gn:latitude":36.24228,
+    "gn:longitude":1.19747,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ech Chnaifiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ech Chna\u00eff\u00eeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7377018
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ad284aa177c895242cd62af91913ee0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243209077,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1243209077,
+    "wof:lastmodified":1537620276,
+    "wof:name":"Ech Chnaifiya",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.19747,
+    36.24228,
+    1.19747,
+    36.24228
+],
+  "geometry": {"coordinates":[1.19747,36.24228],"type":"Point"}
+}

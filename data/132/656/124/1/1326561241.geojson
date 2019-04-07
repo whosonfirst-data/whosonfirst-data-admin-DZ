@@ -1,0 +1,65 @@
+{
+  "id": 1326561241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64833,36.16757,7.64833,36.16757",
+    "geom:latitude":36.16757,
+    "geom:longitude":7.64833,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mechta Sidi Ameur",
+    "gn:country_code":"DZ",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489229,
+    "gn:latitude":36.16757,
+    "gn:longitude":7.64833,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Sidi Ameur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489229
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8c6603470290aab5973ec0348a487599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326561241,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1326561241,
+    "wof:lastmodified":1536942818,
+    "wof:name":"Mechta Sidi Ameur",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64833,
+    36.16757,
+    7.64833,
+    36.16757
+],
+  "geometry": {"coordinates":[7.64833,36.16757],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276388581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.45221,34.78009,-0.45221,34.78009",
+    "geom:latitude":34.78009,
+    "geom:longitude":-0.45221,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Merine",
+    "gn:country_code":"DZ",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487912,
+    "gn:latitude":34.78009,
+    "gn:longitude":-0.45221,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Merine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9gla",
+        "Merine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487912,
+        "wk:page":"Merine"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b079b2c4f32c8d427d474300920f99af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276388581,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1276388581,
+    "wof:lastmodified":1537620139,
+    "wof:name":"Merine",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.45221,
+    34.78009,
+    -0.45221,
+    34.78009
+],
+  "geometry": {"coordinates":[-0.45221,34.78009],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293381683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.21639,35.82778,0.21639,35.82778",
+    "geom:latitude":35.82778,
+    "geom:longitude":0.21639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Bekairia",
+    "gn:country_code":"DZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579636,
+    "gn:latitude":35.82778,
+    "gn:longitude":0.21639,
+    "gn:modification_date":"1997-03-21",
+    "gn:name":"Douar Beka\u00efria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579636
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c097b64fe5b6eac3bbae26604e982e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293381683,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1293381683,
+    "wof:lastmodified":1536940268,
+    "wof:name":"Douar Bekairia",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.21639,
+    35.82778,
+    0.21639,
+    35.82778
+],
+  "geometry": {"coordinates":[0.21639,35.82778],"type":"Point"}
+}

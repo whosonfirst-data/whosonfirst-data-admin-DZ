@@ -1,0 +1,65 @@
+{
+  "id": 1292939841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77979,36.16862,4.77979,36.16862",
+    "geom:latitude":36.16862,
+    "geom:longitude":4.77979,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Oulad Mahamel",
+    "gn:country_code":"DZ",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485226,
+    "gn:latitude":36.16862,
+    "gn:longitude":4.77979,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Mahamel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485226
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2928cdbd16303472311daf5ec57851a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292939841,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1292939841,
+    "wof:lastmodified":1537076508,
+    "wof:name":"Oulad Mahamel",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77979,
+    36.16862,
+    4.77979,
+    36.16862
+],
+  "geometry": {"coordinates":[4.77979,36.16862],"type":"Point"}
+}

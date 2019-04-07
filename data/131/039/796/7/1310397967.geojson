@@ -1,0 +1,65 @@
+{
+  "id": 1310397967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.22329,36.3611,3.22329,36.3611",
+    "geom:latitude":36.3611,
+    "geom:longitude":3.22329,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Koulla",
+    "gn:country_code":"DZ",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484869,
+    "gn:latitude":36.3611,
+    "gn:longitude":3.22329,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Koulla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484869
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0fd88ed7e02325d69ca7bbadd21118c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310397967,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1310397967,
+    "wof:lastmodified":1537069135,
+    "wof:name":"Ouled Koulla",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.22329,
+    36.3611,
+    3.22329,
+    36.3611
+],
+  "geometry": {"coordinates":[3.22329,36.3611],"type":"Point"}
+}

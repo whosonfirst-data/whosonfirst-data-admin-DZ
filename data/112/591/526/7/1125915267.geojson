@@ -1,0 +1,113 @@
+{
+  "id": 1125915267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8996,35.57272,-0.8996,35.57272",
+    "geom:latitude":35.57272,
+    "geom:longitude":-0.8996,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26144,
+    "gn:population":26144,
+    "iso:country":"DZ",
+    "lbl:latitude":35.57272,
+    "lbl:longitude":-0.8996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0644\u064a\u0644\u064a\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Boutl\u00e9lis"
+    ],
+    "name:eng_x_preferred":[
+        "Boutl\u00e9lis"
+    ],
+    "name:fre_x_preferred":[
+        "Boutlelis"
+    ],
+    "name:ita_x_preferred":[
+        "Boutlelis"
+    ],
+    "name:kab_x_preferred":[
+        "Butlilis"
+    ],
+    "name:may_x_preferred":[
+        "Boutl\u00e9lis"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u062a\u0644\u06cc\u0644\u06cc\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Boutl\u00e9lis"
+    ],
+    "name:rum_x_preferred":[
+        "Boutlelis"
+    ],
+    "name:spa_x_preferred":[
+        "Boutl\u00e9lis"
+    ],
+    "name:vie_x_preferred":[
+        "Boutlelis"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2502239,
+    "qs_pg:gn_pop":26144,
+    "qs_pg:name":"Bou Tlelis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1036024,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502239,
+        "qs_pg:id":1036024,
+        "wd:id":"Q2922617"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497296296,
+    "wof:geomhash":"76d356eab3c2b8179185fcdc127f0d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125915267,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1125915267,
+    "wof:lastmodified":1513956020,
+    "wof:name":"Bou Tlelis",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:population":26144,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8996,
+    35.57272,
+    -0.8996,
+    35.57272
+],
+  "geometry": {"coordinates":[-0.8996,35.57272],"type":"Point"}
+}

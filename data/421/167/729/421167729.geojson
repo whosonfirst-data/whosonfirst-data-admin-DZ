@@ -1,0 +1,124 @@
+{
+  "id": 421167729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.16383,34.84146,4.16383,34.84146",
+    "geom:latitude":34.84146,
+    "geom:longitude":4.16383,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0645\u0644\u062d"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0645\u0644\u062d"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn El Melh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u044d\u043b\u044c-\u041c\u0435\u043b\u044c\u0445"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Melah"
+    ],
+    "name:vie_x_preferred":[
+        "Ain El Melh"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508130,
+    "qs:gn_pop":39798,
+    "qs:name":"'Ain el Melh",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0645\u0633\u064a\u0644\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":140250,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252781,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508130,
+        "gp:id":1252781,
+        "qs:id":140250,
+        "wd:id":"Q1649756"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008741,
+    "wof:geomhash":"6bc8319ec8e2bc9659a3582aeda91787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421167729,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":421167729,
+    "wof:lastmodified":1527716163,
+    "wof:name":"'Ain el Melh",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:population":39798,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16383,
+    34.84146,
+    4.16383,
+    34.84146
+],
+  "geometry": {"coordinates":[4.16383,34.84146],"type":"Point"}
+}

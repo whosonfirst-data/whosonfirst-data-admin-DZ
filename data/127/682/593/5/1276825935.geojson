@@ -1,0 +1,68 @@
+{
+  "id": 1276825935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.07465,35.38938,0.07465,35.38938",
+    "geom:latitude":35.38938,
+    "geom:longitude":0.07465,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Mlaytia",
+    "gn:country_code":"DZ",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2581304,
+    "gn:latitude":35.38938,
+    "gn:longitude":0.07465,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mlaytia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ali Bel Mlati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581304
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9a92c9885b50c1df11fc5edcdae9a2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276825935,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1276825935,
+    "wof:lastmodified":1537620274,
+    "wof:name":"Mlaytia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.07465,
+    35.38938,
+    0.07465,
+    35.38938
+],
+  "geometry": {"coordinates":[0.07465,35.38938],"type":"Point"}
+}

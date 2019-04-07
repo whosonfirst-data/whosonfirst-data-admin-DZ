@@ -1,0 +1,70 @@
+{
+  "id": 1360145919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.73333,35.78333,7.73333,35.78333",
+    "geom:latitude":35.78333,
+    "geom:longitude":7.73333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Bhir ech Chergui",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489716,
+    "gn:latitude":35.78333,
+    "gn:longitude":7.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Bh\u00eer ech Chergu\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta el Behira ech Chergui",
+        "Mechta Bh\u00eer ech Chergu\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489716
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"546282e9a7a04f173fd4e71af8854f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360145919,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1360145919,
+    "wof:lastmodified":1537620168,
+    "wof:name":"Mechta Bhir ech Chergui",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.73333,
+    35.78333,
+    7.73333,
+    35.78333
+],
+  "geometry": {"coordinates":[7.73333,35.78333],"type":"Point"}
+}

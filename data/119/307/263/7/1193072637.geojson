@@ -1,0 +1,65 @@
+{
+  "id": 1193072637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.33877,36.22897,2.33877,36.22897",
+    "geom:latitude":36.22897,
+    "geom:longitude":2.33877,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hellil",
+    "gn:country_code":"DZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432035,
+    "gn:latitude":36.22897,
+    "gn:longitude":2.33877,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Hellil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432035
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8ee9b2b96c6dad6ee14bf4c8a08ef6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193072637,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1193072637,
+    "wof:lastmodified":1536366448,
+    "wof:name":"Hellil",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.33877,
+    36.22897,
+    2.33877,
+    36.22897
+],
+  "geometry": {"coordinates":[2.33877,36.22897],"type":"Point"}
+}

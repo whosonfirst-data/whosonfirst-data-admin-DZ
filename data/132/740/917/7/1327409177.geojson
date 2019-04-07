@@ -1,0 +1,71 @@
+{
+  "id": 1327409177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90894,34.4264,5.90894,34.4264",
+    "geom:latitude":34.4264,
+    "geom:longitude":5.90894,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bordj de Chegga",
+    "gn:country_code":"DZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503686,
+    "gn:latitude":34.4264,
+    "gn:longitude":5.90894,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bordj de Chegga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj Chegga",
+        "Borj Chegga",
+        "Chegga",
+        "Bordj de Chegga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503686
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"22291d5ad55e0fdeb1ad6b998c7e9189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327409177,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1327409177,
+    "wof:lastmodified":1537620239,
+    "wof:name":"Bordj de Chegga",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90894,
+    34.4264,
+    5.90894,
+    34.4264
+],
+  "geometry": {"coordinates":[5.90894,34.4264],"type":"Point"}
+}

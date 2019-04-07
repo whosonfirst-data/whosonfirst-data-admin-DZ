@@ -1,0 +1,69 @@
+{
+  "id": 1344053919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.7182,36.32606,0.7182,36.32606",
+    "geom:latitude":36.32606,
+    "geom:longitude":0.7182,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Behara",
+    "gn:country_code":"DZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498535,
+    "gn:latitude":36.32606,
+    "gn:longitude":0.7182,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Behara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Behara",
+        "El Behara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498535
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8b7610b4fe36d083e325738baf93b49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344053919,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1344053919,
+    "wof:lastmodified":1537620202,
+    "wof:name":"El Behara",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.7182,
+    36.32606,
+    0.7182,
+    36.32606
+],
+  "geometry": {"coordinates":[0.7182,36.32606],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225808427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.72001,36.46867,4.72001,36.46867",
+    "geom:latitude":36.46867,
+    "geom:longitude":4.72001,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tachaouef",
+    "gn:country_code":"DZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478948,
+    "gn:latitude":36.46867,
+    "gn:longitude":4.72001,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tachaouef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478948
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"673abfb275d97bf480569bf96e9fb313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225808427,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1225808427,
+    "wof:lastmodified":1537064807,
+    "wof:name":"Tachaouef",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.72001,
+    36.46867,
+    4.72001,
+    36.46867
+],
+  "geometry": {"coordinates":[4.72001,36.46867],"type":"Point"}
+}

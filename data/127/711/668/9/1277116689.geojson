@@ -1,0 +1,65 @@
+{
+  "id": 1277116689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.52484,35.17399,-1.52484,35.17399",
+    "geom:latitude":35.17399,
+    "geom:longitude":-1.52484,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Oulad Tirbane",
+    "gn:country_code":"DZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485104,
+    "gn:latitude":35.17399,
+    "gn:longitude":-1.52484,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Tirbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485104
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2f67e6f486cba0a922e7d94844440403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277116689,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1277116689,
+    "wof:lastmodified":1536719005,
+    "wof:name":"Oulad Tirbane",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.52484,
+    35.17399,
+    -1.52484,
+    35.17399
+],
+  "geometry": {"coordinates":[-1.52484,35.17399],"type":"Point"}
+}

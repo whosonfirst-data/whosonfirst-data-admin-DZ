@@ -1,0 +1,65 @@
+{
+  "id": 1277145217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58844,36.56059,5.58844,36.56059",
+    "geom:latitude":36.56059,
+    "geom:longitude":5.58844,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zra el Mial",
+    "gn:country_code":"DZ",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474186,
+    "gn:latitude":36.56059,
+    "gn:longitude":5.58844,
+    "gn:modification_date":"1994-09-20",
+    "gn:name":"Zra el Mial",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474186
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"76dd8789dfa36a1f21d83ed1f3b2efaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277145217,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1277145217,
+    "wof:lastmodified":1536677674,
+    "wof:name":"Zra el Mial",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58844,
+    36.56059000000001,
+    5.58844,
+    36.56059000000001
+],
+  "geometry": {"coordinates":[5.58844,36.56059000000001],"type":"Point"}
+}

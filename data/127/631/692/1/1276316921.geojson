@@ -1,0 +1,65 @@
+{
+  "id": 1276316921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53333,35.01667,0.53333,35.01667",
+    "geom:latitude":35.01667,
+    "geom:longitude":0.53333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tenira",
+    "gn:country_code":"DZ",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477100,
+    "gn:latitude":35.01667,
+    "gn:longitude":0.53333,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tenira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477100
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"971f1da397c7ac0a3114e924b8dc6603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276316921,
+            "region_id":85670797
+        }
+    ],
+    "wof:id":1276316921,
+    "wof:lastmodified":1536800781,
+    "wof:name":"Tenira",
+    "wof:parent_id":85670797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53333,
+    35.01667,
+    0.53333,
+    35.01667
+],
+  "geometry": {"coordinates":[0.53333,35.01667],"type":"Point"}
+}

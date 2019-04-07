@@ -1,0 +1,67 @@
+{
+  "id": 890435755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18665,35.97999,4.18665,35.97999",
+    "geom:latitude":35.97999,
+    "geom:longitude":4.18665,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":25701,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Souk el Tleta"
+    ],
+    "qs:name":"Melouza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488202,
+        "gp:id":1253506,
+        "qs:id":1035971
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052080,
+    "wof:geomhash":"498b3c1bde47bfeec17bfbd672386698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435755,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":890435755,
+    "wof:lastmodified":1505343549,
+    "wof:name":"Melouza",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:population":25701,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18665,
+    35.97999,
+    4.18665,
+    35.97999
+],
+  "geometry": {"coordinates":[4.18665,35.97999],"type":"Point"}
+}

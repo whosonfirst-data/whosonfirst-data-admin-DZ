@@ -1,0 +1,69 @@
+{
+  "id": 1209861039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16982,27.88292,1.16982,27.88292",
+    "geom:latitude":27.88292,
+    "geom:longitude":1.16982,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"I-n-Belbel",
+    "gn:country_code":"DZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493317,
+    "gn:latitude":27.88292,
+    "gn:longitude":1.16982,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"I-n-Belbel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar in Belbel",
+        "I-n-Belbel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493317
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f62716cc0d95b9c3aa056b7b1a40c12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209861039,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1209861039,
+    "wof:lastmodified":1537620182,
+    "wof:name":"I-n-Belbel",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16982,
+    27.88292,
+    1.16982,
+    27.88292
+],
+  "geometry": {"coordinates":[1.16982,27.88292],"type":"Point"}
+}

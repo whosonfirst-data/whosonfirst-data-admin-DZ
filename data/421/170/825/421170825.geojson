@@ -1,0 +1,121 @@
+{
+  "id": 421170825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29452,36.29837,5.29452,36.29837",
+    "geom:latitude":36.29837,
+    "geom:longitude":5.29452,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0639\u0628\u0627\u0633\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in \u0190ebbasa"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0639\u0628\u0627\u0633\u0647"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Abessa"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Abessa"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Abessa"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508311,
+    "qs:gn_pop":0,
+    "qs:name":"'Ain Abessa",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Setif",
+    "qs:photos":82,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":82,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266844,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252713,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508311,
+        "gp:id":1252713,
+        "qs:id":266844,
+        "wd:id":"Q2876247"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008870,
+    "wof:geomhash":"505e851fb2461e6c118a09d87383782f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421170825,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":421170825,
+    "wof:lastmodified":1527716471,
+    "wof:name":"'Ain Abessa",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29452,
+    36.29837,
+    5.29452,
+    36.29837
+],
+  "geometry": {"coordinates":[5.29452,36.29837],"type":"Point"}
+}

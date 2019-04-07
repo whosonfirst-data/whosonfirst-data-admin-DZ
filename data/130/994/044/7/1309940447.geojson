@@ -1,0 +1,65 @@
+{
+  "id": 1309940447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4144,35.52361,7.4144,35.52361",
+    "geom:latitude":35.52361,
+    "geom:longitude":7.4144,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Machta Haltoufa",
+    "gn:country_code":"DZ",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593175,
+    "gn:latitude":35.52361,
+    "gn:longitude":7.4144,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Machta Haltoufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593175
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2c4c613274582581cf16b36f325a0970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309940447,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1309940447,
+    "wof:lastmodified":1536737095,
+    "wof:name":"Machta Haltoufa",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4144,
+    35.52361,
+    7.4144,
+    35.52361
+],
+  "geometry": {"coordinates":[7.4144,35.52361],"type":"Point"}
+}

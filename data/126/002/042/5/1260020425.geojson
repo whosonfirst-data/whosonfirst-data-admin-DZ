@@ -1,0 +1,65 @@
+{
+  "id": 1260020425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.40824,36.2467,2.40824,36.2467",
+    "geom:latitude":36.2467,
+    "geom:longitude":2.40824,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Zouambia",
+    "gn:country_code":"DZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432917,
+    "gn:latitude":36.2467,
+    "gn:longitude":2.40824,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Zouambia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432917
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c025ce2f26899ef29d8b30cacb50a0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260020425,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1260020425,
+    "wof:lastmodified":1537075687,
+    "wof:name":"Douar Zouambia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.40824,
+    36.2467,
+    2.40824,
+    36.2467
+],
+  "geometry": {"coordinates":[2.40824,36.2467],"type":"Point"}
+}

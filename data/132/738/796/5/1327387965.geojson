@@ -1,0 +1,70 @@
+{
+  "id": 1327387965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.17435,28.20775,-0.17435,28.20775",
+    "geom:latitude":28.20775,
+    "geom:longitude":-0.17435,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Sbaa",
+    "gn:country_code":"DZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482329,
+    "gn:latitude":28.20775,
+    "gn:longitude":-0.17435,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sbaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sba",
+        "Sbaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482329,
+        "wk:page":"Sbaa"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"db400d8ce45ddc6605894a8ff29f35d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327387965,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1327387965,
+    "wof:lastmodified":1537620115,
+    "wof:name":"Sbaa",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.17435,
+    28.20775,
+    -0.17435,
+    28.20775
+],
+  "geometry": {"coordinates":[-0.17435,28.20775],"type":"Point"}
+}

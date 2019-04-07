@@ -1,0 +1,65 @@
+{
+  "id": 1292979787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.12945,36.87146,4.12945,36.87146",
+    "geom:latitude":36.87146,
+    "geom:longitude":4.12945,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cheurfa",
+    "gn:country_code":"DZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501349,
+    "gn:latitude":36.87146,
+    "gn:longitude":4.12945,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cheurfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501349
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7eda03d2c88d4bc4adb708a917740b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292979787,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1292979787,
+    "wof:lastmodified":1537021018,
+    "wof:name":"Cheurfa",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.12945,
+    36.87146,
+    4.12945,
+    36.87146
+],
+  "geometry": {"coordinates":[4.12945,36.87146],"type":"Point"}
+}

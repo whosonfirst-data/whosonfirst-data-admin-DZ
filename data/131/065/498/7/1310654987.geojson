@@ -1,0 +1,69 @@
+{
+  "id": 1310654987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56964,35.99078,4.56964,35.99078",
+    "geom:latitude":35.99078,
+    "geom:longitude":4.56964,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ouarassene",
+    "gn:country_code":"DZ",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485803,
+    "gn:latitude":35.99078,
+    "gn:longitude":4.56964,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouarassene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouaracene",
+        "Ouarassene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485803
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"485646660ac0c297f813eea9fec7d531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310654987,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1310654987,
+    "wof:lastmodified":1537620135,
+    "wof:name":"Ouarassene",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56964,
+    35.99078,
+    4.56964,
+    35.99078
+],
+  "geometry": {"coordinates":[4.56964,35.99078],"type":"Point"}
+}

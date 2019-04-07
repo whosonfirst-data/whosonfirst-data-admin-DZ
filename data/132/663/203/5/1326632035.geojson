@@ -1,0 +1,65 @@
+{
+  "id": 1326632035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23306,35.11868,6.23306,35.11868",
+    "geom:latitude":35.11868,
+    "geom:longitude":6.23306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rounda",
+    "gn:country_code":"DZ",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482844,
+    "gn:latitude":35.11868,
+    "gn:longitude":6.23306,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Rounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482844
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f92731f7b5bd0b924ff131955a1b0dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326632035,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1326632035,
+    "wof:lastmodified":1536839058,
+    "wof:name":"Rounda",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23306,
+    35.11868,
+    6.23306,
+    35.11868
+],
+  "geometry": {"coordinates":[6.23306,35.11868],"type":"Point"}
+}

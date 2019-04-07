@@ -1,0 +1,68 @@
+{
+  "id": 1276259647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53556,36.78611,8.53556,36.78611",
+    "geom:latitude":36.78611,
+    "geom:longitude":8.53556,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Roum es Souk",
+    "gn:country_code":"DZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482856,
+    "gn:latitude":36.78611,
+    "gn:longitude":8.53556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Roum es So\u00fbk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roum er Souk",
+        "Roum-el Souk",
+        "Roum es So\u00fbk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482856
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"be162f7b2b7bdac7c785608a430404e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276259647,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276259647,
+    "wof:lastmodified":1537620116,
+    "wof:name":"Roum es Souk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53556,
+    36.78611,
+    8.53556,
+    36.78611
+],
+  "geometry": {"coordinates":[8.53556,36.78611],"type":"Point"}
+}

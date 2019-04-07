@@ -1,0 +1,65 @@
+{
+  "id": 1209772529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68919,35.43216,0.68919,35.43216",
+    "geom:latitude":35.43216,
+    "geom:longitude":0.68919,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ezzrakna",
+    "gn:country_code":"DZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489843,
+    "gn:latitude":35.43216,
+    "gn:longitude":0.68919,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ezzrakna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489843
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"75912301b6572406b350ff008edcb3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209772529,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1209772529,
+    "wof:lastmodified":1536382338,
+    "wof:name":"Ezzrakna",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68919,
+    35.43216,
+    0.68919,
+    35.43216
+],
+  "geometry": {"coordinates":[0.68919,35.43216],"type":"Point"}
+}

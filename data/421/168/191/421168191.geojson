@@ -1,0 +1,131 @@
+{
+  "id": 421168191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.37845,34.72224,5.37845,34.72224",
+    "geom:latitude":34.72224,
+    "geom:longitude":5.37845,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0644\u0642\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Tolga"
+    ],
+    "name:dut_x_preferred":[
+        "Tolga"
+    ],
+    "name:eng_x_preferred":[
+        "Tolga"
+    ],
+    "name:fra_x_preferred":[
+        "Tolga"
+    ],
+    "name:fre_x_preferred":[
+        "Tolga"
+    ],
+    "name:hun_x_preferred":[
+        "Tolga"
+    ],
+    "name:ita_x_preferred":[
+        "Tolga"
+    ],
+    "name:kab_x_preferred":[
+        "\u1e6culga"
+    ],
+    "name:may_x_preferred":[
+        "Tolga"
+    ],
+    "name:msa_x_preferred":[
+        "Tolga"
+    ],
+    "name:por_x_preferred":[
+        "Tolga"
+    ],
+    "name:ron_x_preferred":[
+        "Tolga"
+    ],
+    "name:rum_x_preferred":[
+        "Tolga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tolga"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tolga"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2475612,
+    "qs:gn_pop":68246,
+    "qs:name":"Tolga",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0633\u0643\u0631\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1035911,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257903,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475612,
+        "gp:id":1257903,
+        "qs:id":1035911,
+        "wd:id":"Q2280394",
+        "wk:page":"Tolga, Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008757,
+    "wof:geomhash":"b35b05bafc66a44f42ba5e6900046804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421168191,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":421168191,
+    "wof:lastmodified":1553816356,
+    "wof:name":"Tolga",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:population":68246,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37845,
+    34.72224,
+    5.37845,
+    34.72224
+],
+  "geometry": {"coordinates":[5.37845,34.72224],"type":"Point"}
+}

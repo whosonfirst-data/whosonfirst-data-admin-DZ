@@ -1,0 +1,65 @@
+{
+  "id": 1209970635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21012,27.25193,-0.21012,27.25193",
+    "geom:latitude":27.25193,
+    "geom:longitude":-0.21012,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Oulad el Hadj Bordja",
+    "gn:country_code":"DZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485280,
+    "gn:latitude":27.25193,
+    "gn:longitude":-0.21012,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad el Hadj Bordja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485280
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5f41b8d15c7d5f638c1251176880ad45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209970635,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1209970635,
+    "wof:lastmodified":1536395195,
+    "wof:name":"Oulad el Hadj Bordja",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21012,
+    27.25193,
+    -0.21012,
+    27.25193
+],
+  "geometry": {"coordinates":[-0.21012,27.25193],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276635669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7488,36.26493,5.7488,36.26493",
+    "geom:latitude":36.26493,
+    "geom:longitude":5.7488,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta Oulad Cherf",
+    "gn:country_code":"DZ",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489406,
+    "gn:latitude":36.26493,
+    "gn:longitude":5.7488,
+    "gn:modification_date":"1994-09-20",
+    "gn:name":"Mechta Oulad Cherf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489406
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3d7a416307d88dc7e1214152dc2f31c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276635669,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1276635669,
+    "wof:lastmodified":1536869826,
+    "wof:name":"Mechta Oulad Cherf",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7488,
+    36.26493,
+    5.7488,
+    36.26493
+],
+  "geometry": {"coordinates":[5.7488,36.26493],"type":"Point"}
+}

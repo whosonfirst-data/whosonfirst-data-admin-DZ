@@ -1,0 +1,74 @@
+{
+  "id": 421181637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.10118,36.70945,3.10118,36.70945",
+    "geom:latitude":36.70945,
+    "geom:longitude":3.10118,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2491072,
+    "qs:gn_pop":0,
+    "qs:name":"La Montagne",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":496836,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255268,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491072,
+        "gp:id":1255268,
+        "qs:id":496836
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009302,
+    "wof:geomhash":"5090f43e0d6844dd1d507e048fa1edd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421181637,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":421181637,
+    "wof:lastmodified":1531858470,
+    "wof:name":"La Montagne",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.10118,
+    36.70945,
+    3.10118,
+    36.70945
+],
+  "geometry": {"coordinates":[3.10118,36.70945],"type":"Point"}
+}

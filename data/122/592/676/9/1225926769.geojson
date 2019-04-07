@@ -1,0 +1,70 @@
+{
+  "id": 1225926769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0307,34.96683,-2.0307,34.96683",
+    "geom:latitude":34.96683,
+    "geom:longitude":-2.0307,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bab el Assa",
+    "gn:country_code":"DZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505860,
+    "gn:latitude":34.96683,
+    "gn:longitude":-2.0307,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bab el Assa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bab el Hassa",
+        "Bab el Assa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505860,
+        "wk:page":"Bab_El_Assa"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5e39eb727f30ad8d3dbc4857ac263a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225926769,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1225926769,
+    "wof:lastmodified":1537620248,
+    "wof:name":"Bab el Assa",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0307,
+    34.96683,
+    -2.0307,
+    34.96683
+],
+  "geometry": {"coordinates":[-2.0307,34.96683],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344188125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.87902,35.86632,0.87902,35.86632",
+    "geom:latitude":35.86632,
+    "geom:longitude":0.87902,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Lahmar",
+    "gn:country_code":"DZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580524,
+    "gn:latitude":35.86632,
+    "gn:longitude":0.87902,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lahmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat el Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580524
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"01e97451c1dc8ec779f062b4a39c12c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344188125,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1344188125,
+    "wof:lastmodified":1537620272,
+    "wof:name":"Lahmar",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.87902,
+    35.86632,
+    0.87902,
+    35.86632
+],
+  "geometry": {"coordinates":[0.87902,35.86632],"type":"Point"}
+}

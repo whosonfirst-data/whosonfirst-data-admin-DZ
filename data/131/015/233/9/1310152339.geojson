@@ -1,0 +1,69 @@
+{
+  "id": 1310152339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.45264,35.23279,-0.45264,35.23279",
+    "geom:latitude":35.23279,
+    "geom:longitude":-0.45264,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Douar Ouled Bachir",
+    "gn:country_code":"DZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499287,
+    "gn:latitude":35.23279,
+    "gn:longitude":-0.45264,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Ouled Bachir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Bachir",
+        "Douar Ouled Bachir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499287
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7bd972570b3e4bcb734db9159ed4c7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310152339,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1310152339,
+    "wof:lastmodified":1537620210,
+    "wof:name":"Douar Ouled Bachir",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.45264,
+    35.23279,
+    -0.45264,
+    35.23279
+],
+  "geometry": {"coordinates":[-0.45264,35.23279],"type":"Point"}
+}

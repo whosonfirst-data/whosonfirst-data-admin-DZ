@@ -1,0 +1,65 @@
+{
+  "id": 1343704759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.65944,36.79222,7.65944,36.79222",
+    "geom:latitude":36.79222,
+    "geom:longitude":7.65944,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sidi Kailani",
+    "gn:country_code":"DZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570549,
+    "gn:latitude":36.79222,
+    "gn:longitude":7.65944,
+    "gn:modification_date":"1996-01-16",
+    "gn:name":"Sidi Kailani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570549
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"775b1495c7c6a1b8a61184ad9172994a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343704759,
+            "region_id":85670713
+        }
+    ],
+    "wof:id":1343704759,
+    "wof:lastmodified":1536890899,
+    "wof:name":"Sidi Kailani",
+    "wof:parent_id":85670713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.65944,
+    36.79222,
+    7.65944,
+    36.79222
+],
+  "geometry": {"coordinates":[7.65944,36.79222],"type":"Point"}
+}

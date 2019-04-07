@@ -1,0 +1,70 @@
+{
+  "id": 1226580299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15,36.43333,6.15,36.43333",
+    "geom:latitude":36.43333,
+    "geom:longitude":6.15,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Seragna",
+    "gn:country_code":"DZ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481787,
+    "gn:latitude":36.43333,
+    "gn:longitude":6.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Seragna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seraghna",
+        "Serarhna",
+        "Seragna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481787
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"14ac2ed1a34fe140442515127c053450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226580299,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1226580299,
+    "wof:lastmodified":1537620114,
+    "wof:name":"Seragna",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15,
+    36.43333,
+    6.15,
+    36.43333
+],
+  "geometry": {"coordinates":[6.15,36.43333],"type":"Point"}
+}

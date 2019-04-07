@@ -1,0 +1,70 @@
+{
+  "id": 1343994319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95527,33.44542,5.95527,33.44542",
+    "geom:latitude":33.44542,
+    "geom:longitude":5.95527,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tamerna Djedida",
+    "gn:country_code":"DZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478131,
+    "gn:latitude":33.44542,
+    "gn:longitude":5.95527,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tamerna Djedida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamerna",
+        "Tamerna Djedida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478131,
+        "wk:page":"Tamerna_Djedida"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"29f36b9e3b6f91b385d4cf624267fee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343994319,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1343994319,
+    "wof:lastmodified":1537620104,
+    "wof:name":"Tamerna Djedida",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95527,
+    33.44542,
+    5.95527,
+    33.44542
+],
+  "geometry": {"coordinates":[5.95527,33.44542],"type":"Point"}
+}

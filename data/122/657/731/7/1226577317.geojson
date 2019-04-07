@@ -1,0 +1,65 @@
+{
+  "id": 1226577317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.84889,35.71145,0.84889,35.71145",
+    "geom:latitude":35.71145,
+    "geom:longitude":0.84889,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Chouala",
+    "gn:country_code":"DZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417630,
+    "gn:latitude":35.71145,
+    "gn:longitude":0.84889,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Chouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417630
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f03da84b2b68ef9c075425e4cd93eca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226577317,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1226577317,
+    "wof:lastmodified":1536954138,
+    "wof:name":"Douar Chouala",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.84889,
+    35.71145,
+    0.84889,
+    35.71145
+],
+  "geometry": {"coordinates":[0.84889,35.71145],"type":"Point"}
+}

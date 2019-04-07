@@ -1,0 +1,61 @@
+{
+  "id": 1209351151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.44229,36.38613,1.44229,36.38613",
+    "geom:latitude":36.38613,
+    "geom:longitude":1.44229,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar G'ni",
+    "gn:country_code":"DZ",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572557,
+    "gn:latitude":36.38613,
+    "gn:longitude":1.44229,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar G\u2019ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572557
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2cc4f885e24b97d7cf97c4e7b2795fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209351151
+        }
+    ],
+    "wof:id":1209351151,
+    "wof:lastmodified":1536289737,
+    "wof:name":"Douar G'ni",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.44229,
+    36.38613,
+    1.44229,
+    36.38613
+],
+  "geometry": {"coordinates":[1.44229,36.38613],"type":"Point"}
+}

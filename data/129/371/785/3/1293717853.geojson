@@ -1,0 +1,65 @@
+{
+  "id": 1293717853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5372,36.05169,1.5372,36.05169",
+    "geom:latitude":36.05169,
+    "geom:longitude":1.5372,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Beni Bouateb",
+    "gn:country_code":"DZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7525124,
+    "gn:latitude":36.05169,
+    "gn:longitude":1.5372,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Beni Bouateb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525124
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d13be8abcc0737b711c928ab90ab539a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293717853,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1293717853,
+    "wof:lastmodified":1536952597,
+    "wof:name":"Beni Bouateb",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5372,
+    36.05169,
+    1.5372,
+    36.05169
+],
+  "geometry": {"coordinates":[1.5372,36.05169],"type":"Point"}
+}

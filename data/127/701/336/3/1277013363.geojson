@@ -1,0 +1,65 @@
+{
+  "id": 1277013363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.1553,23.43853,6.1553,23.43853",
+    "geom:latitude":23.43853,
+    "geom:longitude":6.1553,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Tiokine",
+    "gn:country_code":"DZ",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2476076,
+    "gn:latitude":23.43853,
+    "gn:longitude":6.1553,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tiokine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476076
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"512bd0ed7ee95d6b1daa7bd1d6a94864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277013363,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1277013363,
+    "wof:lastmodified":1536860869,
+    "wof:name":"Tiokine",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1553,
+    23.43853,
+    6.1553,
+    23.43853
+],
+  "geometry": {"coordinates":[6.1553,23.43853],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209817325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.50112,35.67516,6.50112,35.67516",
+    "geom:latitude":35.67516,
+    "geom:longitude":6.50112,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Guimel",
+    "gn:country_code":"DZ",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489550,
+    "gn:latitude":35.67516,
+    "gn:longitude":6.50112,
+    "gn:modification_date":"1997-03-04",
+    "gn:name":"Mechta Guimel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489550
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d0c74da0c6d5c56c486537890ffbfca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209817325,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1209817325,
+    "wof:lastmodified":1536382506,
+    "wof:name":"Mechta Guimel",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.50112,
+    35.67516,
+    6.50112,
+    35.67516
+],
+  "geometry": {"coordinates":[6.50112,35.67516],"type":"Point"}
+}

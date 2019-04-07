@@ -1,0 +1,72 @@
+{
+  "id": 1293884123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.70418,36.18392,6.70418,36.18392",
+    "geom:latitude":36.18392,
+    "geom:longitude":6.70418,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ouled Rahmoun",
+    "gn:country_code":"DZ",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484824,
+    "gn:latitude":36.18392,
+    "gn:longitude":6.70418,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Rahmoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auled Ramoun",
+        "Ouled Rhmoun",
+        "Ouled Rhamoun",
+        "Ouled Rahmoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484824,
+        "wk:page":"Ouled_Rahmoun"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"11f09029197c9e004550e7e393265e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293884123,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1293884123,
+    "wof:lastmodified":1537620123,
+    "wof:name":"Ouled Rahmoun",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.70418,
+    36.18392,
+    6.70418,
+    36.18392
+],
+  "geometry": {"coordinates":[6.70418,36.18392],"type":"Point"}
+}

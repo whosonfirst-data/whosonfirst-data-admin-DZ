@@ -1,0 +1,62 @@
+{
+  "id": 1209658037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97452,29.94347,-1.97452,29.94347",
+    "geom:latitude":29.94347,
+    "geom:longitude":-1.97452,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Bechir",
+    "gn:country_code":"DZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505518,
+    "gn:latitude":29.94347,
+    "gn:longitude":-1.97452,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Bechir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505518,
+        "wk:page":"B%C3%A9chir"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"714fa83b170872a7bc7d6a4d015b4f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209658037
+        }
+    ],
+    "wof:id":1209658037,
+    "wof:lastmodified":1537504304,
+    "wof:name":"Bechir",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97452,
+    29.94347,
+    -1.97452,
+    29.94347
+],
+  "geometry": {"coordinates":[-1.97452,29.94347],"type":"Point"}
+}

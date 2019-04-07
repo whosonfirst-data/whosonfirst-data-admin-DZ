@@ -1,0 +1,70 @@
+{
+  "id": 1343550847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.5695,35.64785,-0.5695,35.64785",
+    "geom:latitude":35.64785,
+    "geom:longitude":-0.5695,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"En Nedjma",
+    "gn:country_code":"DZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497269,
+    "gn:latitude":35.64785,
+    "gn:longitude":-0.5695,
+    "gn:modification_date":"2015-04-02",
+    "gn:name":"En Nedjma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u2019\u00c9toile",
+        "En Nedjma",
+        "Chteibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497269
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"05d100d242605d18d110576de7cd4988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343550847,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1343550847,
+    "wof:lastmodified":1537620193,
+    "wof:name":"En Nedjma",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5695,
+    35.64785,
+    -0.5695,
+    35.64785
+],
+  "geometry": {"coordinates":[-0.5695,35.64785],"type":"Point"}
+}

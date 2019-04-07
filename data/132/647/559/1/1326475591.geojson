@@ -1,0 +1,69 @@
+{
+  "id": 1326475591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.09396,27.0391,-0.09396,27.0391",
+    "geom:latitude":27.0391,
+    "geom:longitude":-0.09396,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tiouliline",
+    "gn:country_code":"DZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476059,
+    "gn:latitude":27.0391,
+    "gn:longitude":-0.09396,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tiouliline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiouririne",
+        "Tiouliline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476059
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1596eb5e568afc15da1faf3cbc92dde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326475591,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1326475591,
+    "wof:lastmodified":1537620096,
+    "wof:name":"Tiouliline",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.09396,
+    27.0391,
+    -0.09396,
+    27.0391
+],
+  "geometry": {"coordinates":[-0.09396,27.0391],"type":"Point"}
+}

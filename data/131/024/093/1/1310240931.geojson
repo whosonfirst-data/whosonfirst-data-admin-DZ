@@ -1,0 +1,64 @@
+{
+  "id": 1310240931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.74027,36.67166,2.74027,36.67166",
+    "geom:latitude":36.67166,
+    "geom:longitude":2.74027,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Fouka Marine",
+    "gn:country_code":"DZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496329,
+    "gn:latitude":36.67166,
+    "gn:longitude":2.74027,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Fouka Marine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496329
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fc88b3f8b1dadf74f5642cbaac2ee2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310240931,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310240931,
+    "wof:lastmodified":1536801081,
+    "wof:name":"Fouka Marine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.74027,
+    36.67166,
+    2.74027,
+    36.67166
+],
+  "geometry": {"coordinates":[2.74027,36.67166],"type":"Point"}
+}

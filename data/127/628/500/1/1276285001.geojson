@@ -1,0 +1,65 @@
+{
+  "id": 1276285001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.22545,29.01242,-0.22545,29.01242",
+    "geom:latitude":29.01242,
+    "geom:longitude":-0.22545,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Taguelzi",
+    "gn:country_code":"DZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478654,
+    "gn:latitude":29.01242,
+    "gn:longitude":-0.22545,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Taguelzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478654
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"edc3679028e674be0e63604b124407d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276285001,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1276285001,
+    "wof:lastmodified":1536842533,
+    "wof:name":"Taguelzi",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.22545,
+    29.01242,
+    -0.22545,
+    29.01242
+],
+  "geometry": {"coordinates":[-0.22545,29.01242],"type":"Point"}
+}

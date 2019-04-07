@@ -1,0 +1,65 @@
+{
+  "id": 1243595131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01804,26.88196,-0.01804,26.88196",
+    "geom:latitude":26.88196,
+    "geom:longitude":-0.01804,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Anzeglouf",
+    "gn:country_code":"DZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506941,
+    "gn:latitude":26.88196,
+    "gn:longitude":-0.01804,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Anzeglouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506941
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5675e87df8b49de637f0cedc0196ed39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243595131,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1243595131,
+    "wof:lastmodified":1537084931,
+    "wof:name":"Anzeglouf",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01804,
+    26.88196,
+    -0.01804,
+    26.88196
+],
+  "geometry": {"coordinates":[-0.01804,26.88196],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226379709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.71829,36.41541,1.71829,36.41541",
+    "geom:latitude":36.41541,
+    "geom:longitude":1.71829,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Aboucha",
+    "gn:country_code":"DZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573246,
+    "gn:latitude":36.41541,
+    "gn:longitude":1.71829,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Aboucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573246
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e2c19a9bb2b7e43409b575853b15c355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226379709,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1226379709,
+    "wof:lastmodified":1536740325,
+    "wof:name":"Aboucha",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.71829,
+    36.41541,
+    1.71829,
+    36.41541
+],
+  "geometry": {"coordinates":[1.71829,36.41541],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243108041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78303,36.02335,1.78303,36.02335",
+    "geom:latitude":36.02335,
+    "geom:longitude":1.78303,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Beni Hssen",
+    "gn:country_code":"DZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2504669,
+    "gn:latitude":36.02335,
+    "gn:longitude":1.78303,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Beni Hssen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Hassene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504669
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5b5394d0a1ee6b1089f277b426e926b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243108041,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243108041,
+    "wof:lastmodified":1537620244,
+    "wof:name":"Douar Beni Hssen",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78303,
+    36.02335,
+    1.78303,
+    36.02335
+],
+  "geometry": {"coordinates":[1.78303,36.02335],"type":"Point"}
+}

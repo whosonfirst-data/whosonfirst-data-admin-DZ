@@ -1,0 +1,103 @@
+{
+  "id": 890434649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.04945,35.06544,1.04945,35.06544",
+    "geom:latitude":35.06544,
+    "geom:longitude":1.04945,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":63319,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0646\u062f\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Frenda"
+    ],
+    "name:eng_x_preferred":[
+        "Frenda"
+    ],
+    "name:fre_x_preferred":[
+        "Frenda"
+    ],
+    "name:ger_x_preferred":[
+        "Frenda"
+    ],
+    "name:ita_x_preferred":[
+        "Frenda"
+    ],
+    "name:may_x_preferred":[
+        "Frenda"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0646\u062f\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Frenda"
+    ],
+    "name:rum_x_preferred":[
+        "Frenda"
+    ],
+    "name:swe_x_preferred":[
+        "Frenda"
+    ],
+    "name:vie_x_preferred":[
+        "Frenda"
+    ],
+    "qs:name":"Frenda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496232,
+        "gp:id":1254828,
+        "qs:id":140184,
+        "wd:id":"Q2215495",
+        "wk:page":"Frenda"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052035,
+    "wof:geomhash":"bf127a171f8d1dbb6acb09cffbdf07e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890434649,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":890434649,
+    "wof:lastmodified":1527792947,
+    "wof:name":"Frenda",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:population":63319,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.04945,
+    35.06544,
+    1.04945,
+    35.06544
+],
+  "geometry": {"coordinates":[1.04945,35.06544],"type":"Point"}
+}

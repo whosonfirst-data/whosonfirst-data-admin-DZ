@@ -1,0 +1,65 @@
+{
+  "id": 1309835011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95659,36.14012,0.95659,36.14012",
+    "geom:latitude":36.14012,
+    "geom:longitude":0.95659,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Oulad es Safi",
+    "gn:country_code":"DZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485270,
+    "gn:latitude":36.14012,
+    "gn:longitude":0.95659,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad es Safi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485270
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4a5f11248358640b6964a0fb845615f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309835011,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1309835011,
+    "wof:lastmodified":1536888726,
+    "wof:name":"Oulad es Safi",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95659,
+    36.14012,
+    0.95659,
+    36.14012
+],
+  "geometry": {"coordinates":[0.95659,36.14012],"type":"Point"}
+}

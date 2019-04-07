@@ -1,0 +1,65 @@
+{
+  "id": 1293654097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73862,36.43306,2.73862,36.43306",
+    "geom:latitude":36.43306,
+    "geom:longitude":2.73862,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mtaa el Habous",
+    "gn:country_code":"DZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486671,
+    "gn:latitude":36.43306,
+    "gn:longitude":2.73862,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mtaa el Habous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486671
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f66815a819d12d9c15e0d5e13044c96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293654097,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":1293654097,
+    "wof:lastmodified":1537042435,
+    "wof:name":"Mtaa el Habous",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73862,
+    36.43306,
+    2.73862,
+    36.43306
+],
+  "geometry": {"coordinates":[2.73862,36.43306],"type":"Point"}
+}

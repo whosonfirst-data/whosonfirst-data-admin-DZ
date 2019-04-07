@@ -1,0 +1,65 @@
+{
+  "id": 1360291675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56611,36.47944,6.56611,36.47944",
+    "geom:latitude":36.47944,
+    "geom:longitude":6.56611,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mechtat Beni Oueget",
+    "gn:country_code":"DZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573814,
+    "gn:latitude":36.47944,
+    "gn:longitude":6.56611,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Mechtat Beni Oueget",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573814
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"83e94777c53541d080e12a3ff66c8389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360291675,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1360291675,
+    "wof:lastmodified":1536647147,
+    "wof:name":"Mechtat Beni Oueget",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56611,
+    36.47944,
+    6.56611,
+    36.47944
+],
+  "geometry": {"coordinates":[6.56611,36.47944],"type":"Point"}
+}

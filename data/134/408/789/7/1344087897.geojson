@@ -1,0 +1,70 @@
+{
+  "id": 1344087897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.33389,36.10281,1.33389,36.10281",
+    "geom:latitude":36.10281,
+    "geom:longitude":1.33389,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boukaat el Moualek",
+    "gn:country_code":"DZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503740,
+    "gn:latitude":36.10281,
+    "gn:longitude":1.33389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boukaat el Moualek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Moualek",
+        "Boka\u2019et el Mou\u00e2lek",
+        "Boukaat el Moualek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503740
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2575e8cbde393d7c1199e9ab459746a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344087897,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1344087897,
+    "wof:lastmodified":1537620240,
+    "wof:name":"Boukaat el Moualek",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.33389,
+    36.10281,
+    1.33389,
+    36.10281
+],
+  "geometry": {"coordinates":[1.33389,36.10281],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242963091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.94947,35.65507,-0.94947,35.65507",
+    "geom:latitude":35.65507,
+    "geom:longitude":-0.94947,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Oulad Bou Heia",
+    "gn:country_code":"DZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485322,
+    "gn:latitude":35.65507,
+    "gn:longitude":-0.94947,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Bou He\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485322
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b8c934b84582a6fdfac29daf672a6a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242963091,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1242963091,
+    "wof:lastmodified":1537004724,
+    "wof:name":"Oulad Bou Heia",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.94947,
+    35.65507,
+    -0.94947,
+    35.65507
+],
+  "geometry": {"coordinates":[-0.94947,35.65507],"type":"Point"}
+}

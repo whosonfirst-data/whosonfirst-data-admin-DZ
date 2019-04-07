@@ -1,0 +1,69 @@
+{
+  "id": 1293338993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.00303,34.70596,8.00303,34.70596",
+    "geom:latitude":34.70596,
+    "geom:longitude":8.00303,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Djebel Onk",
+    "gn:country_code":"DZ",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500193,
+    "gn:latitude":34.70596,
+    "gn:longitude":8.00303,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Djebel Onk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Centre Minier du Djebel Onng",
+        "Djebel Onk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500193
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e4d97aeab94cf89146228f504af017b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293338993,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1293338993,
+    "wof:lastmodified":1537620225,
+    "wof:name":"Djebel Onk",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.00303,
+    34.70596,
+    8.00303,
+    34.70596
+],
+  "geometry": {"coordinates":[8.00303,34.70596],"type":"Point"}
+}

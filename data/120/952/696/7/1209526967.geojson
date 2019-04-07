@@ -1,0 +1,61 @@
+{
+  "id": 1209526967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4732,35.71524,6.4732,35.71524",
+    "geom:latitude":35.71524,
+    "geom:longitude":6.4732,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Takouist",
+    "gn:country_code":"DZ",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489190,
+    "gn:latitude":35.71524,
+    "gn:longitude":6.4732,
+    "gn:modification_date":"1997-03-04",
+    "gn:name":"Mechta Takouist",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489190
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7200fa4298e78b35356d974573c9d952",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209526967
+        }
+    ],
+    "wof:id":1209526967,
+    "wof:lastmodified":1536284404,
+    "wof:name":"Mechta Takouist",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4732,
+    35.71524,
+    6.4732,
+    35.71524
+],
+  "geometry": {"coordinates":[6.4732,35.71524],"type":"Point"}
+}

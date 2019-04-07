@@ -1,0 +1,68 @@
+{
+  "id": 1276290421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.74293,36.5176,3.74293,36.5176",
+    "geom:latitude":36.5176,
+    "geom:longitude":3.74293,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dechret Doukkane",
+    "gn:country_code":"DZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499144,
+    "gn:latitude":36.5176,
+    "gn:longitude":3.74293,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dechret Doukkane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doukkane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499144
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"88e3baf2b157fd32088b114338d3774a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276290421,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1276290421,
+    "wof:lastmodified":1537620205,
+    "wof:name":"Dechret Doukkane",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.74293,
+    36.5176,
+    3.74293,
+    36.5176
+],
+  "geometry": {"coordinates":[3.74293,36.5176],"type":"Point"}
+}

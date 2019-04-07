@@ -1,0 +1,65 @@
+{
+  "id": 1276157897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05079,36.15255,1.05079,36.15255",
+    "geom:latitude":36.15255,
+    "geom:longitude":1.05079,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Es Souala",
+    "gn:country_code":"DZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497029,
+    "gn:latitude":36.15255,
+    "gn:longitude":1.05079,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Es Souala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497029
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b2cb992aeb3d211765112eac69cdeaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276157897,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1276157897,
+    "wof:lastmodified":1537013171,
+    "wof:name":"Es Souala",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05079,
+    36.15255,
+    1.05079,
+    36.15255
+],
+  "geometry": {"coordinates":[1.05079,36.15255],"type":"Point"}
+}

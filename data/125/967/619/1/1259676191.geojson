@@ -1,0 +1,68 @@
+{
+  "id": 1259676191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98758,36.24669,2.98758,36.24669",
+    "geom:latitude":36.24669,
+    "geom:longitude":2.98758,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Sakhri",
+    "gn:country_code":"DZ",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482470,
+    "gn:latitude":36.24669,
+    "gn:longitude":2.98758,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Sakhri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakhri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482470
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dae4eb6a1a70c78a0c42aa08fe3fc39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259676191,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1259676191,
+    "wof:lastmodified":1537620115,
+    "wof:name":"Douar Sakhri",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98758,
+    36.24669,
+    2.98758,
+    36.24669
+],
+  "geometry": {"coordinates":[2.98758,36.24669],"type":"Point"}
+}

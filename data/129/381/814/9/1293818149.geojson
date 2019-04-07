@@ -1,0 +1,70 @@
+{
+  "id": 1293818149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68129,35.79776,0.68129,35.79776",
+    "geom:latitude":35.79776,
+    "geom:longitude":0.68129,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Oued el Djemaa",
+    "gn:country_code":"DZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485630,
+    "gn:latitude":35.79776,
+    "gn:longitude":0.68129,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oued el Djemaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oued Djemaa",
+        "Ferry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485630,
+        "wk:page":"Ouled_El_Djemaa"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"17220b6a8028f6c2523744ce86a4300c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293818149,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1293818149,
+    "wof:lastmodified":1537620134,
+    "wof:name":"Oued el Djemaa",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68129,
+    35.79776,
+    0.68129,
+    35.79776
+],
+  "geometry": {"coordinates":[0.68129,35.79776],"type":"Point"}
+}

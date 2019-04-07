@@ -1,0 +1,61 @@
+{
+  "id": 1209594799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98026,35.20586,0.98026,35.20586",
+    "geom:latitude":35.20586,
+    "geom:longitude":0.98026,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar Bou Khaloua",
+    "gn:country_code":"DZ",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578529,
+    "gn:latitude":35.20586,
+    "gn:longitude":0.98026,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Douar Bou Khaloua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578529
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"222295eefcc92c720f1c60113eee0184",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209594799
+        }
+    ],
+    "wof:id":1209594799,
+    "wof:lastmodified":1536282359,
+    "wof:name":"Douar Bou Khaloua",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98026,
+    35.20585999999999,
+    0.98026,
+    35.20585999999999
+],
+  "geometry": {"coordinates":[0.98026,35.20585999999999],"type":"Point"}
+}

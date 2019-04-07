@@ -1,0 +1,65 @@
+{
+  "id": 1209696085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90134,36.20538,5.90134,36.20538",
+    "geom:latitude":36.20538,
+    "geom:longitude":5.90134,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechtat el Kerakera",
+    "gn:country_code":"DZ",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489076,
+    "gn:latitude":36.20538,
+    "gn:longitude":5.90134,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat el Kerakera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta el Kerakera",
+        "Mechtat el Kerakera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489076
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0e69e3d515eddc69ed74f24a2859ce9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209696085
+        }
+    ],
+    "wof:id":1209696085,
+    "wof:lastmodified":1537620149,
+    "wof:name":"Mechtat el Kerakera",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90134,
+    36.20538,
+    5.90134,
+    36.20538
+],
+  "geometry": {"coordinates":[5.90134,36.20538],"type":"Point"}
+}

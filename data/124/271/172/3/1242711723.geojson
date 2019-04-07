@@ -1,0 +1,65 @@
+{
+  "id": 1242711723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.72005,35.72935,0.72005,35.72935",
+    "geom:latitude":35.72935,
+    "geom:longitude":0.72005,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Nouairia",
+    "gn:country_code":"DZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578274,
+    "gn:latitude":35.72935,
+    "gn:longitude":0.72005,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar Noua\u00efria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578274
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3773a4c6e640f12e69a4edccceaf08bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242711723,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1242711723,
+    "wof:lastmodified":1536869478,
+    "wof:name":"Douar Nouairia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.72005,
+    35.72935,
+    0.72005,
+    35.72935
+],
+  "geometry": {"coordinates":[0.72005,35.72935],"type":"Point"}
+}

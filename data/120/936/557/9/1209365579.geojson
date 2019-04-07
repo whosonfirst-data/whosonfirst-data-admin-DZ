@@ -1,0 +1,65 @@
+{
+  "id": 1209365579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.84333,35.68694,7.84333,35.68694",
+    "geom:latitude":35.68694,
+    "geom:longitude":7.84333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtet Garet el Baghla",
+    "gn:country_code":"DZ",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488906,
+    "gn:latitude":35.68694,
+    "gn:longitude":7.84333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtet Garet el Baghla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtet Garet el Barhla",
+        "Mechtet Garet el Baghla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488906
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d7a61305bfa41821bbb323799cb54896",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209365579
+        }
+    ],
+    "wof:id":1209365579,
+    "wof:lastmodified":1537620144,
+    "wof:name":"Mechtet Garet el Baghla",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.84333,
+    35.68694,
+    7.84333,
+    35.68694
+],
+  "geometry": {"coordinates":[7.84333,35.68694],"type":"Point"}
+}

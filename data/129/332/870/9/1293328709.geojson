@@ -1,0 +1,65 @@
+{
+  "id": 1293328709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.05527,36.66228,3.05527,36.66228",
+    "geom:latitude":36.66228,
+    "geom:longitude":3.05527,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Baba Ali",
+    "gn:country_code":"DZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505870,
+    "gn:latitude":36.66228,
+    "gn:longitude":3.05527,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Baba Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505870
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"be88eb759b4a6d4a8f07faa775b1a7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293328709,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":1293328709,
+    "wof:lastmodified":1537015223,
+    "wof:name":"Baba Ali",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.05527,
+    36.66228,
+    3.05527,
+    36.66228
+],
+  "geometry": {"coordinates":[3.05527,36.66228],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1242926949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64101,36.35128,1.64101,36.35128",
+    "geom:latitude":36.35128,
+    "geom:longitude":1.64101,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tacheta Zougagha",
+    "gn:country_code":"DZ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573227,
+    "gn:latitude":36.35128,
+    "gn:longitude":1.64101,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tacheta Zougagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573227,
+        "wk:page":"Tacheta_Zougagha"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"daf6e1983c7a5c3a9c9eca47e87503e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242926949,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1242926949,
+    "wof:lastmodified":1537504309,
+    "wof:name":"Tacheta Zougagha",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64101,
+    36.35128,
+    1.64101,
+    36.35128
+],
+  "geometry": {"coordinates":[1.64101,36.35128],"type":"Point"}
+}

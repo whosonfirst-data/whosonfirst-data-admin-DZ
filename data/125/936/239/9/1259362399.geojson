@@ -1,0 +1,65 @@
+{
+  "id": 1259362399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.31054,35.50597,2.31054,35.50597",
+    "geom:latitude":35.50597,
+    "geom:longitude":2.31054,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar Tiguiai el Aguib",
+    "gn:country_code":"DZ",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7438039,
+    "gn:latitude":35.50597,
+    "gn:longitude":2.31054,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Tiguiai el Aguib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7438039
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e49c78bdb3f5af683e6a3ff18ae71408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259362399,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1259362399,
+    "wof:lastmodified":1537031301,
+    "wof:name":"Douar Tiguiai el Aguib",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.31054,
+    35.50597,
+    2.31054,
+    35.50597
+],
+  "geometry": {"coordinates":[2.31054,35.50597],"type":"Point"}
+}

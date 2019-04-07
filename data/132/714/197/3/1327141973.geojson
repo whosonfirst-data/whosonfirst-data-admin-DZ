@@ -1,0 +1,65 @@
+{
+  "id": 1327141973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39268,35.1978,6.39268,35.1978",
+    "geom:latitude":35.1978,
+    "geom:longitude":6.39268,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bou Setta",
+    "gn:country_code":"DZ",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502332,
+    "gn:latitude":35.1978,
+    "gn:longitude":6.39268,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bou Setta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502332
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"902ef5c81bca83a5738f7345c0252970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327141973,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1327141973,
+    "wof:lastmodified":1537096820,
+    "wof:name":"Bou Setta",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39268,
+    35.1978,
+    6.39268,
+    35.1978
+],
+  "geometry": {"coordinates":[6.39268,35.1978],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 890432321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.95,33.51667,6.95,33.51667",
+    "geom:latitude":33.51667,
+    "geom:longitude":6.95,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":36834,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0628\u064a\u0644\u0629"
+    ],
+    "name:cze_x_preferred":[
+        "Debila"
+    ],
+    "name:dut_x_preferred":[
+        "Debila"
+    ],
+    "name:eng_x_preferred":[
+        "Debila"
+    ],
+    "name:fre_x_preferred":[
+        "Debila"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Debila"
+    ],
+    "name:may_x_preferred":[
+        "Debila"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0628\u06cc\u0644\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Debila"
+    ],
+    "name:rum_x_preferred":[
+        "Debila"
+    ],
+    "name:swe_x_preferred":[
+        "Debila"
+    ],
+    "name:vie_x_preferred":[
+        "Debila"
+    ],
+    "qs:name":"Debila",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":326,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500737,
+        "gp:id":1254700,
+        "qs:id":278723,
+        "wd:id":"Q3020835",
+        "wk:page":"Debila"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051936,
+    "wof:geomhash":"3405223b5514c89c9398e4d05141a220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890432321,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":890432321,
+    "wof:lastmodified":1527793043,
+    "wof:name":"Debila",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:population":36834,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.95,
+    33.51667,
+    6.95,
+    33.51667
+],
+  "geometry": {"coordinates":[6.95,33.51667],"type":"Point"}
+}

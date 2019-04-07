@@ -1,0 +1,70 @@
+{
+  "id": 1259450301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.35601,35.09824,0.35601,35.09824",
+    "geom:latitude":35.09824,
+    "geom:longitude":0.35601,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Aouf",
+    "gn:country_code":"DZ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506856,
+    "gn:latitude":35.09824,
+    "gn:longitude":0.35601,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Aouf",
+        "Aouf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506856,
+        "wk:page":"Aouf"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9e8e0e29a1c78b3c18e9182baabb796a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259450301,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1259450301,
+    "wof:lastmodified":1537620250,
+    "wof:name":"Aouf",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.35601,
+    35.09824,
+    0.35601,
+    35.09824
+],
+  "geometry": {"coordinates":[0.35601,35.09824],"type":"Point"}
+}

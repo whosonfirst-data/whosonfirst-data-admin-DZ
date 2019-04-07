@@ -1,0 +1,65 @@
+{
+  "id": 1243316991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67923,36.29613,1.67923,36.29613",
+    "geom:latitude":36.29613,
+    "geom:longitude":1.67923,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ghouali",
+    "gn:country_code":"DZ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573189,
+    "gn:latitude":36.29613,
+    "gn:longitude":1.67923,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Ghouali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573189
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c0003948f66935c7a461a1cd42a0615d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243316991,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243316991,
+    "wof:lastmodified":1536991519,
+    "wof:name":"Ghouali",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67923,
+    36.29613,
+    1.67923,
+    36.29613
+],
+  "geometry": {"coordinates":[1.67923,36.29613],"type":"Point"}
+}

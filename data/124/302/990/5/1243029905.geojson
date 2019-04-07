@@ -1,0 +1,66 @@
+{
+  "id": 1243029905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.82174,36.53833,2.82174,36.53833",
+    "geom:latitude":36.53833,
+    "geom:longitude":2.82174,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Beni Tamou",
+    "gn:country_code":"DZ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504553,
+    "gn:latitude":36.53833,
+    "gn:longitude":2.82174,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Beni Tamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504553,
+        "wk:page":"B%C3%A9ni_Tamou"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0a1f95028bdb1fcddfc84680b8988d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243029905,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":1243029905,
+    "wof:lastmodified":1537504303,
+    "wof:name":"Beni Tamou",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.82174,
+    36.53833,
+    2.82174,
+    36.53833
+],
+  "geometry": {"coordinates":[2.82174,36.53833],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293620021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64615,36.53603,1.64615,36.53603",
+    "geom:latitude":36.53603,
+    "geom:longitude":1.64615,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hanoui Aid",
+    "gn:country_code":"DZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573140,
+    "gn:latitude":36.53603,
+    "gn:longitude":1.64615,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Hanoui A\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573140
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a3d091348aaf023385ba287830001fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293620021,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1293620021,
+    "wof:lastmodified":1537090047,
+    "wof:name":"Hanoui Aid",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64615,
+    36.53603,
+    1.64615,
+    36.53603
+],
+  "geometry": {"coordinates":[1.64615,36.53603],"type":"Point"}
+}

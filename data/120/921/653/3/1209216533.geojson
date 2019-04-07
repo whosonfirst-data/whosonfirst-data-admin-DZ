@@ -1,0 +1,66 @@
+{
+  "id": 1209216533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41644,35.77457,6.41644,35.77457",
+    "geom:latitude":35.77457,
+    "geom:longitude":6.41644,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ain Yagout",
+    "gn:country_code":"DZ",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507870,
+    "gn:latitude":35.77457,
+    "gn:longitude":6.41644,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn Yagout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Yagout",
+        "A\u00efn Yagout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507870,
+        "wk:page":"A%C3%AFn_Yagout"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"90443f35dc1e5bb0bc0e0e42c01df7c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209216533
+        }
+    ],
+    "wof:id":1209216533,
+    "wof:lastmodified":1537620252,
+    "wof:name":"Ain Yagout",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41644,
+    35.77457000000001,
+    6.41644,
+    35.77457000000001
+],
+  "geometry": {"coordinates":[6.41644,35.77457000000001],"type":"Point"}
+}

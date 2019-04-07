@@ -1,0 +1,65 @@
+{
+  "id": 1293212069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.25056,35.28444,6.25056,35.28444",
+    "geom:latitude":35.28444,
+    "geom:longitude":6.25056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tletz",
+    "gn:country_code":"DZ",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475667,
+    "gn:latitude":35.28444,
+    "gn:longitude":6.25056,
+    "gn:modification_date":"1996-01-31",
+    "gn:name":"Tletz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475667
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bd7776a44c1f2fd323ff55c362c7c9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293212069,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1293212069,
+    "wof:lastmodified":1536687085,
+    "wof:name":"Tletz",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25056,
+    35.28444000000001,
+    6.25056,
+    35.28444000000001
+],
+  "geometry": {"coordinates":[6.25056,35.28444000000001],"type":"Point"}
+}

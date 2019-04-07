@@ -1,0 +1,77 @@
+{
+  "id": 421185103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.60956,35.69228,-0.60956,35.69228",
+    "geom:latitude":35.69228,
+    "geom:longitude":-0.60956,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Village Saint Eug\u00e8ne"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2482513,
+    "qs:gn_pop":0,
+    "qs:name":"Saint-Eug\u00e8ne",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018259,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257188,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482513,
+        "gp:id":1257188,
+        "qs:id":1018259
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009432,
+    "wof:geomhash":"c32c85af233792b7bae9018620d98433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421185103,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":421185103,
+    "wof:lastmodified":1531858562,
+    "wof:name":"Saint-Eug\u00e8ne",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.60956,
+    35.69228,
+    -0.60956,
+    35.69228
+],
+  "geometry": {"coordinates":[-0.60956,35.69228],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343805011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.37667,35.91444,7.37667,35.91444",
+    "geom:latitude":35.91444,
+    "geom:longitude":7.37667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Berriche",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504107,
+    "gn:latitude":35.91444,
+    "gn:longitude":7.37667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Berriche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jean-Rigal",
+        "Beridj",
+        "Berriche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504107,
+        "wk:page":"Berriche"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e0586323ec64501c7316e363adad3df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343805011,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1343805011,
+    "wof:lastmodified":1537620242,
+    "wof:name":"Berriche",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.37667,
+    35.91444,
+    7.37667,
+    35.91444
+],
+  "geometry": {"coordinates":[7.37667,35.91444],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293382487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41296,36.0912,3.41296,36.0912",
+    "geom:latitude":36.0912,
+    "geom:longitude":3.41296,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Boudaoud",
+    "gn:country_code":"DZ",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281855,
+    "gn:latitude":36.0912,
+    "gn:longitude":3.41296,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ouled Boudaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281855
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"39a844dca858af6d7b09a0b25b7ebcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293382487,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293382487,
+    "wof:lastmodified":1536939150,
+    "wof:name":"Ouled Boudaoud",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41296,
+    36.0912,
+    3.41296,
+    36.0912
+],
+  "geometry": {"coordinates":[3.41296,36.0912],"type":"Point"}
+}

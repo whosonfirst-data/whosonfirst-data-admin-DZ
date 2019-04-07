@@ -1,0 +1,61 @@
+{
+  "id": 1209362289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93996,35.4908,4.93996,35.4908",
+    "geom:latitude":35.4908,
+    "geom:longitude":4.93996,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"'Ain Kelba",
+    "gn:country_code":"DZ",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508060,
+    "gn:latitude":35.4908,
+    "gn:longitude":4.93996,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u2019A\u00efn Kelba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508060
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c601704f13957387e7e9fa87f70d08ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209362289
+        }
+    ],
+    "wof:id":1209362289,
+    "wof:lastmodified":1536289382,
+    "wof:name":"'Ain Kelba",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.93996,
+    35.4908,
+    4.93996,
+    35.4908
+],
+  "geometry": {"coordinates":[4.93996,35.4908],"type":"Point"}
+}

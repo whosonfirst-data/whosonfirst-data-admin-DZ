@@ -1,0 +1,65 @@
+{
+  "id": 1243356009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.67141,36.24204,2.67141,36.24204",
+    "geom:latitude":36.24204,
+    "geom:longitude":2.67141,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Messaoud",
+    "gn:country_code":"DZ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441641,
+    "gn:latitude":36.24204,
+    "gn:longitude":2.67141,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ouled Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441641
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a13d613296e86ba2c52263d0a196d94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243356009,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243356009,
+    "wof:lastmodified":1536936731,
+    "wof:name":"Ouled Messaoud",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.67141,
+    36.24204,
+    2.67141,
+    36.24204
+],
+  "geometry": {"coordinates":[2.67141,36.24204],"type":"Point"}
+}

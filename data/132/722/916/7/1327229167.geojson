@@ -1,0 +1,68 @@
+{
+  "id": 1327229167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.97236,36.08195,2.97236,36.08195",
+    "geom:latitude":36.08195,
+    "geom:longitude":2.97236,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Zagmouta",
+    "gn:country_code":"DZ",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474962,
+    "gn:latitude":36.08195,
+    "gn:longitude":2.97236,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Zagmouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagmota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474962
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c95f7c0ed63ddf2389020329750d9060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327229167,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1327229167,
+    "wof:lastmodified":1537620092,
+    "wof:name":"Douar Zagmouta",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.97236,
+    36.08195,
+    2.97236,
+    36.08195
+],
+  "geometry": {"coordinates":[2.97236,36.08195],"type":"Point"}
+}

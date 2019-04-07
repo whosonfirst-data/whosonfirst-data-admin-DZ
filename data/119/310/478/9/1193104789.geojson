@@ -1,0 +1,70 @@
+{
+  "id": 1193104789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.52113,33.87729,2.52113,33.87729",
+    "geom:latitude":33.87729,
+    "geom:longitude":2.52113,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tadjmout",
+    "gn:country_code":"DZ",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478840,
+    "gn:latitude":33.87729,
+    "gn:longitude":2.52113,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tadjmout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadjemout",
+        "Tadjmout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478840,
+        "wk:page":"Tadjmout"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"78bf33dc78032da41c97597cb9fe9454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193104789,
+            "region_id":85670753
+        }
+    ],
+    "wof:id":1193104789,
+    "wof:lastmodified":1537620106,
+    "wof:name":"Tadjmout",
+    "wof:parent_id":85670753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.52113,
+    33.87729,
+    2.52113,
+    33.87729
+],
+  "geometry": {"coordinates":[2.52113,33.87729],"type":"Point"}
+}

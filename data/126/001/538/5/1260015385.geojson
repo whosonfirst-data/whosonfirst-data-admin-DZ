@@ -1,0 +1,65 @@
+{
+  "id": 1260015385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94555,35.61587,1.94555,35.61587",
+    "geom:latitude":35.61587,
+    "geom:longitude":1.94555,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Chaami",
+    "gn:country_code":"DZ",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501896,
+    "gn:latitude":35.61587,
+    "gn:longitude":1.94555,
+    "gn:modification_date":"1995-12-12",
+    "gn:name":"Chaami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501896
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fc17e94a92c978c3c4ee491f3f94f066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260015385,
+            "region_id":85670805
+        }
+    ],
+    "wof:id":1260015385,
+    "wof:lastmodified":1537082838,
+    "wof:name":"Chaami",
+    "wof:parent_id":85670805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94555,
+    35.61587,
+    1.94555,
+    35.61587
+],
+  "geometry": {"coordinates":[1.94555,35.61587],"type":"Point"}
+}

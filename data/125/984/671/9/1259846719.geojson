@@ -1,0 +1,68 @@
+{
+  "id": 1259846719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50773,35.33669,0.50773,35.33669",
+    "geom:latitude":35.33669,
+    "geom:longitude":0.50773,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar el Araissia",
+    "gn:country_code":"DZ",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2581428,
+    "gn:latitude":35.33669,
+    "gn:longitude":0.50773,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Araissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Kada Ould el Hachemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581428
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ae01cac1fc20bb471fec62b5593dba41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259846719,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1259846719,
+    "wof:lastmodified":1537620274,
+    "wof:name":"Douar el Araissia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50773,
+    35.33669000000001,
+    0.50773,
+    35.33669000000001
+],
+  "geometry": {"coordinates":[0.50773,35.33669000000001],"type":"Point"}
+}

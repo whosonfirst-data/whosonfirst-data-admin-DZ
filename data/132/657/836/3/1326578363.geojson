@@ -1,0 +1,65 @@
+{
+  "id": 1326578363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95,35.51667,7.95,35.51667",
+    "geom:latitude":35.51667,
+    "geom:longitude":7.95,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechtat Haouach Raai",
+    "gn:country_code":"DZ",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489013,
+    "gn:latitude":35.51667,
+    "gn:longitude":7.95,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechtat Haouach Raa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489013
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"265f254caf7ee182c481d62b77c6ff6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326578363,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1326578363,
+    "wof:lastmodified":1536918212,
+    "wof:name":"Mechtat Haouach Raai",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.95,
+    35.51667,
+    7.95,
+    35.51667
+],
+  "geometry": {"coordinates":[7.95,35.51667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343296369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.28528,36.28111,8.28528,36.28111",
+    "geom:latitude":36.28111,
+    "geom:longitude":8.28528,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mechta el Guetaifia",
+    "gn:country_code":"DZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585768,
+    "gn:latitude":36.28111,
+    "gn:longitude":8.28528,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta el Gueta\u00effia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585768
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5e582ea0169300bb2411faa6237d5929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343296369,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1343296369,
+    "wof:lastmodified":1536982350,
+    "wof:name":"Mechta el Guetaifia",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.28528,
+    36.28111,
+    8.28528,
+    36.28111
+],
+  "geometry": {"coordinates":[8.28528,36.28111],"type":"Point"}
+}

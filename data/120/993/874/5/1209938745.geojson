@@ -1,0 +1,65 @@
+{
+  "id": 1209938745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.35019,35.6308,2.35019,35.6308",
+    "geom:latitude":35.6308,
+    "geom:longitude":2.35019,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Alalcha",
+    "gn:country_code":"DZ",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437840,
+    "gn:latitude":35.6308,
+    "gn:longitude":2.35019,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"El Alalcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437840
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e9224ae1ffc020a94da202cb912d54f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209938745,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1209938745,
+    "wof:lastmodified":1536389437,
+    "wof:name":"El Alalcha",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.35019,
+    35.6308,
+    2.35019,
+    35.6308
+],
+  "geometry": {"coordinates":[2.35019,35.6308],"type":"Point"}
+}

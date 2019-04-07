@@ -1,0 +1,65 @@
+{
+  "id": 1343230387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56972,36.61056,5.56972,36.61056",
+    "geom:latitude":36.61056,
+    "geom:longitude":5.56972,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ed Damna el Kebir",
+    "gn:country_code":"DZ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498928,
+    "gn:latitude":36.61056,
+    "gn:longitude":5.56972,
+    "gn:modification_date":"1994-09-20",
+    "gn:name":"Ed Damna el Kebir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498928
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8d073ad25156595d44d58f5d64b3c12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343230387,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1343230387,
+    "wof:lastmodified":1537075396,
+    "wof:name":"Ed Damna el Kebir",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56972,
+    36.61056,
+    5.56972,
+    36.61056
+],
+  "geometry": {"coordinates":[5.56972,36.61056],"type":"Point"}
+}

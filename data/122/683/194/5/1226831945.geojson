@@ -1,0 +1,70 @@
+{
+  "id": 1226831945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51595,34.70982,-1.51595,34.70982",
+    "geom:latitude":34.70982,
+    "geom:longitude":-1.51595,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beni Bahdel",
+    "gn:country_code":"DZ",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504725,
+    "gn:latitude":34.70982,
+    "gn:longitude":-1.51595,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beni Bahdel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Babdel",
+        "Beni Bahdel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504725,
+        "wk:page":"Beni_Bahdel"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ea399d0a6fcaaf17bb858008b49c7512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226831945,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1226831945,
+    "wof:lastmodified":1537620245,
+    "wof:name":"Beni Bahdel",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51595,
+    34.70982,
+    -1.51595,
+    34.70982
+],
+  "geometry": {"coordinates":[-1.51595,34.70982],"type":"Point"}
+}

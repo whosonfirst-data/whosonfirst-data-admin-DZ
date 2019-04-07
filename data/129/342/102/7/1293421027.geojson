@@ -1,0 +1,65 @@
+{
+  "id": 1293421027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.79782,35.54917,1.79782,35.54917",
+    "geom:latitude":35.54917,
+    "geom:longitude":1.79782,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ouled Allah",
+    "gn:country_code":"DZ",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485028,
+    "gn:latitude":35.54917,
+    "gn:longitude":1.79782,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Allah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485028
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e1d2f71341451b8bc930c35f7090e4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293421027,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1293421027,
+    "wof:lastmodified":1536882270,
+    "wof:name":"Ouled Allah",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.79782,
+    35.54917000000001,
+    1.79782,
+    35.54917000000001
+],
+  "geometry": {"coordinates":[1.79782,35.54917000000001],"type":"Point"}
+}

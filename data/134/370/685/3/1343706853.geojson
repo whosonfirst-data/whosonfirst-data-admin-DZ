@@ -1,0 +1,65 @@
+{
+  "id": 1343706853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.05575,28.76963,0.05575,28.76963",
+    "geom:latitude":28.76963,
+    "geom:longitude":0.05575,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ksar el Oustani",
+    "gn:country_code":"DZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491315,
+    "gn:latitude":28.76963,
+    "gn:longitude":0.05575,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ksar el Oustani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491315
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1cb086717a683fe121a57aeb943a4294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343706853,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1343706853,
+    "wof:lastmodified":1536887785,
+    "wof:name":"Ksar el Oustani",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.05575,
+    28.76963,
+    0.05575,
+    28.76963
+],
+  "geometry": {"coordinates":[0.05575,28.76963],"type":"Point"}
+}

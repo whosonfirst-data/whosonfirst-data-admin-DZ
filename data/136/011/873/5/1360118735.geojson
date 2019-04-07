@@ -1,0 +1,65 @@
+{
+  "id": 1360118735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05736,36.15027,6.05736,36.15027",
+    "geom:latitude":36.15027,
+    "geom:longitude":6.05736,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mechta Saada",
+    "gn:country_code":"DZ",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489262,
+    "gn:latitude":36.15027,
+    "gn:longitude":6.05736,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Saada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489262
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4970a941efa71d126e149df580b3ff13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360118735,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1360118735,
+    "wof:lastmodified":1536897009,
+    "wof:name":"Mechta Saada",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05736,
+    36.15027,
+    6.05736,
+    36.15027
+],
+  "geometry": {"coordinates":[6.05736,36.15027],"type":"Point"}
+}

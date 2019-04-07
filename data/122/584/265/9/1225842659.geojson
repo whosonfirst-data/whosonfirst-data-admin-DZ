@@ -1,0 +1,65 @@
+{
+  "id": 1225842659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83861,36.17611,2.83861,36.17611",
+    "geom:latitude":36.17611,
+    "geom:longitude":2.83861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidi Makrfi",
+    "gn:country_code":"DZ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2575193,
+    "gn:latitude":36.17611,
+    "gn:longitude":2.83861,
+    "gn:modification_date":"1997-01-21",
+    "gn:name":"Sidi Makrfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2575193
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ce1f3f6f8baf7ae066a373188133466e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225842659,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1225842659,
+    "wof:lastmodified":1537017457,
+    "wof:name":"Sidi Makrfi",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83861,
+    36.17611,
+    2.83861,
+    36.17611
+],
+  "geometry": {"coordinates":[2.83861,36.17611],"type":"Point"}
+}

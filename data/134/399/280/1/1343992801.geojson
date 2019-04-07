@@ -1,0 +1,65 @@
+{
+  "id": 1343992801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73917,36.69028,6.73917,36.69028",
+    "geom:latitude":36.69028,
+    "geom:longitude":6.73917,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Mechtet Bou Rkiz",
+    "gn:country_code":"DZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488922,
+    "gn:latitude":36.69028,
+    "gn:longitude":6.73917,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Mechtet Bou Rk\u00eez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488922
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d2d140c2b157af24cb6b48ef9e0f3647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343992801,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1343992801,
+    "wof:lastmodified":1536972861,
+    "wof:name":"Mechtet Bou Rkiz",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73917,
+    36.69028,
+    6.73917,
+    36.69028
+],
+  "geometry": {"coordinates":[6.73917,36.69028],"type":"Point"}
+}

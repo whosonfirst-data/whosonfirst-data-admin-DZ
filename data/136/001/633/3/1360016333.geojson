@@ -1,0 +1,70 @@
+{
+  "id": 1360016333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01332,36.23266,6.01332,36.23266",
+    "geom:latitude":36.23266,
+    "geom:longitude":6.01332,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Benyahia Abderrahmane",
+    "gn:country_code":"DZ",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504295,
+    "gn:latitude":36.23266,
+    "gn:longitude":6.01332,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Benyahia Abderrahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aziz Ben Tellis",
+        "Benyahia Abderrahmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504295,
+        "wk:page":"Benyahia_Abderrahmane"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0c53a9f7ea00456dc008fa38f04edc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360016333,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1360016333,
+    "wof:lastmodified":1537620243,
+    "wof:name":"Benyahia Abderrahmane",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01332,
+    36.23266,
+    6.01332,
+    36.23266
+],
+  "geometry": {"coordinates":[6.01332,36.23266],"type":"Point"}
+}

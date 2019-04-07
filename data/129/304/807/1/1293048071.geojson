@@ -1,0 +1,71 @@
+{
+  "id": 1293048071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39028,35.70167,7.39028,35.70167",
+    "geom:latitude":35.70167,
+    "geom:longitude":7.39028,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat Draa el Akhbal",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489159,
+    "gn:latitude":35.70167,
+    "gn:longitude":7.39028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Draa el Akhbal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtet Draa el Akhbal",
+        "Mechta Draa el Akhbal",
+        "Mechtat Draa el Akhbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489159
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3d3efed8f0c856c08de1136cd9a42559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293048071,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1293048071,
+    "wof:lastmodified":1537620151,
+    "wof:name":"Mechtat Draa el Akhbal",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39028,
+    35.70167,
+    7.39028,
+    35.70167
+],
+  "geometry": {"coordinates":[7.39028,35.70167],"type":"Point"}
+}

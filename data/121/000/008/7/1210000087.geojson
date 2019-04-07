@@ -1,0 +1,65 @@
+{
+  "id": 1210000087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28604,36.5873,4.28604,36.5873",
+    "geom:latitude":36.5873,
+    "geom:longitude":4.28604,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Azerou Kellat",
+    "gn:country_code":"DZ",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505993,
+    "gn:latitude":36.5873,
+    "gn:longitude":4.28604,
+    "gn:modification_date":"1996-03-05",
+    "gn:name":"Azerou Kellat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505993
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"08df9a4f1f30c9c687e018fb162a83b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1210000087,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1210000087,
+    "wof:lastmodified":1536379656,
+    "wof:name":"Azerou Kellat",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28604,
+    36.5873,
+    4.28604,
+    36.5873
+],
+  "geometry": {"coordinates":[4.28604,36.5873],"type":"Point"}
+}

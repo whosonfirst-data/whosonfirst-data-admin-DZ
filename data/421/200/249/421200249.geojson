@@ -1,0 +1,122 @@
+{
+  "id": 421200249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98143,36.65393,3.98143,36.65393",
+    "geom:latitude":36.65393,
+    "geom:longitude":3.98143,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0631\u0645\u062a\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:dut_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:eng_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:fra_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:fre_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:ita_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:kab_x_preferred":[
+        "Tirmitin"
+    ],
+    "name:por_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:ron_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:rum_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:swe_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:vie_x_preferred":[
+        "Tirmitine"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tirmitine"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2475921,
+    "qs:gn_pop":26261,
+    "qs:name":"Tirmitine",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u062a\u064a\u0632\u064a \u0648\u0632\u0648",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1296199,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257847,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475921,
+        "gp:id":1257847,
+        "qs:id":1296199,
+        "wd:id":"Q3529393",
+        "wk:page":"Tirmitine"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459010016,
+    "wof:geomhash":"34c5d56b5515f0f85b980d440619e9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421200249,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":421200249,
+    "wof:lastmodified":1527716427,
+    "wof:name":"Tirmitine",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:population":26261,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98143,
+    36.65393,
+    3.98143,
+    36.65393
+],
+  "geometry": {"coordinates":[3.98143,36.65393],"type":"Point"}
+}

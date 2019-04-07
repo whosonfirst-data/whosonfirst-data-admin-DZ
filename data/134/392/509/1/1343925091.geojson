@@ -1,0 +1,65 @@
+{
+  "id": 1343925091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.38415,35.04749,0.38415,35.04749",
+    "geom:latitude":35.04749,
+    "geom:longitude":0.38415,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Sidi Mimoun",
+    "gn:country_code":"DZ",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300765,
+    "gn:latitude":35.04749,
+    "gn:longitude":0.38415,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sidi Mimoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300765
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"db0db9bec4e3506adc1d5ac99444bf78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343925091,
+            "region_id":85670797
+        }
+    ],
+    "wof:id":1343925091,
+    "wof:lastmodified":1537068154,
+    "wof:name":"Sidi Mimoun",
+    "wof:parent_id":85670797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.38415,
+    35.04749,
+    0.38415,
+    35.04749
+],
+  "geometry": {"coordinates":[0.38415,35.04749],"type":"Point"}
+}

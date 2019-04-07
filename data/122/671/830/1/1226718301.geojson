@@ -1,0 +1,70 @@
+{
+  "id": 1226718301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23333,36.75,6.23333,36.75",
+    "geom:latitude":36.75,
+    "geom:longitude":6.23333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mechta Ouled Bou el Mnaker",
+    "gn:country_code":"DZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489345,
+    "gn:latitude":36.75,
+    "gn:longitude":6.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Ouled Bo\u00fb el Mn\u00e2ker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Adder",
+        "Mechtat Adder",
+        "Mechta Ouled Bo\u00fb el Mn\u00e2ker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489345
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6eecd66bcd03550440bd3f33d2c49eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226718301,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1226718301,
+    "wof:lastmodified":1537620157,
+    "wof:name":"Mechta Ouled Bou el Mnaker",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23333,
+    36.75,
+    6.23333,
+    36.75
+],
+  "geometry": {"coordinates":[6.23333,36.75],"type":"Point"}
+}

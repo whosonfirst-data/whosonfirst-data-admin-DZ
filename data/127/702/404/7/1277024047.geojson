@@ -1,0 +1,71 @@
+{
+  "id": 1277024047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.69592,35.16359,-0.69592,35.16359",
+    "geom:latitude":35.16359,
+    "geom:longitude":-0.69592,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sidi Lahssen",
+    "gn:country_code":"DZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480312,
+    "gn:latitude":35.16359,
+    "gn:longitude":-0.69592,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Lahssen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Lhassen",
+        "D\u00e9trie",
+        "Sidi Lhassene",
+        "Sidi Lahssen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480312
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0962f4f920a2039f19b27cc60b0e3064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277024047,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1277024047,
+    "wof:lastmodified":1537620110,
+    "wof:name":"Sidi Lahssen",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.69592,
+    35.16359,
+    -0.69592,
+    35.16359
+],
+  "geometry": {"coordinates":[-0.69592,35.16359],"type":"Point"}
+}

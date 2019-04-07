@@ -1,0 +1,65 @@
+{
+  "id": 1209546861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.18139,36.82944,8.18139,36.82944",
+    "geom:latitude":36.82944,
+    "geom:longitude":8.18139,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Er Rirhia",
+    "gn:country_code":"DZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497141,
+    "gn:latitude":36.82944,
+    "gn:longitude":8.18139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Er R\u00eerh\u00eea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Righia",
+        "Er R\u00eerh\u00eea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497141
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"29c99e845b9c1e735df42f093476ac4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209546861
+        }
+    ],
+    "wof:id":1209546861,
+    "wof:lastmodified":1537620193,
+    "wof:name":"Er Rirhia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.18139,
+    36.82944000000001,
+    8.18139,
+    36.82944000000001
+],
+  "geometry": {"coordinates":[8.18139,36.82944000000001],"type":"Point"}
+}

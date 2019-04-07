@@ -1,0 +1,65 @@
+{
+  "id": 1310593883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28947,36.19678,3.28947,36.19678",
+    "geom:latitude":36.19678,
+    "geom:longitude":3.28947,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar el Ogueb",
+    "gn:country_code":"DZ",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280611,
+    "gn:latitude":36.19678,
+    "gn:longitude":3.28947,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dar el Ogueb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280611
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a5f69937b40e35f9232169c72ea3607e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310593883,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1310593883,
+    "wof:lastmodified":1536789891,
+    "wof:name":"Dar el Ogueb",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28947,
+    36.19678,
+    3.28947,
+    36.19678
+],
+  "geometry": {"coordinates":[3.28947,36.19678],"type":"Point"}
+}

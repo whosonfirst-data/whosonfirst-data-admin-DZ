@@ -1,0 +1,68 @@
+{
+  "id": 1225800039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.47593,35.29239,0.47593,35.29239",
+    "geom:latitude":35.29239,
+    "geom:longitude":0.47593,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zelamta",
+    "gn:country_code":"DZ",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474673,
+    "gn:latitude":35.29239,
+    "gn:longitude":0.47593,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zelamta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferme de Zelamta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474673
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"81f28ebaca1deff093fc6de068a6548f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225800039,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1225800039,
+    "wof:lastmodified":1537620091,
+    "wof:name":"Zelamta",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.47593,
+    35.29239000000001,
+    0.47593,
+    35.29239000000001
+],
+  "geometry": {"coordinates":[0.47593,35.29239000000001],"type":"Point"}
+}

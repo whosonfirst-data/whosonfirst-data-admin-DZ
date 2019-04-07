@@ -1,0 +1,65 @@
+{
+  "id": 1243495295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10499,27.05721,-0.10499,27.05721",
+    "geom:latitude":27.05721,
+    "geom:longitude":-0.10499,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tittaouine el Akhas",
+    "gn:country_code":"DZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475810,
+    "gn:latitude":27.05721,
+    "gn:longitude":-0.10499,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tittaouine el Akhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475810
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"394485bfad0f972e93a853e060a99857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243495295,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1243495295,
+    "wof:lastmodified":1536735238,
+    "wof:name":"Tittaouine el Akhas",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10499,
+    27.05721,
+    -0.10499,
+    27.05721
+],
+  "geometry": {"coordinates":[-0.10499,27.05721],"type":"Point"}
+}

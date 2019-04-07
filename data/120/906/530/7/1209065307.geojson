@@ -1,0 +1,61 @@
+{
+  "id": 1209065307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.02842,36.11432,4.02842,36.11432",
+    "geom:latitude":36.11432,
+    "geom:longitude":4.02842,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Sidi Mohammed Ben ed Dif",
+    "gn:country_code":"DZ",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480088,
+    "gn:latitude":36.11432,
+    "gn:longitude":4.02842,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi Mohammed Ben ed Dif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480088
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"22e9d7243c781ca01004478c32985c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209065307
+        }
+    ],
+    "wof:id":1209065307,
+    "wof:lastmodified":1536298823,
+    "wof:name":"Sidi Mohammed Ben ed Dif",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.02842,
+    36.11432,
+    4.02842,
+    36.11432
+],
+  "geometry": {"coordinates":[4.02842,36.11432],"type":"Point"}
+}

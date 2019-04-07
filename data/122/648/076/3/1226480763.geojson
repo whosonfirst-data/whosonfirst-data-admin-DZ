@@ -1,0 +1,65 @@
+{
+  "id": 1226480763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.57111,36.59265,3.57111,36.59265",
+    "geom:latitude":36.59265,
+    "geom:longitude":3.57111,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ouled Guergour",
+    "gn:country_code":"DZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484893,
+    "gn:latitude":36.59265,
+    "gn:longitude":3.57111,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Guergour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484893
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d7705b5b6e030e3acd728266a1cacd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226480763,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1226480763,
+    "wof:lastmodified":1537088415,
+    "wof:name":"Ouled Guergour",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.57111,
+    36.59265,
+    3.57111,
+    36.59265
+],
+  "geometry": {"coordinates":[3.57111,36.59265],"type":"Point"}
+}

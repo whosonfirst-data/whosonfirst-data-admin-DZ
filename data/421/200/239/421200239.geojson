@@ -1,0 +1,137 @@
+{
+  "id": 421200239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.96778,35.37889,-0.96778,35.37889",
+    "geom:latitude":35.37889,
+    "geom:longitude":-0.96778,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u0628\u0648\u062d\u062c\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:dut_x_preferred":[
+        "Hammam Bouhadjar"
+    ],
+    "name:eng_x_preferred":[
+        "Hammam Bouhadjar"
+    ],
+    "name:fra_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:fre_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:ita_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:kab_x_preferred":[
+        "\u1e24emmam Bu\u1e25jer"
+    ],
+    "name:may_x_preferred":[
+        "Hammam Bouhadjar"
+    ],
+    "name:msa_x_preferred":[
+        "Hammam Bouhadjar"
+    ],
+    "name:nan_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:per_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u0628\u0648\u062d\u062c\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:ron_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:rum_x_preferred":[
+        "Hammam Bouhadjar"
+    ],
+    "name:swe_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "name:unk_x_variant":[
+        "Hommam Bou Hadjar"
+    ],
+    "name:vie_x_preferred":[
+        "Hammam Bouhadjar"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2494554,
+    "qs:gn_pop":35896,
+    "qs:name":"Hammam Bou Hadjar",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"'A\u00efn Temouchent",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1296092,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1254930,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494554,
+        "gp:id":1254930,
+        "qs:id":1296092,
+        "wd:id":"Q887319",
+        "wk:page":"Hammam Bou Hadjar"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459010016,
+    "wof:geomhash":"cc7d7478d7cff3499016005edc371aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421200239,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":421200239,
+    "wof:lastmodified":1527716429,
+    "wof:name":"Hammam Bou Hadjar",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:population":35896,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.96778,
+    35.37889,
+    -0.96778,
+    35.37889
+],
+  "geometry": {"coordinates":[-0.96778,35.37889],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260365953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.01023,36.76345,5.01023,36.76345",
+    "geom:latitude":36.76345,
+    "geom:longitude":5.01023,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ikoubab",
+    "gn:country_code":"DZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493498,
+    "gn:latitude":36.76345,
+    "gn:longitude":5.01023,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ikoubab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493498
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ae5dfa36c1f28d40044bbd4cfbecf8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260365953,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1260365953,
+    "wof:lastmodified":1537095175,
+    "wof:name":"Ikoubab",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.01023,
+    36.76345,
+    5.01023,
+    36.76345
+],
+  "geometry": {"coordinates":[5.01023,36.76345],"type":"Point"}
+}

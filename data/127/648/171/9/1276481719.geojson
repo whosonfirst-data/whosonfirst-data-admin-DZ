@@ -1,0 +1,65 @@
+{
+  "id": 1276481719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.87254,35.93856,0.87254,35.93856",
+    "geom:latitude":35.93856,
+    "geom:longitude":0.87254,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Mechtat Tehemia",
+    "gn:country_code":"DZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580556,
+    "gn:latitude":35.93856,
+    "gn:longitude":0.87254,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Mechtat Tehemia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580556
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"90fe29937c5539b8da954f3bee792832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276481719,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1276481719,
+    "wof:lastmodified":1537073945,
+    "wof:name":"Mechtat Tehemia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.87254,
+    35.93855999999999,
+    0.87254,
+    35.93855999999999
+],
+  "geometry": {"coordinates":[0.87254,35.93855999999999],"type":"Point"}
+}

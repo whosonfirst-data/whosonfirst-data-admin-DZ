@@ -1,0 +1,66 @@
+{
+  "id": 1209471743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.24599,35.39657,0.24599,35.39657",
+    "geom:latitude":35.39657,
+    "geom:longitude":0.24599,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Zmani",
+    "gn:country_code":"DZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499397,
+    "gn:latitude":35.39657,
+    "gn:longitude":0.24599,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Zmani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar ez Zaa\u00efmia",
+        "Douar Zmani",
+        "Ez Zaa\u00efmia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499397
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9dea896163d1dc0b6c83ce6d74f1a097",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209471743
+        }
+    ],
+    "wof:id":1209471743,
+    "wof:lastmodified":1537620215,
+    "wof:name":"Douar Zmani",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.24599,
+    35.39657000000001,
+    0.24599,
+    35.39657000000001
+],
+  "geometry": {"coordinates":[0.24599,35.39657000000001],"type":"Point"}
+}

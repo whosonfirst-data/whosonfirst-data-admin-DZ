@@ -1,0 +1,66 @@
+{
+  "id": 1209181453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.04066,35.52284,0.04066,35.52284",
+    "geom:latitude":35.52284,
+    "geom:longitude":0.04066,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Fergoug",
+    "gn:country_code":"DZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499392,
+    "gn:latitude":35.52284,
+    "gn:longitude":0.04066,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fergo\u00fbg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Fergo\u00fbg",
+        "Oued Fergoug",
+        "Fergo\u00fbg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499392
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e6d2d945ada194f226bfc05113f6b5ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209181453
+        }
+    ],
+    "wof:id":1209181453,
+    "wof:lastmodified":1537620215,
+    "wof:name":"Fergoug",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.04066,
+    35.52284,
+    0.04066,
+    35.52284
+],
+  "geometry": {"coordinates":[0.04066,35.52284],"type":"Point"}
+}

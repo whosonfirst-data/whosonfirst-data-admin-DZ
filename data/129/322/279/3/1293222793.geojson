@@ -1,0 +1,65 @@
+{
+  "id": 1293222793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.7867,35.95592,2.7867,35.95592",
+    "geom:latitude":35.95592,
+    "geom:longitude":2.7867,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maison Blanche",
+    "gn:country_code":"DZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490371,
+    "gn:latitude":35.95592,
+    "gn:longitude":2.7867,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Maison Blanche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490371
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"516fabf351df30c610aabac48468719d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293222793,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293222793,
+    "wof:lastmodified":1536671602,
+    "wof:name":"Maison Blanche",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7867,
+    35.95592,
+    2.7867,
+    35.95592
+],
+  "geometry": {"coordinates":[2.7867,35.95592],"type":"Point"}
+}

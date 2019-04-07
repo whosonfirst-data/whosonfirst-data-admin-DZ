@@ -1,0 +1,65 @@
+{
+  "id": 1277114995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.0516,36.81808,4.0516,36.81808",
+    "geom:latitude":36.81808,
+    "geom:longitude":4.0516,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ililane",
+    "gn:country_code":"DZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493467,
+    "gn:latitude":36.81808,
+    "gn:longitude":4.0516,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ililane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493467
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"79ab703b5febf7410ca584754f6e156c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277114995,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1277114995,
+    "wof:lastmodified":1536721475,
+    "wof:name":"Ililane",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.0516,
+    36.81808,
+    4.0516,
+    36.81808
+],
+  "geometry": {"coordinates":[4.0516,36.81808],"type":"Point"}
+}

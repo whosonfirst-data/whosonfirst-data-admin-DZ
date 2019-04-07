@@ -1,0 +1,65 @@
+{
+  "id": 1293123075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.70139,35.88779,2.70139,35.88779",
+    "geom:latitude":35.88779,
+    "geom:longitude":2.70139,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Draa el Kedim",
+    "gn:country_code":"DZ",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499107,
+    "gn:latitude":35.88779,
+    "gn:longitude":2.70139,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Draa el Kedim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499107
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8b478536d09cd32729e88a59b0602da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293123075,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293123075,
+    "wof:lastmodified":1536814751,
+    "wof:name":"Draa el Kedim",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.70139,
+    35.88779,
+    2.70139,
+    35.88779
+],
+  "geometry": {"coordinates":[2.70139,35.88779],"type":"Point"}
+}

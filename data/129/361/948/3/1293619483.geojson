@@ -1,0 +1,70 @@
+{
+  "id": 1293619483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86667,36.7,6.86667,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":6.86667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Mechtet Oumm el Ma'iz",
+    "gn:country_code":"DZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488880,
+    "gn:latitude":36.7,
+    "gn:longitude":6.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtet Oumm el Ma\u2019\u00eez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Oum el Ma\u00efz",
+        "Mechta Oum el Ma\u00efz",
+        "Mechtet Oumm el Ma\u2019\u00eez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488880
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a13b3f01602275df4fbe18e880fb3318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293619483,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1293619483,
+    "wof:lastmodified":1537620142,
+    "wof:name":"Mechtet Oumm el Ma'iz",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86667,
+    36.7,
+    6.86667,
+    36.7
+],
+  "geometry": {"coordinates":[6.86667,36.7],"type":"Point"}
+}

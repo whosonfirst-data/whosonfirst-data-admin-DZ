@@ -1,0 +1,65 @@
+{
+  "id": 1276825947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.42084,35.37325,0.42084,35.37325",
+    "geom:latitude":35.37325,
+    "geom:longitude":0.42084,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ouled Beldjilali",
+    "gn:country_code":"DZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7409656,
+    "gn:latitude":35.37325,
+    "gn:longitude":0.42084,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Beldjilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7409656
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fb92431103c34255099d818b3b8c79da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276825947,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1276825947,
+    "wof:lastmodified":1536613614,
+    "wof:name":"Douar Ouled Beldjilali",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.42084,
+    35.37325,
+    0.42084,
+    35.37325
+],
+  "geometry": {"coordinates":[0.42084,35.37325],"type":"Point"}
+}

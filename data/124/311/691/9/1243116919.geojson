@@ -1,0 +1,69 @@
+{
+  "id": 1243116919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.02088,36.25731,2.02088,36.25731",
+    "geom:latitude":36.25731,
+    "geom:longitude":2.02088,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ferhaiha",
+    "gn:country_code":"DZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496524,
+    "gn:latitude":36.25731,
+    "gn:longitude":2.02088,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ferha\u00efha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fegha\u00efha",
+        "Ferha\u00efha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496524
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6f75b6c722ce2773daca4f7454e801a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243116919,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243116919,
+    "wof:lastmodified":1537620191,
+    "wof:name":"Ferhaiha",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.02088,
+    36.25731,
+    2.02088,
+    36.25731
+],
+  "geometry": {"coordinates":[2.02088,36.25731],"type":"Point"}
+}

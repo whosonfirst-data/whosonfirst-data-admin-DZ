@@ -1,0 +1,65 @@
+{
+  "id": 1259937011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.06264,35.63232,0.06264,35.63232",
+    "geom:latitude":35.63232,
+    "geom:longitude":0.06264,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Khairia",
+    "gn:country_code":"DZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579177,
+    "gn:latitude":35.63232,
+    "gn:longitude":0.06264,
+    "gn:modification_date":"1997-03-21",
+    "gn:name":"Douar Kha\u00efria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579177
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"81768c75034e3c34390fbe8d3006cbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259937011,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1259937011,
+    "wof:lastmodified":1536702525,
+    "wof:name":"Douar Khairia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.06264,
+    35.63232,
+    0.06264,
+    35.63232
+],
+  "geometry": {"coordinates":[0.06264,35.63232],"type":"Point"}
+}

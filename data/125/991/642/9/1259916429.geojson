@@ -1,0 +1,69 @@
+{
+  "id": 1259916429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7352,35.94062,4.7352,35.94062",
+    "geom:latitude":35.94062,
+    "geom:longitude":4.7352,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"El M'Khazene",
+    "gn:country_code":"DZ",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497500,
+    "gn:latitude":35.94062,
+    "gn:longitude":4.7352,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El M\u2019Khazene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El M\u2019Krazene",
+        "El M\u2019Khazene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497500
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c023a7426c46e6994f4d1f9e1a58f460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259916429,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1259916429,
+    "wof:lastmodified":1537620195,
+    "wof:name":"El M'Khazene",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7352,
+    35.94062,
+    4.7352,
+    35.94062
+],
+  "geometry": {"coordinates":[4.7352,35.94062],"type":"Point"}
+}

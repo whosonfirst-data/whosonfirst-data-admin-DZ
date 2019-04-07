@@ -1,0 +1,65 @@
+{
+  "id": 1193090585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78125,36.13698,1.78125,36.13698",
+    "geom:latitude":36.13698,
+    "geom:longitude":1.78125,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Southia",
+    "gn:country_code":"DZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479153,
+    "gn:latitude":36.13698,
+    "gn:longitude":1.78125,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Southia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479153
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ce311f45f3f7d963ac8a26f57f103d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193090585,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1193090585,
+    "wof:lastmodified":1536371096,
+    "wof:name":"Southia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78125,
+    36.13698,
+    1.78125,
+    36.13698
+],
+  "geometry": {"coordinates":[1.78125,36.13698],"type":"Point"}
+}

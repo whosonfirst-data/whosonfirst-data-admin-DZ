@@ -1,0 +1,65 @@
+{
+  "id": 1226610997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55691,34.65526,5.55691,34.65526",
+    "geom:latitude":34.65526,
+    "geom:longitude":5.55691,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"M'Lili",
+    "gn:country_code":"DZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487321,
+    "gn:latitude":34.65526,
+    "gn:longitude":5.55691,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"M\u2019Lili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487321
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f5b1dd2f9260dcae6d786592883d33fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226610997,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1226610997,
+    "wof:lastmodified":1536908948,
+    "wof:name":"M'Lili",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55691,
+    34.65526,
+    5.55691,
+    34.65526
+],
+  "geometry": {"coordinates":[5.55691,34.65526],"type":"Point"}
+}

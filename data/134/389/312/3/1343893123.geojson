@@ -1,0 +1,65 @@
+{
+  "id": 1343893123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.51655,36.26967,1.51655,36.26967",
+    "geom:latitude":36.26967,
+    "geom:longitude":1.51655,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Lehlalfa",
+    "gn:country_code":"DZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573392,
+    "gn:latitude":36.26967,
+    "gn:longitude":1.51655,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Lehlalfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573392
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2aa9bcdd13ef8da63fca55f6a041f14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343893123,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1343893123,
+    "wof:lastmodified":1536617200,
+    "wof:name":"Lehlalfa",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.51655,
+    36.26967,
+    1.51655,
+    36.26967
+],
+  "geometry": {"coordinates":[1.51655,36.26967],"type":"Point"}
+}

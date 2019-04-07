@@ -1,0 +1,65 @@
+{
+  "id": 1193148635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.28199,35.69622,6.28199,35.69622",
+    "geom:latitude":35.69622,
+    "geom:longitude":6.28199,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ouled Lakhdar",
+    "gn:country_code":"DZ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484866,
+    "gn:latitude":35.69622,
+    "gn:longitude":6.28199,
+    "gn:modification_date":"1997-03-04",
+    "gn:name":"Ouled Lakhdar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484866
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"56507ff783e9aeff903af6e337675200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193148635,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1193148635,
+    "wof:lastmodified":1536380683,
+    "wof:name":"Ouled Lakhdar",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28199,
+    35.69622000000001,
+    6.28199,
+    35.69622000000001
+],
+  "geometry": {"coordinates":[6.28199,35.69622000000001],"type":"Point"}
+}

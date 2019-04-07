@@ -1,0 +1,372 @@
+{
+  "id": 85670857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.380125,
+    "geom:area_square_m":3783132739.783228,
+    "geom:bbox":"6.93795413577,36.0425031597,7.98786421136,36.726130683",
+    "geom:latitude":36.402211,
+    "geom:longitude":7.399147,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Guelma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.4261,
+    "lbl:longitude":7.363312,
+    "mps:latitude":36.4261,
+    "mps:longitude":7.363312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0642\u0627\u0644\u0645\u0629",
+        "\u0642\u0627\u0644\u0645\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u0435\u043b\u044c\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09af\u09bc\u09c7\u09b2\u09cd\u09ae\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "Guelma"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043b\u043c\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Guelma"
+    ],
+    "name:ceb_x_preferred":[
+        "Guelma"
+    ],
+    "name:chi_x_preferred":[
+        "\u76d6\u52d2\u9a6c\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Guelma Province"
+    ],
+    "name:deu_x_preferred":[
+        "Guelma"
+    ],
+    "name:dut_x_preferred":[
+        "Guelma"
+    ],
+    "name:eng_x_preferred":[
+        "Guelma"
+    ],
+    "name:eng_x_variant":[
+        "Guelma Province"
+    ],
+    "name:epo_x_preferred":[
+        "Guelma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0644\u0645\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Guelman provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Guelma"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Guelma"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e3\u10d4\u10da\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Guelma"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Guelma"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ba\u03ad\u03bb\u03bc\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac1\u0a8f\u0ab2\u0acd\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0941\u090f\u0932\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Guelma"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Guelma"
+    ],
+    "name:ita_x_preferred":[
+        "Guelma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30eb\u30de"
+    ],
+    "name:kab_x_preferred":[
+        "Galma"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cc1\u0cb2\u0ccd\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uac94\ub9c8"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Guelma"
+    ],
+    "name:lat_x_preferred":[
+        "Calama"
+    ],
+    "name:lav_x_preferred":[
+        "G\u0101lmas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Gelma"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0932\u094d\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Guelma"
+    ],
+    "name:msa_x_preferred":[
+        "Guelma"
+    ],
+    "name:nan_x_preferred":[
+        "Guelma S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Guelma"
+    ],
+    "name:nob_x_preferred":[
+        "Guelma"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0627\u0644\u0645\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0642\u0627\u0644\u0645\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Kalima"
+    ],
+    "name:por_x_preferred":[
+        "Guelma"
+    ],
+    "name:ron_x_preferred":[
+        "Guelma"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Guelma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043b\u044c\u043c\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd4\u0d91\u0dbd\u0dca\u0db8\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Guelma eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Guelma"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0435\u043b\u043c\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Guelma"
+    ],
+    "name:swe_x_preferred":[
+        "Guelma"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd\u0bae\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c35\u0c46\u0c32\u0c4d\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u049a\u043e\u043b\u043c\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Guelma"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e21\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Kalime Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043b\u044c\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Guelma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0627\u0644\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Guelma"
+    ],
+    "name:war_x_preferred":[
+        "Guelma"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u52d2\u9a6c"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2218",
+    "ne:adm1_code":"DZA-2218",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.GL",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2218",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG23",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.23",
+    "ne:gn_id":"2495659",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Guelma",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG23",
+    "ne:gns_id":"-470230",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Guelma",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"36.43810000000",
+    "ne:longitude":"7.46291000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Guelma",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0642\u0627\u0644\u0645\u0629",
+    "ne:note":"",
+    "ne:postal":"GL",
+    "ne:provnum_ne":"29",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344595,
+    "ne:woe_label":"Guelma, DZ, Algeria",
+    "ne:woe_name":"Guelma",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Guelma",
+    "qs:a1_lc":"DZA-2218",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"3,911",
+    "statoids:area_mi":"1,510",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Guelma",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG23",
+    "statoids:hasc":"DZ.GL",
+    "statoids:iso":"24",
+    "statoids:name":"Guelma",
+    "statoids:population":"482430",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-24",
+    "wd:wordcount":864,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG23",
+        "gn:id":2495659,
+        "gp:id":2344595,
+        "hasc:id":"DZ.GL",
+        "iso:id":"DZ-24",
+        "qs:id":1134889,
+        "unlc:id":"DZ-24",
+        "wd:id":"Q235727"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dc31ffe4bebbb53af3e78c7225db12d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":85670857,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550368,
+    "wof:name":"Guelma",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":482430,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"GL",
+    "wof:subdivision":"DZ-24",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93795413577482,
+    36.04250315969313,
+    7.9878642113643,
+    36.72613068298466
+],
+  "geometry": {"coordinates":[[[7.56298058358709,36.61244253219718],[7.5921777689889,36.61554311852018],[7.60271976140791,36.61833364558134],[7.61233157694079,36.62262278941023],[7.62163333501047,36.62954743156877],[7.62984988836172,36.63766063123319],[7.64974531389515,36.66339549420672],[7.69702924970017,36.65773692481929],[7.70793297732507,36.65210419385352],[7.74126427602556,36.62882396115691],[7.75196129717619,36.61766185201293],[7.75878258564785,36.60717153643731],[7.76441531661362,36.59174612098673],[7.77154666524643,36.58164337813946],[7.78487918472666,36.5738402368375],[7.96564334496446,36.51221609119972],[7.97463504377231,36.50728099222408],[7.97851077555191,36.50314687802603],[7.97990604043144,36.50084727648067],[7.98269656659335,36.49332835511956],[7.9878642113643,36.4843883331551],[7.87143720856039,36.43258270952447],[7.84306684725726,36.43079987191663],[7.80239749524827,36.44129018839152],[7.79526614841404,36.440980130029],[7.79371585480288,36.43506317822317],[7.80766849100809,36.40397980422466],[7.80952884298176,36.39568573740689],[7.81030398933768,36.38522125935367],[7.81216434131136,36.37509267808468],[7.81872724826394,36.36470571529657],[7.82973432777703,36.35013296236639],[7.83500532443622,36.3348625765467],[7.82942426941457,36.31504466447973],[7.81386966275477,36.30491608321074],[7.79526614841404,36.29788808916402],[7.77805789625495,36.29452912042262],[7.74343468636175,36.29241038692987],[7.6438025236676,36.25184438680907],[7.54375695162207,36.22375824634605],[7.53440351670901,36.21809967695856],[7.51967573414788,36.2014857040021],[7.50804853701044,36.19605967951065],[7.49487104716115,36.19365672517779],[7.47528567909086,36.19257152045935],[7.41043175592085,36.18125438078511],[7.39709923734,36.17386465153248],[7.38748742000848,36.16389109989439],[7.37539513487764,36.14306549747477],[7.36795372878163,36.13484894502284],[7.35751509004939,36.12975881641631],[7.34604292164357,36.12818268528275],[7.32588911279237,36.12740753802751],[7.29080081490571,36.14332387989322],[7.24020958810206,36.14701874451947],[7.22377648319821,36.14409902624914],[7.21354454914166,36.13893138327677],[7.21044396281866,36.12854442048865],[7.20703331903252,36.09862376647368],[7.19488935705823,36.08074371984685],[7.17396040185111,36.06849640598438],[7.13360110820463,36.05314850489964],[7.10631595161993,36.04601715806547],[7.07897911999044,36.04250315969313],[7.06642174596686,36.04728322993714],[7.06130577983794,36.05539643050093],[7.05929039913264,36.06392304131538],[7.05432946083602,36.0721137562449],[7.0439424980479,36.08120880784026],[7.03216027217888,36.08921865471717],[7.02373701325263,36.09862376647368],[7.0186210471237,36.11203380031969],[7.01598554879411,36.12611562773407],[7.01397016808886,36.14709625888531],[7.01055952340334,36.15515778350493],[7.03913659028149,36.19520701788963],[7.04502770276633,36.21316457798292],[7.04828331872022,36.23840851544071],[7.04564782128995,36.27577057555169],[7.04068688299333,36.28553742071546],[7.03200524344726,36.29225535729893],[7.02141157418487,36.29571767792856],[7.0104044937724,36.30036855696341],[7.00358320530074,36.31235749020607],[7.00172285332707,36.32287364420336],[7.00311811730734,36.34010773388485],[7.00048261897774,36.34992625589206],[6.99691694466134,36.3549388701328],[6.97800337105878,36.36411143699326],[6.96989017139435,36.37403331178797],[6.96756473142727,36.38651317054644],[6.96213870603651,36.40173187952269],[6.94803104020042,36.42493459695413],[6.94617068912606,36.42713084571199],[6.93795413577482,36.43286693036458],[6.96151858931148,36.46635325779664],[6.98559980588641,36.47699860300315],[7.06239098455632,36.49573131035174],[7.07153771299511,36.49927114534711],[7.07572350403655,36.50255259882346],[7.07711876801676,36.50774608021749],[7.07479332804968,36.51547170715361],[7.0710726250017,36.52226715810292],[7.07091759627008,36.53255076810353],[7.07711876801676,36.54526316995936],[7.10244021984033,36.57117890098556],[7.12398929177243,36.58582916918084],[7.23648888505403,36.63399160412928],[7.26429080557625,36.64280243578384],[7.28739017111957,36.64714325645616],[7.30444339364777,36.64737580045289],[7.31472700364833,36.65161326833771],[7.32030805777072,36.6586671008061],[7.3244938488121,36.68210236313359],[7.32836958239034,36.69285106112761],[7.339686720266,36.7064161237052],[7.34759321525473,36.7126431338736],[7.36728193521321,36.72137645116237],[7.38423180495386,36.72613068298466],[7.45683719168312,36.6930577658033],[7.46474368667185,36.68370433178956],[7.47280521039221,36.67013926921197],[7.47249515113037,36.6486160339029],[7.47559573655406,36.63884918873913],[7.4810734387882,36.63409495691678],[7.49657636860456,36.63078766501877],[7.50200239399533,36.62874644589181],[7.51921064615442,36.62021983507736],[7.53378339998398,36.61538808888923],[7.5480977722944,36.61311432576559],[7.56298058358709,36.61244253219718]]],"type":"Polygon"}
+}

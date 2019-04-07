@@ -1,0 +1,69 @@
+{
+  "id": 1293815213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.44178,36.17547,1.44178,36.17547",
+    "geom:latitude":36.17547,
+    "geom:longitude":1.44178,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Menasria",
+    "gn:country_code":"DZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488166,
+    "gn:latitude":36.17547,
+    "gn:longitude":1.44178,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Menasria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menasrya",
+        "Menasria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488166
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"65dcecac8b775461b53198e2fc72386b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293815213,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1293815213,
+    "wof:lastmodified":1537620140,
+    "wof:name":"Menasria",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.44178,
+    36.17547,
+    1.44178,
+    36.17547
+],
+  "geometry": {"coordinates":[1.44178,36.17547],"type":"Point"}
+}

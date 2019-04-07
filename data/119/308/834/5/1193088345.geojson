@@ -1,0 +1,65 @@
+{
+  "id": 1193088345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.52574,36.66217,3.52574,36.66217",
+    "geom:latitude":36.66217,
+    "geom:longitude":3.52574,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Oulad Sidi Ben Ameur",
+    "gn:country_code":"DZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485134,
+    "gn:latitude":36.66217,
+    "gn:longitude":3.52574,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Sidi Ben Ameur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485134
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a551c8b93aac2fe9173e18068e3f8cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193088345,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1193088345,
+    "wof:lastmodified":1536373401,
+    "wof:name":"Oulad Sidi Ben Ameur",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.52574,
+    36.66217,
+    3.52574,
+    36.66217
+],
+  "geometry": {"coordinates":[3.52574,36.66217],"type":"Point"}
+}

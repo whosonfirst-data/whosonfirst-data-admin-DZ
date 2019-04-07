@@ -1,0 +1,62 @@
+{
+  "id": 1209254875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.99195,35.13735,-0.99195,35.13735",
+    "geom:latitude":35.13735,
+    "geom:longitude":-0.99195,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Aoubellil",
+    "gn:country_code":"DZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506910,
+    "gn:latitude":35.13735,
+    "gn:longitude":-0.99195,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aoubellil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506910,
+        "wk:page":"Aoubellil"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7c99079fc7cdc57a2e06d7042af575ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209254875
+        }
+    ],
+    "wof:id":1209254875,
+    "wof:lastmodified":1537504305,
+    "wof:name":"Aoubellil",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.99195,
+    35.13735,
+    -0.99195,
+    35.13735
+],
+  "geometry": {"coordinates":[-0.99195,35.13735],"type":"Point"}
+}

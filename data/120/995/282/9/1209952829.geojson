@@ -1,0 +1,65 @@
+{
+  "id": 1209952829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73135,35.56347,0.73135,35.56347",
+    "geom:latitude":35.56347,
+    "geom:longitude":0.73135,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Sghairia",
+    "gn:country_code":"DZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577274,
+    "gn:latitude":35.56347,
+    "gn:longitude":0.73135,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar Sgha\u00efria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577274
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"19fd1faa5f2dae543e6833a98b0e86b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209952829,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1209952829,
+    "wof:lastmodified":1536381707,
+    "wof:name":"Douar Sghairia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73135,
+    35.56347,
+    0.73135,
+    35.56347
+],
+  "geometry": {"coordinates":[0.73135,35.56347],"type":"Point"}
+}

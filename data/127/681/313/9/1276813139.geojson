@@ -1,0 +1,65 @@
+{
+  "id": 1276813139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.13752,27.11381,-0.13752,27.11381",
+    "geom:latitude":27.11381,
+    "geom:longitude":-0.13752,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Azoua",
+    "gn:country_code":"DZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505955,
+    "gn:latitude":27.11381,
+    "gn:longitude":-0.13752,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Azoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505955
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7da6366ac036563f8714c8bfc422ea8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276813139,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1276813139,
+    "wof:lastmodified":1536631467,
+    "wof:name":"Azoua",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.13752,
+    27.11381,
+    -0.13752,
+    27.11381
+],
+  "geometry": {"coordinates":[-0.13752,27.11381],"type":"Point"}
+}

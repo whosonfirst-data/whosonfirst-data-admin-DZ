@@ -1,0 +1,356 @@
+{
+  "id": 85670765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.124319,
+    "geom:area_square_m":1231457760.851146,
+    "geom:bbox":"3.17328992389,36.5973271751,4.0394631599,36.9172223986",
+    "geom:latitude":36.765474,
+    "geom:longitude":3.6832,
+    "gn:population":802083,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Boumerd\u00e8s Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.778828,
+    "lbl:longitude":3.761882,
+    "mps:latitude":36.778828,
+    "mps:longitude":3.761882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "Boumerdes",
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0443\u043c\u0435\u0440\u0434\u044d\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0443\u043c\u044d\u0440\u0434\u044d\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cc\u09ae\u09c7\u09b0\u09a1\u09c7\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043c\u0435\u0440\u0434\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Boumerd\u00e8s"
+    ],
+    "name:ceb_x_preferred":[
+        "Wilaya de Boumerdes"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u7c73\u5c14\u8fbe\u65af\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Boumerd\u00e8s Province"
+    ],
+    "name:deu_x_preferred":[
+        "Boumerdes"
+    ],
+    "name:dut_x_preferred":[
+        "Boumerd\u00e8s"
+    ],
+    "name:eng_x_preferred":[
+        "Boumerdes Province"
+    ],
+    "name:eng_x_variant":[
+        "Boumerdes",
+        "Boumerd\u00e8s",
+        "Boumerd\u00e8s Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Bumerdes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Boumerd\u00e8sin l\u00e4\u00e4ni"
+    ],
+    "name:fra_x_preferred":[
+        "Wilaya de Boumerd\u00e8s"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Boumerd\u00e8s"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10db\u10d4\u10e0\u10d3\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Boumerdes"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Boumerd\u00e8s"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bc\u03b5\u03c1\u03bd\u03c4\u03ad\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0aae\u0ac7\u0ab0\u0acd\u0aa1\u0ac7\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0909\u092e\u0947\u0930\u094d\u0921\u0947\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Boumerdes"
+    ],
+    "name:ita_x_preferred":[
+        "provincia di Boumerd\u00e8s"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e1\u30eb\u30c7\u30b9\u770c"
+    ],
+    "name:kab_x_preferred":[
+        "Tawilayt n Bumerdas"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cca\u0cae\u0cc6\u0cb0\u0ccd\u0ca1\u0cc6\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uba54\ub974\ub370\uc2a4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Bumerdes"
+    ],
+    "name:lav_x_preferred":[
+        "B\u016bmerd\u0101sas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Bumerdeso vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094b\u092e\u0947\u0930\u094d\u0921\u094d\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Boumerd\u00e8s"
+    ],
+    "name:nan_x_preferred":[
+        "Boumerd\u00e8s S\u00e9ng"
+    ],
+    "name:nob_x_preferred":[
+        "Boumerd\u00e8s"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Bumardas"
+    ],
+    "name:por_x_preferred":[
+        "Boumerd\u00e8s"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Boumerd\u00e8s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043c\u0435\u0440\u0434\u0435\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dde\u0db8\u0dd9\u0dbb\u0dca\u0da9\u0dd9\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Boumerd\u00e8s eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Bumerd\u00e9s"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043c\u0435\u0440\u0434\u0435\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Boumerd\u00e8s"
+    ],
+    "name:swe_x_preferred":[
+        "Boumerd\u00e8s"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcc\u0bae\u0bc6\u0bb0\u0bcd\u0b9f\u0bc7\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4c\u0c2e\u0c46\u0c30\u0c4d\u0c21\u0c46\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0443\u043c\u0430\u0440\u0434\u043e\u0441"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Boumerd\u00e8s"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e31\u0e27\u0e40\u0e21\u0e2d\u0e40\u0e14\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Bumerdas Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043c\u0435\u0440\u0434\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Boumerdes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Boumerd\u00e8s"
+    ],
+    "name:war_x_preferred":[
+        "Boumerd\u00e8s"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2196",
+    "ne:adm1_code":"DZA-2196",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.BM",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2196",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG40",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.40",
+    "ne:gn_id":"2502638",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Boumerdes",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG40",
+    "ne:gns_id":"-463226",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Boumerdes",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"36.75030000000",
+    "ne:longitude":"3.60632000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Boumerd\u00e8s",
+    "ne:name_alt":"Boumerdas",
+    "ne:name_len":9,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0645\u0631\u062f\u0627\u0633",
+    "ne:note":"",
+    "ne:postal":"BM",
+    "ne:provnum_ne":"6",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344610,
+    "ne:woe_label":"Boumerdes, DZ, Algeria",
+    "ne:woe_name":"Boumerd\u00e8s",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Boumerd\u00e8s",
+    "qs:a1_lc":"DZA-2196",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"1,558",
+    "statoids:area_mi":"602",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Boumerd\u00e8s",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG40",
+    "statoids:hasc":"DZ.BM",
+    "statoids:iso":"35",
+    "statoids:name":"Boumerd\u00e8s",
+    "statoids:population":"802083",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-35",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG40",
+        "gn:id":2502638,
+        "gp:id":2344610,
+        "hasc:id":"DZ.BM",
+        "iso:id":"DZ-35",
+        "qs:id":1168608,
+        "unlc:id":"DZ-35",
+        "wd:id":"Q236752",
+        "wk:page":"Boumerd\u00e8s Province"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"189c98f17b91049e45fb948291abe8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":85670765,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550363,
+    "wof:name":"Boumerd\u00e8s",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":802083,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"BM",
+    "wof:subdivision":"DZ-35",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17328992389093,
+    36.59732717510911,
+    4.03946315989697,
+    36.91722239859484
+],
+  "geometry": {"coordinates":[[[4.03946315989697,36.89691982389081],[4.03916466591664,36.89154694303704],[4.0376143732048,36.86312490489053],[4.0337386414252,36.84963735577941],[4.02598717606736,36.83599477793672],[3.99694502119581,36.80390371448487],[3.97214033420909,36.78147614251003],[3.95508711078156,36.7755075138607],[3.94185794408889,36.77300120674033],[3.93255618691853,36.76899628375156],[3.93069583494486,36.76127065681538],[3.93317630364356,36.75388092756282],[3.93875735776589,36.74519928621811],[3.94718061669215,36.73450226506753],[3.96392378085784,36.71933523203541],[3.96500898557628,36.71212636993607],[3.95911787309143,36.70401317027165],[3.94201297371978,36.69006053316713],[3.9322461276567,36.67951854074812],[3.92046390088837,36.6707335484146],[3.90883670375092,36.66732290282977],[3.88894127821749,36.66825307881658],[3.85731530096041,36.67760651283038],[3.84646325017889,36.67972524722245],[3.83638634575328,36.67786489524877],[3.82718794137043,36.66688365325803],[3.82176191597966,36.65740102803505],[3.81385542189025,36.648693549168],[3.80408857582717,36.64649730130947],[3.79540693538183,36.64776337318119],[3.78998090999107,36.6518199730134],[3.7854850596878,36.65711680809426],[3.7789738295786,36.66107005513896],[3.76993045392737,36.66200023022651],[3.76062869585769,36.66130259913569],[3.75210208504325,36.6594164087403],[3.74466067894724,36.65626414647323],[3.73830447756961,36.64791840281208],[3.73551394960913,36.64076121755619],[3.73365359943409,36.60761078510967],[3.66611250199043,36.5974563672176],[3.65122968889909,36.59732717510911],[3.64192793082941,36.60040192301039],[3.63836225831164,36.60742991795638],[3.64161787336622,36.61621491118927],[3.6490592785629,36.6270411244484],[3.67670617035356,36.65771108729689],[3.68073693176405,36.66680613889224],[3.67965172704561,36.67414419220074],[3.67500084801077,36.68011281995075],[3.66678429465952,36.68458283093292],[3.64735395711949,36.6918175323533],[3.63572675908273,36.69440135294013],[3.62316938595842,36.6957966169204],[3.60699466257364,36.69243764907827],[3.56839236811334,36.67879507123558],[3.53795495016089,36.67693471926196],[3.47744184676384,36.68856191729867],[3.45651289155677,36.67801992398034],[3.44767622237981,36.67595286733103],[3.4373926123792,36.67654714653366],[3.38979861821173,36.69414297142106],[3.38525109196439,36.69853546803745],[3.38168541764793,36.70427155179073],[3.37176354285327,36.71042104849266],[3.35440026196255,36.7134699570729],[3.32365278474828,36.71230723708936],[3.28768598771819,36.70721710938216],[3.22980838444943,36.68512543419149],[3.17410118971816,36.74160777437936],[3.17328992389093,36.74262185621376],[3.17937259197157,36.74282461106702],[3.21045983215555,36.75739166949],[3.22120201905796,36.77142975567875],[3.22608483234916,36.78620026233227],[3.22730553522234,36.81232330957312],[3.23780358226958,36.81305573093726],[3.30298912954476,36.78876373935515],[3.34050540540016,36.78070709805417],[3.46070397241044,36.77509186429813],[3.48047936273247,36.77724844036328],[3.51905358215714,36.78660716418932],[3.53980553549712,36.78876373935515],[3.55046634184822,36.79144928585589],[3.55811608219148,36.79767487239752],[3.56430097710847,36.80434804882344],[3.57056725437536,36.80857982040243],[3.58041425881106,36.80996328347879],[3.6018172538632,36.80809153889345],[3.61207116015595,36.80857982040243],[3.64966881566335,36.82396067894223],[3.70948326903766,36.87319570561738],[3.74187259174676,36.89118073100599],[3.82748457105617,36.91290924736393],[3.87387129012797,36.91722239859484],[3.91260826885656,36.91160716393949],[3.94825280012668,36.89329661724514],[3.96404056142279,36.89118073100599],[3.9748641288765,36.89227936440119],[3.99642988413189,36.89691803603858],[4.03142337279047,36.8977725286793],[4.03946315989697,36.89691982389081]]],"type":"Polygon"}
+}

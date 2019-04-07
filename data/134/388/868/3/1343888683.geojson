@@ -1,0 +1,65 @@
+{
+  "id": 1343888683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.52096,36.12287,4.52096,36.12287",
+    "geom:latitude":36.12287,
+    "geom:longitude":4.52096,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Kasba",
+    "gn:country_code":"DZ",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2492683,
+    "gn:latitude":36.12287,
+    "gn:longitude":4.52096,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kasba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2492683
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f8568182efca30b54b0d32dd837417e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343888683,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1343888683,
+    "wof:lastmodified":1536624005,
+    "wof:name":"Kasba",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.52096,
+    36.12287,
+    4.52096,
+    36.12287
+],
+  "geometry": {"coordinates":[4.52096,36.12287],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326863825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.47028,35.68561,1.47028,35.68561",
+    "geom:latitude":35.68561,
+    "geom:longitude":1.47028,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"El Gouassem",
+    "gn:country_code":"DZ",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498291,
+    "gn:latitude":35.68561,
+    "gn:longitude":1.47028,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"El Gouassem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498291
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"47c0cd9177a3ed1ff7a98b25cf02b231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326863825,
+            "region_id":85670805
+        }
+    ],
+    "wof:id":1326863825,
+    "wof:lastmodified":1537002484,
+    "wof:name":"El Gouassem",
+    "wof:parent_id":85670805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.47028,
+    35.68561,
+    1.47028,
+    35.68561
+],
+  "geometry": {"coordinates":[1.47028,35.68561],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276260259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.43339,36.20929,1.43339,36.20929",
+    "geom:latitude":36.20929,
+    "geom:longitude":1.43339,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Rezzama",
+    "gn:country_code":"DZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572701,
+    "gn:latitude":36.20929,
+    "gn:longitude":1.43339,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Rezzama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572701
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6e9c69aae0f995f6ce3a1fb1f8f8bece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276260259,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1276260259,
+    "wof:lastmodified":1536875689,
+    "wof:name":"Rezzama",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.43339,
+    36.20929,
+    1.43339,
+    36.20929
+],
+  "geometry": {"coordinates":[1.43339,36.20929],"type":"Point"}
+}

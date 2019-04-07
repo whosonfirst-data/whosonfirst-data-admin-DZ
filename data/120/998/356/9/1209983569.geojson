@@ -1,0 +1,68 @@
+{
+  "id": 1209983569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34462,35.3884,0.34462,35.3884",
+    "geom:latitude":35.3884,
+    "geom:longitude":0.34462,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Lalalma",
+    "gn:country_code":"DZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579173,
+    "gn:latitude":35.3884,
+    "gn:longitude":0.34462,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Lalalma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Alalma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579173
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8ecdf3d9a076806418c4795af826067e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209983569,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1209983569,
+    "wof:lastmodified":1537620266,
+    "wof:name":"Douar Lalalma",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34462,
+    35.3884,
+    0.34462,
+    35.3884
+],
+  "geometry": {"coordinates":[0.34462,35.3884],"type":"Point"}
+}

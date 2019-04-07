@@ -1,0 +1,116 @@
+{
+  "id": 1125959019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.55665,36.72544,3.55665,36.72544",
+    "geom:latitude":36.72544,
+    "geom:longitude":3.55665,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16180,
+    "gn:population":16180,
+    "iso:country":"DZ",
+    "lbl:latitude":36.72544,
+    "lbl:longitude":3.55665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0646\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:eng_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:fre_x_preferred":[
+        "Thenia"
+    ],
+    "name:ger_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:ita_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:kab_x_preferred":[
+        "Tala \u03b5ica"
+    ],
+    "name:por_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:rum_x_preferred":[
+        "Thenia"
+    ],
+    "name:rus_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:swe_x_preferred":[
+        "Thenia"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e9nerville"
+    ],
+    "name:vie_x_preferred":[
+        "Thenia"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2476917,
+    "qs_pg:gn_pop":16180,
+    "qs_pg:name":"Thenia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1114552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476917,
+        "qs_pg:id":1114552,
+        "wd:id":"Q2225013"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497297727,
+    "wof:geomhash":"215f01af10ab05339d0c1c2bfa72b28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125959019,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1125959019,
+    "wof:lastmodified":1513956096,
+    "wof:name":"Thenia",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:population":16180,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.55665,
+    36.72544,
+    3.55665,
+    36.72544
+],
+  "geometry": {"coordinates":[3.55665,36.72544],"type":"Point"}
+}

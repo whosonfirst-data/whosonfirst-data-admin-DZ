@@ -1,0 +1,216 @@
+{
+  "id": 1141908229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00995357118,33.6903582957,1.00995357118,33.6903582957",
+    "geom:latitude":33.690358,
+    "geom:longitude":1.009954,
+    "iso:country":"DZ",
+    "lbl:latitude":33.690358,
+    "lbl:longitude":1.009954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0651\u0636"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u4e9a\u5179"
+    ],
+    "name:dut_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:eng_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:fre_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:ger_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:ita_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ubc14\uc57c\ub4dc"
+    ],
+    "name:may_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:nan_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:nob_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u0636"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bajad"
+    ],
+    "name:por_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:rum_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u044f\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0411\u0430\u044f\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:war_x_preferred":[
+        "El Bayadh"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"El Bayadh",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":33.690358,
+    "ne:LONGITUDE":1.009954,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Bayadh",
+    "ne:MAX_AREAKM":12.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":1.041667,
+    "ne:MAX_BBXMIN":0.991667,
+    "ne:MAX_BBYMAX":33.7,
+    "ne:MAX_BBYMIN":33.666667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":19.0,
+    "ne:MAX_PERMI":12.0,
+    "ne:MAX_POP10":67413,
+    "ne:MAX_POP20":67413,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":1.014461,
+    "ne:MEAN_BBYC":33.682108,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":12.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":1.041667,
+    "ne:MIN_BBXMIN":0.991667,
+    "ne:MIN_BBYMAX":33.7,
+    "ne:MIN_BBYMIN":33.666667,
+    "ne:MIN_PERKM":19.0,
+    "ne:MIN_PERMI":12.0,
+    "ne:NAME":"El Bayadh",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Bayadh",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":67413,
+    "ne:POP_MIN":67413,
+    "ne:POP_OTHER":67413,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "reversegeo:latitude":33.690358,
+    "reversegeo:longitude":1.009954,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q648784"
+    },
+    "wof:country":"DZ",
+    "wof:created":1499130855,
+    "wof:geomhash":"c3b2ab9a692ceb6f4daa75f49d5db0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1141908229,
+            "region_id":85670741
+        }
+    ],
+    "wof:id":1141908229,
+    "wof:lastmodified":1513956038,
+    "wof:name":"El Bayadh",
+    "wof:parent_id":85670741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00995357118052,
+    33.6903582957242,
+    1.00995357118052,
+    33.6903582957242
+],
+  "geometry": {"coordinates":[1.00995357118052,33.6903582957242],"type":"Point"}
+}

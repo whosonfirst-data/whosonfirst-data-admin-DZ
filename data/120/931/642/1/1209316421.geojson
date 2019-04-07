@@ -1,0 +1,61 @@
+{
+  "id": 1209316421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15875,35.04266,6.15875,35.04266",
+    "geom:latitude":35.04266,
+    "geom:longitude":6.15875,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oulad Mannsour",
+    "gn:country_code":"DZ",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485220,
+    "gn:latitude":35.04266,
+    "gn:longitude":6.15875,
+    "gn:modification_date":"1996-01-31",
+    "gn:name":"Oulad Mannsour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485220
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5d799f978d08ddd24640f85fb0854c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209316421
+        }
+    ],
+    "wof:id":1209316421,
+    "wof:lastmodified":1536290848,
+    "wof:name":"Oulad Mannsour",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15875,
+    35.04266,
+    6.15875,
+    35.04266
+],
+  "geometry": {"coordinates":[6.15875,35.04266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360058561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.58615,34.46095,-1.58615,34.46095",
+    "geom:latitude":34.46095,
+    "geom:longitude":-1.58615,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sidi Djilali",
+    "gn:country_code":"DZ",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480634,
+    "gn:latitude":34.46095,
+    "gn:longitude":-1.58615,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Djilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Jilali",
+        "Sidi Djillali",
+        "Sidi Djilali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480634,
+        "wk:page":"Sidi_Djillali"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b61d0e3f095e1c9569758ea28bb92e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360058561,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1360058561,
+    "wof:lastmodified":1537620112,
+    "wof:name":"Sidi Djilali",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.58615,
+    34.46095,
+    -1.58615,
+    34.46095
+],
+  "geometry": {"coordinates":[-1.58615,34.46095],"type":"Point"}
+}

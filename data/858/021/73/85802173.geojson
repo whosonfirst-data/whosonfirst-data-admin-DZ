@@ -1,0 +1,109 @@
+{
+  "id": 85802173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":997860.327724,
+    "geom:bbox":"3.034973,36.785091,3.034973,36.785091",
+    "geom:latitude":36.785091,
+    "geom:longitude":3.034973,
+    "iso:country":"DZ",
+    "lbl:latitude":36.785091,
+    "lbl:longitude":3.034973,
+    "mps:latitude":36.787145,
+    "mps:longitude":3.031081,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "Oued Korine"
+    ],
+    "name:ara_x_variant":[
+        "Cite Climat de France",
+        "Climat de France"
+    ],
+    "name:unk_x_variant":[
+        "Climat de France",
+        "Oued Korine"
+    ],
+    "qs:gn_adm0_cc":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2507480,
+    "qs:gn_nam_loc":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631, DZ, \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:gn_namadm1":"55",
+    "qs:gn_name":"Oued Korine",
+    "qs:local_max":361,
+    "qs:local_sum":1976,
+    "qs:localhoods":16,
+    "qs:name":"Oued Korine",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_local":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424740,
+    "qs:woe_adm1":2344579,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1253079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485604,
+        "gp:id":1256602,
+        "qs:id":1024228,
+        "qs_pg:id":1024228
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"207de0a3776bbe5ce8687bea33902d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":85802173,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":85802173,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531862143,
+    "wof:name":"Oued Korine",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.034973,
+    36.785091,
+    3.034973,
+    36.785091
+],
+  "geometry": {"coordinates":[3.034973,36.785091],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310046341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8565,36.40964,1.8565,36.40964",
+    "geom:latitude":36.40964,
+    "geom:longitude":1.8565,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Beni Nasseur",
+    "gn:country_code":"DZ",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2504602,
+    "gn:latitude":36.40964,
+    "gn:longitude":1.8565,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Beni Nasseur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504602
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d47278be7f47b811ae49a39230b0825f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310046341,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1310046341,
+    "wof:lastmodified":1537078620,
+    "wof:name":"Beni Nasseur",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8565,
+    36.40964,
+    1.8565,
+    36.40964
+],
+  "geometry": {"coordinates":[1.8565,36.40964],"type":"Point"}
+}

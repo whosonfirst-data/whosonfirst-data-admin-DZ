@@ -1,0 +1,70 @@
+{
+  "id": 1226706895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2767,35.47289,0.2767,35.47289",
+    "geom:latitude":35.47289,
+    "geom:longitude":0.2767,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ouled Boualem",
+    "gn:country_code":"DZ",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499254,
+    "gn:latitude":35.47289,
+    "gn:longitude":0.2767,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Ouled Boualem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ouled Sidi Barhdad",
+        "Douar Ouled Boualem",
+        "Sidi Barhdad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499254
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9a69ed974fe29b08d0fb7df1eade4bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226706895,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1226706895,
+    "wof:lastmodified":1537620208,
+    "wof:name":"Douar Ouled Boualem",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2767,
+    35.47289,
+    0.2767,
+    35.47289
+],
+  "geometry": {"coordinates":[0.2767,35.47289],"type":"Point"}
+}

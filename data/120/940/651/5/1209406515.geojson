@@ -1,0 +1,61 @@
+{
+  "id": 1209406515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.25416,35.8146,0.25416,35.8146",
+    "geom:latitude":35.8146,
+    "geom:longitude":0.25416,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Adda Ouled Kaddour",
+    "gn:country_code":"DZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7411232,
+    "gn:latitude":35.8146,
+    "gn:longitude":0.25416,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Adda Ouled Kaddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7411232
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8429c55aef4f6c5cc2886f508648a2bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209406515
+        }
+    ],
+    "wof:id":1209406515,
+    "wof:lastmodified":1536287979,
+    "wof:name":"Adda Ouled Kaddour",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.25416,
+    35.8146,
+    0.25416,
+    35.8146
+],
+  "geometry": {"coordinates":[0.25416,35.8146],"type":"Point"}
+}

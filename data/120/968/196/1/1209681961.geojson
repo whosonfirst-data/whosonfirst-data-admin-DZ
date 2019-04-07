@@ -1,0 +1,80 @@
+{
+  "id": 1209681961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48119,36.67324,5.48119,36.67324",
+    "geom:latitude":36.67324,
+    "geom:longitude":5.48119,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ziama Mansouria",
+    "gn:country_code":"DZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474423,
+    "gn:latitude":36.67324,
+    "gn:longitude":5.48119,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Ziama Mansouria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0627\u0645\u0629 \u0645\u0646\u0635\u0648\u0631\u064a\u0629"
+    ],
+    "name:ber_x_preferred":[
+        "\u2d63\u2d62\u2d30\u2d4e\u2d30 \u2d4d\u2d4e\u2d30\u2d4f\u2d5a\u2d67\u2d54\u2d49\u2d62\u2d30"
+    ],
+    "name:fra_x_historical":[
+        "Cova"
+    ],
+    "name:fra_x_preferred":[
+        "Cova"
+    ],
+    "name:und_x_variant":[
+        "Mansouria",
+        "Ziama",
+        "Ziama Mansouriah",
+        "Ziama Mansouria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474423,
+        "wk:page":"Ziama_Mansouriah"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ecaa8bc0b27a4e2f708478106cbeb348",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209681961
+        }
+    ],
+    "wof:id":1209681961,
+    "wof:lastmodified":1537620090,
+    "wof:name":"Ziama Mansouria",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48119,
+    36.67324,
+    5.48119,
+    36.67324
+],
+  "geometry": {"coordinates":[5.48119,36.67324],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360092461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78698,35.63709,5.78698,35.63709",
+    "geom:latitude":35.63709,
+    "geom:longitude":5.78698,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Bou Ari",
+    "gn:country_code":"DZ",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489696,
+    "gn:latitude":35.63709,
+    "gn:longitude":5.78698,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Mechta Bou Ari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489696
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8cd56b32bab11b5b901dd6fbc5417434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360092461,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1360092461,
+    "wof:lastmodified":1536935723,
+    "wof:name":"Mechta Bou Ari",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78698,
+    35.63709,
+    5.78698,
+    35.63709
+],
+  "geometry": {"coordinates":[5.78698,35.63709],"type":"Point"}
+}

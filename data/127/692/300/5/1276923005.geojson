@@ -1,0 +1,69 @@
+{
+  "id": 1276923005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31054,35.61074,7.31054,35.61074",
+    "geom:latitude":35.61074,
+    "geom:longitude":7.31054,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat el Djama",
+    "gn:country_code":"DZ",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489117,
+    "gn:latitude":35.61074,
+    "gn:longitude":7.31054,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat el Djama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta el Djama",
+        "Mechtat el Djama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489117
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9dd3b9b3515bf0cbdc2404501266b36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276923005,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1276923005,
+    "wof:lastmodified":1537620150,
+    "wof:name":"Mechtat el Djama",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31054,
+    35.61074,
+    7.31054,
+    35.61074
+],
+  "geometry": {"coordinates":[7.31054,35.61074],"type":"Point"}
+}

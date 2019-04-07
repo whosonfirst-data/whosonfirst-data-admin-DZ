@@ -1,0 +1,67 @@
+{
+  "id": 1209243685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.39534,35.71938,0.39534,35.71938",
+    "geom:latitude":35.71938,
+    "geom:longitude":0.39534,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Brinis Jouahria",
+    "gn:country_code":"DZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499470,
+    "gn:latitude":35.71938,
+    "gn:longitude":0.39534,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Brinis Jouahria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ben Djohar",
+        "Douar Djouhar\u00eea",
+        "Brinis Jouahria",
+        "Ben Djohar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499470
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e69d185809e6e8fdb8ddda0cdc28bf3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209243685
+        }
+    ],
+    "wof:id":1209243685,
+    "wof:lastmodified":1537620219,
+    "wof:name":"Brinis Jouahria",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.39534,
+    35.71938,
+    0.39534,
+    35.71938
+],
+  "geometry": {"coordinates":[0.39534,35.71938],"type":"Point"}
+}

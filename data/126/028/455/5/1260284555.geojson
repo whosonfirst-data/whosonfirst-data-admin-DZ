@@ -1,0 +1,65 @@
+{
+  "id": 1260284555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92975,36.35588,6.92975,36.35588",
+    "geom:latitude":36.35588,
+    "geom:longitude":6.92975,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mechtat Ben el Hambli",
+    "gn:country_code":"DZ",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489172,
+    "gn:latitude":36.35588,
+    "gn:longitude":6.92975,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat Ben el Hambli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489172
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1ac8f17b4c224e38d753b5f050dd6b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260284555,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1260284555,
+    "wof:lastmodified":1536710827,
+    "wof:name":"Mechtat Ben el Hambli",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92975,
+    36.35588,
+    6.92975,
+    36.35588
+],
+  "geometry": {"coordinates":[6.92975,36.35588],"type":"Point"}
+}

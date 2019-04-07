@@ -1,0 +1,73 @@
+{
+  "id": 1326981287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40555,36.77187,3.40555,36.77187",
+    "geom:latitude":36.77187,
+    "geom:longitude":3.40555,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Boudouaou el Bahri",
+    "gn:country_code":"DZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503307,
+    "gn:latitude":36.77187,
+    "gn:longitude":3.40555,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boudouaou el Bahri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u2019Aima-Marine",
+        "Alma-Marine",
+        "Boudouaou Marine",
+        "Bou Daoua el Bahri",
+        "Boudouaou el Bahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503307,
+        "wk:page":"Boudouaou-El-Bahri"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0e5e5dfba1ab135d3539233b76ba3b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326981287,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1326981287,
+    "wof:lastmodified":1537620236,
+    "wof:name":"Boudouaou el Bahri",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40555,
+    36.77187,
+    3.40555,
+    36.77187
+],
+  "geometry": {"coordinates":[3.40555,36.77187],"type":"Point"}
+}

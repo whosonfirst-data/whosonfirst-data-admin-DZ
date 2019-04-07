@@ -1,0 +1,65 @@
+{
+  "id": 1327097681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.91667,36.58333,4.91667,36.58333",
+    "geom:latitude":36.58333,
+    "geom:longitude":4.91667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Taourirt el Had",
+    "gn:country_code":"DZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477901,
+    "gn:latitude":36.58333,
+    "gn:longitude":4.91667,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Taourirt el Had",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477901
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9eeb960c8281cab9308c61159c37e863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327097681,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1327097681,
+    "wof:lastmodified":1536666425,
+    "wof:name":"Taourirt el Had",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.91667,
+    36.58333,
+    4.91667,
+    36.58333
+],
+  "geometry": {"coordinates":[4.91667,36.58333],"type":"Point"}
+}

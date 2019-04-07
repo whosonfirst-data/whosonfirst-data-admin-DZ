@@ -1,0 +1,65 @@
+{
+  "id": 1243361047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.11444,36.15306,3.11444,36.15306",
+    "geom:latitude":36.15306,
+    "geom:longitude":3.11444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bou Ziane",
+    "gn:country_code":"DZ",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502129,
+    "gn:latitude":36.15306,
+    "gn:longitude":3.11444,
+    "gn:modification_date":"1999-07-13",
+    "gn:name":"Bou Ziane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502129
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"047130d3c0ab5f59c5a08c5e2099b850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243361047,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243361047,
+    "wof:lastmodified":1536929460,
+    "wof:name":"Bou Ziane",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.11444,
+    36.15306,
+    3.11444,
+    36.15306
+],
+  "geometry": {"coordinates":[3.11444,36.15306],"type":"Point"}
+}

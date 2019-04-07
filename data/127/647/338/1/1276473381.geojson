@@ -1,0 +1,65 @@
+{
+  "id": 1276473381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.76701,36.55362,1.76701,36.55362",
+    "geom:latitude":36.55362,
+    "geom:longitude":1.76701,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Douar Kalifain",
+    "gn:country_code":"DZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572920,
+    "gn:latitude":36.55362,
+    "gn:longitude":1.76701,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Douar Kalifain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572920
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b3d8b2a0fb651c8461c18aa35991e1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276473381,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1276473381,
+    "wof:lastmodified":1537085326,
+    "wof:name":"Douar Kalifain",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.76701,
+    36.55362,
+    1.76701,
+    36.55362
+],
+  "geometry": {"coordinates":[1.76701,36.55362],"type":"Point"}
+}

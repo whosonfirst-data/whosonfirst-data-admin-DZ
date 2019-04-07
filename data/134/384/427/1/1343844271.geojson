@@ -1,0 +1,65 @@
+{
+  "id": 1343844271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.40324,34.97537,2.40324,34.97537",
+    "geom:latitude":34.97537,
+    "geom:longitude":2.40324,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Djenane Rhouiba",
+    "gn:country_code":"DZ",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2499855,
+    "gn:latitude":34.97537,
+    "gn:longitude":2.40324,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Djenane Rhouiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499855
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b599d036839e58a3e94a6634c6d31fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343844271,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1343844271,
+    "wof:lastmodified":1536690099,
+    "wof:name":"Djenane Rhouiba",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.40324,
+    34.97537,
+    2.40324,
+    34.97537
+],
+  "geometry": {"coordinates":[2.40324,34.97537],"type":"Point"}
+}

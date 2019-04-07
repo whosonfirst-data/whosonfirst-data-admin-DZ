@@ -1,0 +1,65 @@
+{
+  "id": 1209971057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.96629,35.68771,4.96629,35.68771",
+    "geom:latitude":35.68771,
+    "geom:longitude":4.96629,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ouled Zlehala",
+    "gn:country_code":"DZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484758,
+    "gn:latitude":35.68771,
+    "gn:longitude":4.96629,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Zlehala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484758
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ec97d037d50613cc51ea24daf3ef30bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209971057,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1209971057,
+    "wof:lastmodified":1536395014,
+    "wof:name":"Ouled Zlehala",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.96629,
+    35.68771,
+    4.96629,
+    35.68771
+],
+  "geometry": {"coordinates":[4.96629,35.68771],"type":"Point"}
+}

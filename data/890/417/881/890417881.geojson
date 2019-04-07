@@ -1,0 +1,103 @@
+{
+  "id": 890417881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.10528,36.73944,7.10528,36.73944",
+    "geom:latitude":36.73944,
+    "geom:longitude":7.10528,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":75317,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0627\u0628\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Azzaba"
+    ],
+    "name:eng_x_preferred":[
+        "Azzaba"
+    ],
+    "name:fre_x_preferred":[
+        "Azzaba"
+    ],
+    "name:ita_x_preferred":[
+        "Azzaba"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190ezzaba"
+    ],
+    "name:may_x_preferred":[
+        "Azzaba"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0632\u0627\u0628\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Azzaba"
+    ],
+    "name:rum_x_preferred":[
+        "Azzaba"
+    ],
+    "name:unk_x_variant":[
+        "Jemmapes"
+    ],
+    "name:vie_x_preferred":[
+        "Azzaba"
+    ],
+    "qs:name":"Azzaba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505915,
+        "gp:id":1253194,
+        "qs:id":1036048,
+        "wd:id":"Q2214091",
+        "wk:page":"Azzaba"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051225,
+    "wof:geomhash":"f546dd58ecc022f25a56ca08db559b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890417881,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":890417881,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Azzaba",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:population":75317,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.10528,
+    36.73944,
+    7.10528,
+    36.73944
+],
+  "geometry": {"coordinates":[7.10528,36.73944],"type":"Point"}
+}

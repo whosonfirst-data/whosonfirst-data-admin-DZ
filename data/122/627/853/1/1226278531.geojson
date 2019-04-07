@@ -1,0 +1,65 @@
+{
+  "id": 1226278531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77682,35.48187,0.77682,35.48187",
+    "geom:latitude":35.48187,
+    "geom:longitude":0.77682,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Mrabetine",
+    "gn:country_code":"DZ",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579253,
+    "gn:latitude":35.48187,
+    "gn:longitude":0.77682,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Douar el Mrabetine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579253
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"05e25d819a7be08b325b9bcbcde031b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226278531,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1226278531,
+    "wof:lastmodified":1536885854,
+    "wof:name":"Douar el Mrabetine",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77682,
+    35.48187,
+    0.77682,
+    35.48187
+],
+  "geometry": {"coordinates":[0.77682,35.48187],"type":"Point"}
+}

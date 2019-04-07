@@ -1,0 +1,74 @@
+{
+  "id": 1293152287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02975,30.92008,-2.02975,30.92008",
+    "geom:latitude":30.92008,
+    "geom:longitude":-2.02975,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Taghit",
+    "gn:country_code":"DZ",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478694,
+    "gn:latitude":30.92008,
+    "gn:longitude":-2.02975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taghit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u063a\u064a\u062b"
+    ],
+    "name:und_x_variant":[
+        "Tarhit",
+        "Taihit",
+        "Taghit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478694,
+        "wk:page":"Taghit"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a7b4b29e653f1b272bd1e402b0f250a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293152287,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1293152287,
+    "wof:lastmodified":1537620106,
+    "wof:name":"Taghit",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02975,
+    30.92008,
+    -2.02975,
+    30.92008
+],
+  "geometry": {"coordinates":[-2.02975,30.92008],"type":"Point"}
+}

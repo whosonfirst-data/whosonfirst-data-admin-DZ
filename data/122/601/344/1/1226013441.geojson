@@ -1,0 +1,70 @@
+{
+  "id": 1226013441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52639,36.36868,7.52639,36.36868",
+    "geom:latitude":36.36868,
+    "geom:longitude":7.52639,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ben Smih",
+    "gn:country_code":"DZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504369,
+    "gn:latitude":36.36868,
+    "gn:longitude":7.52639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ben Smih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lapaine",
+        "Fesli Rabah",
+        "Ben Smih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504369
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"50e9d0b38831ee766b78d71ce70de67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226013441,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1226013441,
+    "wof:lastmodified":1537620243,
+    "wof:name":"Ben Smih",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52639,
+    36.36868,
+    7.52639,
+    36.36868
+],
+  "geometry": {"coordinates":[7.52639,36.36868],"type":"Point"}
+}

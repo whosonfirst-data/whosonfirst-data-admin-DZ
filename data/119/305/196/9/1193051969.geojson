@@ -1,0 +1,65 @@
+{
+  "id": 1193051969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8264,34.93102,6.8264,34.93102",
+    "geom:latitude":34.93102,
+    "geom:longitude":6.8264,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tadount",
+    "gn:country_code":"DZ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478819,
+    "gn:latitude":34.93102,
+    "gn:longitude":6.8264,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tadount",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478819
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"de03bcfedcd59f3ffcb7c2d977c7062f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193051969,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1193051969,
+    "wof:lastmodified":1536365453,
+    "wof:name":"Tadount",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8264,
+    34.93102,
+    6.8264,
+    34.93102
+],
+  "geometry": {"coordinates":[6.8264,34.93102],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309851133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33488,29.66977,0.33488,29.66977",
+    "geom:latitude":29.66977,
+    "geom:longitude":0.33488,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Oulad Aiach",
+    "gn:country_code":"DZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485415,
+    "gn:latitude":29.66977,
+    "gn:longitude":0.33488,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad A\u00efach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485415
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7ed00e70098341b0976529ccfd4658fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309851133,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1309851133,
+    "wof:lastmodified":1536864494,
+    "wof:name":"Oulad Aiach",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33488,
+    29.66977,
+    0.33488,
+    29.66977
+],
+  "geometry": {"coordinates":[0.33488,29.66977],"type":"Point"}
+}

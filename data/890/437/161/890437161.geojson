@@ -1,0 +1,121 @@
+{
+  "id": 890437161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.30619,36.56471,4.30619,36.56471",
+    "geom:latitude":36.56471,
+    "geom:longitude":4.30619,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":28029,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "Ain El Hammam"
+    ],
+    "name:dut_x_preferred":[
+        "Ain El Hammam"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:ger_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:kab_x_preferred":[
+        "A\u1e63qif n \u1e6cmana"
+    ],
+    "name:may_x_preferred":[
+        "Ain El Hammam"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u044d\u043b\u044c-\u0425\u0430\u043c\u043c\u0430\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn El Hammam"
+    ],
+    "name:unk_x_variant":[
+        "Michelet"
+    ],
+    "qs:name":"\u2019A\u00efn el Hammam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508152,
+        "gp:id":1256453,
+        "qs:id":1036064,
+        "wd:id":"Q276935",
+        "wk:page":"A\u00efn El Hammam District"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052141,
+    "wof:geomhash":"4b758dd375b3ea1ffe5e5961ce3bb697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890437161,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":890437161,
+    "wof:lastmodified":1527729747,
+    "wof:name":"\u2019A\u00efn el Hammam",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:population":28029,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.30619,
+    36.56471,
+    4.30619,
+    36.56471
+],
+  "geometry": {"coordinates":[4.30619,36.56471],"type":"Point"}
+}

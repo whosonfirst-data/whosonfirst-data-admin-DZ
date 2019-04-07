@@ -1,0 +1,65 @@
+{
+  "id": 1259541411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61932,36.53422,5.61932,36.53422",
+    "geom:latitude":36.53422,
+    "geom:longitude":5.61932,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"En Nemala",
+    "gn:country_code":"DZ",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497259,
+    "gn:latitude":36.53422,
+    "gn:longitude":5.61932,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"En Nemala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497259
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f07d848a3cb70c578275d20f59faaed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259541411,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1259541411,
+    "wof:lastmodified":1536776207,
+    "wof:name":"En Nemala",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61932,
+    36.53422,
+    5.61932,
+    36.53422
+],
+  "geometry": {"coordinates":[5.61932,36.53422],"type":"Point"}
+}

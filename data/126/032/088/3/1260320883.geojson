@@ -1,0 +1,66 @@
+{
+  "id": 1260320883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33966,36.57236,6.33966,36.57236",
+    "geom:latitude":36.57236,
+    "geom:longitude":6.33966,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Hamala",
+    "gn:country_code":"DZ",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2494732,
+    "gn:latitude":36.57236,
+    "gn:longitude":6.33966,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hamala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494732,
+        "wk:page":"Hamala%2C_Bahrain"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"39ea3ce4653a5c42bc528d256f2d01e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260320883,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1260320883,
+    "wof:lastmodified":1537504290,
+    "wof:name":"Hamala",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33966,
+    36.57236,
+    6.33966,
+    36.57236
+],
+  "geometry": {"coordinates":[6.33966,36.57236],"type":"Point"}
+}

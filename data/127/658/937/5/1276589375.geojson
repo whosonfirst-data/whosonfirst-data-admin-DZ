@@ -1,0 +1,70 @@
+{
+  "id": 1276589375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.3751,36.01306,1.3751,36.01306",
+    "geom:latitude":36.01306,
+    "geom:longitude":1.3751,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar ed Douda",
+    "gn:country_code":"DZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498895,
+    "gn:latitude":36.01306,
+    "gn:longitude":1.3751,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar ed Douda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Douda",
+        "Ed Douda",
+        "Douar ed Douda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498895
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"236fd28fe404b34082ea5bdedb65425a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276589375,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1276589375,
+    "wof:lastmodified":1537620205,
+    "wof:name":"Douar ed Douda",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.3751,
+    36.01306,
+    1.3751,
+    36.01306
+],
+  "geometry": {"coordinates":[1.3751,36.01306],"type":"Point"}
+}

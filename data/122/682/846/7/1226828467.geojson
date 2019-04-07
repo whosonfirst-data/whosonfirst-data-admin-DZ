@@ -1,0 +1,69 @@
+{
+  "id": 1226828467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.85685,35.11306,0.85685,35.11306",
+    "geom:latitude":35.11306,
+    "geom:longitude":0.85685,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bel Haouari",
+    "gn:country_code":"DZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505173,
+    "gn:latitude":35.11306,
+    "gn:longitude":0.85685,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bel Haouari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metameur Bel Haouari",
+        "Bel Haouari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505173
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3fb210bb492bda649c6088cf32e8c962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226828467,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1226828467,
+    "wof:lastmodified":1537620246,
+    "wof:name":"Bel Haouari",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.85685,
+    35.11306,
+    0.85685,
+    35.11306
+],
+  "geometry": {"coordinates":[0.85685,35.11306],"type":"Point"}
+}

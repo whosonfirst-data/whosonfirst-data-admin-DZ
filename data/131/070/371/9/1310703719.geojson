@@ -1,0 +1,65 @@
+{
+  "id": 1310703719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49794,35.30795,6.49794,35.30795",
+    "geom:latitude":35.30795,
+    "geom:longitude":6.49794,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Djermane",
+    "gn:country_code":"DZ",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499748,
+    "gn:latitude":35.30795,
+    "gn:longitude":6.49794,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Djermane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499748
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"76cd4a31cd1c8050f51d36c4c50546c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310703719,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1310703719,
+    "wof:lastmodified":1536629211,
+    "wof:name":"Djermane",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49794,
+    35.30795,
+    6.49794,
+    35.30795
+],
+  "geometry": {"coordinates":[6.49794,35.30795],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243098349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.81939,35.5252,0.81939,35.5252",
+    "geom:latitude":35.5252,
+    "geom:longitude":0.81939,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled Ziane",
+    "gn:country_code":"DZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416349,
+    "gn:latitude":35.5252,
+    "gn:longitude":0.81939,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Ziane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416349
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c3e7689787e2c778e767d9d8e1643422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243098349,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1243098349,
+    "wof:lastmodified":1536809883,
+    "wof:name":"Douar Ouled Ziane",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.81939,
+    35.5252,
+    0.81939,
+    35.5252
+],
+  "geometry": {"coordinates":[0.81939,35.5252],"type":"Point"}
+}

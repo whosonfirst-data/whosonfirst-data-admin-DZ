@@ -1,0 +1,65 @@
+{
+  "id": 1243065517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.12383,35.91894,3.12383,35.91894",
+    "geom:latitude":35.91894,
+    "geom:longitude":3.12383,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Amor",
+    "gn:country_code":"DZ",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485369,
+    "gn:latitude":35.91894,
+    "gn:longitude":3.12383,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Amor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485369
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3f4715783646a17e75a87caabee577c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243065517,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243065517,
+    "wof:lastmodified":1536856471,
+    "wof:name":"Oulad Amor",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.12383,
+    35.91894,
+    3.12383,
+    35.91894
+],
+  "geometry": {"coordinates":[3.12383,35.91894],"type":"Point"}
+}

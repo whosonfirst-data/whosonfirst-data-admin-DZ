@@ -1,0 +1,65 @@
+{
+  "id": 1343631761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76083,34.705,-1.76083,34.705",
+    "geom:latitude":34.705,
+    "geom:longitude":-1.76083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mazra'at Mohammed Salah",
+    "gn:country_code":"DZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588148,
+    "gn:latitude":34.705,
+    "gn:longitude":-1.76083,
+    "gn:modification_date":"1997-05-07",
+    "gn:name":"Mazra\u2019at Mohammed Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588148
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e855c3c57ea77a6590a443682cc77486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343631761,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1343631761,
+    "wof:lastmodified":1536995764,
+    "wof:name":"Mazra'at Mohammed Salah",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76083,
+    34.705,
+    -1.76083,
+    34.705
+],
+  "geometry": {"coordinates":[-1.76083,34.705],"type":"Point"}
+}

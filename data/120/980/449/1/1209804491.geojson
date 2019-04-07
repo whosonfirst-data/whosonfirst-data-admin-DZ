@@ -1,0 +1,65 @@
+{
+  "id": 1209804491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.58333,35.02073,0.58333,35.02073",
+    "geom:latitude":35.02073,
+    "geom:longitude":0.58333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zoubia",
+    "gn:country_code":"DZ",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468743,
+    "gn:latitude":35.02073,
+    "gn:longitude":0.58333,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zoubia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468743
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"21c7d53fb255d04152b6e15643c0ac2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209804491,
+            "region_id":85670797
+        }
+    ],
+    "wof:id":1209804491,
+    "wof:lastmodified":1536389220,
+    "wof:name":"Zoubia",
+    "wof:parent_id":85670797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.58333,
+    35.02073,
+    0.58333,
+    35.02073
+],
+  "geometry": {"coordinates":[0.58333,35.02073],"type":"Point"}
+}

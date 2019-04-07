@@ -1,0 +1,69 @@
+{
+  "id": 1327420985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.43273,36.18569,5.43273,36.18569",
+    "geom:latitude":36.18569,
+    "geom:longitude":5.43273,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"'Ain Tebinet",
+    "gn:country_code":"DZ",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507909,
+    "gn:latitude":36.18569,
+    "gn:longitude":5.43273,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Tebinet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Tebinet",
+        "\u2019A\u00efn Tebinet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507909
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c8df7e13723776908a4026b1d3b1a371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327420985,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1327420985,
+    "wof:lastmodified":1537620253,
+    "wof:name":"'Ain Tebinet",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.43273,
+    36.18569,
+    5.43273,
+    36.18569
+],
+  "geometry": {"coordinates":[5.43273,36.18569],"type":"Point"}
+}

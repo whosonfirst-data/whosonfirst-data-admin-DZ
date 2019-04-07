@@ -1,0 +1,68 @@
+{
+  "id": 1209445393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81856,28.12024,6.81856,28.12024",
+    "geom:latitude":28.12024,
+    "geom:longitude":6.81856,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Bordj Omar Driss",
+    "gn:country_code":"DZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503633,
+    "gn:latitude":28.12024,
+    "gn:longitude":6.81856,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bordj Omar Driss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort Flatters",
+        "Zaouia el Kahla",
+        "Temassinine",
+        "Bordj Omar Driss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503633,
+        "wk:page":"Bordj_Omar_Driss"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a57e774a11c67ed8bd094ac2b83a28d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209445393
+        }
+    ],
+    "wof:id":1209445393,
+    "wof:lastmodified":1537620237,
+    "wof:name":"Bordj Omar Driss",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.81856,
+    28.12024000000001,
+    6.81856,
+    28.12024000000001
+],
+  "geometry": {"coordinates":[6.81856,28.12024000000001],"type":"Point"}
+}

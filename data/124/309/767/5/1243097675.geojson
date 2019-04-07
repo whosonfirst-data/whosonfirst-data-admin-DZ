@@ -1,0 +1,65 @@
+{
+  "id": 1243097675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50158,35.44631,7.50158,35.44631",
+    "geom:latitude":35.44631,
+    "geom:longitude":7.50158,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mechta Safel Bakar",
+    "gn:country_code":"DZ",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489258,
+    "gn:latitude":35.44631,
+    "gn:longitude":7.50158,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Safel Bakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489258
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"82f35c0b60dbe0335d252d3407373ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243097675,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1243097675,
+    "wof:lastmodified":1536810893,
+    "wof:name":"Mechta Safel Bakar",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50158,
+    35.44631,
+    7.50158,
+    35.44631
+],
+  "geometry": {"coordinates":[7.50158,35.44631],"type":"Point"}
+}

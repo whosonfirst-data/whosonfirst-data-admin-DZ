@@ -1,0 +1,65 @@
+{
+  "id": 1226173269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95463,36.5476,1.95463,36.5476",
+    "geom:latitude":36.5476,
+    "geom:longitude":1.95463,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Douar Ikorchiyene",
+    "gn:country_code":"DZ",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573096,
+    "gn:latitude":36.5476,
+    "gn:longitude":1.95463,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Douar Ikorchiyene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573096
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"875fed907f60a4a1c0c1ef1c232a58fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226173269,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1226173269,
+    "wof:lastmodified":1537036522,
+    "wof:name":"Douar Ikorchiyene",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95463,
+    36.5476,
+    1.95463,
+    36.5476
+],
+  "geometry": {"coordinates":[1.95463,36.5476],"type":"Point"}
+}

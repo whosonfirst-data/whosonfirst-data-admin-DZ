@@ -1,0 +1,65 @@
+{
+  "id": 1243546207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.13891,35.96222,0.13891,35.96222",
+    "geom:latitude":35.96222,
+    "geom:longitude":0.13891,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled Henni",
+    "gn:country_code":"DZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392212,
+    "gn:latitude":35.96222,
+    "gn:longitude":0.13891,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Henni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392212
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e275a75f9948ca5ce876f362d37405f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243546207,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1243546207,
+    "wof:lastmodified":1536661824,
+    "wof:name":"Douar Ouled Henni",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.13891,
+    35.96222,
+    0.13891,
+    35.96222
+],
+  "geometry": {"coordinates":[0.13891,35.96222],"type":"Point"}
+}

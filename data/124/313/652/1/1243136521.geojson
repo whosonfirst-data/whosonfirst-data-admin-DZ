@@ -1,0 +1,68 @@
+{
+  "id": 1243136521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.64419,36.51972,3.64419,36.51972",
+    "geom:latitude":36.51972,
+    "geom:longitude":3.64419,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dra Tahouinine",
+    "gn:country_code":"DZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499080,
+    "gn:latitude":36.51972,
+    "gn:longitude":3.64419,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dra Tahouinine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Draa Tahouinine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499080
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3f9976fd540ce71775bef2711b921b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243136521,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1243136521,
+    "wof:lastmodified":1537620205,
+    "wof:name":"Dra Tahouinine",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.64419,
+    36.51972,
+    3.64419,
+    36.51972
+],
+  "geometry": {"coordinates":[3.64419,36.51972],"type":"Point"}
+}

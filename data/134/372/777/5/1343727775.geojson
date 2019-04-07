@@ -1,0 +1,70 @@
+{
+  "id": 1343727775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68333,35.11667,5.68333,35.11667",
+    "geom:latitude":35.11667,
+    "geom:longitude":5.68333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mechtet ez Zmala",
+    "gn:country_code":"DZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488907,
+    "gn:latitude":35.11667,
+    "gn:longitude":5.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtet ez Zm\u00e2la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat ez Zmala",
+        "Mechta Zmala",
+        "Mechtet ez Zm\u00e2la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488907
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7615673a2b64f7ebe1daf72e52c1c976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343727775,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1343727775,
+    "wof:lastmodified":1537620144,
+    "wof:name":"Mechtet ez Zmala",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68333,
+    35.11667,
+    5.68333,
+    35.11667
+],
+  "geometry": {"coordinates":[5.68333,35.11667],"type":"Point"}
+}

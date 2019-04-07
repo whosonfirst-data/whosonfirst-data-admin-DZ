@@ -1,0 +1,65 @@
+{
+  "id": 1343582687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.35276,35.76145,0.35276,35.76145",
+    "geom:latitude":35.76145,
+    "geom:longitude":0.35276,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar ed Doueidia",
+    "gn:country_code":"DZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7411244,
+    "gn:latitude":35.76145,
+    "gn:longitude":0.35276,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar ed Doue\u00efdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7411244
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2ffb37a0afebada134f666a4831f2b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343582687,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1343582687,
+    "wof:lastmodified":1537064586,
+    "wof:name":"Douar ed Doueidia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.35276,
+    35.76145,
+    0.35276,
+    35.76145
+],
+  "geometry": {"coordinates":[0.35276,35.76145],"type":"Point"}
+}

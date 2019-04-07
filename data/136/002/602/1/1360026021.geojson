@@ -1,0 +1,65 @@
+{
+  "id": 1360026021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1446,36.16676,2.1446,36.16676",
+    "geom:latitude":36.16676,
+    "geom:longitude":2.1446,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Cheraga",
+    "gn:country_code":"DZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430481,
+    "gn:latitude":36.16676,
+    "gn:longitude":2.1446,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Cheraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430481
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"31aaab9e183777a32dd6fefb60ba24a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360026021,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1360026021,
+    "wof:lastmodified":1537029533,
+    "wof:name":"Douar Cheraga",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1446,
+    36.16676,
+    2.1446,
+    36.16676
+],
+  "geometry": {"coordinates":[2.1446,36.16676],"type":"Point"}
+}

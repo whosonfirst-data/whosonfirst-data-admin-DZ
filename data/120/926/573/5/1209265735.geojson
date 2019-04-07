@@ -1,0 +1,61 @@
+{
+  "id": 1209265735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66604,36.73882,3.66604,36.73882",
+    "geom:latitude":36.73882,
+    "geom:longitude":3.66604,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Berafai",
+    "gn:country_code":"DZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504247,
+    "gn:latitude":36.73882,
+    "gn:longitude":3.66604,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Berafa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504247
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8af170dbb6ec5c10521393fda1382678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209265735
+        }
+    ],
+    "wof:id":1209265735,
+    "wof:lastmodified":1536292539,
+    "wof:name":"Berafai",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66604,
+    36.73882,
+    3.66604,
+    36.73882
+],
+  "geometry": {"coordinates":[3.66604,36.73882],"type":"Point"}
+}

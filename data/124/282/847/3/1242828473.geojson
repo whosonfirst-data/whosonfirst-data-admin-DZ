@@ -1,0 +1,65 @@
+{
+  "id": 1242828473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.22862,35.54281,8.22862,35.54281",
+    "geom:latitude":35.54281,
+    "geom:longitude":8.22862,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ksar Malek",
+    "gn:country_code":"DZ",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490250,
+    "gn:latitude":35.54281,
+    "gn:longitude":8.22862,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ksar Malek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490250
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1ceca81762ee2d0540b0de2c2a401667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242828473,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1242828473,
+    "wof:lastmodified":1536702749,
+    "wof:name":"Ksar Malek",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.22862,
+    35.54281,
+    8.22862,
+    35.54281
+],
+  "geometry": {"coordinates":[8.22862,35.54281],"type":"Point"}
+}

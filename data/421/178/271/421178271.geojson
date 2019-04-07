@@ -1,0 +1,161 @@
+{
+  "id": 421178271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69361,36.26333,6.69361,36.26333",
+    "geom:latitude":36.26333,
+    "geom:longitude":6.69361,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0648\u0628"
+    ],
+    "name:arq_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0648\u0628"
+    ],
+    "name:ceb_x_preferred":[
+        "El Khroub"
+    ],
+    "name:dut_x_preferred":[
+        "El Khroub"
+    ],
+    "name:eng_x_preferred":[
+        "El Khroub"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0648\u0628\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "El Khroub"
+    ],
+    "name:fre_x_preferred":[
+        "El-Khroub"
+    ],
+    "name:ita_x_preferred":[
+        "El Khroub"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d5\u30ed\u30a6\u30d6"
+    ],
+    "name:kab_x_preferred":[
+        "Lexrub"
+    ],
+    "name:lit_x_preferred":[
+        "El Chrubas"
+    ],
+    "name:may_x_preferred":[
+        "El Khroub"
+    ],
+    "name:msa_x_preferred":[
+        "El Khroub"
+    ],
+    "name:nan_x_preferred":[
+        "El Khroub"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0648\u0628\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Churub"
+    ],
+    "name:por_x_preferred":[
+        "El Khroub"
+    ],
+    "name:ron_x_preferred":[
+        "El-Khroub"
+    ],
+    "name:rum_x_preferred":[
+        "El-Khroub"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0440\u0443\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "El-Khroub"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0425\u0440\u0443\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Le Kroub"
+    ],
+    "name:vie_x_preferred":[
+        "El Khroub"
+    ],
+    "name:war_x_preferred":[
+        "El Khroub"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Khroub"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2497849,
+    "qs:gn_pop":83746,
+    "qs:name":"Le Khroub",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":278718,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255314,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497849,
+        "gp:id":1255314,
+        "qs:id":278718,
+        "wd:id":"Q391129",
+        "wk:page":"El Khroub"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009176,
+    "wof:geomhash":"b58f14e616ff41d6bb782dde52c68ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421178271,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":421178271,
+    "wof:lastmodified":1527717726,
+    "wof:name":"Le Khroub",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:population":83746,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69361,
+    36.26333,
+    6.69361,
+    36.26333
+],
+  "geometry": {"coordinates":[6.69361,36.26333],"type":"Point"}
+}

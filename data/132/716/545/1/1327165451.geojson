@@ -1,0 +1,65 @@
+{
+  "id": 1327165451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.57924,36.16555,7.57924,36.16555",
+    "geom:latitude":36.16555,
+    "geom:longitude":7.57924,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mechta Oulad Rajah",
+    "gn:country_code":"DZ",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489386,
+    "gn:latitude":36.16555,
+    "gn:longitude":7.57924,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Oulad Rajah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489386
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4567f168f7203cd11fe73f62cd2dd15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327165451,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1327165451,
+    "wof:lastmodified":1537063530,
+    "wof:name":"Mechta Oulad Rajah",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.57924,
+    36.16555,
+    7.57924,
+    36.16555
+],
+  "geometry": {"coordinates":[7.57924,36.16555],"type":"Point"}
+}

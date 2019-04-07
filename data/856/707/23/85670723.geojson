@@ -1,0 +1,366 @@
+{
+  "id": 85670723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.242723,
+    "geom:area_square_m":2406326060.044773,
+    "geom:bbox":"5.42734866681,36.5239724804,6.47849897585,36.9353146322",
+    "geom:latitude":36.701491,
+    "geom:longitude":5.961302,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Jijel Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.713719,
+    "lbl:longitude":5.961268,
+    "mps:latitude":36.713719,
+    "mps:longitude":5.961268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062c\u064a\u062c\u0644",
+        "\u062c\u064a\u062c\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0414\u0436\u044b\u0434\u0436\u044d\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09af\u09bc\u09c7\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0438\u0434\u0436\u0435\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "G\u00edger"
+    ],
+    "name:ceb_x_preferred":[
+        "Jijel"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u6770\u52d2\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Jijel Province"
+    ],
+    "name:deu_x_preferred":[
+        "Jijel"
+    ],
+    "name:dut_x_preferred":[
+        "Jijel"
+    ],
+    "name:eng_x_preferred":[
+        "Jijel"
+    ],
+    "name:eng_x_variant":[
+        "Jijel Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Jijel"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u062c\u0644\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Jijelin l\u00e4\u00e4ni"
+    ],
+    "name:fra_x_preferred":[
+        "Jijel"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Jijel"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ef\u10d8\u10ef\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Jijel"
+    ],
+    "name:glg_x_preferred":[
+        "Jijel"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b6\u03af\u03c4\u03b6\u03b5\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0abf\u0a9c\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093f\u091c\u0947\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Jijel"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Jijel"
+    ],
+    "name:ita_x_preferred":[
+        "Jijel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30b8\u30a7\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Jijel"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbf\u0c9c\u0cc6\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\uc824"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Jiyel"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017e\u012bd\u017eilas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eid\u017eelis"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u093f\u091d\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Jijel"
+    ],
+    "name:msa_x_preferred":[
+        "Jijel"
+    ],
+    "name:nan_x_preferred":[
+        "Jijel S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Jijel"
+    ],
+    "name:nob_x_preferred":[
+        "Jijel"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u06cc\u062c\u0644"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u06cc\u062c\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cid\u017cili"
+    ],
+    "name:por_x_preferred":[
+        "Jijel"
+    ],
+    "name:ron_x_preferred":[
+        "Jijel"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Jijel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u0434\u0436\u0435\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd2\u0da2\u0dd9\u0dbd\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Jijel eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Jijel"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0438\u045f\u0435\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Jijel"
+    ],
+    "name:swe_x_preferred":[
+        "Jijel"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbf\u0b9c\u0bc7\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3f\u0c1c\u0c46\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u04b6\u0438\u04b7\u0430\u043b"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Jijel"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e35\u0e40\u0e08\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Jijel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0438\u0434\u0436\u0435\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Jijel"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u062c\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Jijel"
+    ],
+    "name:war_x_preferred":[
+        "Jijel"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u6770\u52d2"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2165",
+    "ne:adm1_code":"DZA-2165",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.JJ",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2165",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG24",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.24",
+    "ne:gn_id":"2492910",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Jijel",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG24",
+    "ne:gns_id":"-472989",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Jijel",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"36.71060000000",
+    "ne:longitude":"5.95292000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Jijel",
+    "ne:name_alt":"Djidjel| Djidjelli",
+    "ne:name_len":5,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u062c\u064a\u062c\u0644",
+    "ne:note":"",
+    "ne:postal":"JJ",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344596,
+    "ne:woe_label":"Jijel, DZ, Algeria",
+    "ne:woe_name":"Jijel",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Jijel",
+    "qs:a1_lc":"DZA-2165",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"2,399",
+    "statoids:area_mi":"926",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Jijel",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG24",
+    "statoids:hasc":"DZ.JJ",
+    "statoids:iso":"18",
+    "statoids:name":"Jijel",
+    "statoids:population":"636948",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-18",
+    "wd:wordcount":470,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG24",
+        "gn:id":2492910,
+        "gp:id":2344596,
+        "hasc:id":"DZ.JJ",
+        "iso:id":"DZ-18",
+        "qs:id":1134892,
+        "unlc:id":"DZ-18",
+        "wd:id":"Q235718"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a6bb50a120333319f98f8e2ccf61ae99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":85670723,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550362,
+    "wof:name":"Jijel",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":636948,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"JJ",
+    "wof:subdivision":"DZ-18",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42734866680757,
+    36.52397248044565,
+    6.47849897584712,
+    36.93531463216459
+],
+  "geometry": {"coordinates":[[[6.45736331506498,36.57988637985261],[6.3278105001545,36.60055695174196],[6.31897383007822,36.6043551700551],[6.3146330094059,36.60918691714255],[6.30905195528356,36.62153758379253],[6.30300581226845,36.62425059738723],[6.29458255424152,36.62406972933462],[6.2677624847509,36.61117645942613],[6.24538658961944,36.60365753806497],[6.23856530114779,36.59794729273341],[6.23282921739451,36.59120351772822],[6.22678307527878,36.58562246450521],[6.2153109068729,36.58262523007039],[6.19748253708946,36.58190176055786],[6.16580488388831,36.58453725798813],[6.12637576712802,36.59197866498346],[6.07361412908881,36.59624197039068],[6.039042596039,36.60484609647023],[6.02322960786017,36.60593130118866],[6.00317915179647,36.60329580285907],[5.96628217877958,36.59053172505912],[5.95119266101256,36.58190176055786],[5.94080569822444,36.57017120973359],[5.93553470156525,36.55986176221063],[5.92390750532718,36.55105093055607],[5.90432213725688,36.54552155237781],[5.86928551621367,36.54309276052254],[5.84504926910853,36.54360952446001],[5.82210493319616,36.55068919535012],[5.80675703301074,36.55725210230275],[5.78779178166542,36.56138621740007],[5.77569949743389,36.56280731890268],[5.73720055486177,36.55513336791063],[5.67544721801477,36.53652985356996],[5.66304487542072,36.53678823508903],[5.65017744303464,36.5396821149377],[5.62485599121106,36.55363475204223],[5.61400394042954,36.55549510311658],[5.59974124496256,36.55081838655934],[5.59059451742309,36.54531484590348],[5.574626498714,36.53193065047918],[5.56589318232454,36.52696971308183],[5.55473107318051,36.52407583323316],[5.54279381678128,36.52397248044565],[5.53209679473133,36.52547109631411],[5.52046959759389,36.53048371055485],[5.51096113394919,36.53851939495416],[5.50491499183346,36.5537897807738],[5.50351972785319,36.56665721315989],[5.49824873209337,36.58409800931571],[5.47545942491257,36.59063507694731],[5.45726932082255,36.60205556940906],[5.43292972182923,36.6082050643123],[5.42781375480098,36.61275259055964],[5.42734866680757,36.61724843996359],[5.43184451711085,36.62215770141682],[5.43494510343385,36.62835887316351],[5.43618533688385,36.63264801699245],[5.42920901878125,36.65843455680942],[5.42803873729792,36.66387842385024],[5.42807050944651,36.6638858090829],[5.4338485043051,36.66522858323259],[5.46485436303846,36.66522858323259],[5.46957441522716,36.66771067970416],[5.48218834671485,36.68024323153998],[5.48910566479464,36.68512604393186],[5.52914472694766,36.69765859666694],[5.54900149782094,36.70970286699378],[5.56275475432852,36.74599843997606],[5.57618248773167,36.76137929941518],[5.59392337326511,36.77387116142501],[5.6119897801043,36.78131744994039],[5.65593509253057,36.79181549698762],[5.67457116053066,36.79962799753412],[5.71045983165595,36.82550690312115],[5.7337345712935,36.83234284154895],[5.75879967496508,36.83340078331952],[5.82781009196225,36.82176341395046],[5.86882571713318,36.8229434269976],[6.03711998849673,36.85358307549859],[6.19703209725355,36.90232982066476],[6.23568769633016,36.92121002852008],[6.24783073200274,36.93531463216459],[6.24791873516153,36.93526520452559],[6.25256961419637,36.93265554551704],[6.26946780799301,36.91878042277835],[6.27380862776602,36.91260508945339],[6.27551395010875,36.90650727049422],[6.27535892137718,36.89702464527119],[6.27070804234233,36.87842112913188],[6.27132815906731,36.87041128225491],[6.27504886211534,36.86700063756945],[6.29520267096655,36.86643219678848],[6.30579634022899,36.86462352075893],[6.31540815576182,36.86028270098592],[6.32424482583809,36.85408152923924],[6.33199629119594,36.84674347593074],[6.33850752130513,36.83775177712289],[6.34331342907154,36.82669301986704],[6.34579389777019,36.81108673816249],[6.34672407375706,36.78346568479355],[6.35292524640306,36.76695506372528],[6.36599938256552,36.74184031837603],[6.41829593261127,36.69553823540127],[6.4669751323965,36.67548777933757],[6.47477827279909,36.6690540626949],[6.47849897584712,36.66037242314889],[6.45767337432682,36.62205434773],[6.45736331506498,36.57988637985261]]],"type":"Polygon"}
+}

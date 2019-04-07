@@ -1,0 +1,350 @@
+{
+  "id": 85670749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":7.142433,
+    "geom:area_square_m":75566758285.855316,
+    "geom:bbox":"1.94342695479,29.0363674996,4.97828046967,33.0296379663",
+    "geom:latitude":31.162297,
+    "geom:longitude":3.117175,
+    "gn:population":363598,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Gharda\u00efa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":31.176319,
+    "lbl:longitude":3.088969,
+    "mps:latitude":31.176319,
+    "mps:longitude":3.088969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "Ghardaia",
+        "\u0648\u0644\u0627\u064a\u0629 \u063a\u0631\u062f\u0627\u064a\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u0430\u0440\u0434\u0430\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u0430\u0440\u0434\u0430\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0998\u09b0\u09cd\u09a6\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0430\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Gharda\u00efa"
+    ],
+    "name:ceb_x_preferred":[
+        "Wilaya de Gharda\u00efa"
+    ],
+    "name:ces_x_preferred":[
+        "Ghard\u00e1ja"
+    ],
+    "name:chi_x_preferred":[
+        "\u76d6\u5c14\u8fbe\u8036\u7701"
+    ],
+    "name:cze_x_preferred":[
+        "Ghard\u00e1ja"
+    ],
+    "name:dan_x_preferred":[
+        "Gharda\u00efa Province"
+    ],
+    "name:deu_x_preferred":[
+        "Ghardaia"
+    ],
+    "name:dut_x_preferred":[
+        "Gharda\u00efa"
+    ],
+    "name:eng_x_preferred":[
+        "Ghardaia Province"
+    ],
+    "name:eng_x_variant":[
+        "Ghardaia",
+        "Gharda\u00efa",
+        "Gharda\u00efa Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Ghardaia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u063a\u0631\u062f\u0627\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Gharda\u00efan maakunta"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Gharda\u00efa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d0\u10e0\u10d3\u10d0\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Ghardaia"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Gharda\u00efa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b1\u03c1\u03bd\u03c4\u03ac\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a98\u0abe\u0ab0\u0aa6\u0ac8\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0918\u0930\u094d\u0921\u0948 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Ghardaia"
+    ],
+    "name:ita_x_preferred":[
+        "provincia di Gharda\u00efa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30eb\u30c0\u30a4\u30a2\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c98\u0cbe\u0cb0\u0ccd\u0ca1\u0cbf\u0caf\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "Gharda\u00efa Province"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Ghardaya"
+    ],
+    "name:lav_x_preferred":[
+        "Gard\u0101jas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Gardajos vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u0918\u093e\u0930\u0926\u093e\u0908 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Gharda\u00efa"
+    ],
+    "name:nan_x_preferred":[
+        "Gharda\u00efa S\u00e9ng"
+    ],
+    "name:nob_x_preferred":[
+        "Gharda\u00efa"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u063a\u0631\u062f\u0627\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Ghardaja"
+    ],
+    "name:por_x_preferred":[
+        "Ghardaia"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Gharda\u00efa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0430\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dbb\u0dca\u0daf\u0dba\u0dd2\u0dba\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Gharda\u00efa eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Gardaya"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0430\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gharda\u00efa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc8\u0baf\u0bc7    \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3e\u0c30\u0c4d\u0c21\u0c3e\u0c2f\u0c3f\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0492\u0430\u0440\u0434\u043e\u044f"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Gharda\u00efa"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e23\u0e4c\u0e14\u0e32\u0e40\u0e2d\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Gardaye Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0430\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Gharda\u00efa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u063a\u0631\u0627\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Gharda\u00efa"
+    ],
+    "name:war_x_preferred":[
+        "Gharda\u00efa"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2192",
+    "ne:adm1_code":"DZA-2192",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.GR",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2192",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG45",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.45",
+    "ne:gn_id":"2496045",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Ghardaia",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG45",
+    "ne:gns_id":"-469841",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ghardaia",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"31.15470000000",
+    "ne:longitude":"3.11396000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Gharda\u00efa",
+    "ne:name_alt":"GhardaSa|Gharday",
+    "ne:name_len":8,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u063a\u0631\u062f\u0627\u064a\u0629",
+    "ne:note":"",
+    "ne:postal":"GR",
+    "ne:provnum_ne":"37",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"6",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344615,
+    "ne:woe_label":"Ghardaia, DZ, Algeria",
+    "ne:woe_name":"Gharda\u00efa",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Gharda\u00efa",
+    "qs:a1_lc":"DZA-2192",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"86,105",
+    "statoids:area_mi":"33,245",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Gharda\u00efa",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG45",
+    "statoids:hasc":"DZ.GR",
+    "statoids:iso":"47",
+    "statoids:name":"Gharda\u00efa",
+    "statoids:population":"363598",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-47",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG45",
+        "gn:id":2496045,
+        "gp:id":2344615,
+        "hasc:id":"DZ.GR",
+        "iso:id":"DZ-47",
+        "qs:id":423539,
+        "unlc:id":"DZ-47",
+        "wd:id":"Q17601",
+        "wk:page":"Gharda\u00efa Province"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"513478c2ea485618c7a48cd91c19bb22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670749
+        }
+    ],
+    "wof:id":85670749,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550364,
+    "wof:name":"Gharda\u00efa",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":363598,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"GR",
+    "wof:subdivision":"DZ-47",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9434269547902,
+    29.03636749956053,
+    4.97828046966799,
+    33.02963796631911
+],
+  "geometry": {"coordinates":[[[4.97828046966799,32.84076060641689],[4.73886355980551,32.53189057119295],[4.54238976417633,32.37556936273597],[4.39888431216133,32.29627187784496],[4.37387291780095,32.27301748357007],[4.35914513523983,32.25599009946359],[4.32204145664798,32.20020539036653],[4.28261233898832,32.10496572518809],[4.2017903989078,31.97394013103229],[4.11083987755836,31.79139313408592],[4.05063683432252,31.55352651603596],[3.80253828311533,29.98984935246568],[3.72150963656054,29.86334544523618],[3.59955325737695,29.76782156011694],[3.52648278175502,29.69364004225417],[3.47961225799935,29.63684764280453],[3.39755008267025,29.36487457879883],[3.3444783871679,29.30655772595833],[2.98599897617186,29.12354564101855],[2.07933597197757,29.03636749956053],[1.9434269547902,30.09480418596445],[2.07173953625062,30.85969289800886],[2.08538211409336,31.65858470322155],[2.11519941622015,31.68359609578323],[2.1994320000868,31.73524668978297],[2.22211795358072,31.75273916278218],[2.23932620573987,31.77353892678008],[2.24211673280104,31.79118642851091],[2.23746585466552,31.81157278135885],[2.21762210507615,31.85883087784276],[2.21188602132287,31.88813141513276],[2.21529666510907,31.92329722738521],[2.22878421422018,31.95169342711],[2.31565229731569,32.06217763878703],[2.33291222541891,32.09687836394539],[2.34329918820703,32.13266429292281],[2.34484948091887,32.17279104347193],[2.34159386586424,32.20891286923359],[2.33461754686232,32.2431226670775],[2.30324995292301,32.34195384409469],[2.29751386916979,32.37730052350042],[2.30526533362831,32.61816437418656],[2.29937422024409,32.66425975248563],[2.29146772615468,32.69598908073152],[2.65005048993822,32.75244558429631],[2.76549563991188,32.78898082120799],[2.88734866720728,32.81241608353548],[3.10066897978965,32.83068370199129],[3.15761640797092,32.82386241351963],[3.18340294778784,32.81613678658351],[3.26515506295584,32.78115184238368],[3.2951273938142,32.77699188886464],[3.3213273447812,32.78079010717778],[3.34757897259158,32.79500112580138],[3.36742272308027,32.81321706831312],[3.40545657675966,32.8566769482826],[3.42747073668522,32.87551300751932],[3.73504886161572,32.99796031311803],[3.73861453593213,33.0004666202384],[3.76403934144253,33.00341217693045],[3.81370039225936,33.00044078181668],[3.82408735504742,32.99788279875219],[3.85049401158943,32.98514455847464],[3.88444542791422,32.98186310499835],[4.17621056466589,33.02963796631911],[4.97828046966799,32.84076060641689]]],"type":"Polygon"}
+}

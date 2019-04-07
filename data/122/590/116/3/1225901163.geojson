@@ -1,0 +1,70 @@
+{
+  "id": 1225901163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16043,35.24797,0.16043,35.24797",
+    "geom:latitude":35.24797,
+    "geom:longitude":0.16043,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ghriss",
+    "gn:country_code":"DZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496036,
+    "gn:latitude":35.24797,
+    "gn:longitude":0.16043,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghriss",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thiersville",
+        "Ghriss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496036,
+        "wk:page":"Ghriss"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fb0c1f6ec039c52a097f57a78eda188b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225901163,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1225901163,
+    "wof:lastmodified":1537620190,
+    "wof:name":"Ghriss",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16043,
+    35.24797,
+    0.16043,
+    35.24797
+],
+  "geometry": {"coordinates":[0.16043,35.24797],"type":"Point"}
+}

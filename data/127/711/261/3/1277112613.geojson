@@ -1,0 +1,68 @@
+{
+  "id": 1277112613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48468,35.63217,0.48468,35.63217",
+    "geom:latitude":35.63217,
+    "geom:longitude":0.48468,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Chraitia",
+    "gn:country_code":"DZ",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579784,
+    "gn:latitude":35.63217,
+    "gn:longitude":0.48468,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chraitia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kressia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579784
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"403a62d8798c0c10c932269b9f013cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277112613,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1277112613,
+    "wof:lastmodified":1537620268,
+    "wof:name":"Chraitia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48468,
+    35.63217,
+    0.48468,
+    35.63217
+],
+  "geometry": {"coordinates":[0.48468,35.63217],"type":"Point"}
+}

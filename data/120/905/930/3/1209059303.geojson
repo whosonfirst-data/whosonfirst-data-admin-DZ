@@ -1,0 +1,66 @@
+{
+  "id": 1209059303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.08215,35.46189,-1.08215,35.46189",
+    "geom:latitude":35.46189,
+    "geom:longitude":-1.08215,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Douar Baddaou",
+    "gn:country_code":"DZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499527,
+    "gn:latitude":35.46189,
+    "gn:longitude":-1.08215,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Baddaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Sa\u00efda",
+        "Douar Oulad Sa\u00efda",
+        "Douar Baddaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499527
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fb6deaf9d62e08f3de87b6bf53fc0ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209059303
+        }
+    ],
+    "wof:id":1209059303,
+    "wof:lastmodified":1537620222,
+    "wof:name":"Douar Baddaou",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.08215,
+    35.46189000000001,
+    -1.08215,
+    35.46189000000001
+],
+  "geometry": {"coordinates":[-1.08215,35.46189000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243041671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43646,36.73054,4.43646,36.73054",
+    "geom:latitude":36.73054,
+    "geom:longitude":4.43646,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yakouren",
+    "gn:country_code":"DZ",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475039,
+    "gn:latitude":36.73054,
+    "gn:longitude":4.43646,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yakouren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yacouren",
+        "Yakourene",
+        "Yakouren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475039,
+        "wk:page":"Yakouren"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3bd8f1dbc996fe936c8b85e23556ff96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243041671,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1243041671,
+    "wof:lastmodified":1537620092,
+    "wof:name":"Yakouren",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43646,
+    36.73054000000001,
+    4.43646,
+    36.73054000000001
+],
+  "geometry": {"coordinates":[4.43646,36.73054000000001],"type":"Point"}
+}

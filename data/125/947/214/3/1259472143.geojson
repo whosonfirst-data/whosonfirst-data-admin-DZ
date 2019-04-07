@@ -1,0 +1,65 @@
+{
+  "id": 1259472143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71835,35.03513,0.71835,35.03513",
+    "geom:latitude":35.03513,
+    "geom:longitude":0.71835,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Es Sennansia",
+    "gn:country_code":"DZ",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7468770,
+    "gn:latitude":35.03513,
+    "gn:longitude":0.71835,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Es Sennansia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7468770
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"51c7a1c4bc445d3571d3a74735de815b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259472143,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1259472143,
+    "wof:lastmodified":1536874167,
+    "wof:name":"Es Sennansia",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71835,
+    35.03513,
+    0.71835,
+    35.03513
+],
+  "geometry": {"coordinates":[0.71835,35.03513],"type":"Point"}
+}

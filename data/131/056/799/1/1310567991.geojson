@@ -1,0 +1,71 @@
+{
+  "id": 1310567991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.71056,35.54639,4.71056,35.54639",
+    "geom:latitude":35.54639,
+    "geom:longitude":4.71056,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bou Hamadou",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503053,
+    "gn:latitude":35.54639,
+    "gn:longitude":4.71056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou Hamadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Bou Hamadou",
+        "Dar Bou Hamadou",
+        "Bou Hamadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503053
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"17f43dc433757100391b4c5fd2cb5875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310567991,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1310567991,
+    "wof:lastmodified":1537620234,
+    "wof:name":"Bou Hamadou",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.71056,
+    35.54639,
+    4.71056,
+    35.54639
+],
+  "geometry": {"coordinates":[4.71056,35.54639],"type":"Point"}
+}

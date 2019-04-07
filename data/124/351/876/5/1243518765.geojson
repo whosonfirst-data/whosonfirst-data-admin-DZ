@@ -1,0 +1,65 @@
+{
+  "id": 1243518765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.00587,35.94499,4.00587,35.94499",
+    "geom:latitude":35.94499,
+    "geom:longitude":4.00587,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mechta Teniet Beni Daiet",
+    "gn:country_code":"DZ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489034,
+    "gn:latitude":35.94499,
+    "gn:longitude":4.00587,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Teniet Beni Da\u00efet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489034
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0009f76ceaaef837a1fb7e9197930d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243518765,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1243518765,
+    "wof:lastmodified":1536701643,
+    "wof:name":"Mechta Teniet Beni Daiet",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.00587,
+    35.94499000000001,
+    4.00587,
+    35.94499000000001
+],
+  "geometry": {"coordinates":[4.00587,35.94499000000001],"type":"Point"}
+}

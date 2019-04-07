@@ -1,0 +1,68 @@
+{
+  "id": 1193159087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96242,36.20866,2.96242,36.20866",
+    "geom:latitude":36.20866,
+    "geom:longitude":2.96242,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Boussahoua",
+    "gn:country_code":"DZ",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502300,
+    "gn:latitude":36.20866,
+    "gn:longitude":2.96242,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Boussahoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boussaoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502300
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a4e34554a28e0c71db3efbe6db695110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193159087,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1193159087,
+    "wof:lastmodified":1537620232,
+    "wof:name":"Douar Boussahoua",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96242,
+    36.20866,
+    2.96242,
+    36.20866
+],
+  "geometry": {"coordinates":[2.96242,36.20866],"type":"Point"}
+}

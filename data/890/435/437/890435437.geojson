@@ -1,0 +1,70 @@
+{
+  "id": 890435437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.54839,32.893,0.54839,32.893",
+    "geom:latitude":32.893,
+    "geom:longitude":0.54839,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":39283,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sidi Cheikh"
+    ],
+    "qs:name":"El Abiodh Sidi Cheikh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498775,
+        "gp:id":1254354,
+        "qs:id":1036007,
+        "wd:id":"Q3049673",
+        "wk:page":"El Abiodh Sidi Cheikh"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052067,
+    "wof:geomhash":"aa4d1aa5e0505a6c54c089a44c26197a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435437,
+            "region_id":85670741
+        }
+    ],
+    "wof:id":890435437,
+    "wof:lastmodified":1527793046,
+    "wof:name":"El Abiodh Sidi Cheikh",
+    "wof:parent_id":85670741,
+    "wof:placetype":"locality",
+    "wof:population":39283,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.54839,
+    32.893,
+    0.54839,
+    32.893
+],
+  "geometry": {"coordinates":[0.54839,32.893],"type":"Point"}
+}

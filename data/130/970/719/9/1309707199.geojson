@@ -1,0 +1,70 @@
+{
+  "id": 1309707199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.82629,35.45456,-0.82629,35.45456",
+    "geom:latitude":35.45456,
+    "geom:longitude":-0.82629,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar Ahl Cadi",
+    "gn:country_code":"DZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499542,
+    "gn:latitude":35.45456,
+    "gn:longitude":-0.82629,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Ahl Cadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahl Kadi",
+        "Douar Ahl Kadi",
+        "Douar Ahl Cadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499542
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"db78ce5818b24740680b1e9cbb44c1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309707199,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1309707199,
+    "wof:lastmodified":1537620223,
+    "wof:name":"Douar Ahl Cadi",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.82629,
+    35.45456,
+    -0.82629,
+    35.45456
+],
+  "geometry": {"coordinates":[-0.82629,35.45456],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243499079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.09894,36.10788,2.09894,36.10788",
+    "geom:latitude":36.10788,
+    "geom:longitude":2.09894,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bou Allouch",
+    "gn:country_code":"DZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430359,
+    "gn:latitude":36.10788,
+    "gn:longitude":2.09894,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Bou Allouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430359
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"318ef08503287bd911d2750ee28733df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243499079,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243499079,
+    "wof:lastmodified":1536730092,
+    "wof:name":"Bou Allouch",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.09894,
+    36.10788,
+    2.09894,
+    36.10788
+],
+  "geometry": {"coordinates":[2.09894,36.10788],"type":"Point"}
+}

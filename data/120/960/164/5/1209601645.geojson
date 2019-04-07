@@ -1,0 +1,61 @@
+{
+  "id": 1209601645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23265,35.23559,1.23265,35.23559",
+    "geom:latitude":35.23559,
+    "geom:longitude":1.23265,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar Mguesba",
+    "gn:country_code":"DZ",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7491698,
+    "gn:latitude":35.23559,
+    "gn:longitude":1.23265,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Mguesba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7491698
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"993be7e4336964e5cfe3b505041f4ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209601645
+        }
+    ],
+    "wof:id":1209601645,
+    "wof:lastmodified":1536282147,
+    "wof:name":"Douar Mguesba",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23265,
+    35.23559,
+    1.23265,
+    35.23559
+],
+  "geometry": {"coordinates":[1.23265,35.23559],"type":"Point"}
+}

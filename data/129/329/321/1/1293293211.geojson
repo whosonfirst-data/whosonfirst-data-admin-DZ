@@ -1,0 +1,65 @@
+{
+  "id": 1293293211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58306,36.53,6.58306,36.53",
+    "geom:latitude":36.53,
+    "geom:longitude":6.58306,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ouled el Arbi",
+    "gn:country_code":"DZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573725,
+    "gn:latitude":36.53,
+    "gn:longitude":6.58306,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Ouled el Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573725
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3ec8c3460bc571c29506615ea5b568ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293293211,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1293293211,
+    "wof:lastmodified":1537064260,
+    "wof:name":"Ouled el Arbi",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58306,
+    36.53,
+    6.58306,
+    36.53
+],
+  "geometry": {"coordinates":[6.58306,36.53],"type":"Point"}
+}

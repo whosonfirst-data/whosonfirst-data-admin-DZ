@@ -1,0 +1,131 @@
+{
+  "id": 421205385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73873,36.46293,2.73873,36.46293",
+    "geom:latitude":36.46293,
+    "geom:longitude":2.73873,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0641\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Chiffa"
+    ],
+    "name:dut_x_preferred":[
+        "Chiffa"
+    ],
+    "name:eng_x_preferred":[
+        "Chiffa"
+    ],
+    "name:fra_x_preferred":[
+        "Chiffa"
+    ],
+    "name:fre_x_preferred":[
+        "Chiffa"
+    ],
+    "name:ita_x_preferred":[
+        "Chiffa"
+    ],
+    "name:may_x_preferred":[
+        "Chiffa"
+    ],
+    "name:msa_x_preferred":[
+        "Chiffa"
+    ],
+    "name:por_x_preferred":[
+        "Chiffa"
+    ],
+    "name:ron_x_preferred":[
+        "Chiffa"
+    ],
+    "name:rum_x_preferred":[
+        "Chiffa"
+    ],
+    "name:swe_x_preferred":[
+        "Chiffa"
+    ],
+    "name:unk_x_variant":[
+        "La Chiffa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0641\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Chiffa"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Chiffa"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2501323,
+    "qs:gn_pop":23218,
+    "qs:name":"Chiffa",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":262969,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253839,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501323,
+        "gp:id":1253839,
+        "qs:id":262969,
+        "wd:id":"Q2963503",
+        "wk:page":"Chiffa"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459010223,
+    "wof:geomhash":"623e5f62ad5f968ed5f722a10d08330c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421205385,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":421205385,
+    "wof:lastmodified":1527716218,
+    "wof:name":"Chiffa",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:population":23218,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73873,
+    36.46293,
+    2.73873,
+    36.46293
+],
+  "geometry": {"coordinates":[2.73873,36.46293],"type":"Point"}
+}

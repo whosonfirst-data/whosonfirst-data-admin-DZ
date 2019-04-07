@@ -1,0 +1,128 @@
+{
+  "id": 890420423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.44333,36.89556,8.44333,36.89556",
+    "geom:latitude":36.89556,
+    "geom:longitude":8.44333,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":35449,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0644\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "El Kala"
+    ],
+    "name:dut_x_preferred":[
+        "El Kala"
+    ],
+    "name:eng_x_preferred":[
+        "El Kala"
+    ],
+    "name:fra_x_historical":[
+        "La Calle",
+        "Port de la Calle"
+    ],
+    "name:fra_x_preferred":[
+        "La Calle"
+    ],
+    "name:fra_x_variant":[
+        "Port de la Calle"
+    ],
+    "name:fre_x_preferred":[
+        "El Kala"
+    ],
+    "name:ger_x_preferred":[
+        "El Kala"
+    ],
+    "name:hun_x_preferred":[
+        "Al-K\u00e1la"
+    ],
+    "name:ita_x_preferred":[
+        "El Kala"
+    ],
+    "name:kab_x_preferred":[
+        "Lqala"
+    ],
+    "name:may_x_preferred":[
+        "El Kala"
+    ],
+    "name:per_x_preferred":[
+        "\u0642\u0627\u0644\u0647"
+    ],
+    "name:por_x_preferred":[
+        "El Kala"
+    ],
+    "name:rum_x_preferred":[
+        "El Kala"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u043b\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "El Kala"
+    ],
+    "name:swe_x_preferred":[
+        "El Kala"
+    ],
+    "name:vie_x_preferred":[
+        "El Kala"
+    ],
+    "qs:name":"El Kala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":388,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497988,
+        "gp:id":1255260,
+        "qs:id":278719,
+        "wd:id":"Q3050005",
+        "wk:page":"El Kala"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051338,
+    "wof:geomhash":"1b7b353173c32763d762cda82442d188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890420423,
+            "region_id":85670719
+        }
+    ],
+    "wof:id":890420423,
+    "wof:lastmodified":1527792808,
+    "wof:name":"El Kala",
+    "wof:parent_id":85670719,
+    "wof:placetype":"locality",
+    "wof:population":35449,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.44333,
+    36.89556,
+    8.44333,
+    36.89556
+],
+  "geometry": {"coordinates":[8.44333,36.89556],"type":"Point"}
+}

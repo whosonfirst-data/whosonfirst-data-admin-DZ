@@ -1,0 +1,366 @@
+{
+  "id": 85670741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":6.566718,
+    "geom:area_square_m":68421118903.075432,
+    "geom:bbox":"-0.401132777955,30.7086943631,2.34484948092,34.4381824807",
+    "geom:latitude":32.570439,
+    "geom:longitude":0.9414,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "El Bayadh Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":32.47718,
+    "lbl:longitude":1.105006,
+    "mps:latitude":32.47718,
+    "mps:longitude":1.105006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u064a\u0636",
+        "\u0627\u0644\u0628\u064a\u0636"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043b\u044c-\u0411\u0430\u044f\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09ac\u09be\u09af\u09bc\u09be\u09a7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b-\u0411\u0430\u044f\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'El Bayadh"
+    ],
+    "name:ceb_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u4e9a\u5179\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:deu_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:dut_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:eng_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:eng_x_variant":[
+        "El Bayadh Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco El Bajdah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636"
+    ],
+    "name:fin_x_preferred":[
+        "El Bayadhn l\u00e4\u00e4ni"
+    ],
+    "name:fra_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya d'El Bayadh"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10d8\u10d0\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de El Bayadh"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03b4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0aac\u0abe\u0aaf\u0abe\u0aa6 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u092c\u092f\u093e\u0926\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi El Bayadh"
+    ],
+    "name:ita_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d0\u30e4\u30fc\u30c9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0cac\u0caf\u0cbe\u0ca6\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ubc14\uc57c\ub4dc"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de El Bayadh"
+    ],
+    "name:lav_x_preferred":[
+        "Bejedas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Bajado vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0932 \u092c\u0947\u0905\u0926 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah El Bayadh"
+    ],
+    "name:msa_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:nan_x_preferred":[
+        "El Bayadh S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:nob_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:nor_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u06cc\u0636"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u0636"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bajad"
+    ],
+    "name:por_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:ron_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia El Bayadh"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u044f\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "El Bayadh Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbd\u0dca \u0db6\u0dba\u0daf\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "El Bayadh eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de El Bayadh"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0411\u0430\u0458\u0430\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya El Bayadh"
+    ],
+    "name:swe_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd  \u0baa\u0baf\u0ba4\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c2c\u0c2f\u0c3e\u0c27\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043b-\u0411\u0430\u044f\u0437"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng El Bayadh"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25 \u0e1a\u0e32\u0e2b\u0e22\u0e32\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "El Beyaz Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0411\u0430\u044f\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Arrondissement d\u2019El Bayadh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:war_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4e9a\u5179"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2190",
+    "ne:adm1_code":"DZA-2190",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.EB",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2190",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG42",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.42",
+    "ne:gn_id":"2498541",
+    "ne:gn_level":"1",
+    "ne:gn_name":"El Bayadh",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG42",
+    "ne:gns_id":"-467340",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"El Bayadh",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"32.77530000000",
+    "ne:longitude":"0.97185800000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"El Bayadh",
+    "ne:name_alt":"El Bayad|El Beyyadh|G\u00e9ryville",
+    "ne:name_len":9,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u064a\u0636",
+    "ne:note":"",
+    "ne:postal":"EB",
+    "ne:provnum_ne":"41",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"6",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344612,
+    "ne:woe_label":"El Bayadh, DZ, Algeria",
+    "ne:woe_name":"El Bayadh",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"El Bayadh",
+    "qs:a1_lc":"DZA-2190",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"70,539",
+    "statoids:area_mi":"27,235",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"El Bayadh",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG42",
+    "statoids:hasc":"DZ.EB",
+    "statoids:iso":"32",
+    "statoids:name":"El Bayadh",
+    "statoids:population":"228624",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-32",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG42",
+        "gn:id":2498541,
+        "gp:id":2344612,
+        "hasc:id":"DZ.EB",
+        "iso:id":"DZ-32",
+        "qs:id":1063253,
+        "unlc:id":"DZ-32",
+        "wd:id":"Q235703"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"efd19ad47e482333bd29cadaff11ab68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670741
+        }
+    ],
+    "wof:id":85670741,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550363,
+    "wof:name":"El Bayadh",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":228624,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"EB",
+    "wof:subdivision":"DZ-32",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4011327779553,
+    30.70869436305446,
+    2.34484948091887,
+    34.43818248073694
+],
+  "geometry": {"coordinates":[[[1.03908938966367,34.18881785675876],[1.19298180536606,34.19641429338498],[1.23148074703892,34.19189260555936],[1.25054935117168,34.18253917154556],[1.2626933122466,34.1668553745759],[1.28300214982937,34.12574677209591],[1.33622887496267,34.06892853422454],[1.38976565935775,33.97818471934937],[1.40914432095371,33.96180329038958],[1.42810957229898,33.95118378270547],[1.48102623906971,33.93203766510624],[1.52458947092737,33.91136709231751],[1.67884362093639,33.87490936887235],[1.72695437994071,33.85860545517767],[1.76002729712212,33.84258576142378],[1.77692549001938,33.83134613701469],[1.7939787134469,33.81641164797924],[1.81149702306919,33.79522431125304],[1.88244876519838,33.67164012319319],[2.01928795657398,33.49904083946325],[2.03122521297325,33.46855174376799],[2.03742638471994,33.42491099754454],[2.03138024260414,33.39253571235332],[2.02037316219173,33.36736929016064],[1.98264936687485,33.32964549394444],[1.97613813586634,33.31962026636228],[1.97272749208014,33.30791555395967],[1.97520796077879,33.29218008104596],[1.98611168840375,33.27440338810595],[2.00564537873129,33.25130402346196],[2.0147921080694,33.23753225441004],[2.02130333817854,33.2222101908477],[2.03184532969823,33.16076691326248],[2.03959679505607,33.13769338614088],[2.05422122572901,33.10890961368779],[2.0779407079973,33.07581085898403],[2.17493737056327,32.97499013878394],[2.20594323109526,32.91625987389409],[2.26196048328973,32.74412567815756],[2.29146772615468,32.69598908073152],[2.29937422024409,32.66425975248563],[2.30526533362831,32.61816437418656],[2.29751386916979,32.37730052350042],[2.30324995292301,32.34195384409469],[2.33461754686232,32.2431226670775],[2.34159386586424,32.20891286923359],[2.34484948091887,32.17279104347193],[2.34329918820703,32.13266429292281],[2.33291222541891,32.09687836394539],[2.31565229731569,32.06217763878703],[2.22878421422018,31.95169342711],[2.21529666510907,31.92329722738521],[2.21188602132287,31.88813141513276],[2.21762210507615,31.85883087784276],[2.23746585466552,31.81157278135885],[2.24211673280104,31.79118642851091],[2.23932620573987,31.77353892678008],[2.22211795358072,31.75273916278218],[2.1994320000868,31.73524668978297],[2.11519941622015,31.68359609578323],[2.08538211409336,31.65858470322155],[1.03304324664856,31.20179088004511],[0.84246056530287,31.09693939933385],[0.7501664568166,31.02994090424937],[0.39912845191657,30.70869436305446],[-0.15401607867903,31.12378530544754],[-0.37023027200939,31.3370022652424],[-0.40082271959278,31.39066823994739],[-0.4011327779553,31.42934804877348],[-0.03944942874807,32.32730357500003],[-0.01195756658836,32.401200872922],[-0.00358598540487,32.44396312090134],[-0.00286251499301,32.46122304900456],[-0.00410274934234,32.47502065737751],[-0.00658321804104,32.48700958882154],[-0.00999386182724,32.49514862690768],[-0.01288774257523,32.50000621241685],[-0.01381791766272,32.50083303471683],[-0.02482499807513,32.50641408883916],[-0.0376924295619,32.50951467516217],[-0.05273027228418,32.51150421834507],[-0.06849158361962,32.5156900093865],[-0.0839428365926,32.52439748825356],[-0.09846391357871,32.54558482497976],[-0.10156449990171,32.56710805938945],[-0.09892900157212,32.59067251202686],[-0.01345618335614,32.78339976708565],[-0.00668657082855,32.80476797096514],[-0.00492957164238,32.81822968255386],[-0.0293208483784,32.99997569382327],[-0.02704708525471,33.0206204290896],[-0.01862382632845,33.06020457638016],[0.00003136575498,33.11565338779366],[0.05496341323101,33.27083771378949],[0.06349002404539,33.30809642201234],[0.06808922713617,33.37607676902775],[0.04571333200471,33.62314179146057],[0.05062259255863,33.80310496692073],[0.08416059683412,34.00624502228999],[0.0860209488078,34.04830963827925],[0.09749311721362,34.0751555452922],[0.10772505037085,34.09223460534281],[0.11687177880958,34.10412018489865],[0.14560387531861,34.13016510713402],[0.18250084833551,34.15577077889839],[0.19759036610259,34.1696200632154],[0.20425662584268,34.17822418929495],[0.20673709544064,34.18287506832979],[0.21061282722024,34.19264191349356],[0.21991458528993,34.20899750403163],[0.22766604974845,34.21837677736642],[0.22999148881621,34.22178742115261],[0.23541751510629,34.22586985940654],[0.24378909718911,34.23013316481376],[0.26120405402395,34.23413808870191],[0.28089277488169,34.23553335178281],[0.34078575975508,34.23413808870191],[0.35148278180497,34.23811717416828],[0.39277225143832,34.26710765219644],[0.40114383262181,34.27434235271744],[0.61978681780744,34.38402558051615],[0.62397260884887,34.38733287241416],[0.69600955569649,34.42430735889752],[0.72949588402787,34.43546946894088],[0.75760786291261,34.43818248073694],[0.97371870255614,34.38208771417669],[1.01423302583351,34.35537099927222],[1.03195804193013,34.33935130551839],[1.01733361215651,34.21920360056578],[1.01841881687494,34.20227956834748],[1.02368981263481,34.19124665041267],[1.03908938966367,34.18881785675876]]],"type":"Polygon"}
+}

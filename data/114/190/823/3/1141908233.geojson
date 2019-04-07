@@ -1,0 +1,208 @@
+{
+  "id": 1141908233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05445186222,31.7023401072,6.05445186222,31.7023401072",
+    "geom:latitude":31.70234,
+    "geom:longitude":6.054452,
+    "iso:country":"DZ",
+    "lbl:latitude":31.70234,
+    "lbl:longitude":6.054452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0633\u064a \u0645\u0633\u0639\u0648\u062f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0441\u0438 \u041c\u0435\u0441\u0430\u0443\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:chi_x_preferred":[
+        "\u54c8\u897f\u8fc8\u8428\u4e4c\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:eng_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:fre_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:ger_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:ita_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30b7\u30e1\u30b5\u30a6\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc2dc\uba54\uc0ac\uc6b0\ub4dc"
+    ],
+    "name:may_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:per_x_preferred":[
+        "\u062d\u0627\u0633\u06cc \u0645\u0633\u0639\u0648\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:rum_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0441\u0441\u0438-\u041c\u0435\u0441\u0441\u0430\u0443\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "name:vie_x_preferred":[
+        "Hassi Messaoud"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Ouargla",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":31.70234,
+    "ne:LONGITUDE":6.054452,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Hassi Messaoud",
+    "ne:MAX_AREAKM":12.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":6.083333,
+    "ne:MAX_BBXMIN":6.041667,
+    "ne:MAX_BBYMAX":31.725,
+    "ne:MAX_BBYMIN":31.683333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":17.0,
+    "ne:MAX_PERMI":11.0,
+    "ne:MAX_POP10":18124,
+    "ne:MAX_POP20":18124,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":6.060539,
+    "ne:MEAN_BBYC":31.704657,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":12.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":6.083333,
+    "ne:MIN_BBXMIN":6.041667,
+    "ne:MIN_BBYMAX":31.725,
+    "ne:MIN_BBYMIN":31.683333,
+    "ne:MIN_PERKM":17.0,
+    "ne:MIN_PERMI":11.0,
+    "ne:NAME":"Hassi Messaoud",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Hassi Messaoud",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":18124,
+    "ne:POP_MIN":18124,
+    "ne:POP_OTHER":18124,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":31.70234,
+    "reversegeo:longitude":6.054452,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1000139"
+    },
+    "wof:country":"DZ",
+    "wof:created":1499130855,
+    "wof:geomhash":"be26112f2e3de7bdc8a53e5e30f3e5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1141908233,
+            "region_id":85670759
+        }
+    ],
+    "wof:id":1141908233,
+    "wof:lastmodified":1534379289,
+    "wof:name":"Hassi Messaoud",
+    "wof:parent_id":85670759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[
+        421205389
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05445186221635,
+    31.70234010723965,
+    6.05445186221635,
+    31.70234010723965
+],
+  "geometry": {"coordinates":[6.05445186221635,31.70234010723965],"type":"Point"}
+}

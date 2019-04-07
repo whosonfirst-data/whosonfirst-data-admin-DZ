@@ -1,0 +1,65 @@
+{
+  "id": 1293770195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.21083,35.49306,2.21083,35.49306",
+    "geom:latitude":35.49306,
+    "geom:longitude":2.21083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"M'Titidja",
+    "gn:country_code":"DZ",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7447014,
+    "gn:latitude":35.49306,
+    "gn:longitude":2.21083,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"M\u2019Titidja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7447014
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c220c2eef37579c45c034427b3976ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293770195,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1293770195,
+    "wof:lastmodified":1536875698,
+    "wof:name":"M'Titidja",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.21083,
+    35.49306,
+    2.21083,
+    35.49306
+],
+  "geometry": {"coordinates":[2.21083,35.49306],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193273125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.00335,35.96098,3.00335,35.96098",
+    "geom:latitude":35.96098,
+    "geom:longitude":3.00335,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bordj Khemkam",
+    "gn:country_code":"DZ",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503647,
+    "gn:latitude":35.96098,
+    "gn:longitude":3.00335,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bordj Khemkam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503647
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dc9c2c29578bc91ccf014421abd315b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193273125,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1193273125,
+    "wof:lastmodified":1536368326,
+    "wof:name":"Bordj Khemkam",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.00335,
+    35.96098,
+    3.00335,
+    35.96098
+],
+  "geometry": {"coordinates":[3.00335,35.96098],"type":"Point"}
+}

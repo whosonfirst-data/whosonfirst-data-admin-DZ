@@ -1,0 +1,65 @@
+{
+  "id": 1276825431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.76667,34.5,3.76667,34.5",
+    "geom:latitude":34.5,
+    "geom:longitude":3.76667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Feidh el Botma",
+    "gn:country_code":"DZ",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496643,
+    "gn:latitude":34.5,
+    "gn:longitude":3.76667,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Feidh el Botma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496643
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"788be71a59515aed8f84268b876a93bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276825431,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1276825431,
+    "wof:lastmodified":1536614333,
+    "wof:name":"Feidh el Botma",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.76667,
+    34.5,
+    3.76667,
+    34.5
+],
+  "geometry": {"coordinates":[3.76667,34.5],"type":"Point"}
+}

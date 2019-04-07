@@ -1,0 +1,69 @@
+{
+  "id": 1343531647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.00483,35.02456,-2.00483,35.02456",
+    "geom:latitude":35.02456,
+    "geom:longitude":-2.00483,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bou 'Adal",
+    "gn:country_code":"DZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503564,
+    "gn:latitude":35.02456,
+    "gn:longitude":-2.00483,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou \u2019Ad\u00e2l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Addal",
+        "Bou \u2019Ad\u00e2l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503564
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3ac0c65b41e9cef76356257a36b0aa51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343531647,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1343531647,
+    "wof:lastmodified":1537620237,
+    "wof:name":"Bou 'Adal",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.00483,
+    35.02456,
+    -2.00483,
+    35.02456
+],
+  "geometry": {"coordinates":[-2.00483,35.02456],"type":"Point"}
+}

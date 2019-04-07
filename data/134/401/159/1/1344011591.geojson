@@ -1,0 +1,65 @@
+{
+  "id": 1344011591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.05908,36.12197,2.05908,36.12197",
+    "geom:latitude":36.12197,
+    "geom:longitude":2.05908,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Maamria",
+    "gn:country_code":"DZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430159,
+    "gn:latitude":36.12197,
+    "gn:longitude":2.05908,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Maamria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430159
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ff2df975e4171c2f8339bf4ee03cf8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344011591,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1344011591,
+    "wof:lastmodified":1536946709,
+    "wof:name":"Maamria",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.05908,
+    36.12197000000001,
+    2.05908,
+    36.12197000000001
+],
+  "geometry": {"coordinates":[2.05908,36.12197000000001],"type":"Point"}
+}

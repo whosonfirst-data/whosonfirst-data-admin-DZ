@@ -1,0 +1,65 @@
+{
+  "id": 1343931037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0207,35.00924,-2.0207,35.00924",
+    "geom:latitude":35.00924,
+    "geom:longitude":-2.0207,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ouada",
+    "gn:country_code":"DZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485881,
+    "gn:latitude":35.00924,
+    "gn:longitude":-2.0207,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485881
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"69d327bcceb48c7c13a5bdc8b6abde22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343931037,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1343931037,
+    "wof:lastmodified":1537059909,
+    "wof:name":"Ouada",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0207,
+    35.00924000000001,
+    -2.0207,
+    35.00924000000001
+],
+  "geometry": {"coordinates":[-2.0207,35.00924000000001],"type":"Point"}
+}

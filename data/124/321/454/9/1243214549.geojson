@@ -1,0 +1,70 @@
+{
+  "id": 1243214549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57219,36.03687,6.57219,36.03687",
+    "geom:latitude":36.03687,
+    "geom:longitude":6.57219,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ain M'Lila",
+    "gn:country_code":"DZ",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508002,
+    "gn:latitude":36.03687,
+    "gn:longitude":6.57219,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn M\u2019Lila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Mlila",
+        "A\u00efn M\u2019Lila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508002,
+        "wk:page":"A%C3%AFn_M%27lila"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"985045d62408eb2b60e7589021ccb790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243214549,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1243214549,
+    "wof:lastmodified":1537620255,
+    "wof:name":"Ain M'Lila",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57219,
+    36.03687,
+    6.57219,
+    36.03687
+],
+  "geometry": {"coordinates":[6.57219,36.03687],"type":"Point"}
+}

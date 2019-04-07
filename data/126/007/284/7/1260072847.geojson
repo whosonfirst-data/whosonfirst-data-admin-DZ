@@ -1,0 +1,65 @@
+{
+  "id": 1260072847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3065,36.13019,3.3065,36.13019",
+    "geom:latitude":36.13019,
+    "geom:longitude":3.3065,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Draa Mamiounet",
+    "gn:country_code":"DZ",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280660,
+    "gn:latitude":36.13019,
+    "gn:longitude":3.3065,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Draa Mamiounet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280660
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e315f71212bcb34a852ff4196f79b6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260072847,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1260072847,
+    "wof:lastmodified":1537002601,
+    "wof:name":"Draa Mamiounet",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3065,
+    36.13019,
+    3.3065,
+    36.13019
+],
+  "geometry": {"coordinates":[3.3065,36.13019],"type":"Point"}
+}

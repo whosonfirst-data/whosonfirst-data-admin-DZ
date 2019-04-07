@@ -1,0 +1,215 @@
+{
+  "id": 421177627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39278,35.79639,7.39278,35.79639",
+    "geom:latitude":35.79639,
+    "geom:longitude":7.39278,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a8 \u09ac\u09c7\u0987\u09a1\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u56e0\u8d1d\u8fbe"
+    ],
+    "name:dan_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn B\u00e9\u00efda"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn B\u00e9\u00efda"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b9\u03bd \u039c\u03c0\u03b5\u0390\u03bd\u03c4\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8 \u0aac\u0ac7\u0a88\u0aa1\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0928 \u092c\u0947\u0926\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30d3\u30fc\u30c0"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Lbi\u1e0da"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c90\u0ca8\u0ccd \u0cac\u0cc0\u0ca1\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778 \ubca0\uc774\ub2e4"
+    ],
+    "name:lav_x_preferred":[
+        "Ain Beida"
+    ],
+    "name:lit_x_preferred":[
+        "Ain el Beida"
+    ],
+    "name:mar_x_preferred":[
+        "\u0910\u0928 \u092c\u0947\u0907\u0921\u093e"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:nob_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:nor_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Ajn al-Bajda"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0411\u0435\u0439\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dd2\u0db1\u0dca \u0db6\u0dd9\u0dba\u0dd2\u0daf\u0dcf \u0d94\u0d8b\u0db8\u0dca \u0d91\u0dbd\u0dca \u0db6\u0ddd\u0dc0\u0dcf\u0d9c\u0dd3"
+    ],
+    "name:spa_x_preferred":[
+        "Ain Beida"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn B\u00e9\u00efda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0baf\u0bbf\u0ba9\u0bcd  \u0baa\u0bc6\u0baf\u0bcd\u0b9f\u0bbe "
+    ],
+    "name:tel_x_preferred":[
+        "\u0c10\u0c28\u0c4d \u0c2c\u0c40\u0c21\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e19 \u0e40\u0e1a\u0e22\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Ain Beida"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0411\u0435\u0439\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Be\u00efda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627 \u060c \u0648\u0648\u0645 \u0627\u0644 \u0628\u0648\u0648\u0627\u06af\u06be\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Beida"
+    ],
+    "name:war_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508287,
+    "qs:gn_pop":105765,
+    "qs:name":"Ain Beida",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Oum el Bouaghi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":428399,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252976,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508287,
+        "gp:id":1252976,
+        "qs:id":428399,
+        "wd:id":"Q2088349",
+        "wk:page":"A\u00efn Be\u00efda, Oum El Bouaghi"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009153,
+    "wof:geomhash":"59aa3f666a224d57f08334f4654b8abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421177627,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":421177627,
+    "wof:lastmodified":1553816367,
+    "wof:name":"Ain Beida",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:population":105765,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39278,
+    35.79639,
+    7.39278,
+    35.79639
+],
+  "geometry": {"coordinates":[7.39278,35.79639],"type":"Point"}
+}

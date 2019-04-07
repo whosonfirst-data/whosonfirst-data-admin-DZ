@@ -1,0 +1,65 @@
+{
+  "id": 1259833889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.94056,35.74222,4.94056,35.74222",
+    "geom:latitude":35.74222,
+    "geom:longitude":4.94056,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Magoura",
+    "gn:country_code":"DZ",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490576,
+    "gn:latitude":35.74222,
+    "gn:longitude":4.94056,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Magoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490576
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9b5e6c33b79689b7fcf44bf2aeea2524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259833889,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1259833889,
+    "wof:lastmodified":1536849665,
+    "wof:name":"Magoura",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.94056,
+    35.74222,
+    4.94056,
+    35.74222
+],
+  "geometry": {"coordinates":[4.94056,35.74222],"type":"Point"}
+}

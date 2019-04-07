@@ -1,0 +1,65 @@
+{
+  "id": 1242685281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.47045,35.41426,6.47045,35.41426",
+    "geom:latitude":35.41426,
+    "geom:longitude":6.47045,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Ali Gader",
+    "gn:country_code":"DZ",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489784,
+    "gn:latitude":35.41426,
+    "gn:longitude":6.47045,
+    "gn:modification_date":"1996-01-31",
+    "gn:name":"Mechta Ali Gader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489784
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ed762fbbb5d7910203a4924dbb6c0eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242685281,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1242685281,
+    "wof:lastmodified":1536908937,
+    "wof:name":"Mechta Ali Gader",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.47045,
+    35.41426,
+    6.47045,
+    35.41426
+],
+  "geometry": {"coordinates":[6.47045,35.41426],"type":"Point"}
+}

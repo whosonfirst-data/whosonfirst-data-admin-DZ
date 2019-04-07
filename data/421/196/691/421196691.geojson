@@ -1,0 +1,116 @@
+{
+  "id": 421196691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.77236,35.88548,3.77236,35.88548",
+    "geom:latitude":35.88548,
+    "geom:longitude":3.77236,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u064a\u0633\u0649"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "name:pol_x_preferred":[
+        "Sidi Isa"
+    ],
+    "name:por_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u0410\u0438\u0441\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "name:unk_x_variant":[
+        "Sid A\u00efssa"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Aissa"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sidi A\u00efssa"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2481246,
+    "qs:gn_pop":69740,
+    "qs:name":"Sidi Aissa",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0648\u064a\u0631\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1296166,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257274,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481246,
+        "gp:id":1257274,
+        "qs:id":1296166,
+        "wd:id":"Q2214999",
+        "wk:page":"Sidi A\u00efssa"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009890,
+    "wof:geomhash":"a3652a798b285ff73f3bd300e3d2385c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421196691,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":421196691,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Sidi Aissa",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:population":69740,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.77236,
+    35.88548,
+    3.77236,
+    35.88548
+],
+  "geometry": {"coordinates":[3.77236,35.88548],"type":"Point"}
+}

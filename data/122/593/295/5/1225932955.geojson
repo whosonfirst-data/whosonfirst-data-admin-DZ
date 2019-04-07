@@ -1,0 +1,70 @@
+{
+  "id": 1225932955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.10809,35.02392,0.10809,35.02392",
+    "geom:latitude":35.02392,
+    "geom:longitude":0.10809,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sidi Amar",
+    "gn:country_code":"DZ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481097,
+    "gn:latitude":35.02392,
+    "gn:longitude":0.10809,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Franchetti",
+        "Sidi Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481097,
+        "wk:page":"Sidi_Amar%2C_Sa%C3%AFda"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1b783083beaadb242475b9d72ca29f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225932955,
+            "region_id":85670797
+        }
+    ],
+    "wof:id":1225932955,
+    "wof:lastmodified":1537620113,
+    "wof:name":"Sidi Amar",
+    "wof:parent_id":85670797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.10809,
+    35.02392,
+    0.10809,
+    35.02392
+],
+  "geometry": {"coordinates":[0.10809,35.02392],"type":"Point"}
+}

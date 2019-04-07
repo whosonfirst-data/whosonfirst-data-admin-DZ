@@ -1,0 +1,65 @@
+{
+  "id": 1209669545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.90453,35.76623,3.90453,35.76623",
+    "geom:latitude":35.76623,
+    "geom:longitude":3.90453,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Sidi Aissa Ben Moulahoum",
+    "gn:country_code":"DZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481213,
+    "gn:latitude":35.76623,
+    "gn:longitude":3.90453,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi A\u00efssa Ben Moulahoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Si A\u00efssa Ben Moulahoum",
+        "Sidi A\u00efssa Ben Moulahoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481213
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cc7d121a5c0c14f110841bcf2cc8f410",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209669545
+        }
+    ],
+    "wof:id":1209669545,
+    "wof:lastmodified":1537620113,
+    "wof:name":"Sidi Aissa Ben Moulahoum",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.90453,
+    35.76623,
+    3.90453,
+    35.76623
+],
+  "geometry": {"coordinates":[3.90453,35.76623],"type":"Point"}
+}

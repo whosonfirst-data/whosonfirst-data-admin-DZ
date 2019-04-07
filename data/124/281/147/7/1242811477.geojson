@@ -1,0 +1,65 @@
+{
+  "id": 1242811477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28991,36.37899,1.28991,36.37899",
+    "geom:latitude":36.37899,
+    "geom:longitude":1.28991,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Zemmoura",
+    "gn:country_code":"DZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572600,
+    "gn:latitude":36.37899,
+    "gn:longitude":1.28991,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Zemmoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572600
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3ff93445f02e843a271ae1a481f570d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242811477,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242811477,
+    "wof:lastmodified":1536727294,
+    "wof:name":"Zemmoura",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28991,
+    36.37899,
+    1.28991,
+    36.37899
+],
+  "geometry": {"coordinates":[1.28991,36.37899],"type":"Point"}
+}

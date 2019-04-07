@@ -1,0 +1,68 @@
+{
+  "id": 1343912757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.40508,35.53111,0.40508,35.53111",
+    "geom:latitude":35.53111,
+    "geom:longitude":0.40508,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ouled Dellah",
+    "gn:country_code":"DZ",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579691,
+    "gn:latitude":35.53111,
+    "gn:longitude":0.40508,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Dellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ouled Della"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579691
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7d948a7f1d93998a0123de80586709fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343912757,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1343912757,
+    "wof:lastmodified":1537620268,
+    "wof:name":"Ouled Dellah",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.40508,
+    35.53111,
+    0.40508,
+    35.53111
+],
+  "geometry": {"coordinates":[0.40508,35.53111],"type":"Point"}
+}

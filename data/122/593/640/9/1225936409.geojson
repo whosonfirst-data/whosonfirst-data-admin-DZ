@@ -1,0 +1,65 @@
+{
+  "id": 1225936409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.89221,36.07146,2.89221,36.07146",
+    "geom:latitude":36.07146,
+    "geom:longitude":2.89221,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Mokorno",
+    "gn:country_code":"DZ",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7452041,
+    "gn:latitude":36.07146,
+    "gn:longitude":2.89221,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Douar Mokorno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7452041
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"56954fd3ca232435abd19452890565e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225936409,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1225936409,
+    "wof:lastmodified":1536882240,
+    "wof:name":"Douar Mokorno",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.89221,
+    36.07146,
+    2.89221,
+    36.07146
+],
+  "geometry": {"coordinates":[2.89221,36.07146],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360038827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.22483,36.3054,2.22483,36.3054",
+    "geom:latitude":36.3054,
+    "geom:longitude":2.22483,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sidi Bou Messabeh",
+    "gn:country_code":"DZ",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480789,
+    "gn:latitude":36.3054,
+    "gn:longitude":2.22483,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi Bou Messabeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480789
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"485d462551eb1e48b6e9e1ea4afdecb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360038827,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1360038827,
+    "wof:lastmodified":1537011795,
+    "wof:name":"Sidi Bou Messabeh",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.22483,
+    36.3054,
+    2.22483,
+    36.3054
+],
+  "geometry": {"coordinates":[2.22483,36.3054],"type":"Point"}
+}

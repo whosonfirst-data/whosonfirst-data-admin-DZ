@@ -1,0 +1,65 @@
+{
+  "id": 1276224005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.35833,35.94917,0.35833,35.94917",
+    "geom:latitude":35.94917,
+    "geom:longitude":0.35833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Oulad Sidi Dahmane",
+    "gn:country_code":"DZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580604,
+    "gn:latitude":35.94917,
+    "gn:longitude":0.35833,
+    "gn:modification_date":"1997-03-19",
+    "gn:name":"Douar Oulad Sidi Dahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580604
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f2d1000c5f301d5dace0b65621af3772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276224005,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1276224005,
+    "wof:lastmodified":1536926081,
+    "wof:name":"Douar Oulad Sidi Dahmane",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.35833,
+    35.94917,
+    0.35833,
+    35.94917
+],
+  "geometry": {"coordinates":[0.35833,35.94917],"type":"Point"}
+}

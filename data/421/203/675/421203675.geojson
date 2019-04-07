@@ -1,0 +1,121 @@
+{
+  "id": 421203675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.94333,36.23194,6.94333,36.23194",
+    "geom:latitude":36.23194,
+    "geom:longitude":6.94333,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0639\u0628\u064a\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in \u0190bid"
+    ],
+    "name:may_x_preferred":[
+        "Ain Abid"
+    ],
+    "name:msa_x_preferred":[
+        "Ain Abid"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Abid"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Abid"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Abid"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508309,
+    "qs:gn_pop":29486,
+    "qs:name":"'Ain Abid",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":234622,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252714,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508309,
+        "gp:id":1252714,
+        "qs:id":234622,
+        "wd:id":"Q2876252"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459010160,
+    "wof:geomhash":"b474d3e0e945cecbd0f83fb87ff974c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421203675,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":421203675,
+    "wof:lastmodified":1527716190,
+    "wof:name":"'Ain Abid",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:population":29486,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94333,
+    36.23194,
+    6.94333,
+    36.23194
+],
+  "geometry": {"coordinates":[6.94333,36.23194],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226703611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.63627,36.0893,2.63627,36.0893",
+    "geom:latitude":36.0893,
+    "geom:longitude":2.63627,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ahmed Ben el Badi",
+    "gn:country_code":"DZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508446,
+    "gn:latitude":36.0893,
+    "gn:longitude":2.63627,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ahmed Ben el Badi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ahmed ben el Badi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508446
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"933b8a5fafc14863b53f0e585266af0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226703611,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226703611,
+    "wof:lastmodified":1537620261,
+    "wof:name":"Ahmed Ben el Badi",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.63627,
+    36.0893,
+    2.63627,
+    36.0893
+],
+  "geometry": {"coordinates":[2.63627,36.0893],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226495377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23333,35.36667,-1.23333,35.36667",
+    "geom:latitude":35.36667,
+    "geom:longitude":-1.23333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Douar Ouled el Kihel",
+    "gn:country_code":"DZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499271,
+    "gn:latitude":35.36667,
+    "gn:longitude":-1.23333,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled el K\u00eehel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499271
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a32b033e2f74316ae2cd47b37a30c3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226495377,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1226495377,
+    "wof:lastmodified":1537067799,
+    "wof:name":"Douar Ouled el Kihel",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23333,
+    35.36667,
+    -1.23333,
+    35.36667
+],
+  "geometry": {"coordinates":[-1.23333,35.36667],"type":"Point"}
+}

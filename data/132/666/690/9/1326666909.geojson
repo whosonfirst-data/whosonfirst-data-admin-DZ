@@ -1,0 +1,65 @@
+{
+  "id": 1326666909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9189,35.92467,7.9189,35.92467",
+    "geom:latitude":35.92467,
+    "geom:longitude":7.9189,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Daghbouche",
+    "gn:country_code":"DZ",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589455,
+    "gn:latitude":35.92467,
+    "gn:longitude":7.9189,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Daghbouche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589455
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7f6956bfac38116c9f7e0427f16d7251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326666909,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1326666909,
+    "wof:lastmodified":1536790206,
+    "wof:name":"Daghbouche",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9189,
+    35.92467,
+    7.9189,
+    35.92467
+],
+  "geometry": {"coordinates":[7.9189,35.92467],"type":"Point"}
+}

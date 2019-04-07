@@ -1,0 +1,63 @@
+{
+  "id": 1259813769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.17601,36.52112,8.17601,36.52112",
+    "geom:latitude":36.52112,
+    "geom:longitude":8.17601,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Mechta Statir",
+    "gn:country_code":"DZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489202,
+    "gn:latitude":36.52112,
+    "gn:longitude":8.17601,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Statir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489202
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4840e542e948294f544c2dc4c7e695bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259813769,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259813769,
+    "wof:lastmodified":1536879002,
+    "wof:name":"Mechta Statir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.17601,
+    36.52112,
+    8.17601,
+    36.52112
+],
+  "geometry": {"coordinates":[8.17601,36.52112],"type":"Point"}
+}

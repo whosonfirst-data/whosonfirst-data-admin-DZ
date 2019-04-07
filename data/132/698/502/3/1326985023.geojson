@@ -1,0 +1,65 @@
+{
+  "id": 1326985023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33434,35.46323,0.33434,35.46323",
+    "geom:latitude":35.46323,
+    "geom:longitude":0.33434,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Hazouti",
+    "gn:country_code":"DZ",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7410646,
+    "gn:latitude":35.46323,
+    "gn:longitude":0.33434,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Hazouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7410646
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dd60d4cdfec67453769cbb6ab8fb6cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326985023,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1326985023,
+    "wof:lastmodified":1536827985,
+    "wof:name":"Douar Hazouti",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33434,
+    35.46323,
+    0.33434,
+    35.46323
+],
+  "geometry": {"coordinates":[0.33434,35.46323],"type":"Point"}
+}

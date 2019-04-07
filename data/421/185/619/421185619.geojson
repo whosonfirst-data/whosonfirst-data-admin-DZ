@@ -1,0 +1,134 @@
+{
+  "id": 421185619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.02462,36.70456,3.02462,36.70456",
+    "geom:latitude":36.70456,
+    "geom:longitude":3.02462,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0633\u062d\u0627\u0648\u0644\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Saoula"
+    ],
+    "name:dut_x_preferred":[
+        "Saoula"
+    ],
+    "name:eng_x_preferred":[
+        "Saoula"
+    ],
+    "name:fra_x_preferred":[
+        "Saoula"
+    ],
+    "name:fre_x_preferred":[
+        "Saoula"
+    ],
+    "name:ita_x_preferred":[
+        "Saoula"
+    ],
+    "name:kab_x_preferred":[
+        "Ss\u1e25awla"
+    ],
+    "name:may_x_preferred":[
+        "Saoula"
+    ],
+    "name:msa_x_preferred":[
+        "Saoula"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0633\u062d\u0627\u0648\u0644\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Saoula"
+    ],
+    "name:ron_x_preferred":[
+        "Saoula"
+    ],
+    "name:rum_x_preferred":[
+        "Saoula"
+    ],
+    "name:swe_x_preferred":[
+        "Saoula"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062d\u0627\u0648\u0644\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Saoula"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Saoula"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2482390,
+    "qs:gn_pop":16812,
+    "qs:name":"Saoula",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1035937,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257210,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482390,
+        "gp:id":1257210,
+        "qs:id":1035937,
+        "wd:id":"Q1884982",
+        "wk:page":"Saoula"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009449,
+    "wof:geomhash":"f8c133cf9f938429a711e297dc26b63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421185619,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":421185619,
+    "wof:lastmodified":1527726502,
+    "wof:name":"Saoula",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:population":16812,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.02462,
+    36.70456,
+    3.02462,
+    36.70456
+],
+  "geometry": {"coordinates":[3.02462,36.70456],"type":"Point"}
+}

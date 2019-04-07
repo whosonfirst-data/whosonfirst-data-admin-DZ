@@ -1,0 +1,73 @@
+{
+  "id": 1343637321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.67152,36.69314,4.67152,36.69314",
+    "geom:latitude":36.69314,
+    "geom:longitude":4.67152,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Adekar Kebouche",
+    "gn:country_code":"DZ",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508924,
+    "gn:latitude":36.69314,
+    "gn:longitude":4.67152,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adekar Kebouche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kebouch",
+        "Adekar-Kebouch",
+        "Adekar",
+        "Addekar-Kebouch",
+        "Adekar Kebouche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508924,
+        "wk:page":"Adekar"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c8cf7825ab1ec79312fcf5678348258f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343637321,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1343637321,
+    "wof:lastmodified":1537620262,
+    "wof:name":"Adekar Kebouche",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.67152,
+    36.69314,
+    4.67152,
+    36.69314
+],
+  "geometry": {"coordinates":[4.67152,36.69314],"type":"Point"}
+}

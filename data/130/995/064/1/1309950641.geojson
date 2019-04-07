@@ -1,0 +1,65 @@
+{
+  "id": 1309950641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.26533,36.10663,2.26533,36.10663",
+    "geom:latitude":36.10663,
+    "geom:longitude":2.26533,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Ouled Haffif",
+    "gn:country_code":"DZ",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7434290,
+    "gn:latitude":36.10663,
+    "gn:longitude":2.26533,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Ouled Haffif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7434290
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a6b37e8815ea8d5b8060a079c8d0eb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309950641,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1309950641,
+    "wof:lastmodified":1536722813,
+    "wof:name":"Douar Ouled Haffif",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.26533,
+    36.10663,
+    2.26533,
+    36.10663
+],
+  "geometry": {"coordinates":[2.26533,36.10663],"type":"Point"}
+}

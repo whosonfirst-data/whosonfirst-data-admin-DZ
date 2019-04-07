@@ -1,0 +1,65 @@
+{
+  "id": 1276709457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7191,35.20372,7.7191,35.20372",
+    "geom:latitude":35.20372,
+    "geom:longitude":7.7191,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechta Smaala",
+    "gn:country_code":"DZ",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489214,
+    "gn:latitude":35.20372,
+    "gn:longitude":7.7191,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Smaala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489214
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"71e6ce93bd0420c7cd4b03808d75a255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276709457,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1276709457,
+    "wof:lastmodified":1536772517,
+    "wof:name":"Mechta Smaala",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7191,
+    35.20372000000001,
+    7.7191,
+    35.20372000000001
+],
+  "geometry": {"coordinates":[7.7191,35.20372000000001],"type":"Point"}
+}

@@ -1,0 +1,277 @@
+{
+  "id": 421169027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.46069,27.19351,2.46069,27.19351",
+    "geom:latitude":27.19351,
+    "geom:longitude":2.46069,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0635\u0627\u0644\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "In Salah"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u00efn Salah"
+    ],
+    "name:chi_x_preferred":[
+        "\u56e0\u8428\u62c9\u8d6b"
+    ],
+    "name:deu_x_preferred":[
+        "In Salah"
+    ],
+    "name:dut_x_preferred":[
+        "In Salah"
+    ],
+    "name:eng_x_preferred":[
+        "In Salah"
+    ],
+    "name:epo_x_preferred":[
+        "In Salah"
+    ],
+    "name:fin_x_preferred":[
+        "In Salah"
+    ],
+    "name:fra_x_preferred":[
+        "In Salah"
+    ],
+    "name:fre_x_preferred":[
+        "In Salah"
+    ],
+    "name:ger_x_preferred":[
+        "In Salah"
+    ],
+    "name:ita_x_preferred":[
+        "In Salah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30b5\u30e9\u30fc"
+    ],
+    "name:kab_x_preferred":[
+        "In \u1e62ale\u1e25"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\uc0b4\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Ain Sala"
+    ],
+    "name:may_x_preferred":[
+        "In Salah"
+    ],
+    "name:msa_x_preferred":[
+        "In Salah"
+    ],
+    "name:nan_x_preferred":[
+        "In Salah"
+    ],
+    "name:nob_x_preferred":[
+        "In Salah"
+    ],
+    "name:nor_x_preferred":[
+        "In Salah"
+    ],
+    "name:oci_x_preferred":[
+        "In Salah"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0635\u0627\u0644\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Salih"
+    ],
+    "name:por_x_preferred":[
+        "In Salah"
+    ],
+    "name:ron_x_preferred":[
+        "In Salah"
+    ],
+    "name:rum_x_preferred":[
+        "In Salah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d-\u0421\u0430\u043b\u0430\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "In Salah"
+    ],
+    "name:swe_x_preferred":[
+        "In Salah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0421\u0430\u043b\u0430\u0445"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efn Salah"
+    ],
+    "name:vie_x_preferred":[
+        "In Salah"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u8428\u62c9\u8d6b"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Tamanghasset",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2493222,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"I-n-Salah",
+    "ne:GN_POP":49223,
+    "ne:GTOPO30":282.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":27.216645,
+    "ne:LONGITUDE":2.466609,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"I-n-Salah",
+    "ne:MAX_AREAKM":8.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":2.5,
+    "ne:MAX_BBXMIN":2.466667,
+    "ne:MAX_BBYMAX":27.216667,
+    "ne:MAX_BBYMIN":27.183333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":14.0,
+    "ne:MAX_PERMI":9.0,
+    "ne:MAX_POP10":8041,
+    "ne:MAX_POP20":8041,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":2.48,
+    "ne:MEAN_BBYC":27.196667,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":8.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":2.5,
+    "ne:MIN_BBXMIN":2.466667,
+    "ne:MIN_BBYMAX":27.216667,
+    "ne:MIN_BBYMIN":27.183333,
+    "ne:MIN_PERKM":14.0,
+    "ne:MIN_PERMI":9.0,
+    "ne:NAME":"I-n-Salah",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"I-n-Salah",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":49223,
+    "ne:POP_MIN":8041,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":"Africa/Algiers",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2493222,
+    "qs:gn_pop":49223,
+    "qs:name":"Ain Salah",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Tamanghasset",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1294815,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255019,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1144,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493222,
+        "gp:id":1255019,
+        "qs:id":1294815,
+        "wd:id":"Q255251"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008791,
+    "wof:geomhash":"46e9be775f0f7d33afe504154c885ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421169027,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":421169027,
+    "wof:lastmodified":1527716172,
+    "wof:name":"Ain Salah",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:population":49223,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.46069,
+    27.19351,
+    2.46069,
+    27.19351
+],
+  "geometry": {"coordinates":[2.46069,27.19351],"type":"Point"}
+}

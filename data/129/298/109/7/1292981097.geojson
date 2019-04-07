@@ -1,0 +1,65 @@
+{
+  "id": 1292981097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8931,36.4085,4.8931,36.4085",
+    "geom:latitude":36.4085,
+    "geom:longitude":4.8931,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Chouf",
+    "gn:country_code":"DZ",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501246,
+    "gn:latitude":36.4085,
+    "gn:longitude":4.8931,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Chouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501246
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ff3e959e41bed07018642f987eeb91a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292981097,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1292981097,
+    "wof:lastmodified":1537019215,
+    "wof:name":"Chouf",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8931,
+    36.4085,
+    4.8931,
+    36.4085
+],
+  "geometry": {"coordinates":[4.8931,36.4085],"type":"Point"}
+}

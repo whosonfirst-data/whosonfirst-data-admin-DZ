@@ -1,0 +1,65 @@
+{
+  "id": 1327490429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.15733,35.43822,0.15733,35.43822",
+    "geom:latitude":35.43822,
+    "geom:longitude":0.15733,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar el Mkadine",
+    "gn:country_code":"DZ",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392792,
+    "gn:latitude":35.43822,
+    "gn:longitude":0.15733,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Mkadine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392792
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"565fb65cd8df8d0bf1547e4d8f2aec01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327490429,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1327490429,
+    "wof:lastmodified":1537091620,
+    "wof:name":"Douar el Mkadine",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.15733,
+    35.43822,
+    0.15733,
+    35.43822
+],
+  "geometry": {"coordinates":[0.15733,35.43822],"type":"Point"}
+}

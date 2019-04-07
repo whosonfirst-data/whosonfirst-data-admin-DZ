@@ -1,0 +1,66 @@
+{
+  "id": 1327369867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.43186,27.1736,2.43186,27.1736",
+    "geom:latitude":27.1736,
+    "geom:longitude":2.43186,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"El Barka",
+    "gn:country_code":"DZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498550,
+    "gn:latitude":27.1736,
+    "gn:longitude":2.43186,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"El Barka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498550,
+        "wk:page":"El_Barka"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bd34c4fba95bc7ffa3983a32f373aea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327369867,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1327369867,
+    "wof:lastmodified":1537504294,
+    "wof:name":"El Barka",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.43186,
+    27.1736,
+    2.43186,
+    27.1736
+],
+  "geometry": {"coordinates":[2.43186,27.1736],"type":"Point"}
+}

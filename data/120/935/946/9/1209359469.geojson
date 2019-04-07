@@ -1,0 +1,61 @@
+{
+  "id": 1209359469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.14575,36.11124,2.14575,36.11124",
+    "geom:latitude":36.11124,
+    "geom:longitude":2.14575,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar el Hadj Tahar",
+    "gn:country_code":"DZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430858,
+    "gn:latitude":36.11124,
+    "gn:longitude":2.14575,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar el Hadj Tahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430858
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"51099f2bc0474bd16fa4e18e9ace0b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209359469
+        }
+    ],
+    "wof:id":1209359469,
+    "wof:lastmodified":1536289475,
+    "wof:name":"Douar el Hadj Tahar",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.14575,
+    36.11124,
+    2.14575,
+    36.11124
+],
+  "geometry": {"coordinates":[2.14575,36.11124],"type":"Point"}
+}

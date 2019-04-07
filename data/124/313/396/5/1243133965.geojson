@@ -1,0 +1,69 @@
+{
+  "id": 1243133965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.13355,36.52969,3.13355,36.52969",
+    "geom:latitude":36.52969,
+    "geom:longitude":3.13355,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tizeraine",
+    "gn:country_code":"DZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499514,
+    "gn:latitude":36.52969,
+    "gn:longitude":3.13355,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tizera\u00efne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizera\u00efne",
+        "Douar Beni Srherh\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499514
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cf6ac6899b6cbf2c009126f700489a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243133965,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":1243133965,
+    "wof:lastmodified":1537620221,
+    "wof:name":"Tizeraine",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.13355,
+    36.52969,
+    3.13355,
+    36.52969
+],
+  "geometry": {"coordinates":[3.13355,36.52969],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226564293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.87497,36.24878,2.87497,36.24878",
+    "geom:latitude":36.24878,
+    "geom:longitude":2.87497,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boussena",
+    "gn:country_code":"DZ",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7452089,
+    "gn:latitude":36.24878,
+    "gn:longitude":2.87497,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Boussena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7452089
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5a25b627103f6a4b50f9dfaf5eb10d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226564293,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226564293,
+    "wof:lastmodified":1536971098,
+    "wof:name":"Boussena",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.87497,
+    36.24878,
+    2.87497,
+    36.24878
+],
+  "geometry": {"coordinates":[2.87497,36.24878],"type":"Point"}
+}

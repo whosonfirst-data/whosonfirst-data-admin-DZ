@@ -1,0 +1,65 @@
+{
+  "id": 1293723019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.04917,36.50479,2.04917,36.50479",
+    "geom:latitude":36.50479,
+    "geom:longitude":2.04917,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tizi Meblaf",
+    "gn:country_code":"DZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475759,
+    "gn:latitude":36.50479,
+    "gn:longitude":2.04917,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tizi Meblaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475759
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"08356707424009ce87a9b238958d2f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293723019,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1293723019,
+    "wof:lastmodified":1536945375,
+    "wof:name":"Tizi Meblaf",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.04917,
+    36.50479,
+    2.04917,
+    36.50479
+],
+  "geometry": {"coordinates":[2.04917,36.50479],"type":"Point"}
+}

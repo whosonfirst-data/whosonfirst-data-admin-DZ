@@ -1,0 +1,65 @@
+{
+  "id": 1259550685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.46555,35.34505,0.46555,35.34505",
+    "geom:latitude":35.34505,
+    "geom:longitude":0.46555,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ouled Bouaza",
+    "gn:country_code":"DZ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7409393,
+    "gn:latitude":35.34505,
+    "gn:longitude":0.46555,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Bouaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7409393
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5d14cce6887c04f1875ea0348303d87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259550685,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1259550685,
+    "wof:lastmodified":1536762507,
+    "wof:name":"Douar Ouled Bouaza",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.46555,
+    35.34505,
+    0.46555,
+    35.34505
+],
+  "geometry": {"coordinates":[0.46555,35.34505],"type":"Point"}
+}

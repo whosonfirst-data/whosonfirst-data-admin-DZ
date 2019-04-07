@@ -1,0 +1,69 @@
+{
+  "id": 1293058059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.24534,35.42967,-0.24534,35.42967",
+    "geom:latitude":35.42967,
+    "geom:longitude":-0.24534,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"'Ain Cheurfa",
+    "gn:country_code":"DZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508241,
+    "gn:latitude":35.42967,
+    "gn:longitude":-0.24534,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Cheurfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Cheurfa",
+        "\u2019A\u00efn Cheurfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508241
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"afb46eeb58471df4443140dd05ac217c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293058059,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1293058059,
+    "wof:lastmodified":1537620259,
+    "wof:name":"'Ain Cheurfa",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.24534,
+    35.42967,
+    -0.24534,
+    35.42967
+],
+  "geometry": {"coordinates":[-0.24534,35.42967],"type":"Point"}
+}

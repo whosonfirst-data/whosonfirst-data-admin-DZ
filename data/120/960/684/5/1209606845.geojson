@@ -1,0 +1,65 @@
+{
+  "id": 1209606845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.47424,36.03274,0.47424,36.03274",
+    "geom:latitude":36.03274,
+    "geom:longitude":0.47424,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouled Sidi Fares",
+    "gn:country_code":"DZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484792,
+    "gn:latitude":36.03274,
+    "gn:longitude":0.47424,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Sidi F\u00e1r\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ouled Sidi Far\u00e8s",
+        "Ouled Sidi F\u00e1r\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484792
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d95ea8977c81fc3173dcdb4abcc697df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209606845
+        }
+    ],
+    "wof:id":1209606845,
+    "wof:lastmodified":1537620122,
+    "wof:name":"Ouled Sidi Fares",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.47424,
+    36.03274,
+    0.47424,
+    36.03274
+],
+  "geometry": {"coordinates":[0.47424,36.03274],"type":"Point"}
+}

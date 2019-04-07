@@ -1,0 +1,69 @@
+{
+  "id": 1276277631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4312,35.96249,7.4312,35.96249",
+    "geom:latitude":35.96249,
+    "geom:longitude":7.4312,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat Maklouf",
+    "gn:country_code":"DZ",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488998,
+    "gn:latitude":35.96249,
+    "gn:longitude":7.4312,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Maklouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Makhlouf",
+        "Mechtat Maklouf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488998
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"817fd585053675d0cadb642e119c8258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276277631,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1276277631,
+    "wof:lastmodified":1537620147,
+    "wof:name":"Mechtat Maklouf",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4312,
+    35.96249,
+    7.4312,
+    35.96249
+],
+  "geometry": {"coordinates":[7.4312,35.96249],"type":"Point"}
+}

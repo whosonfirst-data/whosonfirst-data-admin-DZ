@@ -1,0 +1,65 @@
+{
+  "id": 1226477279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.01583,36.56083,2.01583,36.56083",
+    "geom:latitude":36.56083,
+    "geom:longitude":2.01583,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Messlmoun",
+    "gn:country_code":"DZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592667,
+    "gn:latitude":36.56083,
+    "gn:longitude":2.01583,
+    "gn:modification_date":"1999-05-12",
+    "gn:name":"Messlmo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592667
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e7ba881595f4e24f15a91bd47b11483d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226477279,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1226477279,
+    "wof:lastmodified":1537093464,
+    "wof:name":"Messlmoun",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.01583,
+    36.56083,
+    2.01583,
+    36.56083
+],
+  "geometry": {"coordinates":[2.01583,36.56083],"type":"Point"}
+}

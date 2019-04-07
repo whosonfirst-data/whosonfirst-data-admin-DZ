@@ -1,0 +1,65 @@
+{
+  "id": 1343793493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8779,36.54417,1.8779,36.54417",
+    "geom:latitude":36.54417,
+    "geom:longitude":1.8779,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Douar Sadouna",
+    "gn:country_code":"DZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572974,
+    "gn:latitude":36.54417,
+    "gn:longitude":1.8779,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Douar Sadouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572974
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e0595774417f11e3aa44c1749a09b8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343793493,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1343793493,
+    "wof:lastmodified":1536763663,
+    "wof:name":"Douar Sadouna",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8779,
+    36.54417,
+    1.8779,
+    36.54417
+],
+  "geometry": {"coordinates":[1.8779,36.54417],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310637153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.02339,36.17912,5.02339,36.17912",
+    "geom:latitude":36.17912,
+    "geom:longitude":5.02339,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khelil",
+    "gn:country_code":"DZ",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491948,
+    "gn:latitude":36.17912,
+    "gn:longitude":5.02339,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khelil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0640\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Davoust",
+        "Krelil",
+        "Davout",
+        "Khelil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491948,
+        "wk:page":"Khelil%2C_Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b35379e83b7dab1a6d9d69ad1e718d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310637153,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1310637153,
+    "wof:lastmodified":1537620178,
+    "wof:name":"Khelil",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.02339,
+    36.17912000000001,
+    5.02339,
+    36.17912000000001
+],
+  "geometry": {"coordinates":[5.02339,36.17912000000001],"type":"Point"}
+}

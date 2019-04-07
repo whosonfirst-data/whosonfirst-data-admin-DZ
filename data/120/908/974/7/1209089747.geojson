@@ -1,0 +1,61 @@
+{
+  "id": 1209089747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.91798,36.58015,3.91798,36.58015",
+    "geom:latitude":36.58015,
+    "geom:longitude":3.91798,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zemouchene",
+    "gn:country_code":"DZ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474628,
+    "gn:latitude":36.58015,
+    "gn:longitude":3.91798,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Zemouchene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474628
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3f7dae217f837a5140490d42c9b434e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209089747
+        }
+    ],
+    "wof:id":1209089747,
+    "wof:lastmodified":1536298072,
+    "wof:name":"Zemouchene",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.917980000000001,
+    36.58015,
+    3.917980000000001,
+    36.58015
+],
+  "geometry": {"coordinates":[3.91798,36.58015],"type":"Point"}
+}

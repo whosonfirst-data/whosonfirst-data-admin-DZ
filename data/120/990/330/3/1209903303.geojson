@@ -1,0 +1,70 @@
+{
+  "id": 1209903303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25612,35.74317,5.25612,35.74317",
+    "geom:latitude":35.74317,
+    "geom:longitude":5.25612,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta Arras",
+    "gn:country_code":"DZ",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489768,
+    "gn:latitude":35.74317,
+    "gn:longitude":5.25612,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Arras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arrhas",
+        "Arras",
+        "Mechta Arras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489768
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"341ec72ca05ff144245e5e49e33abf94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209903303,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1209903303,
+    "wof:lastmodified":1537620169,
+    "wof:name":"Mechta Arras",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25612,
+    35.74317,
+    5.25612,
+    35.74317
+],
+  "geometry": {"coordinates":[5.25612,35.74317],"type":"Point"}
+}

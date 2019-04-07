@@ -1,0 +1,65 @@
+{
+  "id": 1360225671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.27042,27.82814,-0.27042,27.82814",
+    "geom:latitude":27.82814,
+    "geom:longitude":-0.27042,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Beni Tamer",
+    "gn:country_code":"DZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504555,
+    "gn:latitude":27.82814,
+    "gn:longitude":-0.27042,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Beni Tamer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504555
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"79cebf046f3aa99ee2be59e837be9ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360225671,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1360225671,
+    "wof:lastmodified":1536742554,
+    "wof:name":"Beni Tamer",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.27042,
+    27.82814,
+    -0.27042,
+    27.82814
+],
+  "geometry": {"coordinates":[-0.27042,27.82814],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226824343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.28006,34.93204,6.28006,34.93204",
+    "geom:latitude":34.93204,
+    "geom:longitude":6.28006,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ksar Ouled Youb",
+    "gn:country_code":"DZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491301,
+    "gn:latitude":34.93204,
+    "gn:longitude":6.28006,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ksar Ouled Youb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491301
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7176aa6fd78c1b5255a7a7c0a0bc0677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226824343,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1226824343,
+    "wof:lastmodified":1537095965,
+    "wof:name":"Ksar Ouled Youb",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28006,
+    34.93204,
+    6.28006,
+    34.93204
+],
+  "geometry": {"coordinates":[6.28006,34.93204],"type":"Point"}
+}

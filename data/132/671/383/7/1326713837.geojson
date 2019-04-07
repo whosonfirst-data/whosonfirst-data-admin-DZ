@@ -1,0 +1,69 @@
+{
+  "id": 1326713837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.30087,36.50799,4.30087,36.50799",
+    "geom:latitude":36.50799,
+    "geom:longitude":4.30087,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ait Mislain",
+    "gn:country_code":"DZ",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507722,
+    "gn:latitude":36.50799,
+    "gn:longitude":4.30087,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00eft Misla\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft Misla\u00efne",
+        "A\u00eft Misla\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507722
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c243fb80666142cfe0666d5aca15a2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326713837,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1326713837,
+    "wof:lastmodified":1537620251,
+    "wof:name":"Ait Mislain",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.30087,
+    36.50799,
+    4.30087,
+    36.50799
+],
+  "geometry": {"coordinates":[4.30087,36.50799],"type":"Point"}
+}

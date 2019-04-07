@@ -1,0 +1,70 @@
+{
+  "id": 1209751867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9867,36.12129,5.9867,36.12129",
+    "geom:latitude":36.12129,
+    "geom:longitude":5.9867,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Tadjenanet",
+    "gn:country_code":"DZ",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478876,
+    "gn:latitude":36.12129,
+    "gn:longitude":5.9867,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tadjenanet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Donat",
+        "Tadjenanet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478876,
+        "wk:page":"Tadjenanet"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9bba0b74cbd68709faa185753e174f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209751867,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1209751867,
+    "wof:lastmodified":1537620106,
+    "wof:name":"Tadjenanet",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9867,
+    36.12129,
+    5.9867,
+    36.12129
+],
+  "geometry": {"coordinates":[5.9867,36.12129],"type":"Point"}
+}

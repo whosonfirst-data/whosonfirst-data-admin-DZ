@@ -1,0 +1,66 @@
+{
+  "id": 1343698199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91684,36.40356,0.91684,36.40356",
+    "geom:latitude":36.40356,
+    "geom:longitude":0.91684,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"El Marsa",
+    "gn:country_code":"DZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497699,
+    "gn:latitude":36.40356,
+    "gn:longitude":0.91684,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"El Marsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497699,
+        "wk:page":"El_Marsa%2C_Chlef"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ff9a359aeb99c8f908413b78f2446a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343698199,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1343698199,
+    "wof:lastmodified":1537504292,
+    "wof:name":"El Marsa",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91684,
+    36.40356,
+    0.91684,
+    36.40356
+],
+  "geometry": {"coordinates":[0.91684,36.40356],"type":"Point"}
+}

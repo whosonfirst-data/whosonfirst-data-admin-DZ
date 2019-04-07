@@ -1,0 +1,106 @@
+{
+  "id": 890434659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.01577,35.52439,-1.01577,35.52439",
+    "geom:latitude":35.52439,
+    "geom:longitude":-1.01577,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":26407,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "El Amria"
+    ],
+    "name:eng_x_preferred":[
+        "El Amria"
+    ],
+    "name:fre_x_preferred":[
+        "El Amria"
+    ],
+    "name:ita_x_preferred":[
+        "El Amria"
+    ],
+    "name:kab_x_preferred":[
+        "L\u025bemreyya"
+    ],
+    "name:may_x_preferred":[
+        "El Amria"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0627\u0645\u0631\u06cc\u0647"
+    ],
+    "name:por_x_preferred":[
+        "El Amria"
+    ],
+    "name:rum_x_preferred":[
+        "El Amria"
+    ],
+    "name:swe_x_preferred":[
+        "El Amria"
+    ],
+    "name:unk_x_variant":[
+        "Lourmel"
+    ],
+    "name:vie_x_preferred":[
+        "El Amria"
+    ],
+    "qs:name":"El Amria",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498704,
+        "gp:id":1254378,
+        "qs:id":140207,
+        "wd:id":"Q1657351",
+        "wk:page":"El Amria"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052035,
+    "wof:geomhash":"76d91fc4c32aa55b2ce3df2696567ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890434659,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":890434659,
+    "wof:lastmodified":1553816396,
+    "wof:name":"El Amria",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:population":26407,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.01577,
+    35.52439,
+    -1.01577,
+    35.52439
+],
+  "geometry": {"coordinates":[-1.01577,35.52439],"type":"Point"}
+}

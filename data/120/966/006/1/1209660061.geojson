@@ -1,0 +1,61 @@
+{
+  "id": 1209660061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.74474,36.32699,1.74474,36.32699",
+    "geom:latitude":36.32699,
+    "geom:longitude":1.74474,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tamzrit",
+    "gn:country_code":"DZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573202,
+    "gn:latitude":36.32699,
+    "gn:longitude":1.74474,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Tamzrit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573202
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"402c1903a262752f8d313dea68fa0077",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209660061
+        }
+    ],
+    "wof:id":1209660061,
+    "wof:lastmodified":1536280290,
+    "wof:name":"Tamzrit",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.7447400000000002,
+    36.32699,
+    1.7447400000000002,
+    36.32699
+],
+  "geometry": {"coordinates":[1.74474,36.32699],"type":"Point"}
+}

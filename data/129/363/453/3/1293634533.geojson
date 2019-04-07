@@ -1,0 +1,65 @@
+{
+  "id": 1293634533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.30479,29.43178,0.30479,29.43178",
+    "geom:latitude":29.43178,
+    "geom:longitude":0.30479,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tiliouine",
+    "gn:country_code":"DZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476521,
+    "gn:latitude":29.43178,
+    "gn:longitude":0.30479,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tiliouine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476521
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a7ac8a19d02fd2a57eab00b3bedf1dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293634533,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1293634533,
+    "wof:lastmodified":1537069300,
+    "wof:name":"Tiliouine",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.30479,
+    29.43178,
+    0.30479,
+    29.43178
+],
+  "geometry": {"coordinates":[0.30479,29.43178],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1225899715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25865,32.93867,3.25865,32.93867",
+    "geom:latitude":32.93867,
+    "geom:longitude":3.25865,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Hassi R'mel",
+    "gn:country_code":"DZ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2494021,
+    "gn:latitude":32.93867,
+    "gn:longitude":3.25865,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Hassi R\u2019mel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0633\u064a \u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Hassi R\u2019mel"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0633\u06cc \u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Hassi R'Mel"
+    ],
+    "name:und_x_variant":[
+        "Hassi R\u2019mel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494021,
+        "wk:page":"Hassi_R%27Mel"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8b894951505cdc21bbb09a90a0c1a2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225899715,
+            "region_id":85670753
+        }
+    ],
+    "wof:id":1225899715,
+    "wof:lastmodified":1537620184,
+    "wof:name":"Hassi R'mel",
+    "wof:parent_id":85670753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25865,
+    32.93867,
+    3.25865,
+    32.93867
+],
+  "geometry": {"coordinates":[3.25865,32.93867],"type":"Point"}
+}

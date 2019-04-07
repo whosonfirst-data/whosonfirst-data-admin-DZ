@@ -1,0 +1,68 @@
+{
+  "id": 1293680855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.12007,35.97185,0.12007,35.97185",
+    "geom:latitude":35.97185,
+    "geom:longitude":0.12007,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar el Hachem",
+    "gn:country_code":"DZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2581185,
+    "gn:latitude":35.97185,
+    "gn:longitude":0.12007,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Hachem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hachem Fouaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581185
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dcd2ffbaf846a3b108a759ae7d38a8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293680855,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1293680855,
+    "wof:lastmodified":1537620274,
+    "wof:name":"Douar el Hachem",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.12007,
+    35.97185,
+    0.12007,
+    35.97185
+],
+  "geometry": {"coordinates":[0.12007,35.97185],"type":"Point"}
+}

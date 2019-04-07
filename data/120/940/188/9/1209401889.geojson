@@ -1,0 +1,65 @@
+{
+  "id": 1209401889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83253,36.1077,5.83253,36.1077",
+    "geom:latitude":36.1077,
+    "geom:longitude":5.83253,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta Mekhalfa",
+    "gn:country_code":"DZ",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489446,
+    "gn:latitude":36.1077,
+    "gn:longitude":5.83253,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Mekhalfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Mekralfa",
+        "Mechta Mekhalfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489446
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cc73aa78333d690116634dfba1b57a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209401889
+        }
+    ],
+    "wof:id":1209401889,
+    "wof:lastmodified":1537620160,
+    "wof:name":"Mechta Mekhalfa",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83253,
+    36.1077,
+    5.83253,
+    36.1077
+],
+  "geometry": {"coordinates":[5.83253,36.1077],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890436567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.5295795,35.771647,-0.5295795,35.771647",
+    "geom:latitude":35.771647,
+    "geom:longitude":-0.529579,
+    "gn:country":"DZ",
+    "gp:adm0":23424740,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "qs:name":"Oran U. S. T. O",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000653,
+        "qs:id":966400
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052116,
+    "wof:geomhash":"a3e45c06d76a572d5503831b52be6a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890436567,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":890436567,
+    "wof:lastmodified":1469052116,
+    "wof:name":"Oran U. S. T. O",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5295795,
+    35.771647,
+    -0.5295795,
+    35.771647
+],
+  "geometry": {"coordinates":[-0.5295795,35.771647],"type":"Point"}
+}

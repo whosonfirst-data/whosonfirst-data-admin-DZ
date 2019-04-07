@@ -1,0 +1,65 @@
+{
+  "id": 1293366819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06837,35.19147,1.06837,35.19147",
+    "geom:latitude":35.19147,
+    "geom:longitude":1.06837,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Metameur",
+    "gn:country_code":"DZ",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7491636,
+    "gn:latitude":35.19147,
+    "gn:longitude":1.06837,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Metameur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7491636
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"23008351e4522a840433fe0328094892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293366819,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1293366819,
+    "wof:lastmodified":1536960975,
+    "wof:name":"Metameur",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06837,
+    35.19147,
+    1.06837,
+    35.19147
+],
+  "geometry": {"coordinates":[1.06837,35.19147],"type":"Point"}
+}

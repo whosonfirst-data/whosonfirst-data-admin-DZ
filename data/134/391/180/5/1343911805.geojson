@@ -1,0 +1,66 @@
+{
+  "id": 1343911805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.04042,26.96548,-0.04042,26.96548",
+    "geom:latitude":26.96548,
+    "geom:longitude":-0.04042,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Sali",
+    "gn:country_code":"DZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482428,
+    "gn:latitude":26.96548,
+    "gn:longitude":-0.04042,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482428,
+        "wk:page":"Sali%2C_Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8313d01ac424a5fa41427deb936d2fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343911805,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1343911805,
+    "wof:lastmodified":1537504271,
+    "wof:name":"Sali",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.04042,
+    26.96548,
+    -0.04042,
+    26.96548
+],
+  "geometry": {"coordinates":[-0.04042,26.96548],"type":"Point"}
+}

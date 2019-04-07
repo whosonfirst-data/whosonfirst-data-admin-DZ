@@ -1,0 +1,65 @@
+{
+  "id": 1276731267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.44051,35.45285,3.44051,35.45285",
+    "geom:latitude":35.45285,
+    "geom:longitude":3.44051,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gueseria",
+    "gn:country_code":"DZ",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7383968,
+    "gn:latitude":35.45285,
+    "gn:longitude":3.44051,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Gueseria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7383968
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4b7243ce2fbeeb6a08896f8b2d1624ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276731267,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1276731267,
+    "wof:lastmodified":1536742506,
+    "wof:name":"Gueseria",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.44051,
+    35.45285,
+    3.44051,
+    35.45285
+],
+  "geometry": {"coordinates":[3.44051,35.45285],"type":"Point"}
+}

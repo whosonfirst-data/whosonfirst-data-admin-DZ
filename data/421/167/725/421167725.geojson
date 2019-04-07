@@ -1,0 +1,146 @@
+{
+  "id": 421167725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2125,36.71333,3.2125,36.71333",
+    "geom:latitude":36.71333,
+    "geom:longitude":3.2125,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:cat_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:ceb_x_preferred":[
+        "Dar el Be\u00efda"
+    ],
+    "name:chi_x_preferred":[
+        "\u9054\u723e\u8c9d\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:eng_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:fra_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:fre_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:ita_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:kab_x_preferred":[
+        "Ddar Lbi\u1e0da"
+    ],
+    "name:may_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:msa_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:nan_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:oci_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:por_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:ron_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:rum_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440-\u044d\u043b\u044c-\u0411\u0435\u0439\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dar El Be\u00efda"
+    ],
+    "name:swe_x_preferred":[
+        "Dar el Be\u00efda"
+    ],
+    "name:unk_x_variant":[
+        "Maison Blanche"
+    ],
+    "name:vie_x_preferred":[
+        "Dar El Beida"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2500889,
+    "qs:gn_pop":37311,
+    "qs:name":"Dar el Beida",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":140228,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253894,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500889,
+        "gp:id":1253894,
+        "qs:id":140228,
+        "wd:id":"Q59419",
+        "wk:page":"Dar El Be\u00efda"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008741,
+    "wof:geomhash":"f0f9fafd2c737b5cec3ba7a2c195f60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421167725,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":421167725,
+    "wof:lastmodified":1527716156,
+    "wof:name":"Dar el Beida",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:population":37311,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2125,
+    36.71333,
+    3.2125,
+    36.71333
+],
+  "geometry": {"coordinates":[3.2125,36.71333],"type":"Point"}
+}

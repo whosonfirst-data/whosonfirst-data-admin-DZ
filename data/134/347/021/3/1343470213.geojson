@@ -1,0 +1,65 @@
+{
+  "id": 1343470213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68412,35.69854,5.68412,35.69854",
+    "geom:latitude":35.69854,
+    "geom:longitude":5.68412,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Ouled Gueboudj",
+    "gn:country_code":"DZ",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489333,
+    "gn:latitude":35.69854,
+    "gn:longitude":5.68412,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Ouled Gueboudj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489333
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f9b69ef91a56f397a46cade4f05b6fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343470213,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1343470213,
+    "wof:lastmodified":1536732253,
+    "wof:name":"Mechta Ouled Gueboudj",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68412,
+    35.69854,
+    5.68412,
+    35.69854
+],
+  "geometry": {"coordinates":[5.68412,35.69854],"type":"Point"}
+}

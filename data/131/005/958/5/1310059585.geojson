@@ -1,0 +1,69 @@
+{
+  "id": 1310059585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75382,29.78992,0.75382,29.78992",
+    "geom:latitude":29.78992,
+    "geom:longitude":0.75382,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tabelkoza",
+    "gn:country_code":"DZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479001,
+    "gn:latitude":29.78992,
+    "gn:longitude":0.75382,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tabelkoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabelkosa",
+        "Tabelkoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479001
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0a0feb4be513eb58c4499f95ebcfcbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310059585,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1310059585,
+    "wof:lastmodified":1537620107,
+    "wof:name":"Tabelkoza",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75382,
+    29.78992,
+    0.75382,
+    29.78992
+],
+  "geometry": {"coordinates":[0.75382,29.78992],"type":"Point"}
+}

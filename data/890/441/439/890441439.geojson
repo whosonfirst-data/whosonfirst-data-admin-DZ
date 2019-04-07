@@ -1,0 +1,112 @@
+{
+  "id": 890441439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.09238,35.39138,-1.09238,35.39138",
+    "geom:latitude":35.39138,
+    "geom:longitude":-1.09238,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":19415,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u0644\u062d"
+    ],
+    "name:baq_x_preferred":[
+        "El Malah"
+    ],
+    "name:cat_x_preferred":[
+        "El Malah"
+    ],
+    "name:dut_x_preferred":[
+        "El Malah"
+    ],
+    "name:eng_x_preferred":[
+        "El Malah"
+    ],
+    "name:fre_x_preferred":[
+        "El Malah"
+    ],
+    "name:ita_x_preferred":[
+        "El Malah"
+    ],
+    "name:kab_x_preferred":[
+        "Lmale\u1e25"
+    ],
+    "name:may_x_preferred":[
+        "El Malah"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u062d"
+    ],
+    "name:por_x_preferred":[
+        "El Malah"
+    ],
+    "name:rum_x_preferred":[
+        "El Malah"
+    ],
+    "name:swe_x_preferred":[
+        "El Malah"
+    ],
+    "name:unk_x_variant":[
+        "Rio Salado"
+    ],
+    "name:vie_x_preferred":[
+        "El Malah"
+    ],
+    "qs:name":"El Malah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497714,
+        "gp:id":1252868,
+        "qs:id":278716,
+        "wd:id":"Q1649298",
+        "wk:page":"El Malah"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052323,
+    "wof:geomhash":"0a02622d01eacec7e49969a47db01a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890441439,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":890441439,
+    "wof:lastmodified":1553816399,
+    "wof:name":"El Malah",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:population":19415,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.09238,
+    35.39138,
+    -1.09238,
+    35.39138
+],
+  "geometry": {"coordinates":[-1.09238,35.39138],"type":"Point"}
+}

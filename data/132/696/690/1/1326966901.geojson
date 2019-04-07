@@ -1,0 +1,69 @@
+{
+  "id": 1326966901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23765,36.77972,7.23765,36.77972",
+    "geom:latitude":36.77972,
+    "geom:longitude":7.23765,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"El Hamma Dakhelania",
+    "gn:country_code":"DZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498114,
+    "gn:latitude":36.77972,
+    "gn:longitude":7.23765,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Hamma Dakhelania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Hamma Dakrelania",
+        "El Hamma Dakhelania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498114
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8bbf93655e7c783f2628a2654e8b4b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326966901,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1326966901,
+    "wof:lastmodified":1537620200,
+    "wof:name":"El Hamma Dakhelania",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23765,
+    36.77972000000001,
+    7.23765,
+    36.77972000000001
+],
+  "geometry": {"coordinates":[7.23765,36.77972000000001],"type":"Point"}
+}

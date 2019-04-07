@@ -1,0 +1,69 @@
+{
+  "id": 1225819479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.876,36.18266,3.876,36.18266",
+    "geom:latitude":36.18266,
+    "geom:longitude":3.876,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mechta Bou Kharsoum",
+    "gn:country_code":"DZ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489681,
+    "gn:latitude":36.18266,
+    "gn:longitude":3.876,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Bou Kharsoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Bou Kharsoum",
+        "Mechta Bou Kharsoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489681
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"af202078b1c96f5f5d835d987c8a4c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225819479,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1225819479,
+    "wof:lastmodified":1537620167,
+    "wof:name":"Mechta Bou Kharsoum",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.876,
+    36.18266,
+    3.876,
+    36.18266
+],
+  "geometry": {"coordinates":[3.876,36.18266],"type":"Point"}
+}

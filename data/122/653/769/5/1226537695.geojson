@@ -1,0 +1,66 @@
+{
+  "id": 1226537695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33165,36.0675,3.33165,36.0675",
+    "geom:latitude":36.0675,
+    "geom:longitude":3.33165,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidi Zahar",
+    "gn:country_code":"DZ",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280691,
+    "gn:latitude":36.0675,
+    "gn:longitude":3.33165,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Sidi Zahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280691,
+        "wk:page":"Sidi_Zahar"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7b335764a1f795b99fda79ab7080a98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226537695,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226537695,
+    "wof:lastmodified":1537504314,
+    "wof:name":"Sidi Zahar",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33165,
+    36.0675,
+    3.33165,
+    36.0675
+],
+  "geometry": {"coordinates":[3.33165,36.0675],"type":"Point"}
+}

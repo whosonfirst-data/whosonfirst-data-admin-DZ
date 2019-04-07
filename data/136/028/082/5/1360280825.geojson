@@ -1,0 +1,65 @@
+{
+  "id": 1360280825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.51361,35.98583,3.51361,35.98583",
+    "geom:latitude":35.98583,
+    "geom:longitude":3.51361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Djaffal",
+    "gn:country_code":"DZ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2583170,
+    "gn:latitude":35.98583,
+    "gn:longitude":3.51361,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Oulad Djaffal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2583170
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"772b513928fae1d3adbe4f0aa6305d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360280825,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1360280825,
+    "wof:lastmodified":1536663314,
+    "wof:name":"Oulad Djaffal",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.51361,
+    35.98583,
+    3.51361,
+    35.98583
+],
+  "geometry": {"coordinates":[3.51361,35.98583],"type":"Point"}
+}

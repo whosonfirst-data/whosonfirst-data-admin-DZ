@@ -1,0 +1,65 @@
+{
+  "id": 1310439451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1791,36.55026,2.1791,36.55026",
+    "geom:latitude":36.55026,
+    "geom:longitude":2.1791,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Lari Larhat",
+    "gn:country_code":"DZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491018,
+    "gn:latitude":36.55026,
+    "gn:longitude":2.1791,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Lari Larhat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491018
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"814554ffdc65e346020c07efee23ac40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310439451,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1310439451,
+    "wof:lastmodified":1537011612,
+    "wof:name":"Lari Larhat",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1791,
+    36.55026,
+    2.1791,
+    36.55026
+],
+  "geometry": {"coordinates":[2.1791,36.55026],"type":"Point"}
+}

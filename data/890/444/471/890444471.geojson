@@ -1,0 +1,103 @@
+{
+  "id": 890444471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98785,34.387,4.98785,34.387",
+    "geom:latitude":34.387,
+    "geom:longitude":4.98785,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":64476,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062e\u0627\u0644\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:may_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u062e\u0627\u0644\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:unk_x_variant":[
+        "Sidi Kraled"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "qs:name":"Sidi Khaled",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480368,
+        "gp:id":1253465,
+        "qs:id":1035930,
+        "wd:id":"Q2215511",
+        "wk:page":"Sidi Khaled"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052470,
+    "wof:geomhash":"fb2639b674dd88da4cefb4b5e911a6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890444471,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":890444471,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Sidi Khaled",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:population":64476,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98785,
+    34.387,
+    4.98785,
+    34.387
+],
+  "geometry": {"coordinates":[4.98785,34.387],"type":"Point"}
+}

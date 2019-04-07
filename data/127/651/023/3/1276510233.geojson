@@ -1,0 +1,65 @@
+{
+  "id": 1276510233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63387,36.4759,4.63387,36.4759",
+    "geom:latitude":36.4759,
+    "geom:longitude":4.63387,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Akourma",
+    "gn:country_code":"DZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507566,
+    "gn:latitude":36.4759,
+    "gn:longitude":4.63387,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Akourma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507566
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"eef8509a511a81d3a3b2826bc5bcd141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276510233,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1276510233,
+    "wof:lastmodified":1537037552,
+    "wof:name":"Akourma",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63387,
+    36.4759,
+    4.63387,
+    36.4759
+],
+  "geometry": {"coordinates":[4.63387,36.4759],"type":"Point"}
+}

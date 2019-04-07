@@ -1,0 +1,65 @@
+{
+  "id": 1309763041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.03111,35.41311,0.03111,35.41311",
+    "geom:latitude":35.41311,
+    "geom:longitude":0.03111,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Lagagda",
+    "gn:country_code":"DZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392711,
+    "gn:latitude":35.41311,
+    "gn:longitude":0.03111,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Lagagda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392711
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"12e81094d042ea2ab2520234f6ae775e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309763041,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1309763041,
+    "wof:lastmodified":1536992051,
+    "wof:name":"Lagagda",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.03111,
+    35.41311,
+    0.03111,
+    35.41311
+],
+  "geometry": {"coordinates":[0.03111,35.41311],"type":"Point"}
+}

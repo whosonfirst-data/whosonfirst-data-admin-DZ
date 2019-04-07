@@ -1,0 +1,103 @@
+{
+  "id": 421192351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.88059,36.42912,2.88059,36.42912",
+    "geom:latitude":36.42912,
+    "geom:longitude":2.88059,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0639\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "name:fra_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "name:msa_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "name:por_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "name:ron_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u06cc\u0639\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Chrea"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2501190,
+    "qs:gn_pop":0,
+    "qs:name":"Chrea",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167955,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253853,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":197,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501190,
+        "gp:id":1253853,
+        "qs:id":1167955,
+        "wd:id":"Q959927",
+        "wk:page":"Chr\u00e9a"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009733,
+    "wof:geomhash":"635755b379864f65bab7f3c79e4e7f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421192351,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":421192351,
+    "wof:lastmodified":1527716113,
+    "wof:name":"Chrea",
+    "wof:parent_id":85670819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88059,
+    36.42912,
+    2.88059,
+    36.42912
+],
+  "geometry": {"coordinates":[2.88059,36.42912],"type":"Point"}
+}

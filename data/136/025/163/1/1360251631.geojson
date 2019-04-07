@@ -1,0 +1,69 @@
+{
+  "id": 1360251631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56358,35.95625,4.56358,35.95625",
+    "geom:latitude":35.95625,
+    "geom:longitude":4.56358,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Khoualfia",
+    "gn:country_code":"DZ",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491682,
+    "gn:latitude":35.95625,
+    "gn:longitude":4.56358,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khoualfia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kroualfia",
+        "Khoualfia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491682
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9550fdd855a35d1ce37f355cdc525b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360251631,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1360251631,
+    "wof:lastmodified":1537620178,
+    "wof:name":"Khoualfia",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56358,
+    35.95625,
+    4.56358,
+    35.95625
+],
+  "geometry": {"coordinates":[4.56358,35.95625],"type":"Point"}
+}

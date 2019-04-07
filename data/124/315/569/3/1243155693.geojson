@@ -1,0 +1,65 @@
+{
+  "id": 1243155693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37952,36.78183,4.37952,36.78183",
+    "geom:latitude":36.78183,
+    "geom:longitude":4.37952,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Henndou",
+    "gn:country_code":"DZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493897,
+    "gn:latitude":36.78183,
+    "gn:longitude":4.37952,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Henndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493897
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a1cab010e19134c9ed088e71cafe26bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243155693,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1243155693,
+    "wof:lastmodified":1536728141,
+    "wof:name":"Henndou",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37952,
+    36.78183,
+    4.37952,
+    36.78183
+],
+  "geometry": {"coordinates":[4.37952,36.78183],"type":"Point"}
+}

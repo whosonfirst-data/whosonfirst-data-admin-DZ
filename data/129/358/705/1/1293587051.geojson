@@ -1,0 +1,65 @@
+{
+  "id": 1293587051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.37205,36.1729,3.37205,36.1729",
+    "geom:latitude":36.1729,
+    "geom:longitude":3.37205,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Said",
+    "gn:country_code":"DZ",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540344,
+    "gn:latitude":36.1729,
+    "gn:longitude":3.37205,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ouled Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540344
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"90880e0011273358db66306dab698385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293587051,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293587051,
+    "wof:lastmodified":1536642858,
+    "wof:name":"Ouled Said",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.37205,
+    36.1729,
+    3.37205,
+    36.1729
+],
+  "geometry": {"coordinates":[3.37205,36.1729],"type":"Point"}
+}

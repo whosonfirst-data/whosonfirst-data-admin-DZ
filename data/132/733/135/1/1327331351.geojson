@@ -1,0 +1,76 @@
+{
+  "id": 1327331351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41588,35.93968,3.41588,35.93968",
+    "geom:latitude":35.93968,
+    "geom:longitude":3.41588,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chellalat el Adhaouara",
+    "gn:country_code":"DZ",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501525,
+    "gn:latitude":35.93968,
+    "gn:longitude":3.41588,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chellalat el Adhaouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maginot",
+        "A\u00efn Chellala",
+        "Challaba",
+        "A\u00efn Chellala des Adaouras",
+        "Chellalat El Adhouara",
+        "Chellala-des-Adaouras",
+        "Challalat El Adhaoura",
+        "Chellalat el Adhaouara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501525,
+        "wk:page":"Challalat_El_Adhaoura"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"210f092ccd2857f651792206d83623f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327331351,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1327331351,
+    "wof:lastmodified":1537620229,
+    "wof:name":"Chellalat el Adhaouara",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41588,
+    35.93968,
+    3.41588,
+    35.93968
+],
+  "geometry": {"coordinates":[3.41588,35.93968],"type":"Point"}
+}

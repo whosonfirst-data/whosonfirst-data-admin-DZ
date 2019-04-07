@@ -1,0 +1,65 @@
+{
+  "id": 1259972259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33265,36.41453,3.33265,36.41453",
+    "geom:latitude":36.41453,
+    "geom:longitude":3.33265,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mouchene",
+    "gn:country_code":"DZ",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487108,
+    "gn:latitude":36.41453,
+    "gn:longitude":3.33265,
+    "gn:modification_date":"1996-03-05",
+    "gn:name":"Mouchene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487108
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a91888e28246df4ec0766c63109cc17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259972259,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1259972259,
+    "wof:lastmodified":1536651142,
+    "wof:name":"Mouchene",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33265,
+    36.41453,
+    3.33265,
+    36.41453
+],
+  "geometry": {"coordinates":[3.33265,36.41453],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1292957239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.57212,35.42184,3.57212,35.42184",
+    "geom:latitude":35.42184,
+    "geom:longitude":3.57212,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ain Feka",
+    "gn:country_code":"DZ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508096,
+    "gn:latitude":35.42184,
+    "gn:longitude":3.57212,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn Feka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Feka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508096,
+        "wk:page":"A%C3%AFn_Feka"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b3685f632db8f965921163189063e712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292957239,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1292957239,
+    "wof:lastmodified":1537620257,
+    "wof:name":"Ain Feka",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.57212,
+    35.42184,
+    3.57212,
+    35.42184
+],
+  "geometry": {"coordinates":[3.57212,35.42184],"type":"Point"}
+}

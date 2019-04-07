@@ -1,0 +1,65 @@
+{
+  "id": 1226378675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86667,36.53333,1.86667,36.53333",
+    "geom:latitude":36.53333,
+    "geom:longitude":1.86667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bou Aziza",
+    "gn:country_code":"DZ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503433,
+    "gn:latitude":36.53333,
+    "gn:longitude":1.86667,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bou Aziza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503433
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"85a7a0cf98b2d889124a5b3fc5b8a755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226378675,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1226378675,
+    "wof:lastmodified":1536741821,
+    "wof:name":"Bou Aziza",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86667,
+    36.53333,
+    1.86667,
+    36.53333
+],
+  "geometry": {"coordinates":[1.86667,36.53333],"type":"Point"}
+}

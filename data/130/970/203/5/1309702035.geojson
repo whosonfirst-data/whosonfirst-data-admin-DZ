@@ -1,0 +1,70 @@
+{
+  "id": 1309702035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.25771,35.71922,-0.25771,35.71922",
+    "geom:latitude":35.71922,
+    "geom:longitude":-0.25771,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Douar er Rehamna",
+    "gn:country_code":"DZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499404,
+    "gn:latitude":35.71922,
+    "gn:longitude":-0.25771,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar er Rehamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Ramena",
+        "Douar er Ramena",
+        "Douar er Rehamna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499404
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c73a4212e63faf79c4cce202ed490253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309702035,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1309702035,
+    "wof:lastmodified":1537620216,
+    "wof:name":"Douar er Rehamna",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.25771,
+    35.71922,
+    -0.25771,
+    35.71922
+],
+  "geometry": {"coordinates":[-0.25771,35.71922],"type":"Point"}
+}

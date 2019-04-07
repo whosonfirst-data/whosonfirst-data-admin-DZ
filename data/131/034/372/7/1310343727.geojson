@@ -1,0 +1,65 @@
+{
+  "id": 1310343727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.09551,36.80516,4.09551,36.80516",
+    "geom:latitude":36.80516,
+    "geom:longitude":4.09551,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Mahdene",
+    "gn:country_code":"DZ",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490483,
+    "gn:latitude":36.80516,
+    "gn:longitude":4.09551,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mahdene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490483
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1e2b982df36cc516cc7e4640a53fd7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310343727,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1310343727,
+    "wof:lastmodified":1536652718,
+    "wof:name":"Mahdene",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.09551,
+    36.80516,
+    4.09551,
+    36.80516
+],
+  "geometry": {"coordinates":[4.09551,36.80516],"type":"Point"}
+}

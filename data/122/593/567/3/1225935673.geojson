@@ -1,0 +1,72 @@
+{
+  "id": 1225935673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29676,35.99825,0.29676,35.99825",
+    "geom:latitude":35.99825,
+    "geom:longitude":0.29676,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ain Tedeles",
+    "gn:country_code":"DZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507907,
+    "gn:latitude":35.99825,
+    "gn:longitude":0.29676,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn Tedeles",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Tedles",
+        "A\u00efne Tedel\u00e8s",
+        "A\u00efn Tedeles",
+        "A\u00efn Tadles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507907,
+        "wk:page":"A%C3%AFn_Tedles"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9bb11fda240b799f5cc25169df4130d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225935673,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1225935673,
+    "wof:lastmodified":1537620253,
+    "wof:name":"Ain Tedeles",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29676,
+    35.99825,
+    0.29676,
+    35.99825
+],
+  "geometry": {"coordinates":[0.29676,35.99825],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1192985245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.88219,35.82674,3.88219,35.82674",
+    "geom:latitude":35.82674,
+    "geom:longitude":3.88219,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechta Lakakla",
+    "gn:country_code":"DZ",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489484,
+    "gn:latitude":35.82674,
+    "gn:longitude":3.88219,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Lakakla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489484
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5bd83fa19a511053f6d794b16bf96682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192985245,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1192985245,
+    "wof:lastmodified":1536364773,
+    "wof:name":"Mechta Lakakla",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.88219,
+    35.82674,
+    3.88219,
+    35.82674
+],
+  "geometry": {"coordinates":[3.88219,35.82674],"type":"Point"}
+}

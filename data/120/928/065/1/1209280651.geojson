@@ -1,0 +1,65 @@
+{
+  "id": 1209280651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25302,36.43816,5.25302,36.43816",
+    "geom:latitude":36.43816,
+    "geom:longitude":5.25302,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mechta Ziane",
+    "gn:country_code":"DZ",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488943,
+    "gn:latitude":36.43816,
+    "gn:longitude":5.25302,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Ziane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Ziane",
+        "Mechta Ziane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488943
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ef828f57ab9ca993c906ad1e4390ec4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209280651
+        }
+    ],
+    "wof:id":1209280651,
+    "wof:lastmodified":1537620145,
+    "wof:name":"Mechta Ziane",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25302,
+    36.43816,
+    5.25302,
+    36.43816
+],
+  "geometry": {"coordinates":[5.25302,36.43816],"type":"Point"}
+}

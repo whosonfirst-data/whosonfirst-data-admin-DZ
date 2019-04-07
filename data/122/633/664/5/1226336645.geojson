@@ -1,0 +1,65 @@
+{
+  "id": 1226336645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33778,35.78333,0.33778,35.78333",
+    "geom:latitude":35.78333,
+    "geom:longitude":0.33778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar el Aouadj",
+    "gn:country_code":"DZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578674,
+    "gn:latitude":35.78333,
+    "gn:longitude":0.33778,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Aouadj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578674
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aa29147812b267ab727a9d3f9af3405e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226336645,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1226336645,
+    "wof:lastmodified":1536802603,
+    "wof:name":"Douar el Aouadj",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33778,
+    35.78333,
+    0.33778,
+    35.78333
+],
+  "geometry": {"coordinates":[0.33778,35.78333],"type":"Point"}
+}

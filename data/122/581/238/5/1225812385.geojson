@@ -1,0 +1,65 @@
+{
+  "id": 1225812385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.36551,35.02328,0.36551,35.02328",
+    "geom:latitude":35.02328,
+    "geom:longitude":0.36551,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ouled Benyahia",
+    "gn:country_code":"DZ",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2576656,
+    "gn:latitude":35.02328,
+    "gn:longitude":0.36551,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Benyahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2576656
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d4b0dfb4730516e9c56d1bbc6932935f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225812385,
+            "region_id":85670797
+        }
+    ],
+    "wof:id":1225812385,
+    "wof:lastmodified":1537059316,
+    "wof:name":"Douar Ouled Benyahia",
+    "wof:parent_id":85670797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.36551,
+    35.02328,
+    0.36551,
+    35.02328
+],
+  "geometry": {"coordinates":[0.36551,35.02328],"type":"Point"}
+}

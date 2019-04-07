@@ -1,0 +1,106 @@
+{
+  "id": 890435467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43362,35.06196,-1.43362,35.06196",
+    "geom:latitude":35.06196,
+    "geom:longitude":-1.43362,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":51224,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0634\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Remchi"
+    ],
+    "name:eng_x_preferred":[
+        "Remchi"
+    ],
+    "name:fre_x_preferred":[
+        "Remchi"
+    ],
+    "name:ita_x_preferred":[
+        "Remchi"
+    ],
+    "name:kab_x_preferred":[
+        "Remci"
+    ],
+    "name:may_x_preferred":[
+        "Remchi"
+    ],
+    "name:pol_x_preferred":[
+        "Ar-Ramszi"
+    ],
+    "name:por_x_preferred":[
+        "Remchi"
+    ],
+    "name:rum_x_preferred":[
+        "Remchi"
+    ],
+    "name:swe_x_preferred":[
+        "Remchi"
+    ],
+    "name:unk_x_variant":[
+        "Montagnac"
+    ],
+    "name:vie_x_preferred":[
+        "Remchi"
+    ],
+    "qs:name":"Remchi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483649,
+        "gp:id":1257119,
+        "qs:id":1035951,
+        "wd:id":"Q3424477",
+        "wk:page":"Remchi"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052068,
+    "wof:geomhash":"b90083df93b3ac93338da854d08664eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435467,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":890435467,
+    "wof:lastmodified":1527793051,
+    "wof:name":"Remchi",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:population":51224,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43362,
+    35.06196,
+    -1.43362,
+    35.06196
+],
+  "geometry": {"coordinates":[-1.43362,35.06196],"type":"Point"}
+}

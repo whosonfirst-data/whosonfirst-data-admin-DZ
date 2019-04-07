@@ -1,0 +1,71 @@
+{
+  "id": 1344208017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39389,35.61528,7.39389,35.61528",
+    "geom:latitude":35.61528,
+    "geom:longitude":7.39389,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat Safel Metirchou el Outani",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488969,
+    "gn:latitude":35.61528,
+    "gn:longitude":7.39389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Safel Metirchou el Outani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtet Safel Metirchou el Outani",
+        "Mechta Safel Metirchou el Outani",
+        "Mechtat Safel Metirchou el Outani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488969
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7d210f99824205f010620add9dc92d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344208017,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1344208017,
+    "wof:lastmodified":1537620146,
+    "wof:name":"Mechtat Safel Metirchou el Outani",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39389,
+    35.61528,
+    7.39389,
+    35.61528
+],
+  "geometry": {"coordinates":[7.39389,35.61528],"type":"Point"}
+}

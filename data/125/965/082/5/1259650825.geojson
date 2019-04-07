@@ -1,0 +1,65 @@
+{
+  "id": 1259650825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.22167,35.6975,0.22167,35.6975",
+    "geom:latitude":35.6975,
+    "geom:longitude":0.22167,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Touaidjia",
+    "gn:country_code":"DZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2580220,
+    "gn:latitude":35.6975,
+    "gn:longitude":0.22167,
+    "gn:modification_date":"1997-03-21",
+    "gn:name":"Douar Toua\u00efdjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580220
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e7e0becec511e664c1bbc297fa3fd95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259650825,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1259650825,
+    "wof:lastmodified":1536615435,
+    "wof:name":"Douar Touaidjia",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.22167,
+    35.6975,
+    0.22167,
+    35.6975
+],
+  "geometry": {"coordinates":[0.22167,35.6975],"type":"Point"}
+}

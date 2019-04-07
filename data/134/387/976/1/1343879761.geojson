@@ -1,0 +1,65 @@
+{
+  "id": 1343879761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31481,35.81812,0.31481,35.81812",
+    "geom:latitude":35.81812,
+    "geom:longitude":0.31481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sfissfa",
+    "gn:country_code":"DZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7411301,
+    "gn:latitude":35.81812,
+    "gn:longitude":0.31481,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sfissfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7411301
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"983c1c279a5a4b485d4dac87ed0fab19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343879761,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1343879761,
+    "wof:lastmodified":1536637711,
+    "wof:name":"Sfissfa",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31481,
+    35.81812,
+    0.31481,
+    35.81812
+],
+  "geometry": {"coordinates":[0.31481,35.81812],"type":"Point"}
+}

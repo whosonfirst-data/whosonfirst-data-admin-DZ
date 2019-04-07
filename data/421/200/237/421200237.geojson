@@ -1,0 +1,134 @@
+{
+  "id": 421200237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63639,36.4525,6.63639,36.4525",
+    "geom:latitude":36.4525,
+    "geom:longitude":6.63639,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u062f\u0648\u0634 \u0645\u0631\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:dut_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:eng_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:fra_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:fre_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:ita_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:kab_x_preferred":[
+        "Diduc Murad"
+    ],
+    "name:may_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:msa_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u06cc\u062f\u0648\u0634 \u0645\u0631\u0627\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:ron_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:rum_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:swe_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:unk_x_variant":[
+        "Bizot"
+    ],
+    "name:vie_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Didouche Mourad"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2500401,
+    "qs:gn_pop":25764,
+    "qs:name":"Didouche Mourad",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1296062,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253961,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500401,
+        "gp:id":1253961,
+        "qs:id":1296062,
+        "wd:id":"Q3027257",
+        "wk:page":"Didouche Mourad"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459010016,
+    "wof:geomhash":"f192d129514a9b58c0d6de592a84305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421200237,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":421200237,
+    "wof:lastmodified":1553816387,
+    "wof:name":"Didouche Mourad",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:population":25764,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63639,
+    36.4525,
+    6.63639,
+    36.4525
+],
+  "geometry": {"coordinates":[6.63639,36.4525],"type":"Point"}
+}

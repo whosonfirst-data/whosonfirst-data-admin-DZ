@@ -1,0 +1,70 @@
+{
+  "id": 1209792061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10882,34.91022,1.10882,34.91022",
+    "geom:latitude":34.91022,
+    "geom:longitude":1.10882,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"'Ain Kermes",
+    "gn:country_code":"DZ",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508049,
+    "gn:latitude":34.91022,
+    "gn:longitude":1.10882,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Kermes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Tahir",
+        "A\u00efne Kerm\u00e8s",
+        "\u2019A\u00efn Kermes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508049
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0c9dcf12f36aca38bd6f18e02e64433c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209792061,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1209792061,
+    "wof:lastmodified":1537620256,
+    "wof:name":"'Ain Kermes",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.10882,
+    34.91022,
+    1.10882,
+    34.91022
+],
+  "geometry": {"coordinates":[1.10882,34.91022],"type":"Point"}
+}

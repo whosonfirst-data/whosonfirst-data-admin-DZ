@@ -1,0 +1,65 @@
+{
+  "id": 1242858049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.58327,36.75237,4.58327,36.75237",
+    "geom:latitude":36.75237,
+    "geom:longitude":4.58327,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bou Saada",
+    "gn:country_code":"DZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502384,
+    "gn:latitude":36.75237,
+    "gn:longitude":4.58327,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou Saada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502384
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e3dbb6de50ca7521af62dca6c8e2d8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242858049,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1242858049,
+    "wof:lastmodified":1536659784,
+    "wof:name":"Bou Saada",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.58327,
+    36.75237,
+    4.58327,
+    36.75237
+],
+  "geometry": {"coordinates":[4.58327,36.75237],"type":"Point"}
+}

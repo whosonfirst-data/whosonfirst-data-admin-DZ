@@ -1,0 +1,71 @@
+{
+  "id": 1360220581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.67694,36.57278,2.67694,36.57278",
+    "geom:latitude":36.57278,
+    "geom:longitude":2.67694,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Attatba",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506098,
+    "gn:latitude":36.57278,
+    "gn:longitude":2.67694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Attatba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atatba",
+        "Attatba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506098,
+        "wk:page":"Attatba"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1c3f18c8699d57b3fdcf6cb647d355b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360220581,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1360220581,
+    "wof:lastmodified":1537620249,
+    "wof:name":"Attatba",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.67694,
+    36.57278,
+    2.67694,
+    36.57278
+],
+  "geometry": {"coordinates":[2.67694,36.57278],"type":"Point"}
+}

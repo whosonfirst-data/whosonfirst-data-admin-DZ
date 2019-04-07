@@ -1,0 +1,70 @@
+{
+  "id": 1193052585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89333,35.68528,0.89333,35.68528",
+    "geom:latitude":35.68528,
+    "geom:longitude":0.89333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Zebabidj el Khenaga",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579897,
+    "gn:latitude":35.68528,
+    "gn:longitude":0.89333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zebabidj el Khenaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zebabidj el Krenaga",
+        "Zebabidj el Khenaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579897
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ebd60a0d1039d523762569104744cba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193052585,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1193052585,
+    "wof:lastmodified":1537620269,
+    "wof:name":"Zebabidj el Khenaga",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89333,
+    35.68528,
+    0.89333,
+    35.68528
+],
+  "geometry": {"coordinates":[0.89333,35.68528],"type":"Point"}
+}

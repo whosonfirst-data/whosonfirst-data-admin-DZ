@@ -1,0 +1,65 @@
+{
+  "id": 1243507955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.50619,36.14923,2.50619,36.14923",
+    "geom:latitude":36.14923,
+    "geom:longitude":2.50619,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Krite",
+    "gn:country_code":"DZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7442566,
+    "gn:latitude":36.14923,
+    "gn:longitude":2.50619,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Krite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7442566
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b10263eb6f99ad9c56027e9b190a8542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243507955,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243507955,
+    "wof:lastmodified":1536717296,
+    "wof:name":"Krite",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.50619,
+    36.14923,
+    2.50619,
+    36.14923
+],
+  "geometry": {"coordinates":[2.50619,36.14923],"type":"Point"}
+}

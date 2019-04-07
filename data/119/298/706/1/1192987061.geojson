@@ -1,0 +1,65 @@
+{
+  "id": 1192987061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.22967,36.21889,7.22967,36.21889",
+    "geom:latitude":36.21889,
+    "geom:longitude":7.22967,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bordj Bou Rougaa",
+    "gn:country_code":"DZ",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503693,
+    "gn:latitude":36.21889,
+    "gn:longitude":7.22967,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bordj Bou Rougaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503693
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"39050bb7525c988dd787053e0f266f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192987061,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1192987061,
+    "wof:lastmodified":1536384708,
+    "wof:name":"Bordj Bou Rougaa",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.22967,
+    36.21889,
+    7.22967,
+    36.21889
+],
+  "geometry": {"coordinates":[7.22967,36.21889],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243409037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3875,35.41222,0.3875,35.41222",
+    "geom:latitude":35.41222,
+    "geom:longitude":0.3875,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Ahmed",
+    "gn:country_code":"DZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579176,
+    "gn:latitude":35.41222,
+    "gn:longitude":0.3875,
+    "gn:modification_date":"1997-03-19",
+    "gn:name":"Douar Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579176
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d9781d9089386c8125752bbd02dbe3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243409037,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1243409037,
+    "wof:lastmodified":1536858224,
+    "wof:name":"Douar Ahmed",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3875,
+    35.41222,
+    0.3875,
+    35.41222
+],
+  "geometry": {"coordinates":[0.3875,35.41222],"type":"Point"}
+}

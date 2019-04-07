@@ -1,0 +1,70 @@
+{
+  "id": 1276357659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.18681,35.72181,0.18681,35.72181",
+    "geom:latitude":35.72181,
+    "geom:longitude":0.18681,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Sidi Charef",
+    "gn:country_code":"DZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499231,
+    "gn:latitude":35.72181,
+    "gn:longitude":0.18681,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Sidi Charef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Cherif",
+        "Douar Sidi Cherif",
+        "Douar Sidi Charef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499231
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f5d4516586dd52eab220c32d14cc6e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276357659,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1276357659,
+    "wof:lastmodified":1537620207,
+    "wof:name":"Douar Sidi Charef",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.18681,
+    35.72181,
+    0.18681,
+    35.72181
+],
+  "geometry": {"coordinates":[0.18681,35.72181],"type":"Point"}
+}

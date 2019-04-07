@@ -1,0 +1,65 @@
+{
+  "id": 1243088751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.37778,36.14083,0.37778,36.14083",
+    "geom:latitude":36.14083,
+    "geom:longitude":0.37778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar H'dadcha",
+    "gn:country_code":"DZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573990,
+    "gn:latitude":36.14083,
+    "gn:longitude":0.37778,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar H\u2019dadcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573990
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1dc794ee0de339d1e41c53d933bb0489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243088751,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1243088751,
+    "wof:lastmodified":1536823297,
+    "wof:name":"Douar H'dadcha",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.37778,
+    36.14083,
+    0.37778,
+    36.14083
+],
+  "geometry": {"coordinates":[0.37778,36.14083],"type":"Point"}
+}

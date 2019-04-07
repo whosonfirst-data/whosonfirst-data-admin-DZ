@@ -1,0 +1,65 @@
+{
+  "id": 1343313267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.62023,36.61867,3.62023,36.61867",
+    "geom:latitude":36.61867,
+    "geom:longitude":3.62023,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Tala Madi",
+    "gn:country_code":"DZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478338,
+    "gn:latitude":36.61867,
+    "gn:longitude":3.62023,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tala Madi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478338
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e06122f42b859ad499cb37ad42d9696f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343313267,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1343313267,
+    "wof:lastmodified":1536958832,
+    "wof:name":"Tala Madi",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62023,
+    36.61867,
+    3.62023,
+    36.61867
+],
+  "geometry": {"coordinates":[3.62023,36.61867],"type":"Point"}
+}

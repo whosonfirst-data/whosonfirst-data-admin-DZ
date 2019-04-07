@@ -1,0 +1,113 @@
+{
+  "id": 1125914881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89833,34.74512,5.89833,34.74512",
+    "geom:latitude":34.74512,
+    "geom:longitude":5.89833,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":34985,
+    "gn:population":34985,
+    "iso:country":"DZ",
+    "lbl:latitude":34.74512,
+    "lbl:longitude":5.89833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u0642\u0628\u0629\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi \u0190uqba"
+    ],
+    "name:may_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0642\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Okba"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2479916,
+    "qs_pg:gn_pop":34985,
+    "qs_pg:name":"Sidi Okba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1035928,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479916,
+        "qs_pg:id":1035928,
+        "wd:id":"Q2215485"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497296284,
+    "wof:geomhash":"f565ff03a1b9ca362e9407dc64d44775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125914881,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1125914881,
+    "wof:lastmodified":1513956086,
+    "wof:name":"Sidi Okba",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:population":34985,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89833,
+    34.74512,
+    5.89833,
+    34.74512
+],
+  "geometry": {"coordinates":[5.89833,34.74512],"type":"Point"}
+}

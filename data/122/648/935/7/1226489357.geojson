@@ -1,0 +1,70 @@
+{
+  "id": 1226489357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.62214,35.60872,7.62214,35.60872",
+    "geom:latitude":35.60872,
+    "geom:longitude":7.62214,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Daas",
+    "gn:country_code":"DZ",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489626,
+    "gn:latitude":35.60872,
+    "gn:longitude":7.62214,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Daas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Daas",
+        "Mechta Dass",
+        "Mechta Daas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489626
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a61d9ec0208e02f5613eb6bceea553dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226489357,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1226489357,
+    "wof:lastmodified":1537620166,
+    "wof:name":"Mechta Daas",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.62214,
+    35.60872,
+    7.62214,
+    35.60872
+],
+  "geometry": {"coordinates":[7.62214,35.60872],"type":"Point"}
+}

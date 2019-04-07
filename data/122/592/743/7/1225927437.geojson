@@ -1,0 +1,65 @@
+{
+  "id": 1225927437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.45942,36.55922,4.45942,36.55922",
+    "geom:latitude":36.55922,
+    "geom:longitude":4.45942,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Abourghes",
+    "gn:country_code":"DZ",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858636,
+    "gn:latitude":36.55922,
+    "gn:longitude":4.45942,
+    "gn:modification_date":"2015-10-08",
+    "gn:name":"Abourgh\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858636
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f0b8fd6eb3ab3c07a6d53d66ff5773ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225927437,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1225927437,
+    "wof:lastmodified":1536895718,
+    "wof:name":"Abourghes",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.45942,
+    36.55922,
+    4.45942,
+    36.55922
+],
+  "geometry": {"coordinates":[4.45942,36.55922],"type":"Point"}
+}

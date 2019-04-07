@@ -1,0 +1,68 @@
+{
+  "id": 1344149331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41649,35.57541,2.41649,35.57541",
+    "geom:latitude":35.57541,
+    "geom:longitude":2.41649,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tegagra",
+    "gn:country_code":"DZ",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475707,
+    "gn:latitude":35.57541,
+    "gn:longitude":2.41649,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tegagra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tkagra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475707
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"616803f795f8cc02a4d10615e3acfb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344149331,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1344149331,
+    "wof:lastmodified":1537620094,
+    "wof:name":"Tegagra",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41649,
+    35.57541,
+    2.41649,
+    35.57541
+],
+  "geometry": {"coordinates":[2.41649,35.57541],"type":"Point"}
+}

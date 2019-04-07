@@ -1,0 +1,113 @@
+{
+  "id": 1125988305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7669,32.82648,3.7669,32.82648",
+    "geom:latitude":32.82648,
+    "geom:longitude":3.7669,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":44580,
+    "gn:population":44580,
+    "iso:country":"DZ",
+    "lbl:latitude":32.82648,
+    "lbl:longitude":3.7669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Berriane"
+    ],
+    "name:eng_x_preferred":[
+        "Berriane"
+    ],
+    "name:fre_x_preferred":[
+        "Berriane"
+    ],
+    "name:ita_x_preferred":[
+        "Berriane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ea\u30a2\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Berriane"
+    ],
+    "name:por_x_preferred":[
+        "Berriane"
+    ],
+    "name:rum_x_preferred":[
+        "Berriane"
+    ],
+    "name:swe_x_preferred":[
+        "Berriane"
+    ],
+    "name:unk_x_variant":[
+        "Berrian"
+    ],
+    "name:vie_x_preferred":[
+        "Berriane"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2504110,
+    "qs_pg:gn_pop":44580,
+    "qs_pg:name":"Berriane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":278735,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504110,
+        "qs_pg:id":278735,
+        "wd:id":"Q1649062"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497298919,
+    "wof:geomhash":"36255f5def327660001675b8e73e3cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125988305,
+            "region_id":85670749
+        }
+    ],
+    "wof:id":1125988305,
+    "wof:lastmodified":1513956011,
+    "wof:name":"Berriane",
+    "wof:parent_id":85670749,
+    "wof:placetype":"locality",
+    "wof:population":44580,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7669,
+    32.82648,
+    3.7669,
+    32.82648
+],
+  "geometry": {"coordinates":[3.7669,32.82648],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225799437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.2875,35.82083,4.2875,35.82083",
+    "geom:latitude":35.82083,
+    "geom:longitude":4.2875,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Tarmount",
+    "gn:country_code":"DZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477715,
+    "gn:latitude":35.82083,
+    "gn:longitude":4.2875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tarmount",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477715,
+        "wk:page":"Tarmount"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fd464df0b16fa8d86215e960024d8030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225799437,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1225799437,
+    "wof:lastmodified":1537504267,
+    "wof:name":"Tarmount",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2875,
+    35.82083,
+    4.2875,
+    35.82083
+],
+  "geometry": {"coordinates":[4.2875,35.82083],"type":"Point"}
+}

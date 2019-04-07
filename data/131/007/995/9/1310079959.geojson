@@ -1,0 +1,65 @@
+{
+  "id": 1310079959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32851,36.52211,3.32851,36.52211",
+    "geom:latitude":36.52211,
+    "geom:longitude":3.32851,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tirhzert Aimoula",
+    "gn:country_code":"DZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475938,
+    "gn:latitude":36.52211,
+    "gn:longitude":3.32851,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tirhzert A\u00efmoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475938
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e5c34a23b2c774c6ee5d75ee394de7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310079959,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1310079959,
+    "wof:lastmodified":1537032046,
+    "wof:name":"Tirhzert Aimoula",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32851,
+    36.52211,
+    3.32851,
+    36.52211
+],
+  "geometry": {"coordinates":[3.32851,36.52211],"type":"Point"}
+}

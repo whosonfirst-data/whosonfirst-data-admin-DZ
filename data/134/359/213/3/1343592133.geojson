@@ -1,0 +1,65 @@
+{
+  "id": 1343592133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65639,35.49693,0.65639,35.49693",
+    "geom:latitude":35.49693,
+    "geom:longitude":0.65639,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Hadj Djelloul",
+    "gn:country_code":"DZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2581028,
+    "gn:latitude":35.49693,
+    "gn:longitude":0.65639,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar Hadj Djelloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581028
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"589ebed1d02e491a053db1edae505b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343592133,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1343592133,
+    "wof:lastmodified":1537051611,
+    "wof:name":"Douar Hadj Djelloul",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65639,
+    35.49693,
+    0.65639,
+    35.49693
+],
+  "geometry": {"coordinates":[0.65639,35.49693],"type":"Point"}
+}

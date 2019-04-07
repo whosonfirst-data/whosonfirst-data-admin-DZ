@@ -1,0 +1,70 @@
+{
+  "id": 1293055895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.54397,35.31775,0.54397,35.31775",
+    "geom:latitude":35.31775,
+    "geom:longitude":0.54397,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Klailia",
+    "gn:country_code":"DZ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499357,
+    "gn:latitude":35.31775,
+    "gn:longitude":0.54397,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Klailia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Medaiza",
+        "Douar Klailia",
+        "Meda\u00efza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499357
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2a044ab93b1677cc6f770dc026c878e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293055895,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1293055895,
+    "wof:lastmodified":1537620213,
+    "wof:name":"Douar Klailia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.54397,
+    35.31775,
+    0.54397,
+    35.31775
+],
+  "geometry": {"coordinates":[0.54397,35.31775],"type":"Point"}
+}

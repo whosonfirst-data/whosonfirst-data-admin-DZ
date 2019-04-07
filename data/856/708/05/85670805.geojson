@@ -1,0 +1,356 @@
+{
+  "id": 85670805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.301246,
+    "geom:area_square_m":3023249707.209126,
+    "geom:bbox":"1.24558841288,35.5440322942,2.31177656374,36.0056578644",
+    "geom:latitude":35.745807,
+    "geom:longitude":1.800488,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Tissemsilt Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":35.73352,
+    "lbl:longitude":1.747235,
+    "mps:latitude":35.73352,
+    "mps:longitude":1.747235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u0633\u0645\u0633\u064a\u0644\u062a",
+        "\u062a\u064a\u0633\u0645\u0633\u064a\u0644\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u044b\u0441\u0435\u043c\u0441\u0456\u043b\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09bf\u09b8\u09b8\u09c7\u09ae\u09b8\u09bf\u09b2\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0441\u0435\u043c\u0441\u0438\u043b\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Tissemsilt"
+    ],
+    "name:ceb_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:chi_x_preferred":[
+        "\u63d0\u585e\u59c6\u897f\u52d2\u7279\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Tissemsilt Province"
+    ],
+    "name:dut_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:eng_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:eng_x_variant":[
+        "Tissemsilt Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Tisemsilt"
+    ],
+    "name:fin_x_preferred":[
+        "Tissemsiltin provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Tissemsilt"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10d8\u10e1\u10d4\u10db\u10e1\u10d8\u10da\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Tissemsilt"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b9\u03c3\u03c3\u03b5\u03bc\u03c3\u03af\u03bb\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0ac0\u0ab8\u0ac7\u0aae\u0acd\u0ab8\u0abf\u0ab2\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093f\u0938\u094d\u0938\u0947\u092e\u094d\u0938\u093f\u0932\u094d\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Tissemsilt"
+    ],
+    "name:ita_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30bb\u30e0\u30b7\u30eb\u30c8\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cbf\u0cb8\u0ccd\u0cb8\u0cc6\u0cae\u0ccd\u0cb8\u0cbf\u0cb2\u0ccd\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\uc148\uc2e4\ud2b8"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Tissemsilt"
+    ],
+    "name:lav_x_preferred":[
+        "Tisems\u012bltas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Tisemsilto vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0940\u0938\u093f\u092e\u0947\u0932\u094d\u0932\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Tissemsilt"
+    ],
+    "name:msa_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:nan_x_preferred":[
+        "Tissemsilt S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:nob_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Tisamsilt"
+    ],
+    "name:por_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:ron_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Tissemsilt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0441\u0435\u043c\u0441\u0438\u043b\u044c\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd2\u0dc3\u0dda\u0db8\u0dd2\u0dc3\u0dd2\u0dbd\u0dca\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Tissemsilt eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0441\u0435\u043c\u0441\u0438\u043b\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Tissemsilt"
+    ],
+    "name:swe_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0bb8\u0bcd\u0bb8\u0bae\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3f\u0c38\u0c46\u0c2e\u0c4d\u200c\u0c38\u0c3f\u0c32\u0c4d\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0422\u0438\u0441\u0441\u0435\u043c\u0441\u0438\u043b\u0442"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Tissemsilt"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e17\u0e34\u0e2a\u0e41\u0e2a\u0e21\u0e0b\u0e2d\u0e25\u0e4c\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Tissemsilt Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0441\u0441\u0435\u043c\u0441\u0456\u043b\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Tissemsilt"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:war_x_preferred":[
+        "Tissemsilt"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u585e\u59c6\u897f\u52d2\u7279"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2206",
+    "ne:adm1_code":"DZA-2206",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.TS",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2206",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG56",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.56",
+    "ne:gn_id":"2475858",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Tissemsilt",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG56",
+    "ne:gns_id":"-490119",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Tissemsilt",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"35.73020000000",
+    "ne:longitude":"1.77868000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Tissemsilt",
+    "ne:name_alt":"Vialar",
+    "ne:name_len":10,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u062a\u0633\u0645\u0633\u064a\u0644\u062a",
+    "ne:note":"",
+    "ne:postal":"TS",
+    "ne:provnum_ne":"48",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344626,
+    "ne:woe_label":"",
+    "ne:woe_name":"Tissemsilt",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Tissemsilt",
+    "qs:a1_lc":"DZA-2206",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"3,151",
+    "statoids:area_mi":"1,217",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Tissemsilt",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG56",
+    "statoids:hasc":"DZ.TS",
+    "statoids:iso":"38",
+    "statoids:name":"Tissemsilt",
+    "statoids:population":"294476",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-38",
+    "wd:latitude":35.607222,
+    "wd:longitude":1.810556,
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG56",
+        "gn:id":2475858,
+        "gp:id":2344626,
+        "hasc:id":"DZ.TS",
+        "iso:id":"DZ-38",
+        "qs:id":1134901,
+        "unlc:id":"DZ-38",
+        "wd:id":"Q235805"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f3655a864b749406fbfe5e9414174def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670805
+        }
+    ],
+    "wof:id":85670805,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550366,
+    "wof:name":"Tissemsilt",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":294476,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"TS",
+    "wof:subdivision":"DZ-38",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.24558841287501,
+    35.5440322941551,
+    2.31177656373745,
+    36.00565786441894
+],
+  "geometry": {"coordinates":[[[1.68612999830083,35.91876394290171],[1.71269168537304,35.92341482193655],[1.80467573369822,35.90106476522681],[1.83464806455658,35.875174871723],[1.84239952991442,35.86522715940595],[1.85356163905846,35.86049876600532],[1.86580895292087,35.86584727613092],[1.88399905791022,35.88463165942358],[1.89872684137066,35.88765473138079],[1.94714765783817,35.87739695890258],[1.96451093872889,35.87982575075785],[1.9716422873617,35.88749970085058],[1.97613813586634,35.90183991158273],[1.98719689312219,35.91191681600833],[2.00874596505429,35.91791128218],[2.04569461401525,35.91282115357342],[2.09892134004787,35.91124502243991],[2.14558515822853,35.9182730173859],[2.17168175640796,35.91760122291817],[2.1963314137638,35.91155508080237],[2.2436670264122,35.88773224484726],[2.31177656373745,35.8669583201704],[2.24196170406941,35.7441234400448],[2.22583865662875,35.73290965405732],[2.20764855343805,35.72614004242905],[2.1898201836546,35.72360789598764],[2.17385216584483,35.71851776828044],[2.1626900567008,35.70898346621402],[2.1581942072969,35.69823476822],[2.16036461763304,35.68407542643985],[2.16951134607183,35.66681549743731],[2.18951012529209,35.64712677747883],[2.20671837655186,35.63766998977826],[2.24242679206287,35.6257585718007],[2.25451907719372,35.61519074185929],[2.26103030820224,35.6055789254271],[2.24971316942725,35.55961273923657],[2.15974450000874,35.56025869438326],[2.11333906424648,35.55493602088069],[2.07980105997098,35.5440322941551],[2.07018924263946,35.5442906765735],[2.06646853959148,35.55162872988205],[2.06553836360462,35.56149892783333],[2.06042239657637,35.57147248037074],[2.05019046431852,35.57534821215035],[1.94900800891253,35.57235097951417],[1.85883263481827,35.55586619686756],[1.74493777755646,35.55193878824451],[1.72865970228349,35.55364411148662],[1.71718753387762,35.55876007671623],[1.71160647975529,35.56382436780041],[1.7063354830961,35.57284190502992],[1.69977257704284,35.57886221052263],[1.69202111168499,35.58049001670094],[1.68333947123966,35.57415965374508],[1.67186730283379,35.55395416894982],[1.65806969625953,35.54793386525574],[1.63460859461099,35.55046600989851],[1.60902876126835,35.56604645408066],[1.57626590334883,35.59679393219426],[1.55905765118968,35.60609568936462],[1.53440799293458,35.60284007431005],[1.51528771285768,35.59666474098503],[1.50149010628343,35.59358999308375],[1.49234337694531,35.59488190427652],[1.48583214683617,35.60630239493963],[1.48195641415725,35.62901418685527],[1.47756391844013,35.63978872327101],[1.46919233635731,35.64803111414466],[1.45647993270279,35.6557050642374],[1.40015262214587,35.67663402034384],[1.3737976424473,35.68066478085501],[1.35932824140525,35.68650421829511],[1.34646080901916,35.68981151019307],[1.33374840716328,35.68805451100695],[1.3244466490936,35.67730581301294],[1.31840050607855,35.66304311844522],[1.30966718878977,35.63327749316181],[1.30315595868058,35.62351064709873],[1.29245893663068,35.61764537213628],[1.2797465347748,35.61906647453822],[1.26966963124852,35.62265798637702],[1.24558841287501,35.64733348215452],[1.26114301863544,35.69965586972268],[1.26346845860252,35.71751007702846],[1.26362348823346,35.74944611354738],[1.26780927927484,35.7644322785269],[1.27571577336431,35.77549103398411],[1.29199384863728,35.77972850186893],[1.30610151537269,35.77732554843539],[1.33374840716328,35.7687730982999],[1.34785607299943,35.76983246549594],[1.36180870920464,35.77652456275842],[1.3772082862335,35.78804840800768],[1.40418338355636,35.81652212209832],[1.41162478965237,35.84155935308172],[1.40728396987936,35.8535224470034],[1.40790408660433,35.85863841403165],[1.41053958493393,35.86476207141254],[1.41968631337272,35.87078237600588],[1.45105390821135,35.88654368734137],[1.4539994649034,35.89315827113734],[1.45120893694292,35.90132314674588],[1.44748823389494,35.90835114169187],[1.44795332188835,35.91426809349775],[1.45508466962184,35.91837637017341],[1.498544548692,35.93137299197008],[1.50490075006962,35.9352228871266],[1.50924157074195,35.94101064682394],[1.51265221542747,35.94834870013244],[1.51482262486428,35.96757233299684],[1.51854332791231,35.97273997686847],[1.53513146334643,35.98514232036183],[1.54432986772923,35.99759633979932],[1.54541507334699,35.99987010292296],[1.54634524933385,36.00139455811239],[1.5483606300391,36.00395254207621],[1.55332156743646,36.00565786441894],[1.56231326714362,36.00483104121963],[1.58742801339213,35.9880362002105],[1.5933708018211,35.98160248536647],[1.59569624178818,35.97604726786716],[1.59678144740593,35.97072459616322],[1.59972700409799,35.96059601489424],[1.60220747189737,35.95610016549028],[1.60608320457629,35.95175934481796],[1.61212934669203,35.94721181946994],[1.63848432818924,35.93429271113973],[1.67465782989495,35.92070180924117],[1.68612999830083,35.91876394290171]]],"type":"Polygon"}
+}

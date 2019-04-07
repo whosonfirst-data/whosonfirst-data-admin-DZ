@@ -1,0 +1,65 @@
+{
+  "id": 1259714495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75757,36.23307,4.75757,36.23307",
+    "geom:latitude":36.23307,
+    "geom:longitude":4.75757,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mechta Bou Aroua",
+    "gn:country_code":"DZ",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489695,
+    "gn:latitude":36.23307,
+    "gn:longitude":4.75757,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Bou Aroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489695
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ab3f8cc125811b35ff0ae794fd8182b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259714495,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1259714495,
+    "wof:lastmodified":1537021556,
+    "wof:name":"Mechta Bou Aroua",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75757,
+    36.23307,
+    4.75757,
+    36.23307
+],
+  "geometry": {"coordinates":[4.75757,36.23307],"type":"Point"}
+}

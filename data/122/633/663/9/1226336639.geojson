@@ -1,0 +1,65 @@
+{
+  "id": 1226336639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.19984,35.7557,0.19984,35.7557",
+    "geom:latitude":35.7557,
+    "geom:longitude":0.19984,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Djdiat",
+    "gn:country_code":"DZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392222,
+    "gn:latitude":35.7557,
+    "gn:longitude":0.19984,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Djdiat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392222
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8f9872d9c909834d2a24409c33fa7115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226336639,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1226336639,
+    "wof:lastmodified":1536802608,
+    "wof:name":"Djdiat",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.19984,
+    35.7557,
+    0.19984,
+    35.7557
+],
+  "geometry": {"coordinates":[0.19984,35.7557],"type":"Point"}
+}

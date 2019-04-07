@@ -1,0 +1,375 @@
+{
+  "id": 85670745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":4.483507,
+    "geom:area_square_m":46375252720.607979,
+    "geom:bbox":"5.00804609495,32.0001915133,9.06330382211,34.4998066273",
+    "geom:latitude":33.222433,
+    "geom:longitude":6.957223,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "El Oued Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":33.193466,
+    "lbl:longitude":7.095555,
+    "mps:latitude":33.193466,
+    "mps:longitude":7.095555,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0648\u0627\u062f\u064a",
+        "\u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u0993\u09af\u09bc\u09c7\u09a1 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b-\u0423\u0435\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "El Oued"
+    ],
+    "name:ceb_x_preferred":[
+        "El Oued"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u8fea\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "El Oued"
+    ],
+    "name:deu_x_preferred":[
+        "El Oued"
+    ],
+    "name:dut_x_preferred":[
+        "El Oued"
+    ],
+    "name:eng_x_preferred":[
+        "El Oued"
+    ],
+    "name:eng_x_variant":[
+        "El Oued Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco El Ued"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u06cc\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "El Oued Province"
+    ],
+    "name:fra_x_preferred":[
+        "El Oued"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya d'El Oued"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10e3\u10d4\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "El Oued"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de El Oued"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab2 \u0a93\u0aaf\u0aa1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d5\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u0911\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi El Oued"
+    ],
+    "name:ita_x_preferred":[
+        "El Oued"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30a6\u30a7\u30c3\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0c94\u0ca1\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u044d\u0434 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc6b0\uc5d0\ub4dc"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de El Wed"
+    ],
+    "name:lav_x_preferred":[
+        "V\u0101das vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Uedas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0932 \u0913\u092f\u0921 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah El Oued"
+    ],
+    "name:msa_x_preferred":[
+        "El Oued"
+    ],
+    "name:nan_x_preferred":[
+        "El Oued S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "El Oued"
+    ],
+    "name:nob_x_preferred":[
+        "El Oued"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Wadi"
+    ],
+    "name:por_x_preferred":[
+        "El Oued"
+    ],
+    "name:ron_x_preferred":[
+        "El Oued"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia El Oued"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "El Oued"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbd\u0dca \u0d94\u0dba\u0dd2\u0da9\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:sme_x_preferred":[
+        "El Oued eanangoddi"
+    ],
+    "name:sna_x_preferred":[
+        "El Oued"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de El Oued"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0423\u0458\u0435\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya El Oued"
+    ],
+    "name:swe_x_preferred":[
+        "El Oued"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd  \u0baf\u0ba4\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c13\u0c2f\u0c46\u0c26\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043b-\u0412\u043e\u0434\u04e3"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng El Oued"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25\u0e42\u0e25\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "El Vadi Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0423\u0435\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya d\u2019El Oued"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "El Oued"
+    ],
+    "name:war_x_preferred":[
+        "El Oued"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5fb7"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2191",
+    "ne:adm1_code":"DZA-2191",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"DZ.",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2191",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.43",
+    "ne:gn_id":"2497406",
+    "ne:gn_level":"1",
+    "ne:gn_name":"El Oued",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG43",
+    "ne:gns_id":"-468478",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"El Oued",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"DZ.EO|DZA-EOD",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"33.11370000000",
+    "ne:longitude":"7.03557000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"El Oued",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"6",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344613,
+    "ne:woe_label":"El Oued, DZ, Algeria",
+    "ne:woe_name":"El Oued",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"El Oued",
+    "qs:a1_lc":"DZA-2191",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"80,000",
+    "statoids:area_mi":"31,000",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"El Oued",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG43",
+    "statoids:hasc":"DZ.EO",
+    "statoids:iso":"39",
+    "statoids:name":"El Oued",
+    "statoids:population":"647548",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-39",
+    "wd:elevation":76.0,
+    "wd:latitude":33.368333,
+    "wd:longitude":6.8675,
+    "wd:wordcount":485,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG43",
+        "gn:id":2497406,
+        "gp:id":2344613,
+        "hasc:id":"DZ.EO",
+        "iso:id":"DZ-39",
+        "qs:id":237282,
+        "unlc:id":"DZ-39",
+        "wd:id":"Q233651"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1b4e0aacc65e942d3d5d3014ee7cecec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":85670745,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550364,
+    "wof:name":"El Oued",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":647548,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"EO",
+    "wof:subdivision":"DZ-39",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0080460949514,
+    32.00019151332771,
+    9.06330382211377,
+    34.4998066272741
+],
+  "geometry": {"coordinates":[[[5.99852827276163,34.39495514656284],[6.19329674604802,34.42895823793236],[6.21143517419398,34.42841563647249],[6.37049523286873,34.39247467696481],[6.42852786576844,34.36999542904584],[6.43860477109337,34.3607453478196],[6.44589114665916,34.34994497298214],[6.45658816870906,34.34015228939671],[6.47183271700635,34.33100556095792],[6.49074629060885,34.32358999328363],[6.5054740740693,34.31971425970539],[6.52691979321395,34.31653615991593],[6.55854576957165,34.317027086331],[6.59022342277279,34.32196218530663],[6.62619021980282,34.33315013287239],[6.66112348805859,34.35123688417491],[6.69590172668336,34.37609324800502],[6.71497032991687,34.32661306434147],[6.74489098483116,34.29873362945347],[6.96058841332467,34.19393382378701],[7.017380811875,34.17850840923575],[7.13577151944014,34.16057668756412],[7.20238243999768,34.13099193033338],[7.27111209494728,34.11383535411835],[7.3275944351351,34.10830597594008],[7.53817589660042,34.11375783885325],[7.5383826030747,34.11375783885325],[7.53922821940682,34.11375783885325],[7.51745284027641,34.0950259399952],[7.50370690874689,34.06797332830649],[7.50060632332321,33.99425689843719],[7.47983239774703,33.89390126533118],[7.48489668793184,33.85501475003076],[7.49853926577453,33.79997935066655],[7.50546390793306,33.78284861287324],[7.53419600444209,33.73623647153596],[7.54442793849859,33.68424997985272],[7.55300622525715,33.65874766087592],[7.61656823723439,33.56596262597446],[7.69315270943002,33.4541089896382],[7.70824222809642,33.41486073823256],[7.70828622293089,33.41070398450131],[7.70968916802076,33.27815073716681],[7.72498539226211,33.23140940462036],[7.75072025523565,33.20766408303103],[7.78751387546504,33.19831064901729],[7.83546960393915,33.19453826912587],[7.87195316580602,33.18412546791609],[7.98274743674483,33.11681691536842],[8.00217777518424,33.10836781891976],[8.0226416423979,33.1030451463165],[8.04362227444847,33.10183074948952],[8.06449955191283,33.1057839974336],[8.08682377110023,33.09428599150533],[8.18139164181088,32.96982330340279],[8.2828841564787,32.83636891739167],[8.29642338153388,32.80440704335041],[8.30996260568975,32.66387298644923],[8.31957442212195,32.56059763597216],[8.33125329610277,32.52762807247763],[8.3326272803248,32.52635540767596],[8.35998539171248,32.50101470946134],[8.48266524220719,32.43479136253143],[8.64234541940561,32.33665781750432],[8.85153161599135,32.20824188235702],[9.01989343273578,32.10486317999181],[9.03374271615348,32.09075551415572],[9.04500817898435,32.07184194055316],[9.06330382211377,32.00019151332771],[9.06309573697871,32.00019175884267],[7.31379682766152,32.0022588163913],[7.16992964044061,32.0163664822274],[7.03086836098612,32.05295339598251],[6.92942752406106,32.14248281493002],[6.85087934710424,32.2392469352979],[6.72737267430949,32.42796926556917],[6.68375776470913,32.51176259986414],[6.46480472206031,33.15769216626052],[6.37855675568977,33.31755320881359],[6.19298668768556,33.37698110569352],[5.0080460949514,33.44188670480764],[5.12178592258232,33.57267975496677],[5.21816246932252,33.70920888887917],[5.2709241055631,33.76636302353478],[5.31391889843849,33.80349254054835],[5.32647627066342,33.82320709892855],[5.33484785274624,33.84599640610929],[5.37381188331182,34.05838654180553],[5.37288170732501,34.10771169673745],[5.36978112100201,34.12931244641231],[5.35985924620729,34.16620941852989],[5.34368452282251,34.20080679000142],[5.33314253130283,34.21770498289868],[5.30198164203921,34.25566132311161],[5.26534305234003,34.29273916328179],[5.19444298705423,34.34392466928813],[5.18917199129442,34.3491698275256],[5.18545128734706,34.35666290956567],[5.18777672731414,34.36891022432746],[5.19196251835558,34.3814159215076],[5.1992488948207,34.39368907289247],[5.20638024255419,34.40312002217132],[5.21723229333571,34.4119566922476],[5.22885949137248,34.41769277600088],[5.26983890084466,34.43107697232449],[5.28782230025899,34.43903514325729],[5.29903608624642,34.44906036994018],[5.30120649568329,34.4629096542572],[5.29981123170302,34.47918773042949],[5.30632246271153,34.49280446985046],[5.3117484881023,34.49825633456226],[5.31577925041211,34.4998066272741],[5.31934492382919,34.49892812813067],[5.38156334777034,34.47495026344393],[5.47716474815468,34.44983551719542],[5.99852827276163,34.39495514656284]]],"type":"Polygon"}
+}

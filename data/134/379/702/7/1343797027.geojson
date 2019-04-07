@@ -1,0 +1,72 @@
+{
+  "id": 1343797027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8196,36.07821,7.8196,36.07821",
+    "geom:latitude":36.07821,
+    "geom:longitude":7.8196,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"M'Daourouch",
+    "gn:country_code":"DZ",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489922,
+    "gn:latitude":36.07821,
+    "gn:longitude":7.8196,
+    "gn:modification_date":"2018-07-11",
+    "gn:name":"M\u2019Daourouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dourouche",
+        "Montesquieu",
+        "M\u2019Daourouch",
+        "Madauros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489922,
+        "wk:page":"M%27Daourouch"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"70b799161854e0f30c4b95aafee3a0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343797027,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1343797027,
+    "wof:lastmodified":1537620172,
+    "wof:name":"M'Daourouch",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8196,
+    36.07821,
+    7.8196,
+    36.07821
+],
+  "geometry": {"coordinates":[7.8196,36.07821],"type":"Point"}
+}

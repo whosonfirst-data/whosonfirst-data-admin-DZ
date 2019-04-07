@@ -1,0 +1,65 @@
+{
+  "id": 1259775001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.36055,35.95334,0.36055,35.95334",
+    "geom:latitude":35.95334,
+    "geom:longitude":0.36055,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled Mohammed",
+    "gn:country_code":"DZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7415682,
+    "gn:latitude":35.95334,
+    "gn:longitude":0.36055,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Mohammed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7415682
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"95bef37d8956cd371651a2d0ef105de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259775001,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1259775001,
+    "wof:lastmodified":1536936177,
+    "wof:name":"Douar Ouled Mohammed",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.36055,
+    35.95334000000001,
+    0.36055,
+    35.95334000000001
+],
+  "geometry": {"coordinates":[0.36055,35.95334000000001],"type":"Point"}
+}

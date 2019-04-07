@@ -1,0 +1,65 @@
+{
+  "id": 1209388857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5121,36.47173,3.5121,36.47173",
+    "geom:latitude":36.47173,
+    "geom:longitude":3.5121,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Oulad Saidi",
+    "gn:country_code":"DZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485158,
+    "gn:latitude":36.47173,
+    "gn:longitude":3.5121,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oulad Sa\u00efdi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Sa\u00efdi",
+        "Oulad Sa\u00efdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485158
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c48a30f040977ab39bae0a808da68098",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209388857
+        }
+    ],
+    "wof:id":1209388857,
+    "wof:lastmodified":1537620128,
+    "wof:name":"Oulad Saidi",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5121,
+    36.47173,
+    3.5121,
+    36.47173
+],
+  "geometry": {"coordinates":[3.5121,36.47173],"type":"Point"}
+}

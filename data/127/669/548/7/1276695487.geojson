@@ -1,0 +1,70 @@
+{
+  "id": 1276695487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98339,36.75101,2.98339,36.75101",
+    "geom:latitude":36.75101,
+    "geom:longitude":2.98339,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Deli Ibrahim",
+    "gn:country_code":"DZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500592,
+    "gn:latitude":36.75101,
+    "gn:longitude":2.98339,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Deli Ibrahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dely Ibrahim",
+        "Deli Ibrahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500592,
+        "wk:page":"D%C3%A9ly_Ibrahim"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0add525b64cf18742bbf02a2e6f4c0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276695487,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":1276695487,
+    "wof:lastmodified":1537620226,
+    "wof:name":"Deli Ibrahim",
+    "wof:parent_id":85670761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98339,
+    36.75101,
+    2.98339,
+    36.75101
+],
+  "geometry": {"coordinates":[2.98339,36.75101],"type":"Point"}
+}

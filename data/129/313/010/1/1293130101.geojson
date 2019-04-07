@@ -1,0 +1,66 @@
+{
+  "id": 1293130101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.30899,25.61065,7.30899,25.61065",
+    "geom:latitude":25.61065,
+    "geom:longitude":7.30899,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Tamadjert",
+    "gn:country_code":"DZ",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478236,
+    "gn:latitude":25.61065,
+    "gn:longitude":7.30899,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Tamadjert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478236,
+        "wk:page":"Tamadjert"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dbbb1204e0e3a5bfc16a44d34be4d198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293130101,
+            "region_id":85670731
+        }
+    ],
+    "wof:id":1293130101,
+    "wof:lastmodified":1537504268,
+    "wof:name":"Tamadjert",
+    "wof:parent_id":85670731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.30899,
+    25.61065,
+    7.30899,
+    25.61065
+],
+  "geometry": {"coordinates":[7.30899,25.61065],"type":"Point"}
+}

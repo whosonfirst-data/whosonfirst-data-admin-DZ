@@ -1,0 +1,65 @@
+{
+  "id": 1293667979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.66238,36.76418,4.66238,36.76418",
+    "geom:latitude":36.76418,
+    "geom:longitude":4.66238,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Irtabene",
+    "gn:country_code":"DZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493056,
+    "gn:latitude":36.76418,
+    "gn:longitude":4.66238,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Irtabene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493056
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"67a250f84401b79f27db079ab1078ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293667979,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1293667979,
+    "wof:lastmodified":1537023099,
+    "wof:name":"Irtabene",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66238,
+    36.76418,
+    4.66238,
+    36.76418
+],
+  "geometry": {"coordinates":[4.66238,36.76418],"type":"Point"}
+}

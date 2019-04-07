@@ -1,0 +1,66 @@
+{
+  "id": 1343718355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98758,34.29001,2.98758,34.29001",
+    "geom:latitude":34.29001,
+    "geom:longitude":2.98758,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tadmit",
+    "gn:country_code":"DZ",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478827,
+    "gn:latitude":34.29001,
+    "gn:longitude":2.98758,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tadmit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478827,
+        "wk:page":"Tadmit"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fa879a85e9cc1f2d12885e5afc2e792d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343718355,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1343718355,
+    "wof:lastmodified":1537504268,
+    "wof:name":"Tadmit",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98758,
+    34.29001,
+    2.98758,
+    34.29001
+],
+  "geometry": {"coordinates":[2.98758,34.29001],"type":"Point"}
+}

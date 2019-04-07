@@ -1,0 +1,140 @@
+{
+  "id": 85802119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1922805.311846,
+    "geom:bbox":"3.048526,36.787042,3.048526,36.787042",
+    "geom:latitude":36.787042,
+    "geom:longitude":3.048526,
+    "iso:country":"DZ",
+    "lbl:latitude":36.787042,
+    "lbl:longitude":3.048526,
+    "mps:latitude":36.784815,
+    "mps:longitude":3.046636,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "Bab el Oued",
+        "\u0628\u0627\u0628 \u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Alger Bab El Oued",
+        "Faubourg Bab el Oued"
+    ],
+    "name:cat_x_preferred":[
+        "Bab El-Oued"
+    ],
+    "name:fra_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:kab_x_preferred":[
+        "Bab Lwad"
+    ],
+    "name:msa_x_preferred":[
+        "Bab El-Oued"
+    ],
+    "name:por_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:ron_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:unk_x_variant":[
+        "Faubourg Bab el Oued",
+        "Bab el Oued"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bab El Oued"
+    ],
+    "qs:gn_adm0_cc":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2507480,
+    "qs:gn_nam_loc":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631, DZ, \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Bab el Oued",
+    "qs:local_max":361,
+    "qs:local_sum":1976,
+    "qs:localhoods":16,
+    "qs:name":"Bab el Oued",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_local":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photo_max":34,
+    "qs:photo_sum":78,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424740,
+    "qs:woe_adm1":2344579,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1253079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":171,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505857,
+        "gp:id":1253198,
+        "qs:id":468330,
+        "qs_pg:id":468330,
+        "wd:id":"Q312019",
+        "wk:page":"Bab El Oued"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2b6a24bb0db8947f2396e7f24ddaf33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":85802119,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":85802119,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531862134,
+    "wof:name":"Bab el Oued",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.048526,
+    36.787042,
+    3.048526,
+    36.787042
+],
+  "geometry": {"coordinates":[3.048526,36.787042],"type":"Point"}
+}

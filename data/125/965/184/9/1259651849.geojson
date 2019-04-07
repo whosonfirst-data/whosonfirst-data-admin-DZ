@@ -1,0 +1,65 @@
+{
+  "id": 1259651849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.66542,36.65435,5.66542,36.65435",
+    "geom:latitude":36.65435,
+    "geom:longitude":5.66542,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bou Semlel",
+    "gn:country_code":"DZ",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502344,
+    "gn:latitude":36.65435,
+    "gn:longitude":5.66542,
+    "gn:modification_date":"1994-09-20",
+    "gn:name":"Bou Semlel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502344
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"99ed9f5b6374fb5be6b53df6001074f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259651849,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1259651849,
+    "wof:lastmodified":1536613954,
+    "wof:name":"Bou Semlel",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.66542,
+    36.65435,
+    5.66542,
+    36.65435
+],
+  "geometry": {"coordinates":[5.66542,36.65435],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209486427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98137,36.66788,3.98137,36.66788",
+    "geom:latitude":36.66788,
+    "geom:longitude":3.98137,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taddert Amokhane",
+    "gn:country_code":"DZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478907,
+    "gn:latitude":36.66788,
+    "gn:longitude":3.98137,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Taddert Amokhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478907
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d6516013e57f4df1bbb99f76ac04eff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209486427
+        }
+    ],
+    "wof:id":1209486427,
+    "wof:lastmodified":1536285622,
+    "wof:name":"Taddert Amokhane",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98137,
+    36.66788,
+    3.98137,
+    36.66788
+],
+  "geometry": {"coordinates":[3.98137,36.66788],"type":"Point"}
+}

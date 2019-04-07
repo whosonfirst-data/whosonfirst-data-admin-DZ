@@ -1,0 +1,65 @@
+{
+  "id": 1276774891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14458,35.79511,6.14458,35.79511",
+    "geom:latitude":35.79511,
+    "geom:longitude":6.14458,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Feltane",
+    "gn:country_code":"DZ",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489581,
+    "gn:latitude":35.79511,
+    "gn:longitude":6.14458,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Mechta Feltane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489581
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c2f822a6ad93bab197678a7604aef6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276774891,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1276774891,
+    "wof:lastmodified":1536684110,
+    "wof:name":"Mechta Feltane",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14458,
+    35.79511,
+    6.14458,
+    35.79511
+],
+  "geometry": {"coordinates":[6.14458,35.79511],"type":"Point"}
+}

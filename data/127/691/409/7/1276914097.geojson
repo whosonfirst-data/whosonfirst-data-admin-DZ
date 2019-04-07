@@ -1,0 +1,65 @@
+{
+  "id": 1276914097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70444,36.89972,7.70444,36.89972",
+    "geom:latitude":36.89972,
+    "geom:longitude":7.70444,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sidi ben Othmane",
+    "gn:country_code":"DZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570554,
+    "gn:latitude":36.89972,
+    "gn:longitude":7.70444,
+    "gn:modification_date":"1996-01-16",
+    "gn:name":"Sidi ben Othmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570554
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1cb71d693f622838b85558b4ad938525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276914097,
+            "region_id":85670713
+        }
+    ],
+    "wof:id":1276914097,
+    "wof:lastmodified":1536994464,
+    "wof:name":"Sidi ben Othmane",
+    "wof:parent_id":85670713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70444,
+    36.89972,
+    7.70444,
+    36.89972
+],
+  "geometry": {"coordinates":[7.70444,36.89972],"type":"Point"}
+}

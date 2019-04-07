@@ -1,0 +1,65 @@
+{
+  "id": 1327488357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50434,35.42701,0.50434,35.42701",
+    "geom:latitude":35.42701,
+    "geom:longitude":0.50434,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar el Araissia",
+    "gn:country_code":"DZ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489782,
+    "gn:latitude":35.42701,
+    "gn:longitude":0.50434,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Araissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489782
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9e31ed586f59f960e87f09b70b6592b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327488357,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1327488357,
+    "wof:lastmodified":1537094609,
+    "wof:name":"Douar el Araissia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50434,
+    35.42701,
+    0.50434,
+    35.42701
+],
+  "geometry": {"coordinates":[0.50434,35.42701],"type":"Point"}
+}

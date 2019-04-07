@@ -1,0 +1,65 @@
+{
+  "id": 1293718433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.30243,36.44274,2.30243,36.44274",
+    "geom:latitude":36.44274,
+    "geom:longitude":2.30243,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tala Kroubiz",
+    "gn:country_code":"DZ",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2478340,
+    "gn:latitude":36.44274,
+    "gn:longitude":2.30243,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tala Kroubiz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478340
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"096b5a460064c8359d85cf9ecf3c6d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293718433,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1293718433,
+    "wof:lastmodified":1536951749,
+    "wof:name":"Tala Kroubiz",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.30243,
+    36.44274,
+    2.30243,
+    36.44274
+],
+  "geometry": {"coordinates":[2.30243,36.44274],"type":"Point"}
+}

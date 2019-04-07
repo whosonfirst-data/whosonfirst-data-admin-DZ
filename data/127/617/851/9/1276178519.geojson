@@ -1,0 +1,65 @@
+{
+  "id": 1276178519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99928,35.77209,4.99928,35.77209",
+    "geom:latitude":35.77209,
+    "geom:longitude":4.99928,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Et Tleta",
+    "gn:country_code":"DZ",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496989,
+    "gn:latitude":35.77209,
+    "gn:longitude":4.99928,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Et Tleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496989
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fc9b99e1c60e8b99bc8f0dfc094ebf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276178519,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1276178519,
+    "wof:lastmodified":1536985621,
+    "wof:name":"Et Tleta",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99928,
+    35.77209000000001,
+    4.99928,
+    35.77209000000001
+],
+  "geometry": {"coordinates":[4.99928,35.77209000000001],"type":"Point"}
+}

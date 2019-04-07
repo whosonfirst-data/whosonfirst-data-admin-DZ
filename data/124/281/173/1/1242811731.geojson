@@ -1,0 +1,65 @@
+{
+  "id": 1242811731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.27333,37.0575,7.27333,37.0575",
+    "geom:latitude":37.0575,
+    "geom:longitude":7.27333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Sidi Maklouf",
+    "gn:country_code":"DZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573052,
+    "gn:latitude":37.0575,
+    "gn:longitude":7.27333,
+    "gn:modification_date":"1996-09-12",
+    "gn:name":"Sidi Maklouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573052
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"44fbf232104f1d11d049e3ecf629ba7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242811731,
+            "region_id":85670713
+        }
+    ],
+    "wof:id":1242811731,
+    "wof:lastmodified":1536726921,
+    "wof:name":"Sidi Maklouf",
+    "wof:parent_id":85670713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.27333,
+    37.0575,
+    7.27333,
+    37.0575
+],
+  "geometry": {"coordinates":[7.27333,37.0575],"type":"Point"}
+}

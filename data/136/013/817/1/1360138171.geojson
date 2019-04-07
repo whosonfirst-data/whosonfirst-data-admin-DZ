@@ -1,0 +1,71 @@
+{
+  "id": 1360138171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.40514,36.15848,2.40514,36.15848",
+    "geom:latitude":36.15848,
+    "geom:longitude":2.40514,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ain Lechiakh",
+    "gn:country_code":"DZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508030,
+    "gn:latitude":36.15848,
+    "gn:longitude":2.40514,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn Lechiakh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Voltaire",
+        "A\u00efn Lechiakh",
+        "\u2019A\u00efn Lechiakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508030,
+        "wk:page":"A%C3%AFn_Lechiakh"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"14003b976bf14fe74d7734a8abd88250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360138171,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1360138171,
+    "wof:lastmodified":1537620255,
+    "wof:name":"Ain Lechiakh",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.40514,
+    36.15848,
+    2.40514,
+    36.15848
+],
+  "geometry": {"coordinates":[2.40514,36.15848],"type":"Point"}
+}

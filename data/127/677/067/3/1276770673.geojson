@@ -1,0 +1,65 @@
+{
+  "id": 1276770673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26058,35.57105,6.26058,35.57105",
+    "geom:latitude":35.57105,
+    "geom:longitude":6.26058,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bou Rhais",
+    "gn:country_code":"DZ",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502476,
+    "gn:latitude":35.57105,
+    "gn:longitude":6.26058,
+    "gn:modification_date":"1999-07-20",
+    "gn:name":"Bou Rha\u00efs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502476
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"81e13da247cff3390f066c6303bc6e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276770673,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1276770673,
+    "wof:lastmodified":1536689945,
+    "wof:name":"Bou Rhais",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26058,
+    35.57105,
+    6.26058,
+    35.57105
+],
+  "geometry": {"coordinates":[6.26058,35.57105],"type":"Point"}
+}

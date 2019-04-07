@@ -1,0 +1,65 @@
+{
+  "id": 1243585265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.55278,35.98472,7.55278,35.98472",
+    "geom:latitude":35.98472,
+    "geom:longitude":7.55278,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Dar el Caid",
+    "gn:country_code":"DZ",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593178,
+    "gn:latitude":35.98472,
+    "gn:longitude":7.55278,
+    "gn:modification_date":"1999-07-19",
+    "gn:name":"Dar el Ca\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593178
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a2ae29177ea3825b31d3942f1283a051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243585265,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1243585265,
+    "wof:lastmodified":1536602477,
+    "wof:name":"Dar el Caid",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.55278,
+    35.98472,
+    7.55278,
+    35.98472
+],
+  "geometry": {"coordinates":[7.55278,35.98472],"type":"Point"}
+}

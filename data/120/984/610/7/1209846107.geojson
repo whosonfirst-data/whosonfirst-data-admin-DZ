@@ -1,0 +1,65 @@
+{
+  "id": 1209846107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08153,35.50845,7.08153,35.50845",
+    "geom:latitude":35.50845,
+    "geom:longitude":7.08153,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mechta Ouled Ali Ben Embarek",
+    "gn:country_code":"DZ",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489362,
+    "gn:latitude":35.50845,
+    "gn:longitude":7.08153,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Ouled Ali Ben Embarek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489362
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0a4fb3a61e61e5888bee6e1b5528c2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209846107,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1209846107,
+    "wof:lastmodified":1536390592,
+    "wof:name":"Mechta Ouled Ali Ben Embarek",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08153,
+    35.50845,
+    7.08153,
+    35.50845
+],
+  "geometry": {"coordinates":[7.08153,35.50845],"type":"Point"}
+}

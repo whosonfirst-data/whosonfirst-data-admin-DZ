@@ -1,0 +1,122 @@
+{
+  "id": 421188409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.63333,35.7,-0.63333,35.7",
+    "geom:latitude":35.7,
+    "geom:longitude":-0.63333,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u0627\u0645\u0627\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Miramar"
+    ],
+    "name:ceb_x_preferred":[
+        "Miramar"
+    ],
+    "name:deu_x_preferred":[
+        "Miramar"
+    ],
+    "name:fra_x_preferred":[
+        "Miramar"
+    ],
+    "name:glg_x_preferred":[
+        "Miramar"
+    ],
+    "name:ita_x_preferred":[
+        "Miramar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30de\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Miramaras"
+    ],
+    "name:nld_x_preferred":[
+        "Miramar"
+    ],
+    "name:pol_x_preferred":[
+        "Miramar"
+    ],
+    "name:por_x_preferred":[
+        "Miramar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Miramar"
+    ],
+    "name:swe_x_preferred":[
+        "Miramar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0430\u043c\u0430\u0440"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2487403,
+    "qs:gn_pop":0,
+    "qs:name":"Miramar",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1096485,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1256459,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487403,
+        "gp:id":1256459,
+        "qs:id":1096485
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009555,
+    "wof:geomhash":"1c891a2a2264815aec85a62465057edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421188409,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":421188409,
+    "wof:lastmodified":1531858620,
+    "wof:name":"Miramar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63333,
+    35.7,
+    -0.63333,
+    35.7
+],
+  "geometry": {"coordinates":[-0.63333,35.7],"type":"Point"}
+}

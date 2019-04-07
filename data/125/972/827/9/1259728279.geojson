@@ -1,0 +1,70 @@
+{
+  "id": 1259728279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.49099,36.226,2.49099,36.226",
+    "geom:latitude":36.226,
+    "geom:longitude":2.49099,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ouled ben Afa",
+    "gn:country_code":"DZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484988,
+    "gn:latitude":36.226,
+    "gn:longitude":2.49099,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled ben Afa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ben Aouda",
+        "Ouled ben Afa",
+        "Ouled Ben Aouda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484988
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ac194f8f005f1a8db63c5eb0de743d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259728279,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1259728279,
+    "wof:lastmodified":1537620126,
+    "wof:name":"Ouled ben Afa",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.49099,
+    36.226,
+    2.49099,
+    36.226
+],
+  "geometry": {"coordinates":[2.49099,36.226],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310343729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68583,36.83417,3.68583,36.83417",
+    "geom:latitude":36.83417,
+    "geom:longitude":3.68583,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Douar Mendil",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499350,
+    "gn:latitude":36.83417,
+    "gn:longitude":3.68583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Mendil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menndil",
+        "Douar Mendil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499350
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"eac0c6056e7001aac49dcf24a46d64ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310343729,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1310343729,
+    "wof:lastmodified":1537620213,
+    "wof:name":"Douar Mendil",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68583,
+    36.83417,
+    3.68583,
+    36.83417
+],
+  "geometry": {"coordinates":[3.68583,36.83417],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225785783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.53561,36.28542,2.53561,36.28542",
+    "geom:latitude":36.28542,
+    "geom:longitude":2.53561,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Oulad Rahmane",
+    "gn:country_code":"DZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485171,
+    "gn:latitude":36.28542,
+    "gn:longitude":2.53561,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Rahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485171
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0df4ca065ece34cbb740d7579ae4824a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225785783,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1225785783,
+    "wof:lastmodified":1537096851,
+    "wof:name":"Oulad Rahmane",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.53561,
+    36.28542,
+    2.53561,
+    36.28542
+],
+  "geometry": {"coordinates":[2.53561,36.28542],"type":"Point"}
+}

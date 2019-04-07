@@ -1,0 +1,65 @@
+{
+  "id": 1343949779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.44111,36.1325,0.44111,36.1325",
+    "geom:latitude":36.1325,
+    "geom:longitude":0.44111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled el Amraoui",
+    "gn:country_code":"DZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2574024,
+    "gn:latitude":36.1325,
+    "gn:longitude":0.44111,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Ouled el Amraoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2574024
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3e2d215071035c149f8979ec402e84e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343949779,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1343949779,
+    "wof:lastmodified":1537034008,
+    "wof:name":"Douar Ouled el Amraoui",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.44111,
+    36.1325,
+    0.44111,
+    36.1325
+],
+  "geometry": {"coordinates":[0.44111,36.1325],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242965805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.52944,35.89778,3.52944,35.89778",
+    "geom:latitude":35.89778,
+    "geom:longitude":3.52944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Manadi",
+    "gn:country_code":"DZ",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2583060,
+    "gn:latitude":35.89778,
+    "gn:longitude":3.52944,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Oulad Manadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2583060
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2e95ed8dfc016c274135c3f3d851485f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242965805,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1242965805,
+    "wof:lastmodified":1537000795,
+    "wof:name":"Oulad Manadi",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.52944,
+    35.89778,
+    3.52944,
+    35.89778
+],
+  "geometry": {"coordinates":[3.52944,35.89778],"type":"Point"}
+}

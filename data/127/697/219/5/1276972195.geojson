@@ -1,0 +1,69 @@
+{
+  "id": 1276972195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84865,36.19962,2.84865,36.19962",
+    "geom:latitude":36.19962,
+    "geom:longitude":2.84865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ben Chicao",
+    "gn:country_code":"DZ",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504915,
+    "gn:latitude":36.19962,
+    "gn:longitude":2.84865,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ben Chicao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Chikao",
+        "Ben Chicao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504915
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a6b3a23bd8801eb52bf1e3395f830b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276972195,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1276972195,
+    "wof:lastmodified":1537620246,
+    "wof:name":"Ben Chicao",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84865,
+    36.19962,
+    2.84865,
+    36.19962
+],
+  "geometry": {"coordinates":[2.84865,36.19962],"type":"Point"}
+}

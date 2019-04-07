@@ -1,0 +1,65 @@
+{
+  "id": 1243353257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.2425,35.78167,-0.2425,35.78167",
+    "geom:latitude":35.78167,
+    "geom:longitude":-0.2425,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dar Ben Messoussa",
+    "gn:country_code":"DZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570489,
+    "gn:latitude":35.78167,
+    "gn:longitude":-0.2425,
+    "gn:modification_date":"1996-04-23",
+    "gn:name":"Dar Ben Messoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570489
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b07e2b76c1bd25035cdbed9c3c99f9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243353257,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1243353257,
+    "wof:lastmodified":1536940581,
+    "wof:name":"Dar Ben Messoussa",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.2425,
+    35.78167,
+    -0.2425,
+    35.78167
+],
+  "geometry": {"coordinates":[-0.2425,35.78167],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276595407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.83848,31.91914,-1.83848,31.91914",
+    "geom:latitude":31.91914,
+    "geom:longitude":-1.83848,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ben Zireg",
+    "gn:country_code":"DZ",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504265,
+    "gn:latitude":31.91914,
+    "gn:longitude":-1.83848,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ben Zireg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504265
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7a197cfe21442d8f5808612a10e38d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276595407,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1276595407,
+    "wof:lastmodified":1536925731,
+    "wof:name":"Ben Zireg",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.83848,
+    31.91914,
+    -1.83848,
+    31.91914
+],
+  "geometry": {"coordinates":[-1.83848,31.91914],"type":"Point"}
+}

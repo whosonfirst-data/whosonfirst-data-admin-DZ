@@ -1,0 +1,118 @@
+{
+  "id": 421193227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04267,36.45774,6.04267,36.45774",
+    "geom:latitude":36.45774,
+    "geom:longitude":6.04267,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0627\u0634\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Rouached"
+    ],
+    "name:eng_x_preferred":[
+        "Rouached"
+    ],
+    "name:fra_x_preferred":[
+        "Rouached"
+    ],
+    "name:fre_x_preferred":[
+        "Rouached"
+    ],
+    "name:ita_x_preferred":[
+        "Rouached"
+    ],
+    "name:may_x_preferred":[
+        "Rouached"
+    ],
+    "name:msa_x_preferred":[
+        "Rouached"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0627\u0634\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Rouached"
+    ],
+    "name:ron_x_preferred":[
+        "Rouached"
+    ],
+    "name:rum_x_preferred":[
+        "Rouached"
+    ],
+    "name:vie_x_preferred":[
+        "Rouached"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2482939,
+    "qs:gn_pop":40263,
+    "qs:name":"Rouached",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0645\u064a\u0644\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1296161,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257157,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482939,
+        "gp:id":1257157,
+        "qs:id":1296161,
+        "wd:id":"Q1649916"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009764,
+    "wof:geomhash":"2aa20dd9a9e43e1b55c8f33a55e18fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421193227,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":421193227,
+    "wof:lastmodified":1553816381,
+    "wof:name":"Rouached",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:population":40263,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04267,
+    36.45774,
+    6.04267,
+    36.45774
+],
+  "geometry": {"coordinates":[6.04267,36.45774],"type":"Point"}
+}

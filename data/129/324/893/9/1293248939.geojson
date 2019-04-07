@@ -1,0 +1,72 @@
+{
+  "id": 1293248939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5,35.43333,2.5,35.43333",
+    "geom:latitude":35.43333,
+    "geom:longitude":2.5,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sidi Ladjel",
+    "gn:country_code":"DZ",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480322,
+    "gn:latitude":35.43333,
+    "gn:longitude":2.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Ladjel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ouerf",
+        "S\u00eed\u00ee Ladj\u00e2l",
+        "El Ouerq",
+        "Sidi Ladjel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480322,
+        "wk:page":"Sidi_Ladjel"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6c52f7f6f2fcc985dd328957e879c3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293248939,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1293248939,
+    "wof:lastmodified":1537620110,
+    "wof:name":"Sidi Ladjel",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5,
+    35.43333,
+    2.5,
+    35.43333
+],
+  "geometry": {"coordinates":[2.5,35.43333],"type":"Point"}
+}

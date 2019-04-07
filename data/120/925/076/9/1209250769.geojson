@@ -1,0 +1,61 @@
+{
+  "id": 1209250769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31888,35.72416,0.31888,35.72416",
+    "geom:latitude":35.72416,
+    "geom:longitude":0.31888,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Djlalda",
+    "gn:country_code":"DZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7407256,
+    "gn:latitude":35.72416,
+    "gn:longitude":0.31888,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar el Djlalda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7407256
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ab369246730e1b3b81a92c62f3aa48ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209250769
+        }
+    ],
+    "wof:id":1209250769,
+    "wof:lastmodified":1536293012,
+    "wof:name":"Douar el Djlalda",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31888,
+    35.72416,
+    0.31888,
+    35.72416
+],
+  "geometry": {"coordinates":[0.31888,35.72416],"type":"Point"}
+}

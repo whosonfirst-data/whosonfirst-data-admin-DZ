@@ -1,0 +1,65 @@
+{
+  "id": 1243397089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.78787,36.68726,2.78787,36.68726",
+    "geom:latitude":36.68726,
+    "geom:longitude":2.78787,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"'Ain Marmora",
+    "gn:country_code":"DZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508017,
+    "gn:latitude":36.68726,
+    "gn:longitude":2.78787,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u2019A\u00efn Marmora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508017
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1465ef1fc9b268a8c0644e5c95442a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243397089,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1243397089,
+    "wof:lastmodified":1536875934,
+    "wof:name":"'Ain Marmora",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.78787,
+    36.68726,
+    2.78787,
+    36.68726
+],
+  "geometry": {"coordinates":[2.78787,36.68726],"type":"Point"}
+}

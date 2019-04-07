@@ -1,0 +1,65 @@
+{
+  "id": 1209836771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.49028,36.12917,0.49028,36.12917",
+    "geom:latitude":36.12917,
+    "geom:longitude":0.49028,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Tekkour",
+    "gn:country_code":"DZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2574036,
+    "gn:latitude":36.12917,
+    "gn:longitude":0.49028,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Tekkour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2574036
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b7a8cdb12ef604828b02b5f47de30d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209836771,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1209836771,
+    "wof:lastmodified":1536394553,
+    "wof:name":"Douar Tekkour",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.49028,
+    36.12917,
+    0.49028,
+    36.12917
+],
+  "geometry": {"coordinates":[0.49028,36.12917],"type":"Point"}
+}

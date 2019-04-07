@@ -1,0 +1,66 @@
+{
+  "id": 1209365565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41667,35.75,7.41667,35.75",
+    "geom:latitude":35.75,
+    "geom:longitude":7.41667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Ras Oulmene",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489292,
+    "gn:latitude":35.75,
+    "gn:longitude":7.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta R\u00e2s Oulmene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Rass Oulmen",
+        "Mechta R\u00e2s Oulmene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489292
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7ca2507f8be0f98260a77ad50e634e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209365565
+        }
+    ],
+    "wof:id":1209365565,
+    "wof:lastmodified":1537620155,
+    "wof:name":"Mechta Ras Oulmene",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41667,
+    35.75,
+    7.41667,
+    35.75
+],
+  "geometry": {"coordinates":[7.41667,35.75],"type":"Point"}
+}

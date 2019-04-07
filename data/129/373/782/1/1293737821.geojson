@@ -1,0 +1,66 @@
+{
+  "id": 1293737821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.25997,27.7605,-0.25997,27.7605",
+    "geom:latitude":27.7605,
+    "geom:longitude":-0.25997,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tamentit",
+    "gn:country_code":"DZ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478139,
+    "gn:latitude":27.7605,
+    "gn:longitude":-0.25997,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tamentit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478139,
+        "wk:page":"Tamentit"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1232026f46f6564337987b59137dc67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293737821,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1293737821,
+    "wof:lastmodified":1537504268,
+    "wof:name":"Tamentit",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.25997,
+    27.7605,
+    -0.25997,
+    27.7605
+],
+  "geometry": {"coordinates":[-0.25997,27.7605],"type":"Point"}
+}

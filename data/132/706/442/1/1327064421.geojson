@@ -1,0 +1,65 @@
+{
+  "id": 1327064421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55888,36.02378,1.55888,36.02378",
+    "geom:latitude":36.02378,
+    "geom:longitude":1.55888,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dekara",
+    "gn:country_code":"DZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525106,
+    "gn:latitude":36.02378,
+    "gn:longitude":1.55888,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Dekara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525106
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0a6f2a2e90baffda55c9460e330ec97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327064421,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1327064421,
+    "wof:lastmodified":1536714580,
+    "wof:name":"Dekara",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55888,
+    36.02378,
+    1.55888,
+    36.02378
+],
+  "geometry": {"coordinates":[1.55888,36.02378],"type":"Point"}
+}

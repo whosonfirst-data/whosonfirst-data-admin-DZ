@@ -1,0 +1,65 @@
+{
+  "id": 1293278605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.99592,35.19174,0.99592,35.19174",
+    "geom:latitude":35.19174,
+    "geom:longitude":0.99592,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sidi Allal",
+    "gn:country_code":"DZ",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578524,
+    "gn:latitude":35.19174,
+    "gn:longitude":0.99592,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Sidi Allal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578524
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"80fca5a1dcebc8a883ebe94481f3ea7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293278605,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1293278605,
+    "wof:lastmodified":1537085016,
+    "wof:name":"Sidi Allal",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.99592,
+    35.19174,
+    0.99592,
+    35.19174
+],
+  "geometry": {"coordinates":[0.99592,35.19174],"type":"Point"}
+}

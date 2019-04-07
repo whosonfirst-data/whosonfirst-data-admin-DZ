@@ -1,0 +1,65 @@
+{
+  "id": 1226277501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.57735,35.59669,0.57735,35.59669",
+    "geom:latitude":35.59669,
+    "geom:longitude":0.57735,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Mezouagh",
+    "gn:country_code":"DZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2577619,
+    "gn:latitude":35.59669,
+    "gn:longitude":0.57735,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar el Mezouagh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577619
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1941500bda909c842371b2364338d7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226277501,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1226277501,
+    "wof:lastmodified":1536887396,
+    "wof:name":"Douar el Mezouagh",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.57735,
+    35.59669,
+    0.57735,
+    35.59669
+],
+  "geometry": {"coordinates":[0.57735,35.59669],"type":"Point"}
+}

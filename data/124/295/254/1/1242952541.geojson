@@ -1,0 +1,65 @@
+{
+  "id": 1242952541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.0558,35.17668,1.0558,35.17668",
+    "geom:latitude":35.17668,
+    "geom:longitude":1.0558,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doaur Alouane",
+    "gn:country_code":"DZ",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7491633,
+    "gn:latitude":35.17668,
+    "gn:longitude":1.0558,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Doaur Alouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7491633
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d33d00b4af6be9067c729b1f2b70b0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242952541,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1242952541,
+    "wof:lastmodified":1537019827,
+    "wof:name":"Doaur Alouane",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.0558,
+    35.17668,
+    1.0558,
+    35.17668
+],
+  "geometry": {"coordinates":[1.0558,35.17668],"type":"Point"}
+}

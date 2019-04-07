@@ -1,0 +1,65 @@
+{
+  "id": 1326677045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51941,35.61351,7.51941,35.61351",
+    "geom:latitude":35.61351,
+    "geom:longitude":7.51941,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Guern Ahmar",
+    "gn:country_code":"DZ",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489554,
+    "gn:latitude":35.61351,
+    "gn:longitude":7.51941,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Guern Ahmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489554
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ca3730187686ca60b4320d3072fcb7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326677045,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1326677045,
+    "wof:lastmodified":1536775973,
+    "wof:name":"Mechta Guern Ahmar",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51941,
+    35.61351,
+    7.51941,
+    35.61351
+],
+  "geometry": {"coordinates":[7.51941,35.61351],"type":"Point"}
+}

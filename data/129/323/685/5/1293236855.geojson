@@ -1,0 +1,65 @@
+{
+  "id": 1293236855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.87278,35.91889,0.87278,35.91889",
+    "geom:latitude":35.91889,
+    "geom:longitude":0.87278,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Arbia",
+    "gn:country_code":"DZ",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580549,
+    "gn:latitude":35.91889,
+    "gn:longitude":0.87278,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Douar el Arbia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580549
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2345e02846d872227c8d594d3a918bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293236855,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1293236855,
+    "wof:lastmodified":1536651221,
+    "wof:name":"Douar el Arbia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.87278,
+    35.91889000000001,
+    0.87278,
+    35.91889000000001
+],
+  "geometry": {"coordinates":[0.87278,35.91889000000001],"type":"Point"}
+}

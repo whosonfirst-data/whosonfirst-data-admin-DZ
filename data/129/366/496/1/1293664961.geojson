@@ -1,0 +1,65 @@
+{
+  "id": 1293664961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75582,36.72008,4.75582,36.72008",
+    "geom:latitude":36.72008,
+    "geom:longitude":4.75582,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Iksilene",
+    "gn:country_code":"DZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493492,
+    "gn:latitude":36.72008,
+    "gn:longitude":4.75582,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Iksilene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493492
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"721adb9ea4196b59b95b5f6b206b252e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293664961,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1293664961,
+    "wof:lastmodified":1537027324,
+    "wof:name":"Iksilene",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75582,
+    36.72008,
+    4.75582,
+    36.72008
+],
+  "geometry": {"coordinates":[4.75582,36.72008],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243594703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86667,36.03333,1.86667,36.03333",
+    "geom:latitude":36.03333,
+    "geom:longitude":1.86667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Fers et Tiabine",
+    "gn:country_code":"DZ",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496472,
+    "gn:latitude":36.03333,
+    "gn:longitude":1.86667,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Fers et Tiabine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496472
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e38b52436347e646816246baa4eb24a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243594703,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243594703,
+    "wof:lastmodified":1537085547,
+    "wof:name":"Fers et Tiabine",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86667,
+    36.03333,
+    1.86667,
+    36.03333
+],
+  "geometry": {"coordinates":[1.86667,36.03333],"type":"Point"}
+}

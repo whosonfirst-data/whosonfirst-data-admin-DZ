@@ -1,0 +1,65 @@
+{
+  "id": 1242570173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.50334,36.20509,3.50334,36.20509",
+    "geom:latitude":36.20509,
+    "geom:longitude":3.50334,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidi Mohammed",
+    "gn:country_code":"DZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480140,
+    "gn:latitude":36.20509,
+    "gn:longitude":3.50334,
+    "gn:modification_date":"1996-03-05",
+    "gn:name":"Sidi Mohammed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480140
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e2a40d6ab3f6066a19812743c1ef8a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242570173,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1242570173,
+    "wof:lastmodified":1537071302,
+    "wof:name":"Sidi Mohammed",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.50334,
+    36.20509000000001,
+    3.50334,
+    36.20509000000001
+],
+  "geometry": {"coordinates":[3.50334,36.20509000000001],"type":"Point"}
+}

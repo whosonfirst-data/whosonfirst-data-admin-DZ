@@ -1,0 +1,70 @@
+{
+  "id": 1293623495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28256,36.20045,1.28256,36.20045",
+    "geom:latitude":36.20045,
+    "geom:longitude":1.28256,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar el H'baier",
+    "gn:country_code":"DZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503742,
+    "gn:latitude":36.20045,
+    "gn:longitude":1.28256,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el H\u2019baier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Haba\u00efr",
+        "Boka\u2019et el Hab\u00e2\u00efr",
+        "Douar el H\u2019baier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503742
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"36dd29e39801859258c3d11013e08c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293623495,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1293623495,
+    "wof:lastmodified":1537620240,
+    "wof:name":"Douar el H'baier",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28256,
+    36.20045,
+    1.28256,
+    36.20045
+],
+  "geometry": {"coordinates":[1.28256,36.20045],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 421178269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8555,36.67942,4.8555,36.67942",
+    "geom:latitude":36.67942,
+    "geom:longitude":4.8555,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "El Kseur"
+    ],
+    "name:dut_x_preferred":[
+        "El-Kseur"
+    ],
+    "name:eng_x_preferred":[
+        "El-Kseur"
+    ],
+    "name:fra_x_preferred":[
+        "El Kseur"
+    ],
+    "name:fre_x_preferred":[
+        "El Kseur"
+    ],
+    "name:ita_x_preferred":[
+        "El Kseur"
+    ],
+    "name:kab_x_preferred":[
+        "Leq\u1e63er"
+    ],
+    "name:may_x_preferred":[
+        "El-Kseur"
+    ],
+    "name:msa_x_preferred":[
+        "El-Kseur"
+    ],
+    "name:per_x_preferred":[
+        "\u0642\u0635\u0631"
+    ],
+    "name:por_x_preferred":[
+        "El-Kseur"
+    ],
+    "name:ron_x_preferred":[
+        "El Kseur"
+    ],
+    "name:rum_x_preferred":[
+        "El Kseur"
+    ],
+    "name:swe_x_preferred":[
+        "El Kseur"
+    ],
+    "name:vie_x_preferred":[
+        "El Kseur"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Kseur"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2497796,
+    "qs:gn_pop":26050,
+    "qs:name":"El Kseur",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Bejaia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":278717,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1254616,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497796,
+        "gp:id":1254616,
+        "qs:id":278717,
+        "wd:id":"Q1649095",
+        "wk:page":"El-Kseur"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009176,
+    "wof:geomhash":"37d00233ccfd00c444fe022580dc679a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421178269,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":421178269,
+    "wof:lastmodified":1553816368,
+    "wof:name":"El Kseur",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:population":26050,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8555,
+    36.67942,
+    4.8555,
+    36.67942
+],
+  "geometry": {"coordinates":[4.8555,36.67942],"type":"Point"}
+}

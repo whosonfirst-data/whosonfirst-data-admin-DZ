@@ -1,0 +1,65 @@
+{
+  "id": 1293451483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06885,36.35769,3.06885,36.35769",
+    "geom:latitude":36.35769,
+    "geom:longitude":3.06885,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Radjimi",
+    "gn:country_code":"DZ",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484125,
+    "gn:latitude":36.35769,
+    "gn:longitude":3.06885,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Radjimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484125
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0d85e790ec9065301d29d13545f0cb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293451483,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293451483,
+    "wof:lastmodified":1536838108,
+    "wof:name":"Radjimi",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06885,
+    36.35769000000001,
+    3.06885,
+    36.35769000000001
+],
+  "geometry": {"coordinates":[3.06885,36.35769000000001],"type":"Point"}
+}

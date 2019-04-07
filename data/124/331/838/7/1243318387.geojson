@@ -1,0 +1,70 @@
+{
+  "id": 1243318387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.00187,35.60628,-0.00187,35.60628",
+    "geom:latitude":35.60628,
+    "geom:longitude":-0.00187,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hameau de l'Habra",
+    "gn:country_code":"DZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2494675,
+    "gn:latitude":35.60628,
+    "gn:longitude":-0.00187,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hameau de l\u2019H\u00e2bra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u2019Habra",
+        "Habra",
+        "Hameau de l\u2019H\u00e2bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494675
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8312a2ad89ec8be6f917772a6bdb81b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243318387,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1243318387,
+    "wof:lastmodified":1537620187,
+    "wof:name":"Hameau de l'Habra",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.00187,
+    35.60628,
+    -0.00187,
+    35.60628
+],
+  "geometry": {"coordinates":[-0.00187,35.60628],"type":"Point"}
+}

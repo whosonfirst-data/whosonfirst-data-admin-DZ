@@ -1,0 +1,70 @@
+{
+  "id": 1226385519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48972,36.88071,7.48972,36.88071",
+    "geom:latitude":36.88071,
+    "geom:longitude":7.48972,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Oued el Aneb",
+    "gn:country_code":"DZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485631,
+    "gn:latitude":36.88071,
+    "gn:longitude":7.48972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oued el Aneb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qued el Aneb",
+        "Oued el Aneb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485631,
+        "wk:page":"Oued_El_Aneb"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3822c052102ea64bc10a6635beb4b4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226385519,
+            "region_id":85670713
+        }
+    ],
+    "wof:id":1226385519,
+    "wof:lastmodified":1537620134,
+    "wof:name":"Oued el Aneb",
+    "wof:parent_id":85670713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48972,
+    36.88071,
+    7.48972,
+    36.88071
+],
+  "geometry": {"coordinates":[7.48972,36.88071],"type":"Point"}
+}

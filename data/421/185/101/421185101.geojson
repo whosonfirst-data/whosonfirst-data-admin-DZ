@@ -1,0 +1,94 @@
+{
+  "id": 421185101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.09366,35.93433,0.09366,35.93433",
+    "geom:latitude":35.93433,
+    "geom:longitude":0.09366,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Matemore"
+    ],
+    "name:msa_x_preferred":[
+        "Matemore"
+    ],
+    "name:por_x_preferred":[
+        "Matemore"
+    ],
+    "name:ron_x_preferred":[
+        "Matemore"
+    ],
+    "name:unk_x_variant":[
+        "Matamore"
+    ],
+    "name:vie_x_preferred":[
+        "El Matmor"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2490056,
+    "qs:gn_pop":0,
+    "qs:name":"Matemore",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0645\u0633\u062a\u063a\u0627\u0646\u0645",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018258,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255429,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490056,
+        "gp:id":1255429,
+        "qs:id":1018258,
+        "wd:id":"Q3298418"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009432,
+    "wof:geomhash":"69ea12ad3d2ffd4f2c0486c664e1b12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421185101,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":421185101,
+    "wof:lastmodified":1531858561,
+    "wof:name":"Matemore",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.09366,
+    35.93433,
+    0.09366,
+    35.93433
+],
+  "geometry": {"coordinates":[0.09366,35.93433],"type":"Point"}
+}

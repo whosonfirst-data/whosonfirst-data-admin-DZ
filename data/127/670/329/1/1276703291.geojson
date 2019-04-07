@@ -1,0 +1,65 @@
+{
+  "id": 1276703291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6,36.7,7.6,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":7.6,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Haouch Mohammed el A'bidi",
+    "gn:country_code":"DZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2494296,
+    "gn:latitude":36.7,
+    "gn:longitude":7.6,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Haouch Mohammed el A\u2019b\u00eedi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494296
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"23bee2cacf5de314182af1ae78730e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276703291,
+            "region_id":85670713
+        }
+    ],
+    "wof:id":1276703291,
+    "wof:lastmodified":1536780602,
+    "wof:name":"Haouch Mohammed el A'bidi",
+    "wof:parent_id":85670713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6,
+    36.7,
+    7.6,
+    36.7
+],
+  "geometry": {"coordinates":[7.6,36.7],"type":"Point"}
+}

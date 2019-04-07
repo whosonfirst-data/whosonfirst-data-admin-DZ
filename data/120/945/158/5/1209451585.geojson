@@ -1,0 +1,61 @@
+{
+  "id": 1209451585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.54233,36.53154,1.54233,36.53154",
+    "geom:latitude":36.53154,
+    "geom:longitude":1.54233,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar Tizi Youles",
+    "gn:country_code":"DZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573177,
+    "gn:latitude":36.53154,
+    "gn:longitude":1.54233,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Douar Tizi Youles",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573177
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8c273e16cf72c477de60fa46794d7cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209451585
+        }
+    ],
+    "wof:id":1209451585,
+    "wof:lastmodified":1536286655,
+    "wof:name":"Douar Tizi Youles",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.54233,
+    36.53154,
+    1.54233,
+    36.53154
+],
+  "geometry": {"coordinates":[1.54233,36.53154],"type":"Point"}
+}

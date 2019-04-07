@@ -1,0 +1,70 @@
+{
+  "id": 1360220741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.84746,22.88937,4.84746,22.88937",
+    "geom:latitude":22.88937,
+    "geom:longitude":4.84746,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Abalessa",
+    "gn:country_code":"DZ",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2509264,
+    "gn:latitude":22.88937,
+    "gn:longitude":4.84746,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abalessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u00ealessa",
+        "Abalessa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2509264,
+        "wk:page":"Abelessa"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5f6745d27b6c3535ca4173d74c7d4e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360220741,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1360220741,
+    "wof:lastmodified":1537620262,
+    "wof:name":"Abalessa",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.84746,
+    22.88937,
+    4.84746,
+    22.88937
+],
+  "geometry": {"coordinates":[4.84746,22.88937],"type":"Point"}
+}

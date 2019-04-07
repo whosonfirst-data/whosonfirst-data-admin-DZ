@@ -1,0 +1,70 @@
+{
+  "id": 1310173603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58089,36.58622,5.58089,36.58622",
+    "geom:latitude":36.58622,
+    "geom:longitude":5.58089,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Merdjaz Erraguene",
+    "gn:country_code":"DZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488010,
+    "gn:latitude":36.58622,
+    "gn:longitude":5.58089,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Merdjaz Erraguene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erraguene",
+        "Merdz-ez-erraguene",
+        "Merdjaz Erraguene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488010
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d14721b2147bab10be58fe340658dc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310173603,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1310173603,
+    "wof:lastmodified":1537620139,
+    "wof:name":"Merdjaz Erraguene",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58089,
+    36.58622,
+    5.58089,
+    36.58622
+],
+  "geometry": {"coordinates":[5.58089,36.58622],"type":"Point"}
+}

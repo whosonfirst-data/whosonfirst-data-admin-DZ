@@ -1,0 +1,61 @@
+{
+  "id": 1209163259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14308,35.17328,8.14308,35.17328",
+    "geom:latitude":35.17328,
+    "geom:longitude":8.14308,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechta Ouled Saad",
+    "gn:country_code":"DZ",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489315,
+    "gn:latitude":35.17328,
+    "gn:longitude":8.14308,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Ouled Saad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489315
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e2b0d7f61923340a0bfac73670b7f37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209163259
+        }
+    ],
+    "wof:id":1209163259,
+    "wof:lastmodified":1536295832,
+    "wof:name":"Mechta Ouled Saad",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14308,
+    35.17328,
+    8.14308,
+    35.17328
+],
+  "geometry": {"coordinates":[8.14308,35.17328],"type":"Point"}
+}

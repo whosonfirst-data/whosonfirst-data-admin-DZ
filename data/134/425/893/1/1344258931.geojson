@@ -1,0 +1,69 @@
+{
+  "id": 1344258931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0,35.36667,6.0,35.36667",
+    "geom:latitude":35.36667,
+    "geom:longitude":6.0,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chaabat Ouled Chelih",
+    "gn:country_code":"DZ",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501932,
+    "gn:latitude":35.36667,
+    "gn:longitude":6.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chaabat Ouled Chelih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Victor-Duruy",
+        "Chaabat Ouled Chelih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501932
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"be46b9a77fa355d5bde50fd3e5c86d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344258931,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1344258931,
+    "wof:lastmodified":1537620230,
+    "wof:name":"Chaabat Ouled Chelih",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0,
+    35.36667,
+    6.0,
+    35.36667
+],
+  "geometry": {"coordinates":[6.0,35.36667],"type":"Point"}
+}

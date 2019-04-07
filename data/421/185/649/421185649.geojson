@@ -1,0 +1,164 @@
+{
+  "id": 421185649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38226,35.30099,-1.38226,35.30099",
+    "geom:latitude":35.30099,
+    "geom:longitude":-1.38226,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0635\u0627\u0641"
+    ],
+    "name:ber_x_preferred":[
+        "\u2d31\u2d4f\u2d49 \u2d59\u2d30\u2d3c"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:ceb_x_preferred":[
+        "Beni Saf"
+    ],
+    "name:cze_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:deu_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:fin_x_preferred":[
+        "Beni-Saf"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:ger_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9 \u05e1\u05e3"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:kab_x_preferred":[
+        "Bni \u1e62af"
+    ],
+    "name:may_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:oci_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646\u06cc \u0635\u0627\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Bani Saf"
+    ],
+    "name:por_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:rum_x_preferred":[
+        "Beni Saf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0438-\u0421\u0430\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Beni Saf"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e9ni Saf"
+    ],
+    "name:unk_x_variant":[
+        "Beni Sat"
+    ],
+    "name:vie_x_preferred":[
+        "Beni Saf"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2504581,
+    "qs:gn_pop":46382,
+    "qs:name":"Beni Saf",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u062a\u0644\u0645\u0633\u0627\u0646",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1036043,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253383,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504581,
+        "gp:id":1253383,
+        "qs:id":1036043,
+        "wd:id":"Q80408",
+        "wk:page":"B\u00e9ni Saf"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009450,
+    "wof:geomhash":"268c78ef1385b96ed3bf03e9eaf33daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421185649,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":421185649,
+    "wof:lastmodified":1527726509,
+    "wof:name":"Beni Saf",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:population":46382,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38226,
+    35.30099,
+    -1.38226,
+    35.30099
+],
+  "geometry": {"coordinates":[-1.38226,35.30099],"type":"Point"}
+}

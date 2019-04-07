@@ -1,0 +1,65 @@
+{
+  "id": 1260034711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29435,35.38658,0.29435,35.38658",
+    "geom:latitude":35.38658,
+    "geom:longitude":0.29435,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Sidi Abdellah",
+    "gn:country_code":"DZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2579135,
+    "gn:latitude":35.38658,
+    "gn:longitude":0.29435,
+    "gn:modification_date":"1997-03-19",
+    "gn:name":"Douar Sidi Abdellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579135
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2f5f8abc27571f9772bdccb2ca8cfbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260034711,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1260034711,
+    "wof:lastmodified":1537055960,
+    "wof:name":"Douar Sidi Abdellah",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29435,
+    35.38658,
+    0.29435,
+    35.38658
+],
+  "geometry": {"coordinates":[0.29435,35.38658],"type":"Point"}
+}

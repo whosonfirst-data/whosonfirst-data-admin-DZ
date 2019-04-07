@@ -1,0 +1,69 @@
+{
+  "id": 1276921023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.20669,27.64403,-0.20669,27.64403",
+    "geom:latitude":27.64403,
+    "geom:longitude":-0.20669,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Noum en Nass",
+    "gn:country_code":"DZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486077,
+    "gn:latitude":27.64403,
+    "gn:longitude":-0.20669,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Noum en Nass",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noum en Nas",
+        "Noum en Nass"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486077
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"62acc65256c5c769fe9016d571ee18f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276921023,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1276921023,
+    "wof:lastmodified":1537620135,
+    "wof:name":"Noum en Nass",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.20669,
+    27.64403,
+    -0.20669,
+    27.64403
+],
+  "geometry": {"coordinates":[-0.20669,27.64403],"type":"Point"}
+}

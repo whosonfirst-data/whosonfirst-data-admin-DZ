@@ -1,0 +1,69 @@
+{
+  "id": 1260265885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.61612,34.56995,-1.61612,34.56995",
+    "geom:latitude":34.56995,
+    "geom:longitude":-1.61612,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sidi Larbi",
+    "gn:country_code":"DZ",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480601,
+    "gn:latitude":34.56995,
+    "gn:longitude":-1.61612,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Larbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi el \u2019Arbi",
+        "Sidi Larbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480601
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6022ec4b2cdbf86f329252e5fc67b663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260265885,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1260265885,
+    "wof:lastmodified":1537620112,
+    "wof:name":"Sidi Larbi",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.61612,
+    34.56995,
+    -1.61612,
+    34.56995
+],
+  "geometry": {"coordinates":[-1.61612,34.56995],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293034557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3022,35.74936,2.3022,35.74936",
+    "geom:latitude":35.74936,
+    "geom:longitude":2.3022,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Metameur 'Ain el Rhorab",
+    "gn:country_code":"DZ",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487655,
+    "gn:latitude":35.74936,
+    "gn:longitude":2.3022,
+    "gn:modification_date":"1995-12-12",
+    "gn:name":"Metameur \u2019A\u00efn el Rhorab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487655
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"51203816d23194b390e0115d33145eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293034557,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293034557,
+    "wof:lastmodified":1536943663,
+    "wof:name":"Metameur 'Ain el Rhorab",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3022,
+    35.74936,
+    2.3022,
+    35.74936
+],
+  "geometry": {"coordinates":[2.3022,35.74936],"type":"Point"}
+}

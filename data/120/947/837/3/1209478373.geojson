@@ -1,0 +1,65 @@
+{
+  "id": 1209478373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28474,36.34524,5.28474,36.34524",
+    "geom:latitude":36.34524,
+    "geom:longitude":5.28474,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mechta Dria Romane",
+    "gn:country_code":"DZ",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489594,
+    "gn:latitude":36.34524,
+    "gn:longitude":5.28474,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Dria Romane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Dria Rommane",
+        "Mechta Dria Romane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489594
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b64ed99841cbca347aafaa53398787d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209478373
+        }
+    ],
+    "wof:id":1209478373,
+    "wof:lastmodified":1537620165,
+    "wof:name":"Mechta Dria Romane",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28474,
+    36.34524,
+    5.28474,
+    36.34524
+],
+  "geometry": {"coordinates":[5.28474,36.34524],"type":"Point"}
+}

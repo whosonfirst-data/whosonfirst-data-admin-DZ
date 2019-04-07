@@ -1,0 +1,65 @@
+{
+  "id": 1242651511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27216,36.39684,4.27216,36.39684",
+    "geom:latitude":36.39684,
+    "geom:longitude":4.27216,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Irhil Hammad",
+    "gn:country_code":"DZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493108,
+    "gn:latitude":36.39684,
+    "gn:longitude":4.27216,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Irhil Hammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493108
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"81be247423afd692b05e7fb2fdb7e8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242651511,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1242651511,
+    "wof:lastmodified":1536957454,
+    "wof:name":"Irhil Hammad",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27216,
+    36.39684000000001,
+    4.27216,
+    36.39684000000001
+],
+  "geometry": {"coordinates":[4.27216,36.39684000000001],"type":"Point"}
+}

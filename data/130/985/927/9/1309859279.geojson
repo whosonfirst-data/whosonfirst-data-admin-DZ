@@ -1,0 +1,68 @@
+{
+  "id": 1309859279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72102,36.17639,1.72102,36.17639",
+    "geom:latitude":36.17639,
+    "geom:longitude":1.72102,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ouled Bouabida",
+    "gn:country_code":"DZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573410,
+    "gn:latitude":36.17639,
+    "gn:longitude":1.72102,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Bouabida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Bou Abidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573410
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"36a3cd21ccf695fc9591bada98176200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309859279,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1309859279,
+    "wof:lastmodified":1537620263,
+    "wof:name":"Ouled Bouabida",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72102,
+    36.17639000000001,
+    1.72102,
+    36.17639000000001
+],
+  "geometry": {"coordinates":[1.72102,36.17639000000001],"type":"Point"}
+}

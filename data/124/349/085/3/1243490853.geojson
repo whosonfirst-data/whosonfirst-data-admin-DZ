@@ -1,0 +1,70 @@
+{
+  "id": 1243490853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39806,37.00361,6.39806,37.00361",
+    "geom:latitude":37.00361,
+    "geom:longitude":6.39806,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Oued di Djebel",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485600,
+    "gn:latitude":37.00361,
+    "gn:longitude":6.39806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oued di Djebel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oued Li Ledjbel",
+        "Oued di Djebel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485600
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4ca7f4968eb92ee1b84e7714e175fc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243490853,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1243490853,
+    "wof:lastmodified":1537620133,
+    "wof:name":"Oued di Djebel",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39806,
+    37.00361,
+    6.39806,
+    37.00361
+],
+  "geometry": {"coordinates":[6.39806,37.00361],"type":"Point"}
+}

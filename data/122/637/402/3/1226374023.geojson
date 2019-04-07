@@ -1,0 +1,65 @@
+{
+  "id": 1226374023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48772,36.06624,1.48772,36.06624",
+    "geom:latitude":36.06624,
+    "geom:longitude":1.48772,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Oulad Sidi Aissa",
+    "gn:country_code":"DZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485138,
+    "gn:latitude":36.06624,
+    "gn:longitude":1.48772,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Sidi A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485138
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b3c80a8e6a1c6c7e84761fb9a6f19c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226374023,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1226374023,
+    "wof:lastmodified":1536748723,
+    "wof:name":"Oulad Sidi Aissa",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48772,
+    36.06624,
+    1.48772,
+    36.06624
+],
+  "geometry": {"coordinates":[1.48772,36.06624],"type":"Point"}
+}

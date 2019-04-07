@@ -1,0 +1,65 @@
+{
+  "id": 1277112549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61751,35.99503,1.61751,35.99503",
+    "geom:latitude":35.99503,
+    "geom:longitude":1.61751,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Commune des Beni Bou Attab",
+    "gn:country_code":"DZ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":9295806,
+    "gn:latitude":35.99503,
+    "gn:longitude":1.61751,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"Commune des B\u00e9ni Bou Attab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9295806
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e9e6ad82e62663554238a4dbb2ff1370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277112549,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1277112549,
+    "wof:lastmodified":1536724989,
+    "wof:name":"Commune des Beni Bou Attab",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61751,
+    35.99503,
+    1.61751,
+    35.99503
+],
+  "geometry": {"coordinates":[1.61751,35.99503],"type":"Point"}
+}

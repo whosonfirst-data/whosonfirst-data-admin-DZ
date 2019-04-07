@@ -1,0 +1,70 @@
+{
+  "id": 1309762349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7256,36.49081,7.7256,36.49081",
+    "geom:latitude":36.49081,
+    "geom:longitude":7.7256,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pont de Bouchegouf",
+    "gn:country_code":"DZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484182,
+    "gn:latitude":36.49081,
+    "gn:longitude":7.7256,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pont de Bouchegouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bled Bou Lamar",
+        "Pont de Duvivier",
+        "Pont de Bouchegouf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484182
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f6a55d8d4df8aabc23368af03f914593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309762349,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1309762349,
+    "wof:lastmodified":1537620120,
+    "wof:name":"Pont de Bouchegouf",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7256,
+    36.49081,
+    7.7256,
+    36.49081
+],
+  "geometry": {"coordinates":[7.7256,36.49081],"type":"Point"}
+}

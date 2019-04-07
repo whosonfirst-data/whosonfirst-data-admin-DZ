@@ -1,0 +1,70 @@
+{
+  "id": 1309786033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85372,36.20241,5.85372,36.20241",
+    "geom:latitude":36.20241,
+    "geom:longitude":5.85372,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bellaa",
+    "gn:country_code":"DZ",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505112,
+    "gn:latitude":36.20241,
+    "gn:longitude":5.85372,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bellaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belaa",
+        "Bellaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505112,
+        "wk:page":"Belaa"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7e1a3262c8fe2c24e5baf690ea101c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309786033,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1309786033,
+    "wof:lastmodified":1537620246,
+    "wof:name":"Bellaa",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85372,
+    36.20241,
+    5.85372,
+    36.20241
+],
+  "geometry": {"coordinates":[5.85372,36.20241],"type":"Point"}
+}

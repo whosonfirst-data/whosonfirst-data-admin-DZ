@@ -1,0 +1,65 @@
+{
+  "id": 1309773203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.06096,35.55403,0.06096,35.55403",
+    "geom:latitude":35.55403,
+    "geom:longitude":0.06096,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ouled Bel Hacene",
+    "gn:country_code":"DZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577652,
+    "gn:latitude":35.55403,
+    "gn:longitude":0.06096,
+    "gn:modification_date":"1997-03-21",
+    "gn:name":"Ouled Bel Hac\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577652
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d04b6eb265d0cfd4fea273d932844aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309773203,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1309773203,
+    "wof:lastmodified":1536977634,
+    "wof:name":"Ouled Bel Hacene",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.06096,
+    35.55403,
+    0.06096,
+    35.55403
+],
+  "geometry": {"coordinates":[0.06096,35.55403],"type":"Point"}
+}

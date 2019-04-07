@@ -1,0 +1,70 @@
+{
+  "id": 1343708851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1875,35.94194,7.1875,35.94194",
+    "geom:latitude":35.94194,
+    "geom:longitude":7.1875,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"'Ain Babouche",
+    "gn:country_code":"DZ",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508293,
+    "gn:latitude":35.94194,
+    "gn:longitude":7.1875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Babouche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efne Babouche",
+        "A\u00efn Babouch",
+        "\u2019A\u00efn Babouche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508293
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e25b9beff72320c2472b3b15479d61ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343708851,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1343708851,
+    "wof:lastmodified":1537620260,
+    "wof:name":"'Ain Babouche",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1875,
+    35.94194,
+    7.1875,
+    35.94194
+],
+  "geometry": {"coordinates":[7.1875,35.94194],"type":"Point"}
+}

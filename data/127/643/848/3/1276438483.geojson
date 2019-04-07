@@ -1,0 +1,65 @@
+{
+  "id": 1276438483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28672,35.83429,0.28672,35.83429",
+    "geom:latitude":35.83429,
+    "geom:longitude":0.28672,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Bekakcha",
+    "gn:country_code":"DZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7415467,
+    "gn:latitude":35.83429,
+    "gn:longitude":0.28672,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Bekakcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7415467
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"68312773cd5b357b5484774f04026fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276438483,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1276438483,
+    "wof:lastmodified":1536636575,
+    "wof:name":"Douar Bekakcha",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28672,
+    35.83429,
+    0.28672,
+    35.83429
+],
+  "geometry": {"coordinates":[0.28672,35.83429],"type":"Point"}
+}

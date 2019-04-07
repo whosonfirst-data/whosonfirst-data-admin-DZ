@@ -1,0 +1,61 @@
+{
+  "id": 1209386035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.68721,36.75201,4.68721,36.75201",
+    "geom:latitude":36.75201,
+    "geom:longitude":4.68721,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ouenouga",
+    "gn:country_code":"DZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485541,
+    "gn:latitude":36.75201,
+    "gn:longitude":4.68721,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ouenouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485541
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b0f45325f7b7f1a811657cb0efa3b7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209386035
+        }
+    ],
+    "wof:id":1209386035,
+    "wof:lastmodified":1536288622,
+    "wof:name":"Ouenouga",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6872099999999985,
+    36.75201,
+    4.6872099999999985,
+    36.75201
+],
+  "geometry": {"coordinates":[4.68721,36.75201],"type":"Point"}
+}

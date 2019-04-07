@@ -1,0 +1,74 @@
+{
+  "id": 421197087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"7.75,36.91667,7.75,36.91667",
+    "geom:latitude":36.91667,
+    "geom:longitude":7.75,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2484023,
+    "qs:gn_pop":0,
+    "qs:name":"Ramass\u00e9s",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0639\u0646\u0627\u0628\u0629",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301112,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257087,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484023,
+        "gp:id":1257087,
+        "qs:id":1301112
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009902,
+    "wof:geomhash":"b8e72789b66f8ca05d4b5190c8390265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421197087,
+            "region_id":85670713
+        }
+    ],
+    "wof:id":421197087,
+    "wof:lastmodified":1531858749,
+    "wof:name":"Ramass\u00e9s",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.75,
+    36.91667,
+    7.75,
+    36.91667
+],
+  "geometry": {"coordinates":[7.75,36.91667],"type":"Point"}
+}

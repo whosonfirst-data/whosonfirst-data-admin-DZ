@@ -1,0 +1,65 @@
+{
+  "id": 1260274841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.235,35.69162,0.235,35.69162",
+    "geom:latitude":35.69162,
+    "geom:longitude":0.235,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Diar Ouled Aissa",
+    "gn:country_code":"DZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577637,
+    "gn:latitude":35.69162,
+    "gn:longitude":0.235,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Diar Ouled A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577637
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"981187d9d4c1e7ab44ea173a73e28879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260274841,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1260274841,
+    "wof:lastmodified":1536723909,
+    "wof:name":"Diar Ouled Aissa",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.235,
+    35.69162,
+    0.235,
+    35.69162
+],
+  "geometry": {"coordinates":[0.235,35.69162],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890442517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1585,35.89123,3.1585,35.89123",
+    "geom:latitude":35.89123,
+    "geom:longitude":3.1585,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":11989,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bordj A\u00efn Boucif"
+    ],
+    "qs:name":"\u2019A\u00efn Boucif",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508262,
+        "gp:id":1252731,
+        "qs:id":574935,
+        "wd:id":"Q1702800",
+        "wk:page":"A\u00efn Boucif"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052365,
+    "wof:geomhash":"8eb9634492296aaa6d326b56af8843aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890442517,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":890442517,
+    "wof:lastmodified":1527792855,
+    "wof:name":"\u2019A\u00efn Boucif",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:population":11989,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1585,
+    35.89123,
+    3.1585,
+    35.89123
+],
+  "geometry": {"coordinates":[3.1585,35.89123],"type":"Point"}
+}

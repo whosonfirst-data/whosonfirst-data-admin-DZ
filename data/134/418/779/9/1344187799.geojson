@@ -1,0 +1,68 @@
+{
+  "id": 1344187799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56504,36.16455,1.56504,36.16455",
+    "geom:latitude":36.16455,
+    "geom:longitude":1.56504,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bouhdjer",
+    "gn:country_code":"DZ",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2503072,
+    "gn:latitude":36.16455,
+    "gn:longitude":1.56504,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bouhdjer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Hadjer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503072
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f4a0b1790f8bfde8b7e6bb4b8be7e2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344187799,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1344187799,
+    "wof:lastmodified":1537620234,
+    "wof:name":"Bouhdjer",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56504,
+    36.16455,
+    1.56504,
+    36.16455
+],
+  "geometry": {"coordinates":[1.56504,36.16455],"type":"Point"}
+}

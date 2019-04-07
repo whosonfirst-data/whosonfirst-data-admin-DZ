@@ -1,0 +1,65 @@
+{
+  "id": 1209521383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68026,36.52392,6.68026,36.52392",
+    "geom:latitude":36.52392,
+    "geom:longitude":6.68026,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mechtat Sidi el Arbi",
+    "gn:country_code":"DZ",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489225,
+    "gn:latitude":36.52392,
+    "gn:longitude":6.68026,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Sidi el Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Sidi el Arbi",
+        "Mechtat Sidi el Arbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489225
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7a9b3012d9d96ed704371b22e1ea93c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209521383
+        }
+    ],
+    "wof:id":1209521383,
+    "wof:lastmodified":1537620153,
+    "wof:name":"Mechtat Sidi el Arbi",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68026,
+    36.52392,
+    6.68026,
+    36.52392
+],
+  "geometry": {"coordinates":[6.68026,36.52392],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226579729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02589,36.35681,8.02589,36.35681",
+    "geom:latitude":36.35681,
+    "geom:longitude":8.02589,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hammam Oulad Zaid",
+    "gn:country_code":"DZ",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2494530,
+    "gn:latitude":36.35681,
+    "gn:longitude":8.02589,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hammam Oulad Za\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamma Za\u00efd",
+        "Hammam Za\u00efd",
+        "Hammam Oulad Za\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494530
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"51fbeb326fe43178d8db0e58d545b4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226579729,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1226579729,
+    "wof:lastmodified":1537620186,
+    "wof:name":"Hammam Oulad Zaid",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02589,
+    36.35681,
+    8.02589,
+    36.35681
+],
+  "geometry": {"coordinates":[8.02589,36.35681],"type":"Point"}
+}

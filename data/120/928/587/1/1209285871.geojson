@@ -1,0 +1,68 @@
+{
+  "id": 1209285871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23436,35.25276,1.23436,35.25276",
+    "geom:latitude":35.25276,
+    "geom:longitude":1.23436,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mellakou",
+    "gn:country_code":"DZ",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488242,
+    "gn:latitude":35.25276,
+    "gn:longitude":1.23436,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mellakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melakou",
+        "Palat",
+        "Palaf",
+        "Mellakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488242,
+        "wk:page":"Mellakou"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e77655d406ab9e327aef6331da598621",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209285871
+        }
+    ],
+    "wof:id":1209285871,
+    "wof:lastmodified":1537620140,
+    "wof:name":"Mellakou",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23436,
+    35.25275999999999,
+    1.23436,
+    35.25275999999999
+],
+  "geometry": {"coordinates":[1.23436,35.25275999999999],"type":"Point"}
+}

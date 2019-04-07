@@ -1,0 +1,65 @@
+{
+  "id": 1242731391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81795,36.08717,1.81795,36.08717",
+    "geom:latitude":36.08717,
+    "geom:longitude":1.81795,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ouled Mouna",
+    "gn:country_code":"DZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7494443,
+    "gn:latitude":36.08717,
+    "gn:longitude":1.81795,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Mouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7494443
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cd60636e7dd0022bd4e8dc48ebdb1f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242731391,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1242731391,
+    "wof:lastmodified":1536841346,
+    "wof:name":"Ouled Mouna",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81795,
+    36.08717,
+    1.81795,
+    36.08717
+],
+  "geometry": {"coordinates":[1.81795,36.08717],"type":"Point"}
+}

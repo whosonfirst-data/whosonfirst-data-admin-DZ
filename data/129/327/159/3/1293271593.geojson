@@ -1,0 +1,65 @@
+{
+  "id": 1293271593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.62423,35.39782,1.62423,35.39782",
+    "geom:latitude":35.39782,
+    "geom:longitude":1.62423,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bourlier",
+    "gn:country_code":"DZ",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502433,
+    "gn:latitude":35.39782,
+    "gn:longitude":1.62423,
+    "gn:modification_date":"1995-12-12",
+    "gn:name":"Bourlier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502433
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"17eb8bd96d97d8a95ccfd4b2aee82b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293271593,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1293271593,
+    "wof:lastmodified":1537095090,
+    "wof:name":"Bourlier",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.62423,
+    35.39782,
+    1.62423,
+    35.39782
+],
+  "geometry": {"coordinates":[1.62423,35.39782],"type":"Point"}
+}

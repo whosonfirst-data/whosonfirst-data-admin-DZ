@@ -1,0 +1,65 @@
+{
+  "id": 1293316539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01351,36.17627,7.01351,36.17627",
+    "geom:latitude":36.17627,
+    "geom:longitude":7.01351,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mechta Talhia",
+    "gn:country_code":"DZ",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489186,
+    "gn:latitude":36.17627,
+    "gn:longitude":7.01351,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Talhia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489186
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6650b2d0c76b24daa9789d35b36acca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293316539,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1293316539,
+    "wof:lastmodified":1537032111,
+    "wof:name":"Mechta Talhia",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01351,
+    36.17627,
+    7.01351,
+    36.17627
+],
+  "geometry": {"coordinates":[7.01351,36.17627],"type":"Point"}
+}

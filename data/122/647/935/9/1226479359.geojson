@@ -1,0 +1,65 @@
+{
+  "id": 1226479359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.7212,35.54945,0.7212,35.54945",
+    "geom:latitude":35.54945,
+    "geom:longitude":0.7212,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ennouayel",
+    "gn:country_code":"DZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577251,
+    "gn:latitude":35.54945,
+    "gn:longitude":0.7212,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar Ennouayel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577251
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2f0281326ba7d6864a224ff8f47d074b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226479359,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1226479359,
+    "wof:lastmodified":1537090349,
+    "wof:name":"Douar Ennouayel",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.7212,
+    35.54945,
+    0.7212,
+    35.54945
+],
+  "geometry": {"coordinates":[0.7212,35.54945],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343428107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77369,35.35906,0.77369,35.35906",
+    "geom:latitude":35.35906,
+    "geom:longitude":0.77369,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Fornane",
+    "gn:country_code":"DZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578983,
+    "gn:latitude":35.35906,
+    "gn:longitude":0.77369,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Fornane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Fernane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578983
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"24d09da2f742a67f4d2b11c5aebb52ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343428107,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1343428107,
+    "wof:lastmodified":1537620266,
+    "wof:name":"Douar Fornane",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77369,
+    35.35906,
+    0.77369,
+    35.35906
+],
+  "geometry": {"coordinates":[0.77369,35.35906],"type":"Point"}
+}

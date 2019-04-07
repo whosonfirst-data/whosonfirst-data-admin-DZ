@@ -1,0 +1,65 @@
+{
+  "id": 1343921203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.85583,36.77591,4.85583,36.77591",
+    "geom:latitude":36.77591,
+    "geom:longitude":4.85583,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Achelouf",
+    "gn:country_code":"DZ",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508992,
+    "gn:latitude":36.77591,
+    "gn:longitude":4.85583,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Achelouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508992
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"823be1702cedd84fab3870134f225894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343921203,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1343921203,
+    "wof:lastmodified":1537073700,
+    "wof:name":"Achelouf",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.85583,
+    36.77591,
+    4.85583,
+    36.77591
+],
+  "geometry": {"coordinates":[4.85583,36.77591],"type":"Point"}
+}

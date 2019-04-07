@@ -1,0 +1,66 @@
+{
+  "id": 1276690117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72549,36.43203,1.72549,36.43203",
+    "geom:latitude":36.43203,
+    "geom:longitude":1.72549,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bouhlou",
+    "gn:country_code":"DZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573250,
+    "gn:latitude":36.43203,
+    "gn:longitude":1.72549,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bouhlou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573250,
+        "wk:page":"Bouhlou"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a6805bfac7bbaeaa75e1cf774177f30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276690117,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1276690117,
+    "wof:lastmodified":1537504309,
+    "wof:name":"Bouhlou",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72549,
+    36.43203,
+    1.72549,
+    36.43203
+],
+  "geometry": {"coordinates":[1.72549,36.43203],"type":"Point"}
+}

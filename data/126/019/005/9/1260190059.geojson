@@ -1,0 +1,65 @@
+{
+  "id": 1260190059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30842,35.23486,6.30842,35.23486",
+    "geom:latitude":35.23486,
+    "geom:longitude":6.30842,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tagrout Ameur",
+    "gn:country_code":"DZ",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478661,
+    "gn:latitude":35.23486,
+    "gn:longitude":6.30842,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tagrout Ameur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478661
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c85b8597e2f60e0a50b8910ac56de2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260190059,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1260190059,
+    "wof:lastmodified":1536837911,
+    "wof:name":"Tagrout Ameur",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30842,
+    35.23486,
+    6.30842,
+    35.23486
+],
+  "geometry": {"coordinates":[6.30842,35.23486],"type":"Point"}
+}

@@ -1,0 +1,369 @@
+{
+  "id": 85670759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":19.882183,
+    "geom:area_square_m":211462155080.158112,
+    "geom:bbox":"2.98599897617,28.4618547633,9.51970788541,33.4418867048",
+    "geom:latitude":30.658124,
+    "geom:longitude":6.209051,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Ouargla Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":30.569146,
+    "lbl:longitude":5.820301,
+    "mps:latitude":30.569146,
+    "mps:longitude":5.820301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0648\u0631\u0642\u0644\u0629",
+        "\u0648\u0631\u0642\u0644\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0423\u0430\u0440\u0433\u043b\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09af\u09bc\u09be\u09b0\u09cd\u0997\u09b2\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0430\u0440\u0433\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ouargla"
+    ],
+    "name:ceb_x_preferred":[
+        "Ouargla"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u5c14\u683c\u62c9\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Ouargla Province"
+    ],
+    "name:deu_x_preferred":[
+        "Ouargla"
+    ],
+    "name:dut_x_preferred":[
+        "Ouargla"
+    ],
+    "name:eng_x_preferred":[
+        "Ouargla"
+    ],
+    "name:eng_x_variant":[
+        "Ouargla Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Uargla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0642\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Ouargla"
+    ],
+    "name:fra_x_preferred":[
+        "Ouargla"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya d'Ouargla"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e3\u10d0\u10e0\u10d2\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Ouargla"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Ouargla"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c5\u03ad\u03c1\u03b3\u03ba\u03bb\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a94\u0a86\u0ab0\u0acd\u0a97\u0acd\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0911\u0930\u094d\u0917\u094d\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Ouargla"
+    ],
+    "name:ita_x_preferred":[
+        "Ouargla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30eb\u30b0\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c93\u0cb0\u0ccd\u0c97\u0cbe\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u0430\u0440\u0433\u043b\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc544\ub974\uae00\ub77c"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Wargla"
+    ],
+    "name:lav_x_preferred":[
+        "Varglas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Uargla"
+    ],
+    "name:mar_x_preferred":[
+        "\u0914\u0905\u0930\u094d\u0917\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Ouargla"
+    ],
+    "name:msa_x_preferred":[
+        "Ouargla"
+    ],
+    "name:nan_x_preferred":[
+        "Ouargla S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Ouargla"
+    ],
+    "name:nob_x_preferred":[
+        "Ouargla"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0642\u0644\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0631\u0642\u0644\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Warkala"
+    ],
+    "name:por_x_preferred":[
+        "Ouargla"
+    ],
+    "name:ron_x_preferred":[
+        "Ouargla"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Ouargla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0440\u0433\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Ouargla Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d96\u0dc4\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:sme_x_preferred":[
+        "Ouargla eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Ouargla"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0433\u043b\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Ouargla"
+    ],
+    "name:swe_x_preferred":[
+        "Ouargla"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b93\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c35\u0c3e\u0c30\u0c4d\u0c17\u0c32\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0430\u0440\u049b\u043b\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Ouargla"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e23\u0e4c\u0e01\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Vurkla Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0430\u0440\u0433\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Ouargla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0642\u0644\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ouargla"
+    ],
+    "name:war_x_preferred":[
+        "Ouargla"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5c14\u683c\u62c9"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2194",
+    "ne:adm1_code":"DZA-2194",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.OG",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2194",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG50",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.50",
+    "ne:gn_id":"2485794",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Ouargla",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG50",
+    "ne:gns_id":"-480142",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ouargla",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"31.00140000000",
+    "ne:longitude":"6.25270000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Ouargla",
+    "ne:name_alt":"Wargla",
+    "ne:name_len":7,
+    "ne:name_local":"\u0648\u0631\u0642\u0644\u0629",
+    "ne:note":"",
+    "ne:postal":"OG",
+    "ne:provnum_ne":"9",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"6",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344620,
+    "ne:woe_label":"Ouargla, DZ, Algeria",
+    "ne:woe_name":"Ouargla",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Ouargla",
+    "qs:a1_lc":"DZA-2194",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"270,030",
+    "statoids:area_mi":"104,260",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Ouargla",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG50",
+    "statoids:hasc":"DZ.OG",
+    "statoids:iso":"30",
+    "statoids:name":"Ouargla",
+    "statoids:population":"558558",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-30",
+    "wd:elevation":219.0,
+    "wd:latitude":31.95,
+    "wd:longitude":5.316667,
+    "wd:wordcount":765,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG50",
+        "gn:id":2485794,
+        "gp:id":2344620,
+        "hasc:id":"DZ.OG",
+        "iso:id":"DZ-30",
+        "qs:id":1134894,
+        "unlc:id":"DZ-30",
+        "wd:id":"Q235709"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"774f05c5e90cf584430b23505e8cba29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670759
+        }
+    ],
+    "wof:id":85670759,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550366,
+    "wof:name":"Ouargla",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":558558,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"OG",
+    "wof:subdivision":"DZ-30",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98599897617186,
+    28.46185476328674,
+    9.51970788541064,
+    33.44188670480764
+],
+  "geometry": {"coordinates":[[[9.06330382211377,32.00019151332771],[9.06598881013554,31.98967641243655],[9.09451420106956,31.87960561101016],[9.1227295327418,31.76953481048315],[9.15115157088832,31.65956736364296],[9.17947025534806,31.54949656221663],[9.20778894070708,31.43942576168962],[9.23621097795433,31.32940663710667],[9.26442631142515,31.21933583657966],[9.29295170145991,31.10931671199671],[9.3212703859196,30.9992459114697],[9.34958907037935,30.88917511004337],[9.37790775573836,30.77915598546042],[9.40632979298562,30.66908518493341],[9.43475183113213,30.55906606035046],[9.4630705164912,30.44904693756615],[9.49138920095089,30.3389761352405],[9.51970788541064,30.22890533561281],[9.2865438232389,30.11712921184369],[9.3100049230888,30.08436635392417],[9.36948658233996,30.02279375742603],[9.36948530440333,30.02279307753855],[7.14636518690389,28.83937693909451],[6.9371789894189,28.86836741802199],[6.78742068881377,28.86826406523448],[6.42093143094081,28.73126984332868],[5.9527429537244,28.49079356537078],[4.75049075694295,28.46185476328674],[3.81556074423298,28.5459064800001],[2.98599897617186,29.12354564101855],[3.3444783871679,29.30655772595833],[3.39755008267025,29.36487457879883],[3.47961225799935,29.63684764280453],[3.52648278175502,29.69364004225417],[3.59955325737695,29.76782156011694],[3.72150963656054,29.86334544523618],[3.80253828311533,29.98984935246568],[4.05063683432252,31.55352651603596],[4.11083987755836,31.79139313408592],[4.2017903989078,31.97394013103229],[4.28261233898832,32.10496572518809],[4.32204145664798,32.20020539036653],[4.35914513523983,32.25599009946359],[4.37387291780095,32.27301748357007],[4.39888431216133,32.29627187784496],[4.54238976417633,32.37556936273597],[4.73886355980551,32.53189057119295],[4.97828046966799,32.84076060641689],[4.95311404837469,33.2414855014548],[4.9854118183008,33.33765534082136],[5.0080460949514,33.44188670480764],[6.19298668768556,33.37698110569352],[6.37855675568977,33.31755320881359],[6.46480472206031,33.15769216626052],[6.68375776470913,32.51176259986414],[6.72737267430949,32.42796926556917],[6.85087934710424,32.2392469352979],[6.92942752406106,32.14248281493002],[7.03086836098612,32.05295339598251],[7.16992964044061,32.0163664822274],[7.31379682766152,32.0022588163913],[9.06309573697871,32.00019175884267],[9.06330382211377,32.00019151332771]]],"type":"Polygon"}
+}

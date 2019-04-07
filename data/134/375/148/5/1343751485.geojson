@@ -1,0 +1,70 @@
+{
+  "id": 1343751485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.46716,35.72964,-0.46716,35.72964",
+    "geom:latitude":35.72964,
+    "geom:longitude":-0.46716,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Assi-Ben Okba",
+    "gn:country_code":"DZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2494069,
+    "gn:latitude":35.72964,
+    "gn:longitude":-0.46716,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Assi-Ben Okba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hassi Ben \u2019Okba",
+        "Assi-Ben Okba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494069,
+        "wk:page":"Hassi_Ben_Okba"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cb269b4548012d52fff85dd4bfa3c0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343751485,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1343751485,
+    "wof:lastmodified":1537620185,
+    "wof:name":"Assi-Ben Okba",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.46716,
+    35.72964,
+    -0.46716,
+    35.72964
+],
+  "geometry": {"coordinates":[-0.46716,35.72964],"type":"Point"}
+}

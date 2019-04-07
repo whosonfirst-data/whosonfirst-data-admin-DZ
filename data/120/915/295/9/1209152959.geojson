@@ -1,0 +1,64 @@
+{
+  "id": 1209152959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.45865,36.69321,3.45865,36.69321",
+    "geom:latitude":36.69321,
+    "geom:longitude":3.45865,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ouled Ben Bekrta",
+    "gn:country_code":"DZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484985,
+    "gn:latitude":36.69321,
+    "gn:longitude":3.45865,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Ben Bekrta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Ben Bekhta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484985
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"815c7ed9c215b6a5cc8bd34bf5f5fcf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209152959
+        }
+    ],
+    "wof:id":1209152959,
+    "wof:lastmodified":1537620126,
+    "wof:name":"Ouled Ben Bekrta",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.45865,
+    36.69321,
+    3.45865,
+    36.69321
+],
+  "geometry": {"coordinates":[3.45865,36.69321],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276478437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45,23.2,5.45,23.2",
+    "geom:latitude":23.2,
+    "geom:longitude":5.45,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ilamane",
+    "gn:country_code":"DZ",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493488,
+    "gn:latitude":23.2,
+    "gn:longitude":5.45,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ilamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493488
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"39953f3c01c31f7923a43075c7137894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276478437,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1276478437,
+    "wof:lastmodified":1537078440,
+    "wof:name":"Ilamane",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45,
+    23.2,
+    5.45,
+    23.2
+],
+  "geometry": {"coordinates":[5.45,23.2],"type":"Point"}
+}

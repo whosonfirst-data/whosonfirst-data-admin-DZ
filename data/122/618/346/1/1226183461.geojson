@@ -1,0 +1,65 @@
+{
+  "id": 1226183461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.79861,20.44472,1.79861,20.44472",
+    "geom:latitude":20.44472,
+    "geom:longitude":1.79861,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Timeiaouine",
+    "gn:country_code":"DZ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596770,
+    "gn:latitude":20.44472,
+    "gn:longitude":1.79861,
+    "gn:modification_date":"2005-04-11",
+    "gn:name":"Tim\u00e9\u00efaou\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596770
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2e08383bdf48eb07f709777e13f0c56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226183461,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1226183461,
+    "wof:lastmodified":1537022286,
+    "wof:name":"Timeiaouine",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.79861,
+    20.44472,
+    1.79861,
+    20.44472
+],
+  "geometry": {"coordinates":[1.79861,20.44472],"type":"Point"}
+}

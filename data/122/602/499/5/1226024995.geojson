@@ -1,0 +1,65 @@
+{
+  "id": 1226024995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58755,36.49639,5.58755,36.49639",
+    "geom:latitude":36.49639,
+    "geom:longitude":5.58755,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dar er Razi",
+    "gn:country_code":"DZ",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500866,
+    "gn:latitude":36.49639,
+    "gn:longitude":5.58755,
+    "gn:modification_date":"1994-09-20",
+    "gn:name":"Dar er Razi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500866
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"455aa9f513566591c70e6bf6c01f0e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226024995,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1226024995,
+    "wof:lastmodified":1536755186,
+    "wof:name":"Dar er Razi",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58755,
+    36.49639000000001,
+    5.58755,
+    36.49639000000001
+],
+  "geometry": {"coordinates":[5.58755,36.49639000000001],"type":"Point"}
+}

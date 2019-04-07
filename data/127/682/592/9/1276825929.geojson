@@ -1,0 +1,65 @@
+{
+  "id": 1276825929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.21539,35.43951,0.21539,35.43951",
+    "geom:latitude":35.43951,
+    "geom:longitude":0.21539,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kariat Nourdine",
+    "gn:country_code":"DZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392837,
+    "gn:latitude":35.43951,
+    "gn:longitude":0.21539,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kariat Nourdine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392837
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f8e5beae353eeec49c7ec9436f0cebf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276825929,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1276825929,
+    "wof:lastmodified":1536613638,
+    "wof:name":"Kariat Nourdine",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.21539,
+    35.43951,
+    0.21539,
+    35.43951
+],
+  "geometry": {"coordinates":[0.21539,35.43951],"type":"Point"}
+}

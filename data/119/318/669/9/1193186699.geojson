@@ -1,0 +1,65 @@
+{
+  "id": 1193186699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.82512,35.41432,-0.82512,35.41432",
+    "geom:latitude":35.41432,
+    "geom:longitude":-0.82512,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ahl Bel Hadri",
+    "gn:country_code":"DZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508538,
+    "gn:latitude":35.41432,
+    "gn:longitude":-0.82512,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ahl Bel Hadri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508538
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3dbf2ec9b29866ed7a2bc1251317e618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193186699,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1193186699,
+    "wof:lastmodified":1536365416,
+    "wof:name":"Ahl Bel Hadri",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.82512,
+    35.41432000000001,
+    -0.82512,
+    35.41432000000001
+],
+  "geometry": {"coordinates":[-0.82512,35.41432000000001],"type":"Point"}
+}

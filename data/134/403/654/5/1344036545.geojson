@@ -1,0 +1,65 @@
+{
+  "id": 1344036545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35673,36.79278,4.35673,36.79278",
+    "geom:latitude":36.79278,
+    "geom:longitude":4.35673,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Timiloust",
+    "gn:country_code":"DZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476404,
+    "gn:latitude":36.79278,
+    "gn:longitude":4.35673,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Timiloust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476404
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c06b76f0121da20ac6660b0d0c2d8d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344036545,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1344036545,
+    "wof:lastmodified":1536910549,
+    "wof:name":"Timiloust",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35673,
+    36.79278,
+    4.35673,
+    36.79278
+],
+  "geometry": {"coordinates":[4.35673,36.79278],"type":"Point"}
+}

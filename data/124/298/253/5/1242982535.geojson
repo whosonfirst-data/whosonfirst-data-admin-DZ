@@ -1,0 +1,72 @@
+{
+  "id": 1242982535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61056,35.555,5.61056,35.555",
+    "geom:latitude":35.555,
+    "geom:longitude":5.61056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"N'Gaous",
+    "gn:country_code":"DZ",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486177,
+    "gn:latitude":35.555,
+    "gn:longitude":5.61056,
+    "gn:modification_date":"2015-04-06",
+    "gn:name":"N\u2019Gaous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0642\u0627\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "N\u2019Gaous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486177,
+        "wk:page":"N%27Gaous"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"66f0ce8525eb5db656b5cb3e63fff205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242982535,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1242982535,
+    "wof:lastmodified":1537504277,
+    "wof:name":"N'Gaous",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61056,
+    35.555,
+    5.61056,
+    35.555
+],
+  "geometry": {"coordinates":[5.61056,35.555],"type":"Point"}
+}

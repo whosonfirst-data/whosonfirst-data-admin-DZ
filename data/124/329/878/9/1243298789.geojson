@@ -1,0 +1,65 @@
+{
+  "id": 1243298789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.92454,36.55884,1.92454,36.55884",
+    "geom:latitude":36.55884,
+    "geom:longitude":1.92454,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Douar M'Haba",
+    "gn:country_code":"DZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573020,
+    "gn:latitude":36.55884,
+    "gn:longitude":1.92454,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Douar M\u2019Haba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573020
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"37db2760d341143fb816cd7e605d50c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243298789,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1243298789,
+    "wof:lastmodified":1537017602,
+    "wof:name":"Douar M'Haba",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.92454,
+    36.55884,
+    1.92454,
+    36.55884
+],
+  "geometry": {"coordinates":[1.92454,36.55884],"type":"Point"}
+}

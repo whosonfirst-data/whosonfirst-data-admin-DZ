@@ -1,0 +1,65 @@
+{
+  "id": 1276331549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.28895,35.62857,2.28895,35.62857",
+    "geom:latitude":35.62857,
+    "geom:longitude":2.28895,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Douar Brahmia",
+    "gn:country_code":"DZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7439903,
+    "gn:latitude":35.62857,
+    "gn:longitude":2.28895,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Brahmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7439903
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"998dc3d430294ccf2ba2328e18b42754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276331549,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1276331549,
+    "wof:lastmodified":1536781442,
+    "wof:name":"Douar Brahmia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.28895,
+    35.62857,
+    2.28895,
+    35.62857
+],
+  "geometry": {"coordinates":[2.28895,35.62857],"type":"Point"}
+}

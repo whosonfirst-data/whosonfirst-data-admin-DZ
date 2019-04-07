@@ -1,0 +1,70 @@
+{
+  "id": 1259715129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29277,36.40466,1.29277,36.40466",
+    "geom:latitude":36.40466,
+    "geom:longitude":1.29277,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ounsour Enhas",
+    "gn:country_code":"DZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506968,
+    "gn:latitude":36.40466,
+    "gn:longitude":1.29277,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ounsour Enhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Station d\u2019Ancer En N\u2019Hace",
+        "Annseur en Nhas",
+        "Ounsour Enhas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506968
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9e8a746237cdf790b717df5169275554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259715129,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1259715129,
+    "wof:lastmodified":1537620250,
+    "wof:name":"Ounsour Enhas",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29277,
+    36.40466,
+    1.29277,
+    36.40466
+],
+  "geometry": {"coordinates":[1.29277,36.40466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360074865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.39222,35.82972,-0.39222,35.82972",
+    "geom:latitude":35.82972,
+    "geom:longitude":-0.39222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sidi Benyebka",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480888,
+    "gn:latitude":35.82972,
+    "gn:longitude":-0.39222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Benyebka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kl\u00e9ber",
+        "Sidi Benyebka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480888,
+        "wk:page":"Sidi_Ben_Yebka"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9f3280bf98e96ab2982d62446b0f448c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360074865,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1360074865,
+    "wof:lastmodified":1537620113,
+    "wof:name":"Sidi Benyebka",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.39222,
+    35.82972,
+    -0.39222,
+    35.82972
+],
+  "geometry": {"coordinates":[-0.39222,35.82972],"type":"Point"}
+}

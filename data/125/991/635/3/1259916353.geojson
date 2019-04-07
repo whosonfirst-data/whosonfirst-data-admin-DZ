@@ -1,0 +1,65 @@
+{
+  "id": 1259916353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.90056,35.69056,0.90056,35.69056",
+    "geom:latitude":35.69056,
+    "geom:longitude":0.90056,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Mchallal er Raha",
+    "gn:country_code":"DZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579898,
+    "gn:latitude":35.69056,
+    "gn:longitude":0.90056,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Mchallal er Raha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579898
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5bcbdfbc52c7fa7ac5a8cd7eefe6cc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259916353,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1259916353,
+    "wof:lastmodified":1536731992,
+    "wof:name":"Mchallal er Raha",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.90056,
+    35.69056,
+    0.90056,
+    35.69056
+],
+  "geometry": {"coordinates":[0.90056,35.69056],"type":"Point"}
+}

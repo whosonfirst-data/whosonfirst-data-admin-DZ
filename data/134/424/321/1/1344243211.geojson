@@ -1,0 +1,65 @@
+{
+  "id": 1344243211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56439,34.95736,1.56439,34.95736",
+    "geom:latitude":34.95736,
+    "geom:longitude":1.56439,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"'Ain Touhala",
+    "gn:country_code":"DZ",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507884,
+    "gn:latitude":34.95736,
+    "gn:longitude":1.56439,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u2019A\u00efn Touhala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507884
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c99a4628f59c6ff45a74c56c5fab2350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344243211,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1344243211,
+    "wof:lastmodified":1536609197,
+    "wof:name":"'Ain Touhala",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56439,
+    34.95735999999999,
+    1.56439,
+    34.95735999999999
+],
+  "geometry": {"coordinates":[1.56439,34.95735999999999],"type":"Point"}
+}

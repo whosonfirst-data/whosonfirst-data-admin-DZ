@@ -1,0 +1,71 @@
+{
+  "id": 1293032031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.76384,33.28789,-0.76384,33.28789",
+    "geom:latitude":33.28789,
+    "geom:longitude":-0.76384,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"'Ain Ben Khelil",
+    "gn:country_code":"DZ",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508272,
+    "gn:latitude":33.28789,
+    "gn:longitude":-0.76384,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Ben Khelil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Ben Kbellil",
+        "A\u00efn Ben Khelhil",
+        "A\u00efn Ben Krellil",
+        "\u2019A\u00efn Ben Khelil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508272
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9c61db29a851fb8d6a48743379cc4ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293032031,
+            "region_id":85670707
+        }
+    ],
+    "wof:id":1293032031,
+    "wof:lastmodified":1537620260,
+    "wof:name":"'Ain Ben Khelil",
+    "wof:parent_id":85670707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.76384,
+    33.28789,
+    -0.76384,
+    33.28789
+],
+  "geometry": {"coordinates":[-0.76384,33.28789],"type":"Point"}
+}

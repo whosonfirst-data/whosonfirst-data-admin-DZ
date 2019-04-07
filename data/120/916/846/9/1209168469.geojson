@@ -1,0 +1,65 @@
+{
+  "id": 1209168469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.88483,35.53158,7.88483,35.53158",
+    "geom:latitude":35.53158,
+    "geom:longitude":7.88483,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechtat Benarfa",
+    "gn:country_code":"DZ",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489173,
+    "gn:latitude":35.53158,
+    "gn:longitude":7.88483,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Benarfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Benarfa",
+        "Mechtat Benarfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489173
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7d6b0011a7d470eeb26ba06db6e9f71a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209168469
+        }
+    ],
+    "wof:id":1209168469,
+    "wof:lastmodified":1537620151,
+    "wof:name":"Mechtat Benarfa",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.88483,
+    35.53158,
+    7.88483,
+    35.53158
+],
+  "geometry": {"coordinates":[7.88483,35.53158],"type":"Point"}
+}

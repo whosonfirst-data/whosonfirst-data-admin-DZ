@@ -1,0 +1,72 @@
+{
+  "id": 1343833909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30595,36.56498,5.30595,36.56498",
+    "geom:latitude":36.56498,
+    "geom:longitude":5.30595,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Darguinah",
+    "gn:country_code":"DZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500863,
+    "gn:latitude":36.56498,
+    "gn:longitude":5.30595,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Darguinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darguina",
+        "Centre Darguinah",
+        "Darguinih",
+        "Darguinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500863,
+        "wk:page":"Darguina"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"98a3ed11afae681419562e68e9dfcd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343833909,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1343833909,
+    "wof:lastmodified":1537620227,
+    "wof:name":"Darguinah",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30595,
+    36.56498,
+    5.30595,
+    36.56498
+],
+  "geometry": {"coordinates":[5.30595,36.56498],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276271445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.03393,35.74492,8.03393,35.74492",
+    "geom:latitude":35.74492,
+    "geom:longitude":8.03393,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Bou Khadra",
+    "gn:country_code":"DZ",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502875,
+    "gn:latitude":35.74492,
+    "gn:longitude":8.03393,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bou Khadra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502875
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"19a8d586e32da56b53cbb926575b21db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276271445,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1276271445,
+    "wof:lastmodified":1536860189,
+    "wof:name":"Bou Khadra",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.03393,
+    35.74492,
+    8.03393,
+    35.74492
+],
+  "geometry": {"coordinates":[8.03393,35.74492],"type":"Point"}
+}

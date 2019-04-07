@@ -1,0 +1,65 @@
+{
+  "id": 1293192401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2066,35.98031,0.2066,35.98031",
+    "geom:latitude":35.98031,
+    "geom:longitude":0.2066,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Chehaidia",
+    "gn:country_code":"DZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7392002,
+    "gn:latitude":35.98031,
+    "gn:longitude":0.2066,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Cheha\u00efdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392002
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"884a74c8a832f3f7837b12975d6fceaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293192401,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1293192401,
+    "wof:lastmodified":1536715840,
+    "wof:name":"Douar Chehaidia",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2066,
+    35.98031,
+    0.2066,
+    35.98031
+],
+  "geometry": {"coordinates":[0.2066,35.98031],"type":"Point"}
+}

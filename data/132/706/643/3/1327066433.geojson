@@ -1,0 +1,65 @@
+{
+  "id": 1327066433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83913,35.05949,6.83913,35.05949",
+    "geom:latitude":35.05949,
+    "geom:longitude":6.83913,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Boudella",
+    "gn:country_code":"DZ",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503291,
+    "gn:latitude":35.05949,
+    "gn:longitude":6.83913,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Boudella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503291
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"278e222067406e9d10844ad3e942b6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327066433,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1327066433,
+    "wof:lastmodified":1536711561,
+    "wof:name":"Boudella",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.83913,
+    35.05949,
+    6.83913,
+    35.05949
+],
+  "geometry": {"coordinates":[6.83913,35.05949],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209320617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57639,36.38278,6.57639,36.38278",
+    "geom:latitude":36.38278,
+    "geom:longitude":6.57639,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Salah Bey",
+    "gn:country_code":"DZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2575842,
+    "gn:latitude":36.38278,
+    "gn:longitude":6.57639,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Salah Bey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2575842
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a681d10706a5f930942f89d268cfecff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209320617
+        }
+    ],
+    "wof:id":1209320617,
+    "wof:lastmodified":1536290707,
+    "wof:name":"Salah Bey",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.576389999999999,
+    36.38278,
+    6.576389999999999,
+    36.38278
+],
+  "geometry": {"coordinates":[6.57639,36.38278],"type":"Point"}
+}

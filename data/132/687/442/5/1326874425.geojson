@@ -1,0 +1,65 @@
+{
+  "id": 1326874425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.22677,35.23204,-1.22677,35.23204",
+    "geom:latitude":35.23204,
+    "geom:longitude":-1.22677,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Zitouna",
+    "gn:country_code":"DZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474342,
+    "gn:latitude":35.23204,
+    "gn:longitude":-1.22677,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zitouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474342
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"07f072970c448a91e16cabc0a9c46ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326874425,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1326874425,
+    "wof:lastmodified":1536987287,
+    "wof:name":"Zitouna",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.22677,
+    35.23204000000001,
+    -1.22677,
+    35.23204000000001
+],
+  "geometry": {"coordinates":[-1.22677,35.23204000000001],"type":"Point"}
+}

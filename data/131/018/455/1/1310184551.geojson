@@ -1,0 +1,96 @@
+{
+  "id": 1310184551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31699,35.37103,1.31699,35.37103",
+    "geom:latitude":35.37103,
+    "geom:longitude":1.31699,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tiaret",
+    "gn:country_code":"DZ",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2476897,
+    "gn:latitude":35.37103,
+    "gn:longitude":1.31699,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Tiaret",
+    "gn:population":178915,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0627\u0631\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0627\u0631\u062a"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0438\u0430\u0440\u0435\u0442"
+    ],
+    "name:lit_x_preferred":[
+        "Tiaretas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u06cc\u0627\u0631\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Tijarat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0430\u0440\u0435\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0430\u0440\u0435\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u4e9a\u96f7\u7279"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476897,
+        "wk:page":"Tiaret"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2276b5b0784a79acb9c5ba1d4a855dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310184551,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1310184551,
+    "wof:lastmodified":1537620098,
+    "wof:name":"Tiaret",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:population":178915,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31699,
+    35.37103,
+    1.31699,
+    35.37103
+],
+  "geometry": {"coordinates":[1.31699,35.37103],"type":"Point"}
+}

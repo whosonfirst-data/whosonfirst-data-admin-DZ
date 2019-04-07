@@ -1,0 +1,70 @@
+{
+  "id": 1259419523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26639,36.31417,6.26639,36.31417",
+    "geom:latitude":36.31417,
+    "geom:longitude":6.26639,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Bled Youssef",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503772,
+    "gn:latitude":36.31417,
+    "gn:longitude":6.26639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bled Youssef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ribeauville",
+        "Bled Youssef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503772
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7ed0bc635a12f6749fdea78095c4d8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259419523,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1259419523,
+    "wof:lastmodified":1537620241,
+    "wof:name":"Bled Youssef",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26639,
+    36.31417,
+    6.26639,
+    36.31417
+],
+  "geometry": {"coordinates":[6.26639,36.31417],"type":"Point"}
+}

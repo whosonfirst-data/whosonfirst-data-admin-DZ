@@ -1,0 +1,70 @@
+{
+  "id": 1259714199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18047,36.47837,6.18047,36.47837",
+    "geom:latitude":36.47837,
+    "geom:longitude":6.18047,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mechta Zeraia",
+    "gn:country_code":"DZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488946,
+    "gn:latitude":36.47837,
+    "gn:longitude":6.18047,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Zera\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9r\u00efa",
+        "Mechtat Z\u00e9ra\u00efa",
+        "Mechta Zera\u00efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488946
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"84fe24670ebd6b8ee7598b9c7c891a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259714199,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1259714199,
+    "wof:lastmodified":1537620145,
+    "wof:name":"Mechta Zeraia",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18047,
+    36.47837,
+    6.18047,
+    36.47837
+],
+  "geometry": {"coordinates":[6.18047,36.47837],"type":"Point"}
+}

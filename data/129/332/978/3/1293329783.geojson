@@ -1,0 +1,65 @@
+{
+  "id": 1293329783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.63493,27.25071,2.63493,27.25071",
+    "geom:latitude":27.25071,
+    "geom:longitude":2.63493,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Igostene",
+    "gn:country_code":"DZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493595,
+    "gn:latitude":27.25071,
+    "gn:longitude":2.63493,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Igostene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493595
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a495312d0ca826dafe1c0f6076fc5582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293329783,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1293329783,
+    "wof:lastmodified":1537013615,
+    "wof:name":"Igostene",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.63493,
+    27.25071,
+    2.63493,
+    27.25071
+],
+  "geometry": {"coordinates":[2.63493,27.25071],"type":"Point"}
+}

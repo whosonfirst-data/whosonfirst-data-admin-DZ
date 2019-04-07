@@ -1,0 +1,71 @@
+{
+  "id": 1343800799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21787,32.02142,-2.21787,32.02142",
+    "geom:latitude":32.02142,
+    "geom:longitude":-2.21787,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Moughel",
+    "gn:country_code":"DZ",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486868,
+    "gn:latitude":32.02142,
+    "gn:longitude":-2.21787,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moughel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogheul",
+        "Mourhel",
+        "Moughel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486868,
+        "wk:page":"Mogheul"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"84ae37309cb64a50bb1b7547151dcc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343800799,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1343800799,
+    "wof:lastmodified":1537620137,
+    "wof:name":"Moughel",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21787,
+    32.02142,
+    -2.21787,
+    32.02142
+],
+  "geometry": {"coordinates":[-2.21787,32.02142],"type":"Point"}
+}

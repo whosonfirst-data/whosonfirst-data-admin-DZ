@@ -1,0 +1,224 @@
+{
+  "id": 421168189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51109,34.68284,6.51109,34.68284",
+    "geom:latitude":34.68284,
+    "geom:longitude":6.51109,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u064a\u0628\u0629 \u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Zeribet el Oued"
+    ],
+    "name:dut_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:eng_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:fra_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:fre_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:ita_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:may_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:msa_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:por_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:ron_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:rum_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:swe_x_preferred":[
+        "Zeribet el Oued"
+    ],
+    "name:unk_x_variant":[
+        "Zribet el Oued"
+    ],
+    "name:vie_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Zeribet El Oued"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Biskra",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":33.370404,
+    "ne:LONGITUDE":6.859984,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Oued",
+    "ne:MAX_AREAKM":50.0,
+    "ne:MAX_AREAMI":19.0,
+    "ne:MAX_BBXMAX":6.933333,
+    "ne:MAX_BBXMIN":6.816667,
+    "ne:MAX_BBYMAX":33.416667,
+    "ne:MAX_BBYMIN":33.275,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":57.0,
+    "ne:MAX_PERMI":36.0,
+    "ne:MAX_POP10":177497,
+    "ne:MAX_POP20":177497,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":6.874405,
+    "ne:MEAN_BBYC":33.347857,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":50.0,
+    "ne:MIN_AREAMI":19.0,
+    "ne:MIN_BBXMAX":6.933333,
+    "ne:MIN_BBXMIN":6.816667,
+    "ne:MIN_BBYMAX":33.416667,
+    "ne:MIN_BBYMIN":33.275,
+    "ne:MIN_PERKM":57.0,
+    "ne:MIN_PERMI":36.0,
+    "ne:NAME":"El Oued",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Oued",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":177497,
+    "ne:POP_MIN":177497,
+    "ne:POP_OTHER":177497,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2474506,
+    "qs:gn_pop":23187,
+    "qs:name":"Zeribet el Oued",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0633\u0643\u0631\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1035909,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1258012,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474506,
+        "gp:id":1258012,
+        "qs:id":1035909,
+        "wd:id":"Q3575264",
+        "wk:page":"Zeribet El Oued"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008757,
+    "wof:geomhash":"99f41b8c6ae435e06bffaac6b23caa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421168189,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":421168189,
+    "wof:lastmodified":1527716094,
+    "wof:name":"Zeribet el Oued",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:population":23187,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.51109,
+    34.68284,
+    6.51109,
+    34.68284
+],
+  "geometry": {"coordinates":[6.51109,34.68284],"type":"Point"}
+}

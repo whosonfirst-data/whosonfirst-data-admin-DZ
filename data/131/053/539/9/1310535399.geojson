@@ -1,0 +1,68 @@
+{
+  "id": 1310535399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.11895,36.18334,1.11895,36.18334",
+    "geom:latitude":36.18334,
+    "geom:longitude":1.11895,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar Ouled Habib",
+    "gn:country_code":"DZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7379680,
+    "gn:latitude":36.18334,
+    "gn:longitude":1.11895,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Douar Ouled Habib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled el Hab\u00eeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7379680
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e17c6bcafbe9ec7ed4637e649e9713a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310535399,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1310535399,
+    "wof:lastmodified":1537620276,
+    "wof:name":"Douar Ouled Habib",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.11895,
+    36.18334,
+    1.11895,
+    36.18334
+],
+  "geometry": {"coordinates":[1.11895,36.18334],"type":"Point"}
+}

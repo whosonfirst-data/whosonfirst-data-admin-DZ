@@ -1,0 +1,65 @@
+{
+  "id": 1293482435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28386,36.20531,3.28386,36.20531",
+    "geom:latitude":36.20531,
+    "geom:longitude":3.28386,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Souahlia",
+    "gn:country_code":"DZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280610,
+    "gn:latitude":36.20531,
+    "gn:longitude":3.28386,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Souahlia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280610
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ff307fefeec957d3900e284e9d3d90c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293482435,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293482435,
+    "wof:lastmodified":1536794621,
+    "wof:name":"Souahlia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28386,
+    36.20531,
+    3.28386,
+    36.20531
+],
+  "geometry": {"coordinates":[3.28386,36.20531],"type":"Point"}
+}

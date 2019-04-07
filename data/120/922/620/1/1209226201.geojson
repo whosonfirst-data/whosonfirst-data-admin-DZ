@@ -1,0 +1,61 @@
+{
+  "id": 1209226201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78161,35.69755,6.78161,35.69755",
+    "geom:latitude":35.69755,
+    "geom:longitude":6.78161,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Draa el Ahmar",
+    "gn:country_code":"DZ",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2499112,
+    "gn:latitude":35.69755,
+    "gn:longitude":6.78161,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Draa el Ahmar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499112
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d69eeb916d30dd7214874228fe374188",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209226201
+        }
+    ],
+    "wof:id":1209226201,
+    "wof:lastmodified":1536293792,
+    "wof:name":"Draa el Ahmar",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7816100000000015,
+    35.69755,
+    6.7816100000000015,
+    35.69755
+],
+  "geometry": {"coordinates":[6.78161,35.69755],"type":"Point"}
+}

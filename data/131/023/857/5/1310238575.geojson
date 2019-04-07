@@ -1,0 +1,65 @@
+{
+  "id": 1310238575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29786,36.43662,1.29786,36.43662",
+    "geom:latitude":36.43662,
+    "geom:longitude":1.29786,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bouhallou",
+    "gn:country_code":"DZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572518,
+    "gn:latitude":36.43662,
+    "gn:longitude":1.29786,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Bouhallou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572518
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b7644c93b977637d311012559c44eaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310238575,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1310238575,
+    "wof:lastmodified":1536804405,
+    "wof:name":"Bouhallou",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29786,
+    36.43662,
+    1.29786,
+    36.43662
+],
+  "geometry": {"coordinates":[1.29786,36.43662],"type":"Point"}
+}

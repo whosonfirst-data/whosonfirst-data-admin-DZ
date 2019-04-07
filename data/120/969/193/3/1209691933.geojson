@@ -1,0 +1,65 @@
+{
+  "id": 1209691933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.6927,36.33205,4.6927,36.33205",
+    "geom:latitude":36.33205,
+    "geom:longitude":4.6927,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Taourmit",
+    "gn:country_code":"DZ",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477882,
+    "gn:latitude":36.33205,
+    "gn:longitude":4.6927,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taourmit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taourmitte",
+        "Taourmit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477882
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c3efb20263ff761a2902aa802f0df07c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209691933
+        }
+    ],
+    "wof:id":1209691933,
+    "wof:lastmodified":1537620103,
+    "wof:name":"Taourmit",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6927,
+    36.33205,
+    4.6927,
+    36.33205
+],
+  "geometry": {"coordinates":[4.6927,36.33205],"type":"Point"}
+}

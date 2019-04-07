@@ -1,0 +1,131 @@
+{
+  "id": 421174565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.85668,36.27462,4.85668,36.27462",
+    "geom:latitude":36.27462,
+    "geom:longitude":4.85668,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:dut_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:eng_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:fra_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:fre_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:ita_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:may_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:msa_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:ron_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:rum_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:swe_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:unk_x_variant":[
+        "Zemmoura"
+    ],
+    "name:vie_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bordj Zemoura"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2503620,
+    "qs:gn_pop":19782,
+    "qs:name":"Bordj Zemoura",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Setif",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1296042,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253554,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503620,
+        "gp:id":1253554,
+        "qs:id":1296042,
+        "wd:id":"Q1648662",
+        "wk:page":"Bordj Zemoura"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009036,
+    "wof:geomhash":"3e2c8e7c033afe3abbddce15e26b4f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421174565,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":421174565,
+    "wof:lastmodified":1527716229,
+    "wof:name":"Bordj Zemoura",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:population":19782,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.85668,
+    36.27462,
+    4.85668,
+    36.27462
+],
+  "geometry": {"coordinates":[4.85668,36.27462],"type":"Point"}
+}

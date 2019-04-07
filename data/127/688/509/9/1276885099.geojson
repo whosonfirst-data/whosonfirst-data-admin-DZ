@@ -1,0 +1,65 @@
+{
+  "id": 1276885099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07814,35.3094,6.07814,35.3094",
+    "geom:latitude":35.3094,
+    "geom:longitude":6.07814,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Arba",
+    "gn:country_code":"DZ",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506656,
+    "gn:latitude":35.3094,
+    "gn:longitude":6.07814,
+    "gn:modification_date":"1996-01-31",
+    "gn:name":"Arba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506656
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"742787995c1fb218088c3680195c8ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276885099,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1276885099,
+    "wof:lastmodified":1537032692,
+    "wof:name":"Arba",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07814,
+    35.3094,
+    6.07814,
+    35.3094
+],
+  "geometry": {"coordinates":[6.07814,35.3094],"type":"Point"}
+}

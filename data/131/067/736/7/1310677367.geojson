@@ -1,0 +1,65 @@
+{
+  "id": 1310677367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.99757,35.07182,0.99757,35.07182",
+    "geom:latitude":35.07182,
+    "geom:longitude":0.99757,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sidi Nour Eddine",
+    "gn:country_code":"DZ",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577724,
+    "gn:latitude":35.07182,
+    "gn:longitude":0.99757,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Sidi Nour Eddine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577724
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"68468bfe69b5f7b0ab1c91bc2d9feb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310677367,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1310677367,
+    "wof:lastmodified":1536669032,
+    "wof:name":"Sidi Nour Eddine",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.99757,
+    35.07182,
+    0.99757,
+    35.07182
+],
+  "geometry": {"coordinates":[0.99757,35.07182],"type":"Point"}
+}

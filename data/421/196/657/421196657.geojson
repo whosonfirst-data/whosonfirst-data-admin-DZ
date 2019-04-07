@@ -1,0 +1,128 @@
+{
+  "id": 421196657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00803,33.49885,6.00803,33.49885",
+    "geom:latitude":33.49885,
+    "geom:longitude":6.00803,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u0645\u0631\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:may_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0645\u0631\u0627\u0646"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sidi Amrane"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2481058,
+    "qs:gn_pop":29734,
+    "qs:name":"Sidi Amrane",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0648\u0627\u062f\u064a",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1294899,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257290,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":346,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481058,
+        "gp:id":1257290,
+        "qs:id":1294899,
+        "wd:id":"Q3325140",
+        "wk:page":"Sidi Amrane"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009889,
+    "wof:geomhash":"3952e5e5e4666c7d4a20120159da5b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421196657,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":421196657,
+    "wof:lastmodified":1527716363,
+    "wof:name":"Sidi Amrane",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:population":29734,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00803,
+    33.49885,
+    6.00803,
+    33.49885
+],
+  "geometry": {"coordinates":[6.00803,33.49885],"type":"Point"}
+}

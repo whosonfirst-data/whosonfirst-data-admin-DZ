@@ -1,0 +1,65 @@
+{
+  "id": 1360121253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16012,36.0194,1.16012,36.0194",
+    "geom:latitude":36.0194,
+    "geom:longitude":1.16012,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Athmania",
+    "gn:country_code":"DZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425849,
+    "gn:latitude":36.0194,
+    "gn:longitude":1.16012,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Athmania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425849
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d3ad7b7be624ce94baa3bc28e92e3134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360121253,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1360121253,
+    "wof:lastmodified":1536893099,
+    "wof:name":"Athmania",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16012,
+    36.0194,
+    1.16012,
+    36.0194
+],
+  "geometry": {"coordinates":[1.16012,36.0194],"type":"Point"}
+}

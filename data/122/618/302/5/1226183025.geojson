@@ -1,0 +1,65 @@
+{
+  "id": 1226183025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.66565,36.14392,2.66565,36.14392",
+    "geom:latitude":36.14392,
+    "geom:longitude":2.66565,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bouachoan",
+    "gn:country_code":"DZ",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7442415,
+    "gn:latitude":36.14392,
+    "gn:longitude":2.66565,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bouachoan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7442415
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9a88e5df3a1b80e734fb3b07f963ad07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226183025,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226183025,
+    "wof:lastmodified":1537022888,
+    "wof:name":"Bouachoan",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.66565,
+    36.14392,
+    2.66565,
+    36.14392
+],
+  "geometry": {"coordinates":[2.66565,36.14392],"type":"Point"}
+}

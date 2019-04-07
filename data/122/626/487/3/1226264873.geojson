@@ -1,0 +1,66 @@
+{
+  "id": 1226264873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.63322,36.39149,3.63322,36.39149",
+    "geom:latitude":36.39149,
+    "geom:longitude":3.63322,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Souk el Khemis",
+    "gn:country_code":"DZ",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479198,
+    "gn:latitude":36.39149,
+    "gn:longitude":3.63322,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Souk el Khemis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479198,
+        "wk:page":"Souk_El_Khemis"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9a45e43f20e2126734c6211891c947fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226264873,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1226264873,
+    "wof:lastmodified":1537504269,
+    "wof:name":"Souk el Khemis",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.63322,
+    36.39149000000001,
+    3.63322,
+    36.39149000000001
+],
+  "geometry": {"coordinates":[3.63322,36.39149000000001],"type":"Point"}
+}

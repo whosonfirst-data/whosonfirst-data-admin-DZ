@@ -1,0 +1,65 @@
+{
+  "id": 1226066477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16428,35.92733,0.16428,35.92733",
+    "geom:latitude":35.92733,
+    "geom:longitude":0.16428,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ksamra",
+    "gn:country_code":"DZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392039,
+    "gn:latitude":35.92733,
+    "gn:longitude":0.16428,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ksamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392039
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"524c4cf179c025f62777c955cdd7bf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226066477,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1226066477,
+    "wof:lastmodified":1536695567,
+    "wof:name":"Douar Ksamra",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16428,
+    35.92733,
+    0.16428,
+    35.92733
+],
+  "geometry": {"coordinates":[0.16428,35.92733],"type":"Point"}
+}

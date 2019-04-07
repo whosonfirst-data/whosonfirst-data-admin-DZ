@@ -1,0 +1,68 @@
+{
+  "id": 1226518719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.58938,35.23692,2.58938,35.23692",
+    "geom:latitude":35.23692,
+    "geom:longitude":2.58938,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kobbi el Mograne",
+    "gn:country_code":"DZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441591,
+    "gn:latitude":35.23692,
+    "gn:longitude":2.58938,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kobbi el Mograne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobbi Mograne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441591
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"59370551c3c2c3ad9739b19be89bf2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226518719,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1226518719,
+    "wof:lastmodified":1537620276,
+    "wof:name":"Kobbi el Mograne",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.58938,
+    35.23692,
+    2.58938,
+    35.23692
+],
+  "geometry": {"coordinates":[2.58938,35.23692],"type":"Point"}
+}

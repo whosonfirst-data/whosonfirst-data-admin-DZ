@@ -1,0 +1,66 @@
+{
+  "id": 1310435795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.68659,33.72132,1.68659,33.72132",
+    "geom:latitude":33.72132,
+    "geom:longitude":1.68659,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Sidi Tifour",
+    "gn:country_code":"DZ",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479734,
+    "gn:latitude":33.72132,
+    "gn:longitude":1.68659,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Sidi Tifour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479734,
+        "wk:page":"Sidi_Taifour"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"666bef007ea96a3c56ac9ba30a4ed3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310435795,
+            "region_id":85670741
+        }
+    ],
+    "wof:id":1310435795,
+    "wof:lastmodified":1537504269,
+    "wof:name":"Sidi Tifour",
+    "wof:parent_id":85670741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.68659,
+    33.72132,
+    1.68659,
+    33.72132
+],
+  "geometry": {"coordinates":[1.68659,33.72132],"type":"Point"}
+}

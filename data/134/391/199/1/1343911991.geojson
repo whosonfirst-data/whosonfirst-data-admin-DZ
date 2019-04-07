@@ -1,0 +1,65 @@
+{
+  "id": 1343911991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.21425,35.22797,8.21425,35.22797",
+    "geom:latitude":35.22797,
+    "geom:longitude":8.21425,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechta Ouled Melloul",
+    "gn:country_code":"DZ",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489323,
+    "gn:latitude":35.22797,
+    "gn:longitude":8.21425,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Ouled Melloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489323
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2cacd8d9a708ba98158f199fdd57a9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343911991,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1343911991,
+    "wof:lastmodified":1537086875,
+    "wof:name":"Mechta Ouled Melloul",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.21425,
+    35.22797,
+    8.21425,
+    35.22797
+],
+  "geometry": {"coordinates":[8.21425,35.22797],"type":"Point"}
+}

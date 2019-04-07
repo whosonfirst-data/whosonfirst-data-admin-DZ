@@ -1,0 +1,70 @@
+{
+  "id": 1242585005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30861,35.1392,6.30861,35.1392",
+    "geom:latitude":35.1392,
+    "geom:longitude":6.30861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"T'Kout",
+    "gn:country_code":"DZ",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475701,
+    "gn:latitude":35.1392,
+    "gn:longitude":6.30861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019Kout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tkouf",
+        "T\u2019Kout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475701,
+        "wk:page":"Tkoutt"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3653ccde6e68b5a91fa4b4c924a0c0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242585005,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1242585005,
+    "wof:lastmodified":1537620094,
+    "wof:name":"T'Kout",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30861,
+    35.1392,
+    6.30861,
+    35.1392
+],
+  "geometry": {"coordinates":[6.30861,35.1392],"type":"Point"}
+}

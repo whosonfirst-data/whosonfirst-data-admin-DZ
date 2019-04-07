@@ -1,0 +1,65 @@
+{
+  "id": 1327486971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41523,36.01664,2.41523,36.01664",
+    "geom:latitude":36.01664,
+    "geom:longitude":2.41523,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Ouled H'Mida",
+    "gn:country_code":"DZ",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7436645,
+    "gn:latitude":36.01664,
+    "gn:longitude":2.41523,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Ouled H\u2019Mida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7436645
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"befff32f6c20ae929977ca64e26a85a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327486971,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1327486971,
+    "wof:lastmodified":1537096583,
+    "wof:name":"Douar Ouled H'Mida",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41523,
+    36.01664,
+    2.41523,
+    36.01664
+],
+  "geometry": {"coordinates":[2.41523,36.01664],"type":"Point"}
+}

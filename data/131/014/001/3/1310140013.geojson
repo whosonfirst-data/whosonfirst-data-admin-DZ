@@ -1,0 +1,65 @@
+{
+  "id": 1310140013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.97095,35.63707,0.97095,35.63707",
+    "geom:latitude":35.63707,
+    "geom:longitude":0.97095,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Lehoudef",
+    "gn:country_code":"DZ",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417522,
+    "gn:latitude":35.63707,
+    "gn:longitude":0.97095,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Lehoudef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417522
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6ca07f2714f308fd509702f5824322e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310140013,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1310140013,
+    "wof:lastmodified":1536947113,
+    "wof:name":"Lehoudef",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.97095,
+    35.63707,
+    0.97095,
+    35.63707
+],
+  "geometry": {"coordinates":[0.97095,35.63707],"type":"Point"}
+}

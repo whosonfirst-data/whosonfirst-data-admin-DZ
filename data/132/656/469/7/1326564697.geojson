@@ -1,0 +1,65 @@
+{
+  "id": 1326564697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.59056,36.1875,1.59056,36.1875",
+    "geom:latitude":36.1875,
+    "geom:longitude":1.59056,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Chami",
+    "gn:country_code":"DZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2484944,
+    "gn:latitude":36.1875,
+    "gn:longitude":1.59056,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Ouled Chami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484944
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"87531d633002fccc398cd91696aa8abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326564697,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1326564697,
+    "wof:lastmodified":1536937925,
+    "wof:name":"Ouled Chami",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.59056,
+    36.1875,
+    1.59056,
+    36.1875
+],
+  "geometry": {"coordinates":[1.59056,36.1875],"type":"Point"}
+}

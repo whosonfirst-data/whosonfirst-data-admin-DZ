@@ -1,0 +1,65 @@
+{
+  "id": 1309969299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.24608,36.60027,5.24608,36.60027",
+    "geom:latitude":36.60027,
+    "geom:longitude":5.24608,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"M'Sbah",
+    "gn:country_code":"DZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486729,
+    "gn:latitude":36.60027,
+    "gn:longitude":5.24608,
+    "gn:modification_date":"1994-06-10",
+    "gn:name":"M\u2019Sbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486729
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1f8e6ba6d4373b046894e2e3b7018f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309969299,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1309969299,
+    "wof:lastmodified":1536695797,
+    "wof:name":"M'Sbah",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.24608,
+    36.60027,
+    5.24608,
+    36.60027
+],
+  "geometry": {"coordinates":[5.24608,36.60027],"type":"Point"}
+}

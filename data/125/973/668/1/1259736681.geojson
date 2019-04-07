@@ -1,0 +1,65 @@
+{
+  "id": 1259736681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.04471,36.21518,2.04471,36.21518",
+    "geom:latitude":36.21518,
+    "geom:longitude":2.04471,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Reguedia",
+    "gn:country_code":"DZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483748,
+    "gn:latitude":36.21518,
+    "gn:longitude":2.04471,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Reguedia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483748
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"62e844cdf1da9d782b8a44302682bdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259736681,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1259736681,
+    "wof:lastmodified":1536989778,
+    "wof:name":"Reguedia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.04471,
+    36.21518,
+    2.04471,
+    36.21518
+],
+  "geometry": {"coordinates":[2.04471,36.21518],"type":"Point"}
+}

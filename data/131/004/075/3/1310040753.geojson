@@ -1,0 +1,70 @@
+{
+  "id": 1310040753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5444,35.42971,7.5444,35.42971",
+    "geom:latitude":35.42971,
+    "geom:longitude":7.5444,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Dhalaa",
+    "gn:country_code":"DZ",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500488,
+    "gn:latitude":35.42971,
+    "gn:longitude":7.5444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dhalaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Dalaa",
+        "Dalaa",
+        "Dhalaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500488
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c7918c43acd37b1bed7943d03852e808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310040753,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1310040753,
+    "wof:lastmodified":1537620225,
+    "wof:name":"Dhalaa",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5444,
+    35.42971,
+    7.5444,
+    35.42971
+],
+  "geometry": {"coordinates":[7.5444,35.42971],"type":"Point"}
+}

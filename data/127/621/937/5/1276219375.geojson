@@ -1,0 +1,65 @@
+{
+  "id": 1276219375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.45061,36.02606,3.45061,36.02606",
+    "geom:latitude":36.02606,
+    "geom:longitude":3.45061,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Ghenem",
+    "gn:country_code":"DZ",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281898,
+    "gn:latitude":36.02606,
+    "gn:longitude":3.45061,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ouled Ghenem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281898
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"56c36f44356c54d0f0fff6d3932f589b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276219375,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1276219375,
+    "wof:lastmodified":1536932422,
+    "wof:name":"Ouled Ghenem",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.45061,
+    36.02606,
+    3.45061,
+    36.02606
+],
+  "geometry": {"coordinates":[3.45061,36.02606],"type":"Point"}
+}

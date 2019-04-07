@@ -1,0 +1,66 @@
+{
+  "id": 1277163579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.68151,35.19894,2.68151,35.19894",
+    "geom:latitude":35.19894,
+    "geom:longitude":2.68151,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Guernini",
+    "gn:country_code":"DZ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441590,
+    "gn:latitude":35.19894,
+    "gn:longitude":2.68151,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Guernini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441590,
+        "wk:page":"Guernini"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b060ac2e52837cc4c6565e12a1ec5913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277163579,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1277163579,
+    "wof:lastmodified":1537504313,
+    "wof:name":"Guernini",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.68151,
+    35.19894,
+    2.68151,
+    35.19894
+],
+  "geometry": {"coordinates":[2.68151,35.19894],"type":"Point"}
+}

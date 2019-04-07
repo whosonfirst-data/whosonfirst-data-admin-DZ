@@ -1,0 +1,65 @@
+{
+  "id": 1259944345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4713,36.50845,3.4713,36.50845",
+    "geom:latitude":36.50845,
+    "geom:longitude":3.4713,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Zaouia Babor",
+    "gn:country_code":"DZ",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474878,
+    "gn:latitude":36.50845,
+    "gn:longitude":3.4713,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zaou\u00efa Babor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474878
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"458fa795f6f191ac2baa19532eaedc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259944345,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1259944345,
+    "wof:lastmodified":1536691781,
+    "wof:name":"Zaouia Babor",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4713,
+    36.50845,
+    3.4713,
+    36.50845
+],
+  "geometry": {"coordinates":[3.4713,36.50845],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226081645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.09008,36.13907,1.09008,36.13907",
+    "geom:latitude":36.13907,
+    "geom:longitude":1.09008,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Salem",
+    "gn:country_code":"DZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484806,
+    "gn:latitude":36.13907,
+    "gn:longitude":1.09008,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Salem",
+        "Ouled Salem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484806
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"725dea4bcbd44a7995a532fd752f09fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226081645,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1226081645,
+    "wof:lastmodified":1537620123,
+    "wof:name":"Ouled Salem",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.09008,
+    36.13907,
+    1.09008,
+    36.13907
+],
+  "geometry": {"coordinates":[1.09008,36.13907],"type":"Point"}
+}

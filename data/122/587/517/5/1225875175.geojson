@@ -1,0 +1,70 @@
+{
+  "id": 1225875175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2298,36.47784,6.2298,36.47784",
+    "geom:latitude":36.47784,
+    "geom:longitude":6.2298,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Bou Fourh",
+    "gn:country_code":"DZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503158,
+    "gn:latitude":36.47784,
+    "gn:longitude":6.2298,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou Fourh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Foua",
+        "Bou Fouah",
+        "Bou Fourh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503158
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f09200bce3e70b3d5d36765d067626ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225875175,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1225875175,
+    "wof:lastmodified":1537620235,
+    "wof:name":"Bou Fourh",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2298,
+    36.47784,
+    6.2298,
+    36.47784
+],
+  "geometry": {"coordinates":[6.2298,36.47784],"type":"Point"}
+}

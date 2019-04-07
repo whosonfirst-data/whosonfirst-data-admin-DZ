@@ -1,0 +1,65 @@
+{
+  "id": 1360115801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.70941,33.19784,6.70941,33.19784",
+    "geom:latitude":33.19784,
+    "geom:longitude":6.70941,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Mih Ouensa",
+    "gn:country_code":"DZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205659,
+    "gn:latitude":33.19784,
+    "gn:longitude":6.70941,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Mih Ouensa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205659
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b25a668df0d64ec38881dcc809780b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360115801,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1360115801,
+    "wof:lastmodified":1536901481,
+    "wof:name":"Mih Ouensa",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.70941,
+    33.19784,
+    6.70941,
+    33.19784
+],
+  "geometry": {"coordinates":[6.70941,33.19784],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890443153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.72939,35.71049,0.72939,35.71049",
+    "geom:latitude":35.71049,
+    "geom:longitude":0.72939,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":10,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Zaouia Benameur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115826,
+        "gp:id":1257118,
+        "qs:id":656671
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052404,
+    "wof:geomhash":"85abdd003ca8144c09a52ba9a8ed9531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890443153,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":890443153,
+    "wof:lastmodified":1505343592,
+    "wof:name":"Zaouia Benameur",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.72939,
+    35.71049,
+    0.72939,
+    35.71049
+],
+  "geometry": {"coordinates":[0.72939,35.71049],"type":"Point"}
+}

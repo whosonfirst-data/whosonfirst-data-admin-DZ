@@ -1,0 +1,65 @@
+{
+  "id": 1310402725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.35306,36.14611,0.35306,36.14611",
+    "geom:latitude":36.14611,
+    "geom:longitude":0.35306,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Bou Khatem",
+    "gn:country_code":"DZ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2574060,
+    "gn:latitude":36.14611,
+    "gn:longitude":0.35306,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Bou Khatem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2574060
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"11449c8b6ce0d71e9fec615a9fabd3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310402725,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1310402725,
+    "wof:lastmodified":1537062510,
+    "wof:name":"Douar Bou Khatem",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.35306,
+    36.14611,
+    0.35306,
+    36.14611
+],
+  "geometry": {"coordinates":[0.35306,36.14611],"type":"Point"}
+}

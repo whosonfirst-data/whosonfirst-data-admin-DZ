@@ -1,0 +1,65 @@
+{
+  "id": 1276540689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.33886,35.87111,0.33886,35.87111",
+    "geom:latitude":35.87111,
+    "geom:longitude":0.33886,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Minenda",
+    "gn:country_code":"DZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7415457,
+    "gn:latitude":35.87111,
+    "gn:longitude":0.33886,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Minenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7415457
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e8b0a6b0fce9259261e57fb801fe1ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276540689,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1276540689,
+    "wof:lastmodified":1536997407,
+    "wof:name":"Douar Minenda",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.33886,
+    35.87110999999999,
+    0.33886,
+    35.87110999999999
+],
+  "geometry": {"coordinates":[0.33886,35.87110999999999],"type":"Point"}
+}

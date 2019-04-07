@@ -1,0 +1,78 @@
+{
+  "id": 421192355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.89355,35.70477,-0.89355,35.70477",
+    "geom:latitude":35.70477,
+    "geom:longitude":-0.89355,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Andalouse"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2490870,
+    "qs:gn_pop":0,
+    "qs:name":"Les Andalouses",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167960,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255323,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490870,
+        "gp:id":1255323,
+        "qs:id":1167960
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009734,
+    "wof:geomhash":"d00204e740ddff1a00a36b0bfb88603d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421192355,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":421192355,
+    "wof:lastmodified":1527716108,
+    "wof:name":"Les Andalouses",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.89355,
+    35.70477,
+    -0.89355,
+    35.70477
+],
+  "geometry": {"coordinates":[-0.89355,35.70477],"type":"Point"}
+}

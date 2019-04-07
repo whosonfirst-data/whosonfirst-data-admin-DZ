@@ -1,0 +1,71 @@
+{
+  "id": 1343826105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05,36.85,6.05,36.85",
+    "geom:latitude":36.85,
+    "geom:longitude":6.05,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Sidi Abdelaziz",
+    "gn:country_code":"DZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481566,
+    "gn:latitude":36.85,
+    "gn:longitude":6.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Abdelaziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djema Abd el Aziz",
+        "Sidi Abdellaziz",
+        "Sidi Abdelaziz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481566,
+        "wk:page":"Sidi_Abdelaziz"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"db4f963941c952a7105b1e68718c48f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343826105,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1343826105,
+    "wof:lastmodified":1537620114,
+    "wof:name":"Sidi Abdelaziz",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05,
+    36.85,
+    6.05,
+    36.85
+],
+  "geometry": {"coordinates":[6.05,36.85],"type":"Point"}
+}

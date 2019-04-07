@@ -1,0 +1,65 @@
+{
+  "id": 1209140537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93333,36.78333,6.93333,36.78333",
+    "geom:latitude":36.78333,
+    "geom:longitude":6.93333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Beni Bechir",
+    "gn:country_code":"DZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504723,
+    "gn:latitude":36.78333,
+    "gn:longitude":6.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beni Bech\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Bech\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504723,
+        "wk:page":"Beni_Bechir"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6c4b7c9a9554414040d5ba7c50d39e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209140537
+        }
+    ],
+    "wof:id":1209140537,
+    "wof:lastmodified":1537620245,
+    "wof:name":"Beni Bechir",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93333,
+    36.78333,
+    6.93333,
+    36.78333
+],
+  "geometry": {"coordinates":[6.93333,36.78333],"type":"Point"}
+}

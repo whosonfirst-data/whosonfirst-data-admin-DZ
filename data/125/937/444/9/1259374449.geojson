@@ -1,0 +1,65 @@
+{
+  "id": 1259374449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.51821,35.99916,0.51821,35.99916",
+    "geom:latitude":35.99916,
+    "geom:longitude":0.51821,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Satfoura",
+    "gn:country_code":"DZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7422085,
+    "gn:latitude":35.99916,
+    "gn:longitude":0.51821,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Satfoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7422085
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7cd63ba493c47e9b7ef85cd785c86a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259374449,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1259374449,
+    "wof:lastmodified":1537014578,
+    "wof:name":"Satfoura",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.51821,
+    35.99916,
+    0.51821,
+    35.99916
+],
+  "geometry": {"coordinates":[0.51821,35.99916],"type":"Point"}
+}

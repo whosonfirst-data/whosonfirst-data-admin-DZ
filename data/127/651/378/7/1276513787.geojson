@@ -1,0 +1,65 @@
+{
+  "id": 1276513787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15572,35.52555,5.15572,35.52555",
+    "geom:latitude":35.52555,
+    "geom:longitude":5.15572,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bel Aiba",
+    "gn:country_code":"DZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2505278,
+    "gn:latitude":35.52555,
+    "gn:longitude":5.15572,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bel A\u00efba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2505278
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b991440e236373403c4e7e8ef3b2049c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276513787,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1276513787,
+    "wof:lastmodified":1537032911,
+    "wof:name":"Bel Aiba",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15572,
+    35.52555,
+    5.15572,
+    35.52555
+],
+  "geometry": {"coordinates":[5.15572,35.52555],"type":"Point"}
+}

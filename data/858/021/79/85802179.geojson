@@ -1,0 +1,106 @@
+{
+  "id": 85802179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10018822.910858,
+    "geom:bbox":"2.828506,36.46989,2.828506,36.46989",
+    "geom:latitude":36.46989,
+    "geom:longitude":2.828506,
+    "iso:country":"DZ",
+    "lbl:latitude":36.46989,
+    "lbl:longitude":2.828506,
+    "mps:latitude":36.468072,
+    "mps:longitude":2.826815,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "Oulad Soltane"
+    ],
+    "name:ara_x_variant":[
+        "Dilida"
+    ],
+    "name:unk_x_variant":[
+        "Oulad Soltane"
+    ],
+    "qs:gn_adm0_cc":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2503769,
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"Oulad Soltane",
+    "qs:local_max":58,
+    "qs:local_sum":80,
+    "qs:localhoods":2,
+    "qs:name":"Oulad Soltane",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "qs:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "qs:photo_max":14,
+    "qs:photo_sum":58,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424740,
+    "qs:woe_adm1":2344592,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1253475,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485112,
+        "gp:id":1256828,
+        "qs:id":267947,
+        "qs_pg:id":267947
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bcb39684b0a3c5c24e15d8057a910eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":85802179,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":85802179,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531862143,
+    "wof:name":"Oulad Soltane",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.828506,
+    36.46989,
+    2.828506,
+    36.46989
+],
+  "geometry": {"coordinates":[2.828506,36.46989],"type":"Point"}
+}

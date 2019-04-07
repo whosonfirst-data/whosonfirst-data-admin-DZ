@@ -1,0 +1,69 @@
+{
+  "id": 1193134811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.46006,36.36192,3.46006,36.36192",
+    "geom:latitude":36.36192,
+    "geom:longitude":3.46006,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Dahmane",
+    "gn:country_code":"DZ",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485300,
+    "gn:latitude":36.36192,
+    "gn:longitude":3.46006,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oulad Dahmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Dahmane",
+        "Oulad Dahmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485300
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"486ca6db663c71d484ed2e2ecf623ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193134811,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1193134811,
+    "wof:lastmodified":1537620130,
+    "wof:name":"Oulad Dahmane",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.46006,
+    36.36192,
+    3.46006,
+    36.36192
+],
+  "geometry": {"coordinates":[3.46006,36.36192],"type":"Point"}
+}

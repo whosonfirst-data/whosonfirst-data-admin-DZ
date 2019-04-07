@@ -1,0 +1,342 @@
+{
+  "id": 85670771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.198583,
+    "geom:area_square_m":1972773683.53402,
+    "geom:bbox":"1.64778608626,36.3666694201,3.03503991116,36.8158633487",
+    "geom:latitude":36.543145,
+    "geom:longitude":2.312122,
+    "gn:population":591010,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Tipaza Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.525159,
+    "lbl:longitude":2.322532,
+    "mps:latitude":36.525159,
+    "mps:longitude":2.322532,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "Tipaza"
+    ],
+    "name:baq_x_preferred":[
+        "Tipasa probintzia"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u044b\u043f\u0430\u0441\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09bf\u09aa\u09be\u09b8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043f\u0430\u0437\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Tipaza"
+    ],
+    "name:chi_x_preferred":[
+        "\u63d0\u5e15\u8428\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Tipasa Province"
+    ],
+    "name:dut_x_preferred":[
+        "Tipaza"
+    ],
+    "name:eng_x_preferred":[
+        "Tipaza"
+    ],
+    "name:eng_x_variant":[
+        "Tipaza Province",
+        "Tipasa Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Tipazo"
+    ],
+    "name:fin_x_preferred":[
+        "Tipasan provinssi"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Tipaza"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10d8\u10de\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Tipaza"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Tipaza"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b9\u03c0\u03ac\u03c3\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0abf\u0aaa\u0abe\u0ab8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093f\u092a\u091c\u093c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Tipaza"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Tipaza"
+    ],
+    "name:ita_x_preferred":[
+        "provincia di Tipasa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30d1\u30b6\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cbf\u0caa\u0cbe\u0cb8\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\ud30c\uc790 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Tipaza"
+    ],
+    "name:lav_x_preferred":[
+        "Tibisas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Tipazos vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u093f\u092a\u0938\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Tipasa Province"
+    ],
+    "name:nan_x_preferred":[
+        "Tipaza S\u00e9ng"
+    ],
+    "name:nob_x_preferred":[
+        "Tipaza"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u06cc\u200c\u067e\u0627\u0632\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u0628\u0633\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Tibaza"
+    ],
+    "name:por_x_preferred":[
+        "Tipasa"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Tipaza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043f\u0430\u0441\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd2\u0db4\u0dc3\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Tipaza eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Tipasa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043f\u0430\u0441\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Tipasa"
+    ],
+    "name:swe_x_preferred":[
+        "Tipaza"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0baa\u0bcd\u0bb8\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3f\u0c2a\u0c3e\u0c38\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0422\u0438\u043f\u043e\u0441\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Tipaza"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e17\u0e34\u0e1b\u0e32\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Tibaze Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043f\u0430\u0437\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Tipaza"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u06cc\u0628\u0627\u0632\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Tipaza"
+    ],
+    "name:war_x_preferred":[
+        "Tipaza"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2198",
+    "ne:adm1_code":"DZA-2198",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.TP",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2198",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG55",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.55",
+    "ne:gn_id":"2476027",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Tipaza",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG55",
+    "ne:gns_id":"-489949",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Tipaza",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"36.52700000000",
+    "ne:longitude":"2.34141000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Tipaza",
+    "ne:name_alt":"Tibaza| Tefessedt",
+    "ne:name_len":6,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u062a\u064a\u0628\u0627\u0632\u0629",
+    "ne:note":"",
+    "ne:postal":"TP",
+    "ne:provnum_ne":"21",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344625,
+    "ne:woe_label":"Tipaza, DZ, Algeria",
+    "ne:woe_name":"Tipaza",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Tipaza",
+    "qs:a1_lc":"DZA-2198",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"2,219",
+    "statoids:area_mi":"857",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Tipaza",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG55",
+    "statoids:hasc":"DZ.TP",
+    "statoids:iso":"42",
+    "statoids:name":"Tipaza",
+    "statoids:population":"591010",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-42",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG55",
+        "gn:id":2476027,
+        "gp:id":2344625,
+        "hasc:id":"DZ.TP",
+        "iso:id":"DZ-42",
+        "qs:id":423541,
+        "unlc:id":"DZ-42",
+        "wd:id":"Q235814",
+        "wk:page":"Tipaza Province"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f423a4814448de95ec5af0b080ccd54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":85670771,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550364,
+    "wof:name":"Tipaza",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":591010,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"TP",
+    "wof:subdivision":"DZ-42",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64778608625892,
+    36.36666942005775,
+    3.03503991116304,
+    36.81586334871463
+],
+  "geometry": {"coordinates":[[[2.98490743752825,36.81496443945736],[2.98460371309096,36.80762441753291],[2.97700727736401,36.78431834641458],[2.97654218937061,36.76380280235747],[2.9729765150542,36.75855764412006],[2.96879072401276,36.75362254514437],[2.96631025621338,36.74814484291022],[2.96879072401276,36.74408824307801],[2.97840254134428,36.74116852480762],[3.01783165900389,36.73982493677147],[3.02403282985125,36.73620758741026],[3.02666832818085,36.73333954508399],[3.02511803636833,36.71005931238739],[3.02465294837492,36.69752777858417],[3.02790856342949,36.68938874049803],[3.02992394413474,36.68675324216844],[3.03100914885317,36.68460867025397],[3.03193932484004,36.68184397981588],[3.03302452955842,36.67988027595402],[3.03395470464596,36.67760651283038],[3.0347298519012,36.6742217074659],[3.03503991116304,36.67096609151196],[3.03395470464596,36.66623769811133],[3.02992394413474,36.66223277422318],[3.02279259640125,36.65874461517188],[3.00263878665072,36.65605744089822],[2.99690270289744,36.65442963292128],[2.9911149432001,36.65101898913508],[2.9841386250975,36.64432689097328],[2.9760771013772,36.63980520314766],[2.96196943464173,36.63755727844568],[2.84714440319169,36.64011526151018],[2.83737755712861,36.6378673368082],[2.8330367373556,36.63109772428061],[2.83133141411349,36.62406972933462],[2.82606041835368,36.61533641204585],[2.81267622203006,36.60587962524454],[2.75123294444489,36.581178290146],[2.73216434121144,36.57590729438618],[2.71449100105889,36.56769074193426],[2.69645592570043,36.55642527910339],[2.65036054920006,36.52107859969766],[2.63439253139023,36.51281037040235],[2.62865644673769,36.50461965637209],[2.62602094930742,36.50159658531419],[2.62447065569626,36.49356089911623],[2.62168012863509,36.48397492110576],[2.61392866417657,36.4740530463111],[2.6024564957707,36.4674384634144],[2.58225101097543,36.46382111315393],[2.54612918521377,36.46289093716706],[2.53646569193819,36.46384695157559],[2.50732018427914,36.47038402010651],[2.49972374765286,36.47038402010651],[2.49197228409366,36.46493215629403],[2.48618452259768,36.45932526285065],[2.47626264780303,36.42061961470353],[2.28542158403894,36.41421173828115],[2.14325971826145,36.43831879327774],[2.11954023599316,36.43798289649351],[2.05205081539287,36.41901764604756],[2.01541222479438,36.41338491508179],[2.00378502765693,36.41018097597134],[1.97753339984655,36.41152456310817],[1.94683759857634,36.42015452671006],[1.80917158400143,36.43237600394946],[1.79304853656077,36.43198843032184],[1.78266157377266,36.42511546500674],[1.77522016767665,36.40149933552595],[1.76948408392337,36.39227509182206],[1.76013064901031,36.38475617136027],[1.74943362785967,36.37891673392016],[1.72679935120914,36.3691498887564],[1.71672244588422,36.36666942005775],[1.7083508638014,36.36767711041034],[1.68070397291007,36.41356578223514],[1.64778608625892,36.4431505403652],[1.65186852361353,36.46108226203683],[1.67915368019823,36.49673899980507],[1.68907555499294,36.51513581036943],[1.70095992765857,36.54718760312545],[1.71656334682103,36.54791901185297],[1.72673587346185,36.54999420826613],[1.75017337330257,36.55914948116367],[1.7612410824101,36.56159088690998],[1.77003014417585,36.56049225531336],[1.79151451887998,36.55548737254423],[1.80290774839392,36.55536530216699],[1.85759524772254,36.56745026231982],[1.91382897212941,36.57021719027119],[1.96045983195574,36.56220123969553],[1.972829622689,36.56159088690998],[2.05990644652536,36.57013580971989],[2.30982506637378,36.63051992425517],[2.32960045669574,36.6372744812324],[2.35157311290891,36.63833242390228],[2.37330162926685,36.63385651246813],[2.39185631581637,36.6242536478876],[2.39820397183587,36.61530182501929],[2.40015709697252,36.60618724194774],[2.40406334724571,36.59918854421602],[2.41602623792062,36.59634023661266],[2.42676842482297,36.59528229394277],[2.44727623830778,36.59056224265345],[2.45704186309155,36.58950429908418],[2.60075931139318,36.59634023661266],[2.63298587299971,36.60512929927779],[2.72754967517744,36.66522858323259],[2.79297936320711,36.6929385444783],[2.81869550949023,36.71088288004091],[2.84359785205925,36.74038320532071],[2.84986412932614,36.75405508037773],[2.87566165526124,36.77480703371771],[2.93311608254123,36.80857982040243],[2.97706139406813,36.81586334871463],[2.98487389371525,36.81496816624792],[2.98490743752825,36.81496443945736]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259626003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.17783,31.55606,-2.17783,31.55606",
+    "geom:latitude":31.55606,
+    "geom:longitude":-2.17783,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Djeniene",
+    "gn:country_code":"DZ",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499840,
+    "gn:latitude":31.55606,
+    "gn:longitude":-2.17783,
+    "gn:modification_date":"1994-06-10",
+    "gn:name":"Djeniene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499840
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4bcd4b0fc8c0f8fd7a53984bba6e5613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259626003,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1259626003,
+    "wof:lastmodified":1536653421,
+    "wof:name":"Djeniene",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.17783,
+    31.55606,
+    -2.17783,
+    31.55606
+],
+  "geometry": {"coordinates":[-2.17783,31.55606],"type":"Point"}
+}

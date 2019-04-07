@@ -1,0 +1,71 @@
+{
+  "id": 1225914551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.37246,35.0481,-1.37246,35.0481",
+    "geom:latitude":35.0481,
+    "geom:longitude":-1.37246,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ain Youcef",
+    "gn:country_code":"DZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507868,
+    "gn:latitude":35.0481,
+    "gn:longitude":-1.37246,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efn Youcef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lavayssi\u00e8re",
+        "Sidi Youcef",
+        "A\u00efn Youcef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507868,
+        "wk:page":"A%C3%AFn_Youcef"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6fc8d9d1f02d0b761c3c754a472754ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225914551,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1225914551,
+    "wof:lastmodified":1537620252,
+    "wof:name":"Ain Youcef",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.37246,
+    35.0481,
+    -1.37246,
+    35.0481
+],
+  "geometry": {"coordinates":[-1.37246,35.0481],"type":"Point"}
+}

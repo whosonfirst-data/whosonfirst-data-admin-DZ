@@ -1,0 +1,65 @@
+{
+  "id": 1309868869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7172,36.61279,4.7172,36.61279",
+    "geom:latitude":36.61279,
+    "geom:longitude":4.7172,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sidi Aid",
+    "gn:country_code":"DZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481252,
+    "gn:latitude":36.61279,
+    "gn:longitude":4.7172,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi A\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481252
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"be9582927b90775b364077001ec90d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309868869,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1309868869,
+    "wof:lastmodified":1536839308,
+    "wof:name":"Sidi Aid",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7172,
+    36.61279,
+    4.7172,
+    36.61279
+],
+  "geometry": {"coordinates":[4.7172,36.61279],"type":"Point"}
+}

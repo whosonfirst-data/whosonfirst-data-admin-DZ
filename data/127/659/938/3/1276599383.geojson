@@ -1,0 +1,70 @@
+{
+  "id": 1276599383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.78563,35.13663,-0.78563,35.13663",
+    "geom:latitude":35.13663,
+    "geom:longitude":-0.78563,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Sidi Ya'koub",
+    "gn:country_code":"DZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479683,
+    "gn:latitude":35.13663,
+    "gn:longitude":-0.78563,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Ya\u2019ko\u00fbb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Yacoub",
+        "Sidi Ya\u2019ko\u00fbb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479683,
+        "wk:page":"Sidi_Yacoub%2C_Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"76e7cfeb1f018edbb0f2166fc54642de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276599383,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1276599383,
+    "wof:lastmodified":1537620109,
+    "wof:name":"Sidi Ya'koub",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.78563,
+    35.13663,
+    -0.78563,
+    35.13663
+],
+  "geometry": {"coordinates":[-0.78563,35.13663],"type":"Point"}
+}

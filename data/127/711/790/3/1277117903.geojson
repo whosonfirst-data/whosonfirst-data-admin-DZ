@@ -1,0 +1,69 @@
+{
+  "id": 1277117903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96722,35.59762,7.96722,35.59762",
+    "geom:latitude":35.59762,
+    "geom:longitude":7.96722,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Mechtat Souaidia",
+    "gn:country_code":"DZ",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488964,
+    "gn:latitude":35.59762,
+    "gn:longitude":7.96722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Soua\u00efdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Soua\u00efdia",
+        "Mechtat Soua\u00efdia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488964
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"38047dc94f2e3057c932bd4d4d52b9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277117903,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1277117903,
+    "wof:lastmodified":1537620146,
+    "wof:name":"Mechtat Souaidia",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96722,
+    35.59762,
+    7.96722,
+    35.59762
+],
+  "geometry": {"coordinates":[7.96722,35.59762],"type":"Point"}
+}

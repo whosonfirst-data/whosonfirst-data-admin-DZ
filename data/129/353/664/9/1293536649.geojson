@@ -1,0 +1,70 @@
+{
+  "id": 1293536649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.50675,36.02813,6.50675,36.02813",
+    "geom:latitude":36.02813,
+    "geom:longitude":6.50675,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat Ouled Bou Denn",
+    "gn:country_code":"DZ",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489347,
+    "gn:latitude":36.02813,
+    "gn:longitude":6.50675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat Ouled Bou Denn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Ouled Bou Denn",
+        "Mechta Ouled Bou Dene",
+        "Mechtat Ouled Bou Denn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489347
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f2fc3d72c3e40d739ed1f1fd3e164acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293536649,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1293536649,
+    "wof:lastmodified":1537620157,
+    "wof:name":"Mechtat Ouled Bou Denn",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.50675,
+    36.02813,
+    6.50675,
+    36.02813
+],
+  "geometry": {"coordinates":[6.50675,36.02813],"type":"Point"}
+}

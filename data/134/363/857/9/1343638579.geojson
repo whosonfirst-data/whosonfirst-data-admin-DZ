@@ -1,0 +1,65 @@
+{
+  "id": 1343638579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49671,35.71332,5.49671,35.71332",
+    "geom:latitude":35.71332,
+    "geom:longitude":5.49671,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta Srepta",
+    "gn:country_code":"DZ",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489204,
+    "gn:latitude":35.71332,
+    "gn:longitude":5.49671,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Srepta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489204
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ea2f8b0e394aa38090cd55c856c36ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343638579,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1343638579,
+    "wof:lastmodified":1536985869,
+    "wof:name":"Mechta Srepta",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49671,
+    35.71332,
+    5.49671,
+    35.71332
+],
+  "geometry": {"coordinates":[5.49671,35.71332],"type":"Point"}
+}

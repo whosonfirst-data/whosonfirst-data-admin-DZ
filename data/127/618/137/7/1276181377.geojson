@@ -1,0 +1,65 @@
+{
+  "id": 1276181377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.12511,35.3756,0.12511,35.3756",
+    "geom:latitude":35.3756,
+    "geom:longitude":0.12511,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Khaldia",
+    "gn:country_code":"DZ",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571269,
+    "gn:latitude":35.3756,
+    "gn:longitude":0.12511,
+    "gn:modification_date":"1996-03-05",
+    "gn:name":"Khaldia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571269
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1cccce510dfadf157e6f7694cea884ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276181377,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1276181377,
+    "wof:lastmodified":1536981912,
+    "wof:name":"Khaldia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.12511,
+    35.3756,
+    0.12511,
+    35.3756
+],
+  "geometry": {"coordinates":[0.12511,35.3756],"type":"Point"}
+}

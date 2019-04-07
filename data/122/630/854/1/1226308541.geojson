@@ -1,0 +1,65 @@
+{
+  "id": 1226308541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37233,34.90756,6.37233,34.90756",
+    "geom:latitude":34.90756,
+    "geom:longitude":6.37233,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ouladj el Khodra",
+    "gn:country_code":"DZ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485245,
+    "gn:latitude":34.90756,
+    "gn:longitude":6.37233,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouladj el Khodra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485245
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a09a1f6247633380a1bc2f75b469d00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226308541,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1226308541,
+    "wof:lastmodified":1536842227,
+    "wof:name":"Ouladj el Khodra",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37233,
+    34.90756,
+    6.37233,
+    34.90756
+],
+  "geometry": {"coordinates":[6.37233,34.90756],"type":"Point"}
+}

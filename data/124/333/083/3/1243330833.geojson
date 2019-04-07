@@ -1,0 +1,68 @@
+{
+  "id": 1243330833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28228,35.29591,0.28228,35.29591",
+    "geom:latitude":35.29591,
+    "geom:longitude":0.28228,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Hawouia",
+    "gn:country_code":"DZ",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579028,
+    "gn:latitude":35.29591,
+    "gn:longitude":0.28228,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Hawouia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Hamou\u00efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579028
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4118de5ef5e39504d59a3441614a4d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243330833,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1243330833,
+    "wof:lastmodified":1537620266,
+    "wof:name":"Douar Hawouia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28228,
+    35.29591,
+    0.28228,
+    35.29591
+],
+  "geometry": {"coordinates":[0.28228,35.29591],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276401869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.40107,34.72432,5.40107,34.72432",
+    "geom:latitude":34.72432,
+    "geom:longitude":5.40107,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Farfar",
+    "gn:country_code":"DZ",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496780,
+    "gn:latitude":34.72432,
+    "gn:longitude":5.40107,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Farfar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496780
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"53fcd4a905d507496dfaa7caf868a342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276401869,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1276401869,
+    "wof:lastmodified":1536686895,
+    "wof:name":"Farfar",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.40107,
+    34.72432,
+    5.40107,
+    34.72432
+],
+  "geometry": {"coordinates":[5.40107,34.72432],"type":"Point"}
+}

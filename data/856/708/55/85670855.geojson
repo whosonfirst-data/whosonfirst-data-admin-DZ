@@ -1,0 +1,371 @@
+{
+  "id": 85670855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.212812,
+    "geom:area_square_m":2119486963.512141,
+    "geom:bbox":"6.31773359483,36.1068919949,7.04828331872,36.6078950059",
+    "geom:latitude":36.347293,
+    "geom:longitude":6.70924,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Constantine Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.359556,
+    "lbl:longitude":6.67328,
+    "mps:latitude":36.359556,
+    "mps:longitude":6.67328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u099f\u09be\u0987\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Constantina"
+    ],
+    "name:ceb_x_preferred":[
+        "Constantine"
+    ],
+    "name:ces_x_preferred":[
+        "Constantine"
+    ],
+    "name:chi_x_preferred":[
+        "\u541b\u58eb\u5766\u4e01\u7701"
+    ],
+    "name:cym_x_preferred":[
+        "Constantine"
+    ],
+    "name:dan_x_preferred":[
+        "Constantine"
+    ],
+    "name:deu_x_preferred":[
+        "Constantine"
+    ],
+    "name:diq_x_preferred":[
+        "Konstantin"
+    ],
+    "name:dut_x_preferred":[
+        "Constantine"
+    ],
+    "name:eng_x_preferred":[
+        "Constantine"
+    ],
+    "name:eng_x_variant":[
+        "Constantine Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Konstantina"
+    ],
+    "name:fin_x_preferred":[
+        "Constantine"
+    ],
+    "name:fra_x_preferred":[
+        "Constantine"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Constantine"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10e1\u10e2\u10d0\u10dc\u10e2\u10d8\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Constantine"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Constantina"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03b7"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0aa8\u0acd\u0ab8\u0acd\u0a9f\u0ac7\u0aa8\u0acd\u0a9f\u0abe\u0a87\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0949\u0928\u094d\u0938\u094d\u091f\u0948\u0928\u094d\u091f\u093e\u0907\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Constantine"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Qusnathinah"
+    ],
+    "name:ita_x_preferred":[
+        "Constantine"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30b9\u30bf\u30f3\u30c6\u30a3\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd\u0c9f\u0c82\u0c9f\u0cc8\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf58\uc2a4\ud134\ud2f4"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Konstantin"
+    ],
+    "name:lat_x_preferred":[
+        "Cirta"
+    ],
+    "name:lav_x_preferred":[
+        "Konstantinas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Konstantinos vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0949\u0928\u094d\u0938\u094d\u091f\u0928\u094d\u091f\u093e\u0908\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Constantine"
+    ],
+    "name:nan_x_preferred":[
+        "Constantine S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Constantine"
+    ],
+    "name:nob_x_preferred":[
+        "Constantine"
+    ],
+    "name:nor_x_preferred":[
+        "Constantine"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0633\u0646\u0637\u06cc\u0646\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0642\u0633\u0646\u0637\u06cc\u0646\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Constantine"
+    ],
+    "name:por_x_preferred":[
+        "Constantine"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Constantine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Constantine"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0da7\u0db1\u0dca\u0da7\u0dba\u0dd2\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Constantine eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Constantine"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Constantine"
+    ],
+    "name:swe_x_preferred":[
+        "Constantine"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u0c1f\u0c3e\u0c02\u0c1f\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u049a\u0443\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Constantine"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e2d\u0e19\u0e2a\u0e41\u0e15\u0e19\u0e15\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Konstantine Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0456\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "D\u00e9partement de Constantine"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0642\u0633\u0646\u0637\u06cc\u0646\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Constantine"
+    ],
+    "name:vol_x_preferred":[
+        "Constantine"
+    ],
+    "name:war_x_preferred":[
+        "Constantine"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2217",
+    "ne:adm1_code":"DZA-2217",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"DZ.CO",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2217",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG48",
+    "ne:fips_alt":"AG04",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.04",
+    "ne:gn_id":"2501147",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Constantine",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG04",
+    "ne:gns_id":"-464723",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Constantine",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"36.37310000000",
+    "ne:longitude":"6.68301000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Constantine",
+    "ne:name_alt":"Constantina|Costatina|Qoussantina|Qacentina",
+    "ne:name_len":11,
+    "ne:name_local":"\u0642\u0633\u0646\u0637\u064a\u0646\u0629",
+    "ne:note":"",
+    "ne:postal":"CO",
+    "ne:provnum_ne":"30",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344581,
+    "ne:woe_label":"Constantine, DZ, Algeria",
+    "ne:woe_name":"Constantine",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Constantine",
+    "qs:a1_lc":"DZA-2217",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"2,288",
+    "statoids:area_mi":"883",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Constantine",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG04",
+    "statoids:hasc":"DZ.CO",
+    "statoids:iso":"25",
+    "statoids:name":"Constantine",
+    "statoids:population":"938475",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-25",
+    "wd:wordcount":525,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG04",
+        "gn:id":2501147,
+        "gp:id":2344581,
+        "hasc:id":"DZ.CO",
+        "iso:id":"DZ-25",
+        "qs:id":1134877,
+        "unlc:id":"DZ-25",
+        "wd:id":"Q232043"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fc4ee60f08cc428c8f7bb2a24487017c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":85670855,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550368,
+    "wof:name":"Constantine",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":938475,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"CO",
+    "wof:subdivision":"DZ-25",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31773359482958,
+    36.10689199486973,
+    7.04828331872022,
+    36.60789500594984
+],
+  "geometry": {"coordinates":[[[6.77718875475728,36.55627025037182],[6.89356407981847,36.56148957018758],[6.9110823912394,36.56040436546914],[6.92012576689069,36.55714874951525],[6.92012576689069,36.55048248977516],[6.91697350372425,36.54133576133637],[6.91170250796443,36.53332591445945],[6.9041060731368,36.52903676973119],[6.89495934379875,36.53089712170487],[6.88271202993627,36.53528961832126],[6.87061974480542,36.53699494156336],[6.85956098844889,36.53668488230153],[6.85149946472859,36.53448863444299],[6.84545332171348,36.53141388654166],[6.84142256030299,36.52684052187266],[6.8392521499668,36.52051015891675],[6.83987226669183,36.51252615046155],[6.84204267702796,36.50097646679058],[6.84204267702796,36.49774669015767],[6.84126753067204,36.49229482724451],[6.83863203324177,36.4879023297288],[6.83367109494515,36.48361318589986],[6.82684980557411,36.47932404207091],[6.82064863382743,36.47348460553019],[6.81801313639715,36.4668183457901],[6.8215788098143,36.45958364526905],[6.83243086059576,36.45573375101185],[6.84793379131145,36.45420929582241],[6.86379845543439,36.44805980091911],[6.93795413577482,36.43286693036458],[6.94617068912606,36.42713084571199],[6.94803104020042,36.42493459695413],[6.96213870603651,36.40173187952269],[6.96756473142727,36.38651317054644],[6.96989017139435,36.37403331178797],[6.97800337105878,36.36411143699326],[6.99691694466134,36.3549388701328],[7.00048261897774,36.34992625589206],[7.00311811730734,36.34010773388485],[7.00172285332707,36.32287364420336],[7.00358320530074,36.31235749020607],[7.0104044937724,36.30036855696341],[7.02141157418487,36.29571767792856],[7.03200524344726,36.29225535729893],[7.04068688299333,36.28553742071546],[7.04564782128995,36.27577057555169],[7.04828331872022,36.23840851544071],[7.04502770276633,36.21316457798292],[7.03913659028149,36.19520701788963],[7.01055952340334,36.15515778350493],[6.98404951317457,36.14895661085893],[6.96399905801019,36.14838817007802],[6.94927127365043,36.1425487335373],[6.91935061963545,36.11908763278808],[6.89852501811515,36.10689199486973],[6.8882930840586,36.10854564126839],[6.88550255699744,36.1174856632328],[6.88581261625927,36.13200674111823],[6.87992150197579,36.1464244653169],[6.78680057118947,36.19143463799821],[6.77269290535332,36.19244232835081],[6.76091067858499,36.18797231736858],[6.75238406687123,36.1815902784686],[6.74055016415878,36.17533742897922],[6.72876793828976,36.17164256435291],[6.6792619162045,36.1609972191464],[6.66267378077043,36.1544859890372],[6.64453535262447,36.14484833418334],[6.59750980013723,36.12689077408999],[6.59564944816356,36.12451365817884],[6.59394412582083,36.12009532314067],[6.59053348113531,36.11376496018482],[6.58479739738203,36.10870066999996],[6.57714928571102,36.10919159641509],[6.57265343630706,36.11156871232629],[6.54831383641448,36.13849213280571],[6.51632612485082,36.16564809818124],[6.52500776529615,36.20466380469088],[6.51973676863702,36.21489573784805],[6.46837039637671,36.27380687079051],[6.3784017269582,36.34920278637952],[6.36243370914843,36.3550422229203],[6.33385664227029,36.35318187094663],[6.32083418115258,36.3585045444492],[6.31773359482958,36.36783214004129],[6.32160932840782,36.37876170518859],[6.33091108557818,36.38850271282996],[6.34036787327875,36.39509145820426],[6.34873945536162,36.39994904191479],[6.36847985216349,36.40770050727264],[6.37871178621998,36.40953501992527],[6.40119103413895,36.41648550140479],[6.46573489714785,36.42307424587977],[6.47849897584712,36.428965359264],[6.48345991414379,36.44129018839152],[6.47880903510895,36.45632803021448],[6.46651004440309,36.48219208439724],[6.46557986841623,36.4906411808459],[6.46728518985969,36.49668732386095],[6.47059248175765,36.49945201339978],[6.48532026521809,36.50655752181223],[6.48904096826612,36.50991649055362],[6.49276167221348,36.51585927988191],[6.49617231599962,36.52428253790885],[6.49865278469832,36.53301585519762],[6.50407881008908,36.57771596951642],[6.54009728396255,36.57696666158222],[6.57993981277218,36.57006785694608],[6.59937015121153,36.57399526646844],[6.65244184671388,36.60789500594984],[6.66391401511976,36.60714569801559],[6.66965009887303,36.60246898055908],[6.67290571482692,36.59414907531965],[6.67941694493612,36.58580333075918],[6.73279869970025,36.56536530196718],[6.77718875475728,36.55627025037182]]],"type":"Polygon"}
+}

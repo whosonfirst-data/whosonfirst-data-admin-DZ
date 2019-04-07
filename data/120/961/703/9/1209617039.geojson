@@ -1,0 +1,62 @@
+{
+  "id": 1209617039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19062,35.24695,6.19062,35.24695",
+    "geom:latitude":35.24695,
+    "geom:longitude":6.19062,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Teniet el Abed",
+    "gn:country_code":"DZ",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477122,
+    "gn:latitude":35.24695,
+    "gn:longitude":6.19062,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Teniet el Abed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477122,
+        "wk:page":"Teniet_El_Abed"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"21fab797bcdbbeadd6496a8412aabaa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209617039
+        }
+    ],
+    "wof:id":1209617039,
+    "wof:lastmodified":1537504266,
+    "wof:name":"Teniet el Abed",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19062,
+    35.24695,
+    6.19062,
+    35.24695
+],
+  "geometry": {"coordinates":[6.19062,35.24695],"type":"Point"}
+}

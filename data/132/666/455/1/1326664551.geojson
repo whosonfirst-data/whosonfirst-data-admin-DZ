@@ -1,0 +1,84 @@
+{
+  "id": 1326664551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56891,36.5311,1.56891,36.5311",
+    "geom:latitude":36.5311,
+    "geom:longitude":1.56891,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Beni Haoua",
+    "gn:country_code":"DZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504674,
+    "gn:latitude":36.5311,
+    "gn:longitude":1.56891,
+    "gn:modification_date":"2016-09-18",
+    "gn:name":"Beni Haoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0649 \u062d\u0648\u0627\u0621"
+    ],
+    "name:fra_x_historical":[
+        "Francis",
+        "Francis-Garnier",
+        "Port Brierer"
+    ],
+    "name:fra_x_preferred":[
+        "Francis"
+    ],
+    "name:fra_x_variant":[
+        "Francis-Garnier",
+        "Port Brierer"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9ni Haoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504674,
+        "wk:page":"Beni_Haoua"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"191f835d2f0da1118ffccec8093b1b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326664551,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1326664551,
+    "wof:lastmodified":1537620244,
+    "wof:name":"Beni Haoua",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56891,
+    36.5311,
+    1.56891,
+    36.5311
+],
+  "geometry": {"coordinates":[1.56891,36.5311],"type":"Point"}
+}

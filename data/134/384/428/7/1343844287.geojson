@@ -1,0 +1,65 @@
+{
+  "id": 1343844287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93865,35.2568,0.93865,35.2568",
+    "geom:latitude":35.2568,
+    "geom:longitude":0.93865,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar Beni Soltane",
+    "gn:country_code":"DZ",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490066,
+    "gn:latitude":35.2568,
+    "gn:longitude":0.93865,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Beni Soltane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490066
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c49b652a94edd6b653910b325c1a305b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343844287,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1343844287,
+    "wof:lastmodified":1536690076,
+    "wof:name":"Douar Beni Soltane",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93865,
+    35.2568,
+    0.93865,
+    35.2568
+],
+  "geometry": {"coordinates":[0.93865,35.2568],"type":"Point"}
+}

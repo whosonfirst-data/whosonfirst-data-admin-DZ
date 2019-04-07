@@ -1,0 +1,65 @@
+{
+  "id": 1343328319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0665,35.50136,5.0665,35.50136",
+    "geom:latitude":35.50136,
+    "geom:longitude":5.0665,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ouled Cherifa",
+    "gn:country_code":"DZ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484939,
+    "gn:latitude":35.50136,
+    "gn:longitude":5.0665,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Cherifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484939
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"638aa7eedad8ae2fd6d491090c198db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343328319,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1343328319,
+    "wof:lastmodified":1536937860,
+    "wof:name":"Ouled Cherifa",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0665,
+    35.50136,
+    5.0665,
+    35.50136
+],
+  "geometry": {"coordinates":[5.0665,35.50136],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1192974621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.78305,36.43337,7.78305,36.43337",
+    "geom:latitude":36.43337,
+    "geom:longitude":7.78305,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Medjez Sfa",
+    "gn:country_code":"DZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488771,
+    "gn:latitude":36.43337,
+    "gn:longitude":7.78305,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Medjez Sfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488771,
+        "wk:page":"Medjez_Sfa"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d4ba796f0a9a3d76eccd2706e9a7a494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192974621,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1192974621,
+    "wof:lastmodified":1537504279,
+    "wof:name":"Medjez Sfa",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.78305,
+    36.43337,
+    7.78305,
+    36.43337
+],
+  "geometry": {"coordinates":[7.78305,36.43337],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225837553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31379,36.12396,3.31379,36.12396",
+    "geom:latitude":36.12396,
+    "geom:longitude":3.31379,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Abdelaziz",
+    "gn:country_code":"DZ",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2509206,
+    "gn:latitude":36.12396,
+    "gn:longitude":3.31379,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Abdelaziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2509206
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"388f7fcffdcdbd154ffbe83ef3087b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225837553,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1225837553,
+    "wof:lastmodified":1537024432,
+    "wof:name":"Abdelaziz",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31379,
+    36.12396,
+    3.31379,
+    36.12396
+],
+  "geometry": {"coordinates":[3.31379,36.12396],"type":"Point"}
+}

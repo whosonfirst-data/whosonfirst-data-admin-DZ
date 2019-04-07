@@ -1,0 +1,69 @@
+{
+  "id": 1276939677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4804,34.64566,5.4804,34.64566",
+    "geom:latitude":34.64566,
+    "geom:longitude":5.4804,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ben Thious",
+    "gn:country_code":"DZ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504317,
+    "gn:latitude":34.64566,
+    "gn:longitude":5.4804,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ben Thious",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Thiouss",
+        "Ben Thious"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504317
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8fd357fa34a1842a24933e55c3762ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276939677,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1276939677,
+    "wof:lastmodified":1537620243,
+    "wof:name":"Ben Thious",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4804,
+    34.64566,
+    5.4804,
+    34.64566
+],
+  "geometry": {"coordinates":[5.4804,34.64566],"type":"Point"}
+}

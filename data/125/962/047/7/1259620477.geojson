@@ -1,0 +1,65 @@
+{
+  "id": 1259620477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93852,35.51583,0.93852,35.51583",
+    "geom:latitude":35.51583,
+    "geom:longitude":0.93852,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Chenenffa",
+    "gn:country_code":"DZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416479,
+    "gn:latitude":35.51583,
+    "gn:longitude":0.93852,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Chenenffa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416479
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"db8edfb519cdadaa59d33c0af6415704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259620477,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1259620477,
+    "wof:lastmodified":1536661339,
+    "wof:name":"Douar Chenenffa",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93852,
+    35.51583,
+    0.93852,
+    35.51583
+],
+  "geometry": {"coordinates":[0.93852,35.51583],"type":"Point"}
+}

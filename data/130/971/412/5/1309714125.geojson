@@ -1,0 +1,65 @@
+{
+  "id": 1309714125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17182,35.77317,6.17182,35.77317",
+    "geom:latitude":35.77317,
+    "geom:longitude":6.17182,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Taga",
+    "gn:country_code":"DZ",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489196,
+    "gn:latitude":35.77317,
+    "gn:longitude":6.17182,
+    "gn:modification_date":"1996-09-13",
+    "gn:name":"Mechta Taga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489196
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8540714be4fae4268064162e7bd3f51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309714125,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1309714125,
+    "wof:lastmodified":1537060613,
+    "wof:name":"Mechta Taga",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17182,
+    35.77317,
+    6.17182,
+    35.77317
+],
+  "geometry": {"coordinates":[6.17182,35.77317],"type":"Point"}
+}

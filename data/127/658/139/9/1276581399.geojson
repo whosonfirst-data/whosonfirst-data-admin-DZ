@@ -1,0 +1,65 @@
+{
+  "id": 1276581399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42069,36.00396,1.42069,36.00396",
+    "geom:latitude":36.00396,
+    "geom:longitude":1.42069,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled el Agha",
+    "gn:country_code":"DZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572884,
+    "gn:latitude":36.00396,
+    "gn:longitude":1.42069,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Ouled el Agha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572884
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"54d08a33e88d94f2c2d85fda66e3d6ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276581399,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1276581399,
+    "wof:lastmodified":1536944517,
+    "wof:name":"Ouled el Agha",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42069,
+    36.00396,
+    1.42069,
+    36.00396
+],
+  "geometry": {"coordinates":[1.42069,36.00396],"type":"Point"}
+}

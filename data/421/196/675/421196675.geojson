@@ -1,0 +1,117 @@
+{
+  "id": 421196675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.97037,36.16277,0.97037,36.16277",
+    "geom:latitude":36.16277,
+    "geom:longitude":0.97037,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0626\u0631\u0629 \u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Ain Merane"
+    ],
+    "name:eng_x_preferred":[
+        "Ain Merane"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Merane"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Ain Merane"
+    ],
+    "name:may_x_preferred":[
+        "Ain Merane"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn Merane"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Merane"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Merane"
+    ],
+    "name:unk_x_variant":[
+        "Rabelais"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508010,
+    "qs:gn_pop":34413,
+    "qs:name":"'Ain Merane",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0634\u0644\u0641",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1296011,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252830,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508010,
+        "gp:id":1252830,
+        "qs:id":1296011,
+        "wd:id":"Q374598"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009889,
+    "wof:geomhash":"87ddeeee22c63d61c560760701a1ecd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421196675,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":421196675,
+    "wof:lastmodified":1513955994,
+    "wof:name":"'Ain Merane",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:population":34413,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.97037,
+    36.16277,
+    0.97037,
+    36.16277
+],
+  "geometry": {"coordinates":[0.97037,36.16277],"type":"Point"}
+}

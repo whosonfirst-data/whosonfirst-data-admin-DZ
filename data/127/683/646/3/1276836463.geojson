@@ -1,0 +1,65 @@
+{
+  "id": 1276836463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27343,35.10623,4.27343,35.10623",
+    "geom:latitude":35.10623,
+    "geom:longitude":4.27343,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Aioun Allah",
+    "gn:country_code":"DZ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507844,
+    "gn:latitude":35.10623,
+    "gn:longitude":4.27343,
+    "gn:modification_date":"1995-03-03",
+    "gn:name":"A\u00efoun Allah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507844
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"17d54f7e1cd0c1a85ef71c16d9abbb06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276836463,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1276836463,
+    "wof:lastmodified":1537096054,
+    "wof:name":"Aioun Allah",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27343,
+    35.10623,
+    4.27343,
+    35.10623
+],
+  "geometry": {"coordinates":[4.27343,35.10623],"type":"Point"}
+}

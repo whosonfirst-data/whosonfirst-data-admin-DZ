@@ -1,0 +1,69 @@
+{
+  "id": 1277113737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.26667,36.16667,1.26667,36.16667",
+    "geom:latitude":36.16667,
+    "geom:longitude":1.26667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"El Hadhar",
+    "gn:country_code":"DZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498188,
+    "gn:latitude":36.16667,
+    "gn:longitude":1.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Hadhar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakdar",
+        "El Hadhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498188
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bb6a8e0b7f3092334cd3381c93f6d125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277113737,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1277113737,
+    "wof:lastmodified":1537620200,
+    "wof:name":"El Hadhar",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.26667,
+    36.16667,
+    1.26667,
+    36.16667
+],
+  "geometry": {"coordinates":[1.26667,36.16667],"type":"Point"}
+}

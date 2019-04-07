@@ -1,0 +1,68 @@
+{
+  "id": 1360177107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.45105,35.70515,2.45105,35.70515",
+    "geom:latitude":35.70515,
+    "geom:longitude":2.45105,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Neoual",
+    "gn:country_code":"DZ",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484830,
+    "gn:latitude":35.70515,
+    "gn:longitude":2.45105,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Neoual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Noual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484830
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c18aa0d9007fe1b1ac8c933b166cb82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360177107,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1360177107,
+    "wof:lastmodified":1537620123,
+    "wof:name":"Ouled Neoual",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.45105,
+    35.70515,
+    2.45105,
+    35.70515
+],
+  "geometry": {"coordinates":[2.45105,35.70515],"type":"Point"}
+}

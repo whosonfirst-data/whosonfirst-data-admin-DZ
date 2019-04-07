@@ -1,0 +1,65 @@
+{
+  "id": 1226535015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3986,36.19419,3.3986,36.19419",
+    "geom:latitude":36.19419,
+    "geom:longitude":3.3986,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ferkat el M'haidia",
+    "gn:country_code":"DZ",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281415,
+    "gn:latitude":36.19419,
+    "gn:longitude":3.3986,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ferkat el M\u2019ha\u00efdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281415
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c888ec8cba9917e0e2419cc1b9b3371f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226535015,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226535015,
+    "wof:lastmodified":1537012847,
+    "wof:name":"Ferkat el M'haidia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3986,
+    36.19419,
+    3.3986,
+    36.19419
+],
+  "geometry": {"coordinates":[3.3986,36.19419],"type":"Point"}
+}

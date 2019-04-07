@@ -1,0 +1,61 @@
+{
+  "id": 1209249037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.81877,35.57554,0.81877,35.57554",
+    "geom:latitude":35.57554,
+    "geom:longitude":0.81877,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Laassaylia",
+    "gn:country_code":"DZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417287,
+    "gn:latitude":35.57554,
+    "gn:longitude":0.81877,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar La\u00e2ssaylia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417287
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"79392cac18440af584077d8c3a0fa518",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209249037
+        }
+    ],
+    "wof:id":1209249037,
+    "wof:lastmodified":1536293065,
+    "wof:name":"Douar Laassaylia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.81877,
+    35.57554000000001,
+    0.81877,
+    35.57554000000001
+],
+  "geometry": {"coordinates":[0.81877,35.57554000000001],"type":"Point"}
+}

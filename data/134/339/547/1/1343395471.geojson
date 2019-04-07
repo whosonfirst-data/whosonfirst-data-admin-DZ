@@ -1,0 +1,65 @@
+{
+  "id": 1343395471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73074,35.65698,0.73074,35.65698",
+    "geom:latitude":35.65698,
+    "geom:longitude":0.73074,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Laabaydia",
+    "gn:country_code":"DZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577460,
+    "gn:latitude":35.65698,
+    "gn:longitude":0.73074,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar La\u00e2baydia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577460
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b3b989c225f40fb932898d8b6a02a331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343395471,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1343395471,
+    "wof:lastmodified":1536838989,
+    "wof:name":"Douar Laabaydia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73074,
+    35.65698,
+    0.73074,
+    35.65698
+],
+  "geometry": {"coordinates":[0.73074,35.65698],"type":"Point"}
+}

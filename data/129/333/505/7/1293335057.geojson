@@ -1,0 +1,65 @@
+{
+  "id": 1293335057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.30438,36.11418,2.30438,36.11418",
+    "geom:latitude":36.11418,
+    "geom:longitude":2.30438,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Oued Djemaa",
+    "gn:country_code":"DZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8302469,
+    "gn:latitude":36.11418,
+    "gn:longitude":2.30438,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Oued Djemaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8302469
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4554ffb49d44bc345e206c24d12fbfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293335057,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1293335057,
+    "wof:lastmodified":1537006118,
+    "wof:name":"Oued Djemaa",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.30438,
+    36.11418,
+    2.30438,
+    36.11418
+],
+  "geometry": {"coordinates":[2.30438,36.11418],"type":"Point"}
+}

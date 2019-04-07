@@ -1,0 +1,71 @@
+{
+  "id": 1193246173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.01436,34.12942,3.01436,34.12942",
+    "geom:latitude":34.12942,
+    "geom:longitude":3.01436,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Sidi Makhlouf",
+    "gn:country_code":"DZ",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480260,
+    "gn:latitude":34.12942,
+    "gn:longitude":3.01436,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Makhlouf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auberge",
+        "Sidi Maklouf",
+        "Sidi Makhlouf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480260,
+        "wk:page":"Sidi_Makhlouf"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"52481dfbec98fe3bfeeebc85ac47bd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193246173,
+            "region_id":85670753
+        }
+    ],
+    "wof:id":1193246173,
+    "wof:lastmodified":1537620110,
+    "wof:name":"Sidi Makhlouf",
+    "wof:parent_id":85670753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.01436,
+    34.12942,
+    3.01436,
+    34.12942
+],
+  "geometry": {"coordinates":[3.01436,34.12942],"type":"Point"}
+}

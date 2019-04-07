@@ -1,0 +1,69 @@
+{
+  "id": 1293344579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.46508,35.5952,4.46508,35.5952",
+    "geom:latitude":35.5952,
+    "geom:longitude":4.46508,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechtat el Ousfane",
+    "gn:country_code":"DZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489038,
+    "gn:latitude":35.5952,
+    "gn:longitude":4.46508,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat el Ousfane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diar Oulad Maatoug",
+        "Mechtat el Ousfane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489038
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"342a7b89d522fa788d5357b9a6cd1350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293344579,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1293344579,
+    "wof:lastmodified":1537620148,
+    "wof:name":"Mechtat el Ousfane",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.46508,
+    35.5952,
+    4.46508,
+    35.5952
+],
+  "geometry": {"coordinates":[4.46508,35.5952],"type":"Point"}
+}

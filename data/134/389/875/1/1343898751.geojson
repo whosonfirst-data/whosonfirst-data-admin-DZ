@@ -1,0 +1,65 @@
+{
+  "id": 1343898751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.06339,36.23318,2.06339,36.23318",
+    "geom:latitude":36.23318,
+    "geom:longitude":2.06339,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mahe",
+    "gn:country_code":"DZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490464,
+    "gn:latitude":36.23318,
+    "gn:longitude":2.06339,
+    "gn:modification_date":"1999-05-12",
+    "gn:name":"Mah\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490464
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"441ae039bd122d8bad4e058a228c29c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343898751,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1343898751,
+    "wof:lastmodified":1536608559,
+    "wof:name":"Mahe",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.06339,
+    36.23318,
+    2.06339,
+    36.23318
+],
+  "geometry": {"coordinates":[2.06339,36.23318],"type":"Point"}
+}

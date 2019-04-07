@@ -1,0 +1,131 @@
+{
+  "id": 421178857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29053,35.8545,5.29053,35.8545",
+    "geom:latitude":35.8545,
+    "geom:longitude":5.29053,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0627\u0644\u062d \u0628\u0627\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:dut_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:eng_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:fra_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:fre_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:ita_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:may_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:msa_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:per_x_preferred":[
+        "\u0635\u0627\u0644\u062d \u0628\u0627\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:ron_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:rum_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:swe_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:unk_x_variant":[
+        "Dzeira"
+    ],
+    "name:vie_x_preferred":[
+        "Salah Bey"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Salah Bey"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2482447,
+    "qs:gn_pop":23339,
+    "qs:name":"Salah Bey",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Setif",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":140161,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257203,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482447,
+        "gp:id":1257203,
+        "qs:id":140161,
+        "wd:id":"Q3469526",
+        "wk:page":"Salah Bey"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009196,
+    "wof:geomhash":"3eab6b2d64af90c8107e296ac81e3d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421178857,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":421178857,
+    "wof:lastmodified":1553816368,
+    "wof:name":"Salah Bey",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:population":23339,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29053,
+    35.8545,
+    5.29053,
+    35.8545
+],
+  "geometry": {"coordinates":[5.29053,35.8545],"type":"Point"}
+}

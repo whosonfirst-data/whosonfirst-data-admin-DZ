@@ -1,0 +1,65 @@
+{
+  "id": 1259910669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10712,35.8066,1.10712,35.8066",
+    "geom:latitude":35.8066,
+    "geom:longitude":1.10712,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Mechta Draissia",
+    "gn:country_code":"DZ",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489595,
+    "gn:latitude":35.8066,
+    "gn:longitude":1.10712,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Dra\u00efssia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489595
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"69f1d8dd4672630881b40307d841c104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259910669,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1259910669,
+    "wof:lastmodified":1536739945,
+    "wof:name":"Mechta Draissia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.10712,
+    35.8066,
+    1.10712,
+    35.8066
+],
+  "geometry": {"coordinates":[1.10712,35.8066],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276210113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.24467,36.66325,4.24467,36.66325",
+    "geom:latitude":36.66325,
+    "geom:longitude":4.24467,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taourirt Adene",
+    "gn:country_code":"DZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477904,
+    "gn:latitude":36.66325,
+    "gn:longitude":4.24467,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Taourirt Adene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477904
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"43dbd749d06cec9515661fd304072d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276210113,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1276210113,
+    "wof:lastmodified":1536944689,
+    "wof:name":"Taourirt Adene",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.24467,
+    36.66325,
+    4.24467,
+    36.66325
+],
+  "geometry": {"coordinates":[4.24467,36.66325],"type":"Point"}
+}

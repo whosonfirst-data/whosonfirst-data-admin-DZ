@@ -1,0 +1,69 @@
+{
+  "id": 1309962811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.49563,35.46691,0.49563,35.46691",
+    "geom:latitude":35.46691,
+    "geom:longitude":0.49563,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Abd el Kader Ouled Barhdad",
+    "gn:country_code":"DZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499546,
+    "gn:latitude":35.46691,
+    "gn:longitude":0.49563,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abd el Kader Ouled Barhdad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Abd el Kader Ouled Barhdad",
+        "Abd el Kader Ouled Barhdad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499546
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cbd61e4491f9a0d9bbe5f52344bb0b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309962811,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1309962811,
+    "wof:lastmodified":1537620223,
+    "wof:name":"Abd el Kader Ouled Barhdad",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.49563,
+    35.46691,
+    0.49563,
+    35.46691
+],
+  "geometry": {"coordinates":[0.49563,35.46691],"type":"Point"}
+}

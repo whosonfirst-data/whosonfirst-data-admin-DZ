@@ -1,0 +1,100 @@
+{
+  "id": 890414789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83496,34.86375,0.83496,34.86375",
+    "geom:latitude":34.86375,
+    "geom:longitude":0.83496,
+    "gn:country":"DZ",
+    "gn:fcode":"PPLL",
+    "gn:pop":4930,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u064a\u0644\u0629 \u0627\u0644\u0631\u0635\u0641\u0627\u0621"
+    ],
+    "name:dut_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:eng_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:fre_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:ita_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:may_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0628\u06cc\u0644\u0647 \u0631\u0635\u0641\u0627\u0621"
+    ],
+    "name:por_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:rum_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:swe_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "name:vie_x_preferred":[
+        "Djebilet Rosfa"
+    ],
+    "qs:name":"Djebilet Rosfa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838650,
+        "gp:id":1257760,
+        "qs:id":741022,
+        "wd:id":"Q1649054",
+        "wk:page":"Djebilet Rosfa"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051062,
+    "wof:geomhash":"497df63f4cef44923f90f63af4315161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890414789,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":890414789,
+    "wof:lastmodified":1527727176,
+    "wof:name":"Djebilet Rosfa",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:population":4930,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83496,
+    34.86375,
+    0.83496,
+    34.86375
+],
+  "geometry": {"coordinates":[0.83496,34.86375],"type":"Point"}
+}

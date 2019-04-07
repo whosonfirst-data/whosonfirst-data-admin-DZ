@@ -1,0 +1,65 @@
+{
+  "id": 1193058599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.67242,35.46808,-0.67242,35.46808",
+    "geom:latitude":35.46808,
+    "geom:longitude":-0.67242,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Choualia Fouaga",
+    "gn:country_code":"DZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501266,
+    "gn:latitude":35.46808,
+    "gn:longitude":-0.67242,
+    "gn:modification_date":"1996-04-23",
+    "gn:name":"Choualia Fouaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501266
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0daa6d70d8d51cf35262342ff69b8e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193058599,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1193058599,
+    "wof:lastmodified":1536380203,
+    "wof:name":"Choualia Fouaga",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.67242,
+    35.46808,
+    -0.67242,
+    35.46808
+],
+  "geometry": {"coordinates":[-0.67242,35.46808],"type":"Point"}
+}

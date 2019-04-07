@@ -1,0 +1,70 @@
+{
+  "id": 102521765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.878713,35.525413,2.878713,35.525413",
+    "geom:latitude":35.525413,
+    "geom:longitude":2.878713,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Bandar Udara Ain Oussera"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ain Oussera"
+    ],
+    "oa:elevation_ft":"2132",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424740,
+        "planet_id":1,
+        "state_id":2344594
+    },
+    "wof:belongsto":[
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510313,
+        "icao:code":"DAAQ",
+        "oa:id":"2055",
+        "wd:id":"Q12691457"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"20efc1f19fd77e4ffe0be3028ebe7c2f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521765,
+            "country_id":85632451,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":102521765,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Ain Oussera Airport",
+    "wof:parent_id":85670833,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    2.878713,
+    35.525413,
+    2.878713,
+    35.525413
+],
+  "geometry": {"coordinates":[2.878713,35.525413],"type":"Point"}
+}

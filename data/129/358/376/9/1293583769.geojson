@@ -1,0 +1,71 @@
+{
+  "id": 1293583769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.20968,35.71376,-0.20968,35.71376",
+    "geom:latitude":35.71376,
+    "geom:longitude":-0.20968,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"En Nekala",
+    "gn:country_code":"DZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499387,
+    "gn:latitude":35.71376,
+    "gn:longitude":-0.20968,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"En Nekala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Granine",
+        "Ancien Douar N\u2019Kaka",
+        "En Nekaka",
+        "En Nekala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499387
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"502bfa311af5842650efaac31f1f4e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293583769,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1293583769,
+    "wof:lastmodified":1537620215,
+    "wof:name":"En Nekala",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.20968,
+    35.71376,
+    -0.20968,
+    35.71376
+],
+  "geometry": {"coordinates":[-0.20968,35.71376],"type":"Point"}
+}

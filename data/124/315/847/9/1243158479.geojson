@@ -1,0 +1,65 @@
+{
+  "id": 1243158479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95583,35.18722,0.95583,35.18722",
+    "geom:latitude":35.18722,
+    "geom:longitude":0.95583,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"El Hamri",
+    "gn:country_code":"DZ",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578496,
+    "gn:latitude":35.18722,
+    "gn:longitude":0.95583,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"El Hamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578496
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dd10c2a3cfaada11ad21fb9bb5c69063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243158479,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1243158479,
+    "wof:lastmodified":1536724118,
+    "wof:name":"El Hamri",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95583,
+    35.18722,
+    0.95583,
+    35.18722
+],
+  "geometry": {"coordinates":[0.95583,35.18722],"type":"Point"}
+}

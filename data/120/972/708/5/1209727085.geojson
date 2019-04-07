@@ -1,0 +1,69 @@
+{
+  "id": 1209727085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5219,34.8609,6.5219,34.8609",
+    "geom:latitude":34.8609,
+    "geom:longitude":6.5219,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dermoun",
+    "gn:country_code":"DZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500516,
+    "gn:latitude":34.8609,
+    "gn:longitude":6.5219,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dermoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dermoune",
+        "Dermoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500516
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a2c140850fb6448146f557b29707f7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209727085,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1209727085,
+    "wof:lastmodified":1537620226,
+    "wof:name":"Dermoun",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5219,
+    34.8609,
+    6.5219,
+    34.8609
+],
+  "geometry": {"coordinates":[6.5219,34.8609],"type":"Point"}
+}

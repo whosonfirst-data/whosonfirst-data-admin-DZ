@@ -1,0 +1,66 @@
+{
+  "id": 1243297591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10845,36.10998,1.10845,36.10998",
+    "geom:latitude":36.10998,
+    "geom:longitude":1.10845,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sobha",
+    "gn:country_code":"DZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7429635,
+    "gn:latitude":36.10998,
+    "gn:longitude":1.10845,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Sobha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7429635,
+        "wk:page":"Sobha%2C_Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2979becb219d01253a7ebe76f1d9ad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243297591,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1243297591,
+    "wof:lastmodified":1537504313,
+    "wof:name":"Sobha",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.10845,
+    36.10998,
+    1.10845,
+    36.10998
+],
+  "geometry": {"coordinates":[1.10845,36.10998],"type":"Point"}
+}

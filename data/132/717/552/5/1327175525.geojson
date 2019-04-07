@@ -1,0 +1,66 @@
+{
+  "id": 1327175525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.40375,34.56233,7.40375,34.56233",
+    "geom:latitude":34.56233,
+    "geom:longitude":7.40375,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ferkane",
+    "gn:country_code":"DZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496509,
+    "gn:latitude":34.56233,
+    "gn:longitude":7.40375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ferkane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496509,
+        "wk:page":"Ferkane"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bd5a80b4d3bb28614830006d940ae4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327175525,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1327175525,
+    "wof:lastmodified":1537504291,
+    "wof:name":"Ferkane",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.40375,
+    34.56233,
+    7.40375,
+    34.56233
+],
+  "geometry": {"coordinates":[7.40375,34.56233],"type":"Point"}
+}

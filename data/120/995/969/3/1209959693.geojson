@@ -1,0 +1,69 @@
+{
+  "id": 1209959693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79368,36.7286,7.79368,36.7286",
+    "geom:latitude":36.7286,
+    "geom:longitude":7.79368,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Daroussa",
+    "gn:country_code":"DZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500840,
+    "gn:latitude":36.7286,
+    "gn:longitude":7.79368,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daroussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darroussa",
+        "Daroussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500840
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c9c589ea6a5f68729280af3f6ab484a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209959693,
+            "region_id":85670719
+        }
+    ],
+    "wof:id":1209959693,
+    "wof:lastmodified":1537620227,
+    "wof:name":"Daroussa",
+    "wof:parent_id":85670719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79368,
+    36.7286,
+    7.79368,
+    36.7286
+],
+  "geometry": {"coordinates":[7.79368,36.7286],"type":"Point"}
+}

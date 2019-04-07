@@ -1,0 +1,65 @@
+{
+  "id": 1243401897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.90715,35.15961,3.90715,35.15961",
+    "geom:latitude":35.15961,
+    "geom:longitude":3.90715,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"'Ain Temsa",
+    "gn:country_code":"DZ",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507898,
+    "gn:latitude":35.15961,
+    "gn:longitude":3.90715,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u2019A\u00efn Temsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507898
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0e00e1c1999a523606c5159b609cdc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243401897,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1243401897,
+    "wof:lastmodified":1536868609,
+    "wof:name":"'Ain Temsa",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.90715,
+    35.15961,
+    3.90715,
+    35.15961
+],
+  "geometry": {"coordinates":[3.90715,35.15961],"type":"Point"}
+}

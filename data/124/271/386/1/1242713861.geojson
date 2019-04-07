@@ -1,0 +1,65 @@
+{
+  "id": 1242713861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01338,36.34044,1.01338,36.34044",
+    "geom:latitude":36.34044,
+    "geom:longitude":1.01338,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Yahia",
+    "gn:country_code":"DZ",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467362,
+    "gn:latitude":36.34044,
+    "gn:longitude":1.01338,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467362
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"838d375933da155448ab54b24d1f585d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242713861,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242713861,
+    "wof:lastmodified":1536866167,
+    "wof:name":"Ouled Yahia",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01338,
+    36.34044,
+    1.01338,
+    36.34044
+],
+  "geometry": {"coordinates":[1.01338,36.34044],"type":"Point"}
+}

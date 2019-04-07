@@ -1,0 +1,65 @@
+{
+  "id": 1243316985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9672,36.29481,1.9672,36.29481",
+    "geom:latitude":36.29481,
+    "geom:longitude":1.9672,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"El Arabia",
+    "gn:country_code":"DZ",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7511209,
+    "gn:latitude":36.29481,
+    "gn:longitude":1.9672,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"El Arabia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511209
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4b07d3312aecdb7ce3f4eebe974eb844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243316985,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1243316985,
+    "wof:lastmodified":1536991530,
+    "wof:name":"El Arabia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9672,
+    36.29481,
+    1.9672,
+    36.29481
+],
+  "geometry": {"coordinates":[1.9672,36.29481],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209373071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86667,36.43333,7.86667,36.43333",
+    "geom:latitude":36.43333,
+    "geom:longitude":7.86667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mechtet el Ma'za",
+    "gn:country_code":"DZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488910,
+    "gn:latitude":36.43333,
+    "gn:longitude":7.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtet el Ma\u2019za",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta el Maza",
+        "Mechtet el Ma\u2019za"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488910
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c6a891784ca019265cb438d4e0b38086",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209373071
+        }
+    ],
+    "wof:id":1209373071,
+    "wof:lastmodified":1537620144,
+    "wof:name":"Mechtet el Ma'za",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86667,
+    36.43333,
+    7.86667,
+    36.43333
+],
+  "geometry": {"coordinates":[7.86667,36.43333],"type":"Point"}
+}

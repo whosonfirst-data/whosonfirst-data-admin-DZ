@@ -1,0 +1,65 @@
+{
+  "id": 1243194331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.50417,35.9575,3.50417,35.9575",
+    "geom:latitude":35.9575,
+    "geom:longitude":3.50417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Oulad Merzoug",
+    "gn:country_code":"DZ",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2583163,
+    "gn:latitude":35.9575,
+    "gn:longitude":3.50417,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Oulad Merzoug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2583163
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"77855b7ca5949b8172a6e3ed68cecf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243194331,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1243194331,
+    "wof:lastmodified":1536672000,
+    "wof:name":"Oulad Merzoug",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.50417,
+    35.9575,
+    3.50417,
+    35.9575
+],
+  "geometry": {"coordinates":[3.50417,35.9575],"type":"Point"}
+}

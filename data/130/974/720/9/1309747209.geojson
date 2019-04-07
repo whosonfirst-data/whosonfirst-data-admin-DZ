@@ -1,0 +1,70 @@
+{
+  "id": 1309747209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89728,36.04416,0.89728,36.04416",
+    "geom:latitude":36.04416,
+    "geom:longitude":0.89728,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Ouarizane",
+    "gn:country_code":"DZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485789,
+    "gn:latitude":36.04416,
+    "gn:longitude":0.89728,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouarizane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouarizan",
+        "Ouarizane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485789,
+        "wk:page":"Ouarizane"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b79cc5a780db45f1a22c3ff4b75f5ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309747209,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1309747209,
+    "wof:lastmodified":1537620135,
+    "wof:name":"Ouarizane",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89728,
+    36.04416,
+    0.89728,
+    36.04416
+],
+  "geometry": {"coordinates":[0.89728,36.04416],"type":"Point"}
+}

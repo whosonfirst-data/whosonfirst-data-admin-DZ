@@ -1,0 +1,70 @@
+{
+  "id": 1276693293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53449,36.81897,8.53449,36.81897",
+    "geom:latitude":36.81897,
+    "geom:longitude":8.53449,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Mechtet 'Ain Toubib",
+    "gn:country_code":"DZ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2488931,
+    "gn:latitude":36.81897,
+    "gn:longitude":8.53449,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtet \u2019A\u00efn Toub\u00eeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta d\u2019A\u00efn Tobib",
+        "Mechtat d\u2019A\u00efne Tobib",
+        "Mechtet \u2019A\u00efn Toub\u00eeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488931
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b872040066d2509bdfaeacb453646997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276693293,
+            "region_id":85670719
+        }
+    ],
+    "wof:id":1276693293,
+    "wof:lastmodified":1537620145,
+    "wof:name":"Mechtet 'Ain Toubib",
+    "wof:parent_id":85670719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53449,
+    36.81897,
+    8.53449,
+    36.81897
+],
+  "geometry": {"coordinates":[8.53449,36.81897],"type":"Point"}
+}

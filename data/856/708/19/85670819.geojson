@@ -1,0 +1,402 @@
+{
+  "id": 85670819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.195295,
+    "geom:area_square_m":1940529883.486264,
+    "geom:bbox":"2.4762626478,36.3532852237,3.51035973521,36.7134699571",
+    "geom:latitude":36.526746,
+    "geom:longitude":2.999735,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Blida Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.506234,
+    "lbl:longitude":3.007466,
+    "mps:latitude":36.506234,
+    "mps:longitude":3.007466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:afr_x_preferred":[
+        "Blida"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+        "\u0627\u0644\u0628\u0644\u064a\u062f\u0629"
+    ],
+    "name:baq_x_preferred":[
+        "Blida probintzia"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u043b\u0456\u0434\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b2\u09bf\u09a1\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "El Bouleida"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043b\u0438\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Blida"
+    ],
+    "name:ceb_x_preferred":[
+        "Blida"
+    ],
+    "name:chi_x_preferred":[
+        "\u535c\u5229\u8fbe\u7701"
+    ],
+    "name:cym_x_preferred":[
+        "Blida"
+    ],
+    "name:dan_x_preferred":[
+        "Blida"
+    ],
+    "name:deu_x_preferred":[
+        "Blida"
+    ],
+    "name:dut_x_preferred":[
+        "Blida"
+    ],
+    "name:eng_x_preferred":[
+        "Blida"
+    ],
+    "name:eng_x_variant":[
+        "Blida Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Blida"
+    ],
+    "name:eus_x_preferred":[
+        "Blida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u06cc\u062f\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Blidan provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Blida"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Blida"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10da\u10d8\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Blida"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Blida"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bb\u03af\u03bd\u03c4\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab2\u0abf\u0aa1\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0932\u093f\u0921\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Blida"
+    ],
+    "name:ind_x_preferred":[
+        "Blida"
+    ],
+    "name:ita_x_preferred":[
+        "Blida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30c0"
+    ],
+    "name:kab_x_preferred":[
+        "Leblida"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb2\u0cbf\u0ca1\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub9ac\ub2e4"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Blida"
+    ],
+    "name:lav_x_preferred":[
+        "Bl\u012bdas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Blida"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0932\u093f\u0921\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Blida"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043b\u0438\u0434\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u043b\u0438\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Blida"
+    ],
+    "name:nan_x_preferred":[
+        "Blida S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Blida"
+    ],
+    "name:nob_x_preferred":[
+        "Blida"
+    ],
+    "name:nor_x_preferred":[
+        "Blida"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u0644\u06cc\u062f\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0644\u06cc\u062f\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bulajda"
+    ],
+    "name:por_x_preferred":[
+        "Blida"
+    ],
+    "name:ron_x_preferred":[
+        "Blida"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Blida"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0438\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Bilda Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u0dbd\u0dd2\u0da9\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Blida eanangoddi"
+    ],
+    "name:sna_x_preferred":[
+        "Bilda"
+    ],
+    "name:spa_x_preferred":[
+        "Blida"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0438\u0434\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Blida"
+    ],
+    "name:swe_x_preferred":[
+        "Blida"
+    ],
+    "name:szl_x_preferred":[
+        "Al-Bulajda"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb3\u0bbf\u0b9f\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c32\u0c3f\u0c21\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u043b\u0438\u0434\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Blida"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e25\u0e35\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Buleyde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0456\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Blida"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u06cc\u062f\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Blida"
+    ],
+    "name:war_x_preferred":[
+        "Blida"
+    ],
+    "name:zho_x_preferred":[
+        "\u535c\u5229\u8fbe"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2209",
+    "ne:adm1_code":"DZA-2209",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.BL",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2209",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG20",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.20",
+    "ne:gn_id":"2503765",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Blida",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG20",
+    "ne:gns_id":"-462096",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Blida",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"36.50300000000",
+    "ne:longitude":"2.99331000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Blida",
+    "ne:name_alt":"El Boula\u00efda|Al-Boulaida",
+    "ne:name_len":5,
+    "ne:name_local":"\u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "ne:note":"",
+    "ne:postal":"BL",
+    "ne:provnum_ne":"44",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344592,
+    "ne:woe_label":"Blida, DZ, Algeria",
+    "ne:woe_name":"Blida",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Blida",
+    "qs:a1_lc":"DZA-2209",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"1,541",
+    "statoids:area_mi":"595",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Blida",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG20",
+    "statoids:hasc":"DZ.BL",
+    "statoids:iso":"09",
+    "statoids:name":"Blida",
+    "statoids:population":"1002937",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-09",
+    "wd:elevation":260.0,
+    "wd:latitude":36.466667,
+    "wd:longitude":2.816667,
+    "wd:wordcount":665,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG20",
+        "gn:id":2503765,
+        "gp:id":2344592,
+        "hasc:id":"DZ.BL",
+        "iso:id":"DZ-09",
+        "qs:id":1134890,
+        "unlc:id":"DZ-09",
+        "wd:id":"Q233637"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9a6fd0c83d17127b16749e87e044045e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":85670819,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550367,
+    "wof:name":"Blida",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":1002937,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"BL",
+    "wof:subdivision":"DZ-09",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.47626264780303,
+    36.35328522373413,
+    3.51035973521368,
+    36.7134699570729
+],
+  "geometry": {"coordinates":[[[3.44767622237981,36.67595286733103],[3.45651289155677,36.67801992398034],[3.47744184676384,36.68856191729867],[3.50818932487749,36.6425698917871],[3.51035973521368,36.63156281227401],[3.51004967595185,36.62316539176948],[3.49873253717692,36.61724843996359],[3.49263471821774,36.61228750346555],[3.47604658368294,36.59143606172495],[3.46736494323761,36.5831678333289],[3.45635786282514,36.57683747037299],[3.44318037297586,36.57257416406645],[3.33548668836005,36.55608938231921],[3.3217924327746,36.55037913698766],[3.31202558761083,36.54239512853241],[3.30473921114572,36.53363597282191],[3.2937321307333,36.5141539584385],[3.28303510868335,36.49017609285244],[3.24515628373558,36.48257965802486],[3.22004153838634,36.48123606998871],[3.20324669827653,36.4749057070328],[3.19487511619371,36.46764516898941],[3.18991417789704,36.45622467742697],[3.18262780143192,36.44454580344615],[3.16231896294983,36.42909455047317],[3.1371525407572,36.41865591084166],[3.10190921413897,36.40790721284765],[3.05323001525306,36.3822757017623],[3.02496300583812,36.36395640736237],[3.0080648129408,36.35643748600125],[2.99628258617247,36.35328522373413],[2.98305342037912,36.35473216455779],[2.96708540166998,36.36067495388608],[2.95096235512864,36.37232798944518],[2.94057539234052,36.38785675678395],[2.93230716304521,36.4031271435029],[2.92378055223077,36.41307485582001],[2.90982791512624,36.41524526615615],[2.8986658059822,36.40847565452788],[2.87566979322645,36.38757253684315],[2.8610970393969,36.37767650047016],[2.84528405121802,36.36922740312218],[2.8244584487984,36.36517080328997],[2.80523481593406,36.36527415607748],[2.78275556801509,36.36790965440707],[2.68374352384461,36.36088165946109],[2.66110924629476,36.36310374574134],[2.65268598826782,36.39209422556809],[2.64788007960203,36.39612498607931],[2.64338423019814,36.39726186854045],[2.61842451268115,36.38630646407211],[2.589847445803,36.3819656442991],[2.54034142371779,36.36630768485185],[2.52251305483367,36.36398224488477],[2.51398644401922,36.37070018236756],[2.51135094568963,36.38341258422344],[2.50825036026595,36.38708161132735],[2.49848351420286,36.39165497509708],[2.49259240081869,36.39607331013519],[2.48757978657795,36.40129262995094],[2.47626264780303,36.42061961470353],[2.48618452259768,36.45932526285065],[2.49197228409366,36.46493215629403],[2.49972374765286,36.47038402010651],[2.50732018427914,36.47038402010651],[2.53646569193819,36.46384695157559],[2.54612918521377,36.46289093716706],[2.58225101097543,36.46382111315393],[2.6024564957707,36.4674384634144],[2.61392866417657,36.4740530463111],[2.62168012863509,36.48397492110576],[2.62447065569626,36.49356089911623],[2.62602094930742,36.50159658531419],[2.62865644673769,36.50461965637209],[2.63439253139023,36.51281037040235],[2.65036054920006,36.52107859969766],[2.69645592570043,36.55642527910339],[2.71449100105889,36.56769074193426],[2.73216434121144,36.57590729438618],[2.75123294444489,36.581178290146],[2.81267622203006,36.60587962524454],[2.82606041835368,36.61533641204585],[2.83133141411349,36.62406972933462],[2.8330367373556,36.63109772428061],[2.83737755712861,36.6378673368082],[2.84714440319169,36.64011526151018],[2.96196943464173,36.63755727844568],[2.9760771013772,36.63980520314766],[2.9841386250975,36.64432689097328],[2.9911149432001,36.65101898913508],[2.99690270289744,36.65442963292128],[3.00263878665072,36.65605744089822],[3.02279259640125,36.65874461517188],[3.02992394413474,36.66223277422318],[3.03395470464596,36.66623769811133],[3.03503991116304,36.67096609151196],[3.0347298519012,36.6742217074659],[3.03395470464596,36.67760651283038],[3.03302452955842,36.67988027595402],[3.03193932484004,36.68184397981588],[3.03100914885317,36.68460867025397],[3.02992394413474,36.68675324216844],[3.02790856342949,36.68938874049803],[3.02465294837492,36.69752777858417],[3.02511803636833,36.71005931238739],[3.05369510324647,36.70292796555322],[3.05757083502607,36.69894888008679],[3.06191165479908,36.69207591387237],[3.06237674279248,36.68768341725593],[3.06222171406091,36.68189565755858],[3.06253177242343,36.67564280896852],[3.06470218275956,36.67011342989093],[3.07074832487535,36.66003652636465],[3.08253055164369,36.65396454492787],[3.0974133638357,36.64993378441665],[3.11110761942115,36.65055390114168],[3.12257978692764,36.65331858978112],[3.13436201279671,36.65874461517188],[3.181852655076,36.66613434532383],[3.22980838444943,36.68512543419149],[3.28768598771819,36.70721710938216],[3.32365278474828,36.71230723708936],[3.35440026196255,36.7134699570729],[3.37176354285327,36.71042104849266],[3.38168541764793,36.70427155179073],[3.38525109196439,36.69853546803745],[3.38979861821173,36.69414297142106],[3.4373926123792,36.67654714653366],[3.44767622237981,36.67595286733103]]],"type":"Polygon"}
+}

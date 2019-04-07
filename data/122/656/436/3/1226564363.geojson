@@ -1,0 +1,68 @@
+{
+  "id": 1226564363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9325,36.20861,2.9325,36.20861",
+    "geom:latitude":36.20861,
+    "geom:longitude":2.9325,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maouch el Bastana",
+    "gn:country_code":"DZ",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2575271,
+    "gn:latitude":36.20861,
+    "gn:longitude":2.9325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maouch el Bastana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Ben Mouloud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2575271
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5d882432681097e810b5acfba15ad7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226564363,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226564363,
+    "wof:lastmodified":1537620264,
+    "wof:name":"Maouch el Bastana",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9325,
+    36.20861,
+    2.9325,
+    36.20861
+],
+  "geometry": {"coordinates":[2.9325,36.20861],"type":"Point"}
+}

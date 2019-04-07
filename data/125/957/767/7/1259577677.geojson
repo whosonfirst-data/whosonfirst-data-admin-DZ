@@ -1,0 +1,65 @@
+{
+  "id": 1259577677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.14963,35.81283,0.14963,35.81283",
+    "geom:latitude":35.81283,
+    "geom:longitude":0.14963,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Guessaissia",
+    "gn:country_code":"DZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392354,
+    "gn:latitude":35.81283,
+    "gn:longitude":0.14963,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"El Guessa\u00efssia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392354
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1cdefec5df4b9253e962cdf050db15ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259577677,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1259577677,
+    "wof:lastmodified":1536723592,
+    "wof:name":"El Guessaissia",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.14963,
+    35.81283,
+    0.14963,
+    35.81283
+],
+  "geometry": {"coordinates":[0.14963,35.81283],"type":"Point"}
+}

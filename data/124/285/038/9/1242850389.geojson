@@ -1,0 +1,65 @@
+{
+  "id": 1242850389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9899,36.53882,4.9899,36.53882",
+    "geom:latitude":36.53882,
+    "geom:longitude":4.9899,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Taourirt Maafa",
+    "gn:country_code":"DZ",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477892,
+    "gn:latitude":36.53882,
+    "gn:longitude":4.9899,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Taourirt Maafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477892
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0ff7ccdaa6a338bf2cbce8b527dbdd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242850389,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1242850389,
+    "wof:lastmodified":1536670775,
+    "wof:name":"Taourirt Maafa",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9899,
+    36.53882,
+    4.9899,
+    36.53882
+],
+  "geometry": {"coordinates":[4.9899,36.53882],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326922003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61625,36.00782,0.61625,36.00782",
+    "geom:latitude":36.00782,
+    "geom:longitude":0.61625,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mechtat el Faiza",
+    "gn:country_code":"DZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489111,
+    "gn:latitude":36.00782,
+    "gn:longitude":0.61625,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat el Fa\u00efza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489111
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fc464ff7bec3159e344caf01462fac57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326922003,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1326922003,
+    "wof:lastmodified":1536920190,
+    "wof:name":"Mechtat el Faiza",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61625,
+    36.00782,
+    0.61625,
+    36.00782
+],
+  "geometry": {"coordinates":[0.61625,36.00782],"type":"Point"}
+}

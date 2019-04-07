@@ -1,0 +1,65 @@
+{
+  "id": 1226796949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08137,35.53923,5.08137,35.53923",
+    "geom:latitude":35.53923,
+    "geom:longitude":5.08137,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Aichouch",
+    "gn:country_code":"DZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508349,
+    "gn:latitude":35.53923,
+    "gn:longitude":5.08137,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"A\u00efchouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508349
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d988964ae395a62995ce9ee2f21a3482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226796949,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1226796949,
+    "wof:lastmodified":1536641010,
+    "wof:name":"Aichouch",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08137,
+    35.53923,
+    5.08137,
+    35.53923
+],
+  "geometry": {"coordinates":[5.08137,35.53923],"type":"Point"}
+}

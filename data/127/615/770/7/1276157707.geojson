@@ -1,0 +1,65 @@
+{
+  "id": 1276157707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95181,34.01398,5.95181,34.01398",
+    "geom:latitude":34.01398,
+    "geom:longitude":5.95181,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"En Nessirha",
+    "gn:country_code":"DZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497255,
+    "gn:latitude":34.01398,
+    "gn:longitude":5.95181,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"En Nessirha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497255
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aca83c4ccac5bb4da67cd075610cbb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276157707,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1276157707,
+    "wof:lastmodified":1537013426,
+    "wof:name":"En Nessirha",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95181,
+    34.01398,
+    5.95181,
+    34.01398
+],
+  "geometry": {"coordinates":[5.95181,34.01398],"type":"Point"}
+}

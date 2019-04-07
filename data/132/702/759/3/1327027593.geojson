@@ -1,0 +1,65 @@
+{
+  "id": 1327027593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92556,36.035,2.92556,36.035",
+    "geom:latitude":36.035,
+    "geom:longitude":2.92556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchacht",
+    "gn:country_code":"DZ",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2574858,
+    "gn:latitude":36.035,
+    "gn:longitude":2.92556,
+    "gn:modification_date":"1997-01-21",
+    "gn:name":"Tchacht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2574858
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0579b8971d5cedfe43b22007d2d4ad8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327027593,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1327027593,
+    "wof:lastmodified":1536767867,
+    "wof:name":"Tchacht",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92556,
+    36.035,
+    2.92556,
+    36.035
+],
+  "geometry": {"coordinates":[2.92556,36.035],"type":"Point"}
+}

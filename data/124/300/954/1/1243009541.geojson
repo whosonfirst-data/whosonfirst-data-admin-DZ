@@ -1,0 +1,65 @@
+{
+  "id": 1243009541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17578,36.46841,6.17578,36.46841",
+    "geom:latitude":36.46841,
+    "geom:longitude":6.17578,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Zeraia",
+    "gn:country_code":"DZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474586,
+    "gn:latitude":36.46841,
+    "gn:longitude":6.17578,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Zera\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474586
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d93362f52faeaa3e4229367cd470f105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243009541,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1243009541,
+    "wof:lastmodified":1536939128,
+    "wof:name":"Zeraia",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17578,
+    36.46841,
+    6.17578,
+    36.46841
+],
+  "geometry": {"coordinates":[6.17578,36.46841],"type":"Point"}
+}

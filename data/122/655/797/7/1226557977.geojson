@@ -1,0 +1,71 @@
+{
+  "id": 1226557977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67173,29.32913,-7.67173,29.32913",
+    "geom:latitude":29.32913,
+    "geom:longitude":-7.67173,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dar Bou Naila",
+    "gn:country_code":"DZ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500908,
+    "gn:latitude":29.32913,
+    "gn:longitude":-7.67173,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dar Bou Na\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Bou Na\u00eflat",
+        "Dar Bou Na\u00efla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947,
+        890453851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500908
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"dfd1022ec5b36b40508344d88e353bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890453851,
+            "locality_id":1226557977,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1226557977,
+    "wof:lastmodified":1537620227,
+    "wof:name":"Dar Bou Naila",
+    "wof:parent_id":890453851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67173,
+    29.32913,
+    -7.67173,
+    29.32913
+],
+  "geometry": {"coordinates":[-7.67173,29.32913],"type":"Point"}
+}

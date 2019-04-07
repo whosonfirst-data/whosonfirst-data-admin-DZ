@@ -1,0 +1,69 @@
+{
+  "id": 1360151121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33899,36.48186,5.33899,36.48186",
+    "geom:latitude":36.48186,
+    "geom:longitude":5.33899,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"El Mennchar",
+    "gn:country_code":"DZ",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497584,
+    "gn:latitude":36.48186,
+    "gn:longitude":5.33899,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Mennchar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Menchar",
+        "El Mennchar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497584
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"36f5f2b661ec82e3627dfdfbbdca5042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360151121,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1360151121,
+    "wof:lastmodified":1537620195,
+    "wof:name":"El Mennchar",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33899,
+    36.48186,
+    5.33899,
+    36.48186
+],
+  "geometry": {"coordinates":[5.33899,36.48186],"type":"Point"}
+}

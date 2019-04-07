@@ -1,0 +1,65 @@
+{
+  "id": 1209388165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.29153,34.87765,-1.29153,34.87765",
+    "geom:latitude":34.87765,
+    "geom:longitude":-1.29153,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sidi Bou Mediene",
+    "gn:country_code":"DZ",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480795,
+    "gn:latitude":34.87765,
+    "gn:longitude":-1.29153,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Bo\u00fb Mediene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Medine",
+        "Sidi Bo\u00fb Mediene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480795
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2ab388dbb066de6a4575864fd913c185",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209388165
+        }
+    ],
+    "wof:id":1209388165,
+    "wof:lastmodified":1537620112,
+    "wof:name":"Sidi Bou Mediene",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.29153,
+    34.87765,
+    -1.29153,
+    34.87765
+],
+  "geometry": {"coordinates":[-1.29153,34.87765],"type":"Point"}
+}

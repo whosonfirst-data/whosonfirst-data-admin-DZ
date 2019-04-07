@@ -1,0 +1,70 @@
+{
+  "id": 1226289163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.19465,34.44675,-0.19465,34.44675",
+    "geom:latitude":34.44675,
+    "geom:longitude":-0.19465,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Marhoum",
+    "gn:country_code":"DZ",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490138,
+    "gn:latitude":34.44675,
+    "gn:longitude":-0.19465,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marhoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marhum",
+        "Marhoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490138,
+        "wk:page":"Marhoum"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"50d5cb276a969af89c68b95d5527a922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226289163,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":1226289163,
+    "wof:lastmodified":1537620173,
+    "wof:name":"Marhoum",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.19465,
+    34.44675,
+    -0.19465,
+    34.44675
+],
+  "geometry": {"coordinates":[-0.19465,34.44675],"type":"Point"}
+}

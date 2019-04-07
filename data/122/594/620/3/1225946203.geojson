@@ -1,0 +1,65 @@
+{
+  "id": 1225946203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.52266,35.66974,5.52266,35.66974",
+    "geom:latitude":35.66974,
+    "geom:longitude":5.52266,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Gosbat",
+    "gn:country_code":"DZ",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489566,
+    "gn:latitude":35.66974,
+    "gn:longitude":5.52266,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Gosbat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489566
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"300cced176d576a740db3d92e05194a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225946203,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1225946203,
+    "wof:lastmodified":1536867447,
+    "wof:name":"Mechta Gosbat",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.52266,
+    35.66974000000001,
+    5.52266,
+    35.66974000000001
+],
+  "geometry": {"coordinates":[5.52266,35.66974000000001],"type":"Point"}
+}

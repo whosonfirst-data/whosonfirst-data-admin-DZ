@@ -1,0 +1,65 @@
+{
+  "id": 1209381497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.61667,35.6,4.61667,35.6",
+    "geom:latitude":35.6,
+    "geom:longitude":4.61667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"El Djenane",
+    "gn:country_code":"DZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498421,
+    "gn:latitude":35.6,
+    "gn:longitude":4.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Djen\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djenane",
+        "El Djen\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498421
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"62e9ab65fa5ce3184106a795e64dc195",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209381497
+        }
+    ],
+    "wof:id":1209381497,
+    "wof:lastmodified":1537620202,
+    "wof:name":"El Djenane",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.61667,
+    35.6,
+    4.61667,
+    35.6
+],
+  "geometry": {"coordinates":[4.61667,35.6],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226279761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74005,36.5731,6.74005,36.5731",
+    "geom:latitude":36.5731,
+    "geom:longitude":6.74005,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bardi Boudjemaa",
+    "gn:country_code":"DZ",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506455,
+    "gn:latitude":36.5731,
+    "gn:longitude":6.74005,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bardi Boudjemaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arm\u00e8e Fran\u00e7aise",
+        "Bardi Boudjemaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506455
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f62b9e5d249d28a89aa835708682ba9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226279761,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1226279761,
+    "wof:lastmodified":1537620249,
+    "wof:name":"Bardi Boudjemaa",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74005,
+    36.5731,
+    6.74005,
+    36.5731
+],
+  "geometry": {"coordinates":[6.74005,36.5731],"type":"Point"}
+}

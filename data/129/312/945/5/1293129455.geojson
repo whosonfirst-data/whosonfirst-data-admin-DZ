@@ -1,0 +1,65 @@
+{
+  "id": 1293129455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23948,36.27203,1.23948,36.27203",
+    "geom:latitude":36.27203,
+    "geom:longitude":1.23948,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Chorfa",
+    "gn:country_code":"DZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467282,
+    "gn:latitude":36.27203,
+    "gn:longitude":1.23948,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Chorfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467282
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"052ede1f97974a10213065ad433ca1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293129455,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1293129455,
+    "wof:lastmodified":1536806180,
+    "wof:name":"Chorfa",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23948,
+    36.27203,
+    1.23948,
+    36.27203
+],
+  "geometry": {"coordinates":[1.23948,36.27203],"type":"Point"}
+}

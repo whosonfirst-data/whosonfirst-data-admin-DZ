@@ -1,0 +1,65 @@
+{
+  "id": 1260307183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2764,35.73475,0.2764,35.73475",
+    "geom:latitude":35.73475,
+    "geom:longitude":0.2764,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled Yaala",
+    "gn:country_code":"DZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7407284,
+    "gn:latitude":35.73475,
+    "gn:longitude":0.2764,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Y\u00e2ala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7407284
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"064a404bf9067e3baf2d90d0a871c798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260307183,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1260307183,
+    "wof:lastmodified":1536680178,
+    "wof:name":"Douar Ouled Yaala",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2764,
+    35.73475,
+    0.2764,
+    35.73475
+],
+  "geometry": {"coordinates":[0.2764,35.73475],"type":"Point"}
+}

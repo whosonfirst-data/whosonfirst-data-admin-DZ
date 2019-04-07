@@ -1,0 +1,115 @@
+{
+  "id": 421167721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59603,36.41205,6.59603,36.41205",
+    "geom:latitude":36.41205,
+    "geom:longitude":6.59603,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0626\u0631\u0629 \u062d\u0627\u0645\u0629 \u0628\u0648\u0632\u064a\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:fra_x_preferred":[
+        "Da\u00efra de Hamma Bouziane"
+    ],
+    "name:fre_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:ita_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:msa_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:por_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Hamma Bouziane"
+    ],
+    "name:rum_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:swe_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "name:unk_x_variant":[
+        "Le Hamma-Plaisance"
+    ],
+    "name:vie_x_preferred":[
+        "Hamma Bouziane"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2494610,
+    "qs:gn_pop":63012,
+    "qs:name":"Hamma Bouziane",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0642\u0633\u0646\u0637\u064a\u0646\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":140182,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1254928,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2494610,
+        "gp:id":1254928,
+        "qs:id":140182,
+        "wd:id":"Q3126488"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008741,
+    "wof:geomhash":"859983c3252d04be2e590499a7b9f982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421167721,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":421167721,
+    "wof:lastmodified":1527716162,
+    "wof:name":"Hamma Bouziane",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:population":63012,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59603,
+    36.41205,
+    6.59603,
+    36.41205
+],
+  "geometry": {"coordinates":[6.59603,36.41205],"type":"Point"}
+}

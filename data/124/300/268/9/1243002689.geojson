@@ -1,0 +1,70 @@
+{
+  "id": 1243002689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.69464,35.89653,0.69464,35.89653",
+    "geom:latitude":35.89653,
+    "geom:longitude":0.69464,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Khlaifia",
+    "gn:country_code":"DZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489506,
+    "gn:latitude":35.89653,
+    "gn:longitude":0.69464,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Khla\u00effia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Khla\u00effia",
+        "Mechta Khela\u00effia",
+        "Mechtat Krela\u00effia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489506
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2a773b541d018597d55d8d50fe68d53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243002689,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1243002689,
+    "wof:lastmodified":1537620162,
+    "wof:name":"Douar el Khlaifia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.69464,
+    35.89653,
+    0.69464,
+    35.89653
+],
+  "geometry": {"coordinates":[0.69464,35.89653],"type":"Point"}
+}

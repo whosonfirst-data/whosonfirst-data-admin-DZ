@@ -1,0 +1,65 @@
+{
+  "id": 1242711737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61168,36.45203,1.61168,36.45203",
+    "geom:latitude":36.45203,
+    "geom:longitude":1.61168,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ech Cherfa",
+    "gn:country_code":"DZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573308,
+    "gn:latitude":36.45203,
+    "gn:longitude":1.61168,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Ech Cherfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573308
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5553f5cdd76cf2673198b8f111c1bca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242711737,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242711737,
+    "wof:lastmodified":1536869459,
+    "wof:name":"Ech Cherfa",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61168,
+    36.45203,
+    1.61168,
+    36.45203
+],
+  "geometry": {"coordinates":[1.61168,36.45203],"type":"Point"}
+}

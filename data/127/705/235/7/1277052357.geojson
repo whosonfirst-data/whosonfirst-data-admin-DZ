@@ -1,0 +1,70 @@
+{
+  "id": 1277052357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89774,35.20582,0.89774,35.20582",
+    "geom:latitude":35.20582,
+    "geom:longitude":0.89774,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Machtat el Argoub",
+    "gn:country_code":"DZ",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498637,
+    "gn:latitude":35.20582,
+    "gn:longitude":0.89774,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Machtat el Argoub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metameur Argoub",
+        "El Argoub",
+        "Machtat el Argoub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498637
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f5b8a2eca7f1b41d357586cdb77f80b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277052357,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1277052357,
+    "wof:lastmodified":1537620203,
+    "wof:name":"Machtat el Argoub",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89774,
+    35.20582,
+    0.89774,
+    35.20582
+],
+  "geometry": {"coordinates":[0.89774,35.20582],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276895389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61647,35.96751,0.61647,35.96751",
+    "geom:latitude":35.96751,
+    "geom:longitude":0.61647,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouled Baizid",
+    "gn:country_code":"DZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7422076,
+    "gn:latitude":35.96751,
+    "gn:longitude":0.61647,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Ba\u00efzid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7422076
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"13581fd1ed181c24695645d831d751ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276895389,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1276895389,
+    "wof:lastmodified":1537019577,
+    "wof:name":"Ouled Baizid",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61647,
+    35.96751,
+    0.61647,
+    35.96751
+],
+  "geometry": {"coordinates":[0.61647,35.96751],"type":"Point"}
+}

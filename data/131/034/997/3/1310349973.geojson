@@ -1,0 +1,65 @@
+{
+  "id": 1310349973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16718,36.18411,2.16718,36.18411",
+    "geom:latitude":36.18411,
+    "geom:longitude":2.16718,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Tahar Aouidate",
+    "gn:country_code":"DZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430987,
+    "gn:latitude":36.18411,
+    "gn:longitude":2.16718,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Tahar Aouidate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430987
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"966a2df787fab3045bac0d168f9ce871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310349973,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1310349973,
+    "wof:lastmodified":1536643188,
+    "wof:name":"Douar Tahar Aouidate",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16718,
+    36.18411,
+    2.16718,
+    36.18411
+],
+  "geometry": {"coordinates":[2.16718,36.18411],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421192357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.65,35.68333,-0.65,35.68333",
+    "geom:latitude":35.68333,
+    "geom:longitude":-0.65,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mediouni"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2488805,
+    "qs:gn_pop":0,
+    "qs:name":"Medioni",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
+    "qs:photos":108,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":108,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167961,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1256352,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488805,
+        "gp:id":1256352,
+        "qs:id":1167961
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009734,
+    "wof:geomhash":"25cf78f782ad3d72ce0e20992ae15dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421192357,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":421192357,
+    "wof:lastmodified":1531858680,
+    "wof:name":"Medioni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.65,
+    35.68333,
+    -0.65,
+    35.68333
+],
+  "geometry": {"coordinates":[-0.65,35.68333],"type":"Point"}
+}

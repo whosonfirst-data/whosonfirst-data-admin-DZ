@@ -1,0 +1,69 @@
+{
+  "id": 1310366489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.79482,36.10125,6.79482,36.10125",
+    "geom:latitude":36.10125,
+    "geom:longitude":6.79482,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Ali Ben Taib",
+    "gn:country_code":"DZ",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489786,
+    "gn:latitude":36.10125,
+    "gn:longitude":6.79482,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Ali Ben Ta\u00efb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Ali Ben Ta\u00efb",
+        "Mechta Ali Ben Ta\u00efb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489786
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"89f7b47712d5613b0d6967f1909db1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310366489,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1310366489,
+    "wof:lastmodified":1537620170,
+    "wof:name":"Mechta Ali Ben Taib",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.79482,
+    36.10125,
+    6.79482,
+    36.10125
+],
+  "geometry": {"coordinates":[6.79482,36.10125],"type":"Point"}
+}

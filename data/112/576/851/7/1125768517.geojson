@@ -1,0 +1,116 @@
+{
+  "id": 1125768517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08333,33.11667,6.08333,33.11667",
+    "geom:latitude":33.11667,
+    "geom:longitude":6.08333,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":41091,
+    "gn:population":41091,
+    "iso:country":"DZ",
+    "lbl:latitude":33.11667,
+    "lbl:longitude":6.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0633\u0628\u0633\u062a"
+    ],
+    "name:dut_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:eng_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:fre_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:ita_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:may_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:nan_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0628\u0633\u0628\u0633\u062a"
+    ],
+    "name:por_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:rum_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:spa_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:swe_x_preferred":[
+        "Tebesbest"
+    ],
+    "name:vie_x_preferred":[
+        "Tebesbest"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2477462,
+    "qs_pg:gn_pop":41091,
+    "qs_pg:name":"Tebesbest",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":278704,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477462,
+        "qs_pg:id":278704,
+        "wd:id":"Q601174"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497289982,
+    "wof:geomhash":"37d6bfed1f1d91898a12bc74e3b72bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125768517,
+            "region_id":85670759
+        }
+    ],
+    "wof:id":1125768517,
+    "wof:lastmodified":1513956095,
+    "wof:name":"Tebesbest",
+    "wof:parent_id":85670759,
+    "wof:placetype":"locality",
+    "wof:population":41091,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08333,
+    33.11667,
+    6.08333,
+    33.11667
+],
+  "geometry": {"coordinates":[6.08333,33.11667],"type":"Point"}
+}

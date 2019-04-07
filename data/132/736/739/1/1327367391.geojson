@@ -1,0 +1,70 @@
+{
+  "id": 1327367391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.77792,33.47072,6.77792,33.47072",
+    "geom:latitude":33.47072,
+    "geom:longitude":6.77792,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Tarhzout",
+    "gn:country_code":"DZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477734,
+    "gn:latitude":33.47072,
+    "gn:longitude":6.77792,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tarhzout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taghzout",
+        "Tarhzout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477734,
+        "wk:page":"Taghzout%2C_Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aa7ed352be6300c1dcc40b04057d6437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327367391,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1327367391,
+    "wof:lastmodified":1537620102,
+    "wof:name":"Tarhzout",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.77792,
+    33.47072,
+    6.77792,
+    33.47072
+],
+  "geometry": {"coordinates":[6.77792,33.47072],"type":"Point"}
+}

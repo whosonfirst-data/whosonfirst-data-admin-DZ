@@ -1,0 +1,61 @@
+{
+  "id": 1209449717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2716,36.33717,1.2716,36.33717",
+    "geom:latitude":36.33717,
+    "geom:longitude":1.2716,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar el Oualia",
+    "gn:country_code":"DZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572619,
+    "gn:latitude":36.33717,
+    "gn:longitude":1.2716,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar el Oualia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572619
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3c72791e82327a3c0cd9b8ad95e9e8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209449717
+        }
+    ],
+    "wof:id":1209449717,
+    "wof:lastmodified":1536286709,
+    "wof:name":"Douar el Oualia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2716,
+    36.33717,
+    1.2716,
+    36.33717
+],
+  "geometry": {"coordinates":[1.2716,36.33717],"type":"Point"}
+}

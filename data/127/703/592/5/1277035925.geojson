@@ -1,0 +1,65 @@
+{
+  "id": 1277035925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.48418,35.83819,6.48418,35.83819",
+    "geom:latitude":35.83819,
+    "geom:longitude":6.48418,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechta Gabel Tarbennt",
+    "gn:country_code":"DZ",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489570,
+    "gn:latitude":35.83819,
+    "gn:longitude":6.48418,
+    "gn:modification_date":"1997-03-04",
+    "gn:name":"Mechta Gabel Tarbennt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489570
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1f1d63d6788ff1e7dc5f2891dd374187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277035925,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1277035925,
+    "wof:lastmodified":1536831032,
+    "wof:name":"Mechta Gabel Tarbennt",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.48418,
+    35.83819000000001,
+    6.48418,
+    35.83819000000001
+],
+  "geometry": {"coordinates":[6.48418,35.83819000000001],"type":"Point"}
+}

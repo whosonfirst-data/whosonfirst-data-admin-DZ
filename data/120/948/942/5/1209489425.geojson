@@ -1,0 +1,61 @@
+{
+  "id": 1209489425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.17814,36.23409,4.17814,36.23409",
+    "geom:latitude":36.23409,
+    "geom:longitude":4.17814,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Sebkha",
+    "gn:country_code":"DZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482200,
+    "gn:latitude":36.23409,
+    "gn:longitude":4.17814,
+    "gn:modification_date":"1999-07-13",
+    "gn:name":"Sebkha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482200
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9e2e0838bf24796e6757cccf1a22c4e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209489425
+        }
+    ],
+    "wof:id":1209489425,
+    "wof:lastmodified":1536285533,
+    "wof:name":"Sebkha",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.17814,
+    36.23409,
+    4.17814,
+    36.23409
+],
+  "geometry": {"coordinates":[4.17814,36.23409],"type":"Point"}
+}

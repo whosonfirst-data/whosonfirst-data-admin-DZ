@@ -1,0 +1,70 @@
+{
+  "id": 1326864427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25206,36.1071,1.25206,36.1071",
+    "geom:latitude":36.1071,
+    "geom:longitude":1.25206,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boukaat Bou Derroua",
+    "gn:country_code":"DZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503743,
+    "gn:latitude":36.1071,
+    "gn:longitude":1.25206,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boukaat Bou Derroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daouadich",
+        "Boka\u2019et ed Douad\u00eech",
+        "Boukaat Bou Derroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503743
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cc351dfd9ed5adec11b5c1df2333f8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326864427,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1326864427,
+    "wof:lastmodified":1537620240,
+    "wof:name":"Boukaat Bou Derroua",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25206,
+    36.1071,
+    1.25206,
+    36.1071
+],
+  "geometry": {"coordinates":[1.25206,36.1071],"type":"Point"}
+}

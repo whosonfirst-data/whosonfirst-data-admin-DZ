@@ -1,0 +1,350 @@
+{
+  "id": 85670809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.404891,
+    "geom:area_square_m":4045987894.618408,
+    "geom:bbox":"4.08432986823,35.7773255484,5.2541809423,36.4247795682",
+    "geom:latitude":36.085273,
+    "geom:longitude":4.730866,
+    "gn:population":628475,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Bordj Bou Arr\u00e9ridj Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.087292,
+    "lbl:longitude":4.779661,
+    "mps:latitude":36.087292,
+    "mps:longitude":4.779661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "Bordj Bou Arreridj",
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u043e\u0440\u0434\u0436-\u0411\u0443-\u0410\u0440\u044d\u0440\u044b\u0434\u0436"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u0440\u0434\u0436-\u0411\u0443-\u0410\u0440\u044d\u0440\u044b\u0434\u0436"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b0\u09cd\u09a1\u099c \u09ac\u09c1 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u0436 \u0411\u0443 \u0410\u0440\u0435\u0440\u0438\u0434\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Bordj Bou Arreridj"
+    ],
+    "name:ceb_x_preferred":[
+        "Wilaya de Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u963f\u62c9\u91cc\u5b63\u5821\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:deu_x_preferred":[
+        "Bordj Bou Arreridj"
+    ],
+    "name:dut_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:eng_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj Province"
+    ],
+    "name:eng_x_variant":[
+        "Bordj Bou Arr\u00e9ridj",
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Bor\u011d Bu Areri\u011d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
+    "name:fin_x_preferred":[
+        "Bordj Bou Arr\u00e9ridjin provinssi"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Bordj Bou Arreridj"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10ef-\u10d1\u10e3-\u10d0\u10e0\u10d4\u10e0\u10d8\u10ef\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Bordj Bou Arreridj"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03bd\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03bd\u03c4\u03b6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0ab0\u0acd\u0aa1\u0a9c \u0aac\u0acc \u0a8f\u0ab0\u0ac7\u0a97\u0acd\u0ab0\u0ac0\u0aa1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0930\u094d\u0926\u091c \u092c\u094b\u0909 \u0905\u0930\u094d\u0930\u0947\u0930\u093f\u0926\u091c \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Bordj Bou Arreridj"
+    ],
+    "name:ita_x_preferred":[
+        "provincia di Bordj Bou Arreridj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b8\u30fb\u30d6\u30fb\u30a2\u30ec\u30ea\u30b8\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccb\u0cb0\u0ccd\u0c9c\u0ccd \u0cac\u0ccc \u0c85\u0cb0\u0cc6\u0cb0\u0cbf\u0ca1\u0ccd\u0c9c\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\uc988\ubd80\uc544\ub808\ub9ac\uc988 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Bordj Bu Arreridj"
+    ],
+    "name:lav_x_preferred":[
+        "Bord\u017e B\u016b Arr\u012brid\u017eas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Bord\u017e Bu Arerid\u017eo vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0930\u094d\u0921\u091c \u092c\u093e\u090a \u090f\u0930\u0930\u0947\u0930\u093f\u0921 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:nan_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj S\u00e9ng"
+    ],
+    "name:nob_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Burd\u017c Bu Urajrid\u017c"
+    ],
+    "name:por_x_preferred":[
+        "Bordj Bou Arreridj"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u0436-\u0411\u0443-\u0410\u0440\u0440\u0435\u0440\u0438\u0434\u0436"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dbb\u0dca\u0daf\u0dca\u0da2\u0dd4 \u0db6\u0dde \u0d85\u0dbb\u0dca\u0dbb\u0dda\u0dbb\u0dd2\u0da9\u0dca\u0da2\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u045f \u0411\u0443 \u0410\u0440\u0435\u0440\u0438\u045f"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:swe_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd\u0b9c\u0bcd  \u0baa\u0bcb\u0ba4\u0bc1  \u0b85\u0bb0\u0bcd\u0bb0\u0bc7\u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c30\u0c4d\u0c1c\u0c4d \u0c2c\u0c4c \u0c06\u0c30\u0c3f\u0c21\u0c4d\u0c1c\u0c46 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0443\u0440\u04b7-\u0411\u0443-\u0410\u0440\u0438\u0440\u0438\u04b7"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e23\u0e4c\u0e08 \u0e1a\u0e31\u0e27 \u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e23\u0e23\u0e34\u0e14\u0e08\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Burc Bu Ariric Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u0436-\u0411\u0443-\u0410\u0440\u0440\u0435\u0440\u0456\u0434\u0436"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:war_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2207",
+    "ne:adm1_code":"DZA-2207",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.BB",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2207",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG39",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.39",
+    "ne:gn_id":"2503699",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Bordj Bou Arreridj",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG39",
+    "ne:gns_id":"-462162",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Bordj Bou Arreridj",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"36.09660000000",
+    "ne:longitude":"4.66926000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Bordj Bou Arr\u00e9ridj",
+    "ne:name_alt":"Borjbouarirej|Bordi Bou Arreridj",
+    "ne:name_len":18,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c",
+    "ne:note":"",
+    "ne:postal":"BB",
+    "ne:provnum_ne":"46",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344609,
+    "ne:woe_label":"Bordj Bou Arreridj, DZ, Algeria",
+    "ne:woe_name":"Bordj Bou Arr\u00e9ridj",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Bordj Bou Arr\u00e9ridj",
+    "qs:a1_lc":"DZA-2207",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"3,920",
+    "statoids:area_mi":"1,514",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Bordj Bou Arr\u00e9ridj",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG39",
+    "statoids:hasc":"DZ.BB",
+    "statoids:iso":"34",
+    "statoids:name":"Bordj Bou Arr\u00e9ridj",
+    "statoids:population":"628475",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-34",
+    "wd:wordcount":1003,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG39",
+        "gn:id":2503699,
+        "gp:id":2344609,
+        "hasc:id":"DZ.BB",
+        "iso:id":"DZ-34",
+        "qs:id":318266,
+        "unlc:id":"DZ-34",
+        "wd:id":"Q266411",
+        "wk:page":"Bordj Bou Arr\u00e9ridj Province"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e255f7edc49786a19cf6857df579cc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":85670809,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550366,
+    "wof:name":"Bordj Bou Arr\u00e9ridj",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":628475,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"BB",
+    "wof:subdivision":"DZ-34",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08432986822891,
+    35.77732554843539,
+    5.25418094229667,
+    36.42477956822256
+],
+  "geometry": {"coordinates":[[[4.8010819837466,36.37974355711953],[4.78929975787759,36.36594595054521],[4.78630252434209,36.35840119076238],[4.78521731872434,36.34664480241577],[4.78991987460256,36.33385488529478],[4.8041825700696,36.31762848596588],[4.8212357925978,36.30685395044952],[4.8384440447569,36.30496776005413],[4.85322350416146,36.30532949526003],[4.89756188327436,36.29985179302588],[4.9135815770282,36.29995514581339],[4.94365726067412,36.30274567287455],[4.99068281406068,36.31545807473043],[4.99920942487512,36.31597484046654],[5.00649580223956,36.31556142841725],[5.03476281075518,36.31088471096069],[5.0628231136958,36.30137624821532],[5.0740368987839,36.29421906206011],[5.08395877357856,36.28179088014508],[5.10736819838371,36.2455398631742],[5.12555830157442,36.2323623724256],[5.14400678898215,36.2293393013677],[5.16028486515444,36.23504954669926],[5.17454755972216,36.24241343842948],[5.18808678567666,36.24551402385316],[5.19816369010226,36.24140574807689],[5.20327965713051,36.23383515077165],[5.20653527218513,36.22089020401972],[5.20839562325943,36.20750600769617],[5.21242638466998,36.19665395781396],[5.22017785002782,36.19458690026528],[5.22792931538567,36.19841095610082],[5.23852298284942,36.20551646631191],[5.2473596529257,36.20487051026589],[5.25356082467238,36.19737742822576],[5.25418094229667,36.1806601024818],[5.25123538560462,36.16913625723254],[5.24332889241452,36.15438263624969],[5.22684410976791,36.1375361192965],[5.21025597523311,36.13081818271303],[5.19537316214178,36.12771759728935],[5.18731163932074,36.12317007104201],[5.18405602426617,36.11536692974005],[5.18777672731414,36.1025511741974],[5.19707848538383,36.08231985098041],[5.19630333812859,36.07433584252516],[5.18576134570958,36.06095164620154],[5.18142052593657,36.05211497702464],[5.17904341002543,36.03320140252276],[5.17516767734651,36.01635488556957],[5.15346357578346,35.9814474548362],[5.14478193533807,35.96421336515471],[5.13765058760458,35.93540375427989],[5.13672041161777,35.91217519842672],[5.14028608593418,35.87062734637499],[5.13997602667234,35.8566230333264],[5.1345500021809,35.84799306882513],[5.12240604020661,35.84468577692712],[5.07744754436874,35.84396230741459],[5.06654381674377,35.84047414836328],[5.05879235228525,35.82944123042847],[5.05491661870701,35.82086294187133],[5.05445153161293,35.77732554843539],[5.01662438260922,35.77879832588206],[4.99967451286852,35.78422435217215],[4.97642011859364,35.79621328451555],[4.9548193698181,35.81378327098122],[4.94520755428528,35.81840831069502],[4.92985965320048,35.82055288350881],[4.91823245606304,35.82329173372659],[4.90583011167035,35.82938955268577],[4.89756188327436,35.83631419484425],[4.8750826353554,35.86243663234478],[4.86562584765477,35.86954214075723],[4.85492882740351,35.87315949191708],[4.83828901512601,35.87274607986774],[4.80247724772687,35.86628652570266],[4.76273807080537,35.86520132098423],[4.74847537623765,35.86352183706316],[4.7189681333727,35.85703644537568],[4.64202192507184,35.82830434796733],[4.62078291240152,35.82360179298843],[4.59980228035101,35.82179311785814],[4.49815473785094,35.82370514577593],[4.48172163294703,35.82603058484369],[4.46668379112413,35.83228343433308],[4.44818362777227,35.84889740728954],[4.44523807108015,35.85962026596258],[4.44926883339002,35.8696971712875],[4.47924116424838,35.89243480072554],[4.48776777506282,35.90194326437023],[4.49303877082264,35.9120460072175],[4.4978446785891,35.92757477545558],[4.5009452649121,35.93098541924178],[4.50606123194035,35.93315582957791],[4.52626671673562,35.93527456307066],[4.53696373878557,35.93791006140026],[4.54083947056517,35.94214752928508],[4.54006432510857,35.94829702418838],[4.53603356279871,35.95514415108175],[4.52626671673562,35.96798574504612],[4.52146080896921,35.97671906233489],[4.51386437324226,35.99511587199993],[4.5084383478515,36.01232412415908],[4.50528608558443,36.01924876631756],[4.50063520744891,36.02570832048264],[4.49412397644039,36.02844717070042],[4.48249677930295,36.02824046512541],[4.46234296955242,36.02162588132938],[4.42492923259806,36.0003868677598],[4.40431033665277,35.99222199215126],[4.37914391356082,35.99108510969012],[4.34550255739714,35.99361725523221],[4.21481286002552,36.01661326798796],[4.18411705875531,36.01402944650181],[4.17042280406918,36.00922353783608],[4.16344648596657,36.00400421802027],[4.16189619325479,35.99997345571046],[4.16081098763703,35.99873322226046],[4.157090284589,35.99609772393086],[4.14964887939232,35.99501251921242],[4.13631635901282,35.99563263593745],[4.11192508317612,36.00007680939729],[4.11052981919585,36.00131704374661],[4.10789432086625,36.0103862569203],[4.10448367708005,36.01694916387288],[4.09998782677684,36.02245270452875],[4.08432986822891,36.02909312584711],[4.09363162629859,36.04606883400953],[4.10014285640773,36.05164988903118],[4.13058027525955,36.072785548914],[4.14468794109564,36.08766836200533],[4.15553999187716,36.10751211249402],[4.16716718901461,36.14368561509912],[4.17636559429678,36.160738836728],[4.1906282888645,36.17650014896276],[4.23703372642541,36.2081778021639],[4.25951297434432,36.22902924210587],[4.30653852683162,36.2894131542937],[4.35635460817866,36.34044363156841],[4.37681847539238,36.31938548425273],[4.39061608196664,36.26781240551816],[4.40818606933169,36.23846019138477],[4.42337893988622,36.2261611997796],[4.44430789599267,36.22290558472503],[4.51138390544293,36.2257477895289],[4.52657677599746,36.22796987580915],[4.56192345540319,36.23887360343412],[4.62016279477723,36.24791697818603],[4.63008466957189,36.25334300447611],[4.63272016790148,36.26339407048005],[4.62899946485345,36.27442698841486],[4.6265189961548,36.28589915592136],[4.62698408414821,36.29969676429431],[4.63132490392121,36.32910065437176],[4.63582075422448,36.3384540883855],[4.64388227704552,36.34478445134141],[4.67804039894531,36.3581428092433],[4.69385338712419,36.36674693532285],[4.70594567225504,36.37576447255242],[4.73312747605223,36.41069773990881],[4.74801028824425,36.42074880591269],[4.75824222230079,36.42462453949094],[4.76723392110864,36.42477956822256],[4.77421023921124,36.42136892353705],[4.78010135259541,36.41493520779363],[4.79503584163086,36.38759837526487],[4.79689619270516,36.38496287693528],[4.8010819837466,36.37974355711953]]],"type":"Polygon"}
+}

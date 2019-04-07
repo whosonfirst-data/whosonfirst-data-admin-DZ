@@ -1,0 +1,70 @@
+{
+  "id": 1260034715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.30195,35.35497,0.30195,35.35497",
+    "geom:latitude":35.35497,
+    "geom:longitude":0.30195,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Sidi Salem",
+    "gn:country_code":"DZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499298,
+    "gn:latitude":35.35497,
+    "gn:longitude":0.30195,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Sidi Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad Sidi Salem",
+        "Douar Sidi Salem",
+        "Oulad Sidi Salem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499298
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b6137fd6e6e941597a9edbfc11c81395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260034715,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1260034715,
+    "wof:lastmodified":1537620211,
+    "wof:name":"Douar Sidi Salem",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.30195,
+    35.35497,
+    0.30195,
+    35.35497
+],
+  "geometry": {"coordinates":[0.30195,35.35497],"type":"Point"}
+}

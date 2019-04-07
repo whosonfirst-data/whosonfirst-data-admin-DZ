@@ -1,0 +1,65 @@
+{
+  "id": 1260317219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.78082,36.65481,2.78082,36.65481",
+    "geom:latitude":36.65481,
+    "geom:longitude":2.78082,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Saint-Maurice",
+    "gn:country_code":"DZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2482495,
+    "gn:latitude":36.65481,
+    "gn:longitude":2.78082,
+    "gn:modification_date":"1999-05-12",
+    "gn:name":"Saint-Maurice",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482495
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9a34557570fa1fc519680d8d671eb149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260317219,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1260317219,
+    "wof:lastmodified":1536666786,
+    "wof:name":"Saint-Maurice",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.78082,
+    36.65481,
+    2.78082,
+    36.65481
+],
+  "geometry": {"coordinates":[2.78082,36.65481],"type":"Point"}
+}

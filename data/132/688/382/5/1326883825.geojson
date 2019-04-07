@@ -1,0 +1,65 @@
+{
+  "id": 1326883825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.14777,36.19208,2.14777,36.19208",
+    "geom:latitude":36.19208,
+    "geom:longitude":2.14777,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kouesmia",
+    "gn:country_code":"DZ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491497,
+    "gn:latitude":36.19208,
+    "gn:longitude":2.14777,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kouesmia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491497
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"39a9b5a23f6f19559a1a29e5186fb6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326883825,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1326883825,
+    "wof:lastmodified":1536974157,
+    "wof:name":"Kouesmia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.14777,
+    36.19208,
+    2.14777,
+    36.19208
+],
+  "geometry": {"coordinates":[2.14777,36.19208],"type":"Point"}
+}

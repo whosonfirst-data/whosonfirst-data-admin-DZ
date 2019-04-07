@@ -1,0 +1,70 @@
+{
+  "id": 1276159139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11265,36.48916,6.11265,36.48916",
+    "geom:latitude":36.48916,
+    "geom:longitude":6.11265,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mechta Khibsa",
+    "gn:country_code":"DZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489500,
+    "gn:latitude":36.48916,
+    "gn:longitude":6.11265,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Khibsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kripsa",
+        "Mechtat Kribsa",
+        "Mechta Khibsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489500
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8cc45522ffd5e8e721429512a3e8dcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276159139,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":1276159139,
+    "wof:lastmodified":1537620162,
+    "wof:name":"Mechta Khibsa",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11265,
+    36.48916,
+    6.11265,
+    36.48916
+],
+  "geometry": {"coordinates":[6.11265,36.48916],"type":"Point"}
+}

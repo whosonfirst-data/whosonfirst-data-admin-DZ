@@ -1,0 +1,69 @@
+{
+  "id": 1226806097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28861,35.55333,0.28861,35.55333",
+    "geom:latitude":35.55333,
+    "geom:longitude":0.28861,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar el Hadj el Arbi",
+    "gn:country_code":"DZ",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580131,
+    "gn:latitude":35.55333,
+    "gn:longitude":0.28861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Hadj el Arbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Ouled el Hadj",
+        "Douar Khbouiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580131
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a7517ddba0657fa869864bd1ba8ced1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226806097,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1226806097,
+    "wof:lastmodified":1537620270,
+    "wof:name":"Douar el Hadj el Arbi",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28861,
+    35.55332999999999,
+    0.28861,
+    35.55332999999999
+],
+  "geometry": {"coordinates":[0.28861,35.55332999999999],"type":"Point"}
+}

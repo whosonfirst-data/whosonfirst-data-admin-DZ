@@ -1,0 +1,65 @@
+{
+  "id": 1343683963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.34781,35.64674,2.34781,35.64674",
+    "geom:latitude":35.64674,
+    "geom:longitude":2.34781,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Hdadba",
+    "gn:country_code":"DZ",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7437842,
+    "gn:latitude":35.64674,
+    "gn:longitude":2.34781,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"El Hdadba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7437842
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"20ffccbe967329a8c698017250a04980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343683963,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1343683963,
+    "wof:lastmodified":1536921846,
+    "wof:name":"El Hdadba",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.34781,
+    35.64674,
+    2.34781,
+    35.64674
+],
+  "geometry": {"coordinates":[2.34781,35.64674],"type":"Point"}
+}

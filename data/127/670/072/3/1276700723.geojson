@@ -1,0 +1,71 @@
+{
+  "id": 1276700723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5637,36.23196,2.5637,36.23196",
+    "geom:latitude":36.23196,
+    "geom:longitude":2.5637,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ouamri",
+    "gn:country_code":"DZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485845,
+    "gn:latitude":36.23196,
+    "gn:longitude":2.5637,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bor\u00e9ly-la-Sapie",
+        "Ouamria",
+        "Ouamri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485845,
+        "wk:page":"Ouamri"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4005cd8a8394a3dbeb0530cae6df757e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276700723,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1276700723,
+    "wof:lastmodified":1537620135,
+    "wof:name":"Ouamri",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5637,
+    36.23196,
+    2.5637,
+    36.23196
+],
+  "geometry": {"coordinates":[2.5637,36.23196],"type":"Point"}
+}

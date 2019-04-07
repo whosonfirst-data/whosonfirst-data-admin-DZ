@@ -1,0 +1,65 @@
+{
+  "id": 1242967809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.19973,35.97446,0.19973,35.97446",
+    "geom:latitude":35.97446,
+    "geom:longitude":0.19973,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled Ali",
+    "gn:country_code":"DZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392003,
+    "gn:latitude":35.97446,
+    "gn:longitude":0.19973,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392003
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7447862b8a32c7033b204694d9e05220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242967809,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1242967809,
+    "wof:lastmodified":1536997907,
+    "wof:name":"Douar Ouled Ali",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.19973,
+    35.97446,
+    0.19973,
+    35.97446
+],
+  "geometry": {"coordinates":[0.19973,35.97446],"type":"Point"}
+}

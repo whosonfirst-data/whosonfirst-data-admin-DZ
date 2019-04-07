@@ -1,0 +1,64 @@
+{
+  "id": 890443147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71261,35.70112,0.71261,35.70112",
+    "geom:latitude":35.70112,
+    "geom:longitude":0.71261,
+    "gn:country":"DZ",
+    "gn:fcode":"PPLF",
+    "gn:pop":40,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"A\u00efn Sidi Harrat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115823,
+        "gp:id":1257118,
+        "qs:id":656668
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052403,
+    "wof:geomhash":"33e33056677521ff09c980455245925f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890443147,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":890443147,
+    "wof:lastmodified":1505343592,
+    "wof:name":"A\u00efn Sidi Harrat",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71261,
+    35.70112,
+    0.71261,
+    35.70112
+],
+  "geometry": {"coordinates":[0.71261,35.70112],"type":"Point"}
+}

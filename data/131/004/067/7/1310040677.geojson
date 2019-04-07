@@ -1,0 +1,65 @@
+{
+  "id": 1310040677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.30317,36.02966,1.30317,36.02966",
+    "geom:latitude":36.02966,
+    "geom:longitude":1.30317,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Boukaat Khoddam",
+    "gn:country_code":"DZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572827,
+    "gn:latitude":36.02966,
+    "gn:longitude":1.30317,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Boukaat Khoddam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572827
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"04c0c05bc6d6638eedb93ff06569aea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310040677,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1310040677,
+    "wof:lastmodified":1537086723,
+    "wof:name":"Boukaat Khoddam",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.30317,
+    36.02966,
+    1.30317,
+    36.02966
+],
+  "geometry": {"coordinates":[1.30317,36.02966],"type":"Point"}
+}

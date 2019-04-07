@@ -1,0 +1,65 @@
+{
+  "id": 1326761155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42083,36.24806,1.42083,36.24806",
+    "geom:latitude":36.24806,
+    "geom:longitude":1.42083,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar Yermoul",
+    "gn:country_code":"DZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572691,
+    "gn:latitude":36.24806,
+    "gn:longitude":1.42083,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Douar Yermoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572691
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6b7d36a979527e688f8df574bb21ba5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326761155,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1326761155,
+    "wof:lastmodified":1536654086,
+    "wof:name":"Douar Yermoul",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42083,
+    36.24806,
+    1.42083,
+    36.24806
+],
+  "geometry": {"coordinates":[1.42083,36.24806],"type":"Point"}
+}

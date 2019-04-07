@@ -1,0 +1,65 @@
+{
+  "id": 1276795819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.8565,35.52482,0.8565,35.52482",
+    "geom:latitude":35.52482,
+    "geom:longitude":0.8565,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Mehata",
+    "gn:country_code":"DZ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416405,
+    "gn:latitude":35.52482,
+    "gn:longitude":0.8565,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Mehata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416405
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e24af36ceca30b1d9888f866251bcc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276795819,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1276795819,
+    "wof:lastmodified":1536656415,
+    "wof:name":"Douar Mehata",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.8565,
+    35.52482,
+    0.8565,
+    35.52482
+],
+  "geometry": {"coordinates":[0.8565,35.52482],"type":"Point"}
+}

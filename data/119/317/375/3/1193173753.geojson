@@ -1,0 +1,65 @@
+{
+  "id": 1193173753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.51194,36.27501,1.51194,36.27501",
+    "geom:latitude":36.27501,
+    "geom:longitude":1.51194,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"D'hamnia",
+    "gn:country_code":"DZ",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573389,
+    "gn:latitude":36.27501,
+    "gn:longitude":1.51194,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"D\u2019hamnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573389
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2ed9ec47480bdc28a6321a352f8a6996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193173753,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1193173753,
+    "wof:lastmodified":1536377530,
+    "wof:name":"D'hamnia",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.51194,
+    36.27501,
+    1.51194,
+    36.27501
+],
+  "geometry": {"coordinates":[1.51194,36.27501],"type":"Point"}
+}

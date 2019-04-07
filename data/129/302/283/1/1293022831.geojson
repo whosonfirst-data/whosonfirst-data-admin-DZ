@@ -1,0 +1,65 @@
+{
+  "id": 1293022831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40684,36.12323,3.40684,36.12323",
+    "geom:latitude":36.12323,
+    "geom:longitude":3.40684,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled H'Ceini",
+    "gn:country_code":"DZ",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281332,
+    "gn:latitude":36.12323,
+    "gn:longitude":3.40684,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ouled H\u2019Ceini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281332
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1127adcdb5ed22770a1b67548b0769f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293022831,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293022831,
+    "wof:lastmodified":1536959932,
+    "wof:name":"Ouled H'Ceini",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40684,
+    36.12323,
+    3.40684,
+    36.12323
+],
+  "geometry": {"coordinates":[3.40684,36.12323],"type":"Point"}
+}

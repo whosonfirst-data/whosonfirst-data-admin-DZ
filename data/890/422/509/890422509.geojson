@@ -1,0 +1,101 @@
+{
+  "id": 890422509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33935,34.86158,-1.33935,34.86158",
+    "geom:latitude":34.86158,
+    "geom:longitude":-1.33935,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":52285,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Mansourah"
+    ],
+    "name:eng_x_preferred":[
+        "Mansourah"
+    ],
+    "name:fre_x_preferred":[
+        "Mansourah"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Mansura"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Mansourah"
+    ],
+    "name:rum_x_preferred":[
+        "Mansourah"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Manso\u00fbra"
+    ],
+    "name:unk_x_variant":[
+        "Mansourah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u06c1\u060c \u062a\u0644\u0645\u0633\u0627\u0646"
+    ],
+    "qs:name":"Manso\u00fbra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490183,
+        "gp:id":1257897,
+        "qs:id":574567,
+        "wd:id":"Q3286584"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469051449,
+    "wof:geomhash":"c3b9da085ac15569c41dcd2d79ab3c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890422509,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":890422509,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Manso\u00fbra",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:population":52285,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33935,
+    34.86158,
+    -1.33935,
+    34.86158
+],
+  "geometry": {"coordinates":[-1.33935,34.86158],"type":"Point"}
+}

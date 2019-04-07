@@ -1,0 +1,65 @@
+{
+  "id": 1259418701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.59646,35.86273,7.59646,35.86273",
+    "geom:latitude":35.86273,
+    "geom:longitude":7.59646,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mechta Remadia el Babouche",
+    "gn:country_code":"DZ",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489282,
+    "gn:latitude":35.86273,
+    "gn:longitude":7.59646,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Remadia el Babouche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489282
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8f59af0585c40179d3cac5278831ae68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259418701,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1259418701,
+    "wof:lastmodified":1536951983,
+    "wof:name":"Mechta Remadia el Babouche",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.59646,
+    35.86273,
+    7.59646,
+    35.86273
+],
+  "geometry": {"coordinates":[7.59646,35.86273],"type":"Point"}
+}

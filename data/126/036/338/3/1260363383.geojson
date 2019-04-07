@@ -1,0 +1,69 @@
+{
+  "id": 1260363383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.50873,36.67513,4.50873,36.67513",
+    "geom:latitude":36.67513,
+    "geom:longitude":4.50873,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bou Aoun",
+    "gn:country_code":"DZ",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503474,
+    "gn:latitude":36.67513,
+    "gn:longitude":4.50873,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bou Aoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Anoun",
+        "Bou Aoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503474
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"35504e63e19d79f3c1a135a755e06d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260363383,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1260363383,
+    "wof:lastmodified":1537620237,
+    "wof:name":"Bou Aoun",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.50873,
+    36.67513,
+    4.50873,
+    36.67513
+],
+  "geometry": {"coordinates":[4.50873,36.67513],"type":"Point"}
+}

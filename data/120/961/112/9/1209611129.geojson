@@ -1,0 +1,67 @@
+{
+  "id": 1209611129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.11682,35.77088,-0.11682,35.77088",
+    "geom:latitude":35.77088,
+    "geom:longitude":-0.11682,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"La Macta",
+    "gn:country_code":"DZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2491084,
+    "gn:latitude":35.77088,
+    "gn:longitude":-0.11682,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Macta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aad La Macta",
+        "Macta",
+        "Pont de la Macta",
+        "La Macta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491084
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"be0b37427f70e029d842dc5db3eca47b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209611129
+        }
+    ],
+    "wof:id":1209611129,
+    "wof:lastmodified":1537620176,
+    "wof:name":"La Macta",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.11682,
+    35.77088,
+    -0.11682,
+    35.77088
+],
+  "geometry": {"coordinates":[-0.11682,35.77088],"type":"Point"}
+}

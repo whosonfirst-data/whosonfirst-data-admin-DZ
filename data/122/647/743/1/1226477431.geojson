@@ -1,0 +1,65 @@
+{
+  "id": 1226477431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78174,36.3773,1.78174,36.3773",
+    "geom:latitude":36.3773,
+    "geom:longitude":1.78174,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Douar Moussa",
+    "gn:country_code":"DZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7512527,
+    "gn:latitude":36.3773,
+    "gn:longitude":1.78174,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Moussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7512527
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"25e426f1483f42c3000a76997e37b2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226477431,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1226477431,
+    "wof:lastmodified":1537093245,
+    "wof:name":"Douar Moussa",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78174,
+    36.3773,
+    1.78174,
+    36.3773
+],
+  "geometry": {"coordinates":[1.78174,36.3773],"type":"Point"}
+}

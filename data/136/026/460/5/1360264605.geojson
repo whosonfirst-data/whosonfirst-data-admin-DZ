@@ -1,0 +1,65 @@
+{
+  "id": 1360264605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91081,35.19787,0.91081,35.19787",
+    "geom:latitude":35.19787,
+    "geom:longitude":0.91081,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar el Khellala",
+    "gn:country_code":"DZ",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578370,
+    "gn:latitude":35.19787,
+    "gn:longitude":0.91081,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Douar el Khellala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578370
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7c7fb781d59df23988dbc13a621bb42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360264605,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1360264605,
+    "wof:lastmodified":1536686742,
+    "wof:name":"Douar el Khellala",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91081,
+    35.19787,
+    0.91081,
+    35.19787
+],
+  "geometry": {"coordinates":[0.91081,35.19787],"type":"Point"}
+}

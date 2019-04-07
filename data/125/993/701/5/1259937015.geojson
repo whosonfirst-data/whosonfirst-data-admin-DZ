@@ -1,0 +1,69 @@
+{
+  "id": 1259937015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.79285,35.40103,0.79285,35.40103",
+    "geom:latitude":35.40103,
+    "geom:longitude":0.79285,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Maarfia",
+    "gn:country_code":"DZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2578997,
+    "gn:latitude":35.40103,
+    "gn:longitude":0.79285,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u00e2rfia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u00e2rfia",
+        "Douar Marifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578997
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ef5d0a543b0d3c1ea9d304dbb5b3a032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259937015,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1259937015,
+    "wof:lastmodified":1537620266,
+    "wof:name":"Maarfia",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.79285,
+    35.40103,
+    0.79285,
+    35.40103
+],
+  "geometry": {"coordinates":[0.79285,35.40103],"type":"Point"}
+}

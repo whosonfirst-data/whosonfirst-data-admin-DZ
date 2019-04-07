@@ -1,0 +1,77 @@
+{
+  "id": 421185399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.97209,36.78342,2.97209,36.78342",
+    "geom:latitude":36.78342,
+    "geom:longitude":2.97209,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Air de France"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2482943,
+    "qs:gn_pop":0,
+    "qs:name":"Rostomia",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1024229,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257154,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2482943,
+        "gp:id":1257154,
+        "qs:id":1024229
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009442,
+    "wof:geomhash":"91650f813b388aeca5fb9ebb3ac5fb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421185399,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":421185399,
+    "wof:lastmodified":1531858583,
+    "wof:name":"Rostomia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.97209,
+    36.78342,
+    2.97209,
+    36.78342
+],
+  "geometry": {"coordinates":[2.97209,36.78342],"type":"Point"}
+}

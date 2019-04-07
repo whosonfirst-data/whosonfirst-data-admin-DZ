@@ -1,0 +1,65 @@
+{
+  "id": 1310097247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.37861,36.07861,0.37861,36.07861",
+    "geom:latitude":36.07861,
+    "geom:longitude":0.37861,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Garouamsa",
+    "gn:country_code":"DZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573765,
+    "gn:latitude":36.07861,
+    "gn:longitude":0.37861,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Garouamsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573765
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0651eb77f70dfaa1d4f7f8cf0abc98a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310097247,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1310097247,
+    "wof:lastmodified":1537007696,
+    "wof:name":"Douar Garouamsa",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.37861,
+    36.07861,
+    0.37861,
+    36.07861
+],
+  "geometry": {"coordinates":[0.37861,36.07861],"type":"Point"}
+}

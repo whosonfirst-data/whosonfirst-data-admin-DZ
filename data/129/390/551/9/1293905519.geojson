@@ -1,0 +1,65 @@
+{
+  "id": 1293905519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29465,36.02199,3.29465,36.02199",
+    "geom:latitude":36.02199,
+    "geom:longitude":3.29465,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouled Hadhria",
+    "gn:country_code":"DZ",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540333,
+    "gn:latitude":36.02199,
+    "gn:longitude":3.29465,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ouled Hadhria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540333
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"c6a077993eb248385bd73ef83f33010f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293905519,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293905519,
+    "wof:lastmodified":1536681606,
+    "wof:name":"Ouled Hadhria",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29465,
+    36.02199,
+    3.29465,
+    36.02199
+],
+  "geometry": {"coordinates":[3.29465,36.02199],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260355439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.76667,36.66667,4.76667,36.66667",
+    "geom:latitude":36.66667,
+    "geom:longitude":4.76667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Il Matene",
+    "gn:country_code":"DZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493452,
+    "gn:latitude":36.66667,
+    "gn:longitude":4.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Il Matene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Il Maten",
+        "Il Matten",
+        "Il Matene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493452
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"79ee58551bc2e07a14cb89c67eb9132d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260355439,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1260355439,
+    "wof:lastmodified":1537620183,
+    "wof:name":"Il Matene",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.76667,
+    36.66667,
+    4.76667,
+    36.66667
+],
+  "geometry": {"coordinates":[4.76667,36.66667],"type":"Point"}
+}

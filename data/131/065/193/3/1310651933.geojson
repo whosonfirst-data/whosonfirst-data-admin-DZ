@@ -1,0 +1,65 @@
+{
+  "id": 1310651933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80296,36.68708,3.80296,36.68708",
+    "geom:latitude":36.68708,
+    "geom:longitude":3.80296,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Irhil Timezerit",
+    "gn:country_code":"DZ",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476416,
+    "gn:latitude":36.68708,
+    "gn:longitude":3.80296,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Irhil Timezerit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476416
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"be1e7550b3a3a6cc5f7b55f314881b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310651933,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1310651933,
+    "wof:lastmodified":1536706061,
+    "wof:name":"Irhil Timezerit",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80296,
+    36.68708,
+    3.80296,
+    36.68708
+],
+  "geometry": {"coordinates":[3.80296,36.68708],"type":"Point"}
+}

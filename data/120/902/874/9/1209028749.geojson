@@ -1,0 +1,61 @@
+{
+  "id": 1209028749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25978,36.2002,3.25978,36.2002",
+    "geom:latitude":36.2002,
+    "geom:longitude":3.25978,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Ferraihia",
+    "gn:country_code":"DZ",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280596,
+    "gn:latitude":36.2002,
+    "gn:longitude":3.25978,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"El Ferra\u00efhia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280596
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"98cfa59b5d985b06c07a6b013da6f56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209028749
+        }
+    ],
+    "wof:id":1209028749,
+    "wof:lastmodified":1536299912,
+    "wof:name":"El Ferraihia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25978,
+    36.2002,
+    3.25978,
+    36.2002
+],
+  "geometry": {"coordinates":[3.25978,36.2002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293878167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.40853,35.51948,-0.40853,35.51948",
+    "geom:latitude":35.51948,
+    "geom:longitude":-0.40853,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zahana",
+    "gn:country_code":"DZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474957,
+    "gn:latitude":35.51948,
+    "gn:longitude":-0.40853,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zahana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Lucien",
+        "Zahna",
+        "Zahana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474957,
+        "wk:page":"Zahana"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"69d059fa18fa269369d052ab0ae7fc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293878167,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1293878167,
+    "wof:lastmodified":1537620092,
+    "wof:name":"Zahana",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.40853,
+    35.51948,
+    -0.40853,
+    35.51948
+],
+  "geometry": {"coordinates":[-0.40853,35.51948],"type":"Point"}
+}

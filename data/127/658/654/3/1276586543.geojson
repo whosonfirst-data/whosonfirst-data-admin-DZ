@@ -1,0 +1,65 @@
+{
+  "id": 1276586543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.67944,36.62444,2.67944,36.62444",
+    "geom:latitude":36.62444,
+    "geom:longitude":2.67944,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tefeschoun",
+    "gn:country_code":"DZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477379,
+    "gn:latitude":36.62444,
+    "gn:longitude":2.67944,
+    "gn:modification_date":"1999-05-12",
+    "gn:name":"Tefeschoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477379
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"52ee9b8830d676da004ff9408751296e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276586543,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1276586543,
+    "wof:lastmodified":1536937712,
+    "wof:name":"Tefeschoun",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.67944,
+    36.62444,
+    2.67944,
+    36.62444
+],
+  "geometry": {"coordinates":[2.67944,36.62444],"type":"Point"}
+}

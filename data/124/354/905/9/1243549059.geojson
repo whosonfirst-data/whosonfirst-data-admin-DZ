@@ -1,0 +1,70 @@
+{
+  "id": 1243549059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85213,35.57606,-0.85213,35.57606",
+    "geom:latitude":35.57606,
+    "geom:longitude":-0.85213,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bredeah",
+    "gn:country_code":"DZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502046,
+    "gn:latitude":35.57606,
+    "gn:longitude":-0.85213,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bredeah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Br\u00e9d\u00e9a",
+        "Bredeah",
+        "Douar Bredeah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502046
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8f2067f59ca76c61cfb8ac60cc94fba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243549059,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1243549059,
+    "wof:lastmodified":1537620231,
+    "wof:name":"Bredeah",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85213,
+    35.57606,
+    -0.85213,
+    35.57606
+],
+  "geometry": {"coordinates":[-0.85213,35.57606],"type":"Point"}
+}

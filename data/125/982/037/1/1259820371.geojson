@@ -1,0 +1,69 @@
+{
+  "id": 1259820371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77646,35.88112,0.77646,35.88112",
+    "geom:latitude":35.88112,
+    "geom:longitude":0.77646,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Mechtat el Mehedia",
+    "gn:country_code":"DZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580399,
+    "gn:latitude":35.88112,
+    "gn:longitude":0.77646,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechtat el Mehedia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat M\u00e9h\u00e9dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580399,
+        "wk:page":"Mechtat_Mehedia"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6feca49f21f9c55558bc37366ca8cae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259820371,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1259820371,
+    "wof:lastmodified":1537620271,
+    "wof:name":"Mechtat el Mehedia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77646,
+    35.88112,
+    0.77646,
+    35.88112
+],
+  "geometry": {"coordinates":[0.77646,35.88112],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243385059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29083,36.06111,0.29083,36.06111",
+    "geom:latitude":36.06111,
+    "geom:longitude":0.29083,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Goura",
+    "gn:country_code":"DZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573856,
+    "gn:latitude":36.06111,
+    "gn:longitude":0.29083,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Goura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573856
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"98cb7773b8397eff6ed6df53aca2cf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243385059,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1243385059,
+    "wof:lastmodified":1536893898,
+    "wof:name":"Douar Goura",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29083,
+    36.06111,
+    0.29083,
+    36.06111
+],
+  "geometry": {"coordinates":[0.29083,36.06111],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193040141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.49412,36.28656,3.49412,36.28656",
+    "geom:latitude":36.28656,
+    "geom:longitude":3.49412,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Azizia",
+    "gn:country_code":"DZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490859,
+    "gn:latitude":36.28656,
+    "gn:longitude":3.49412,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Azizia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Fr\u00eanes",
+        "El Azizia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490859,
+        "wk:page":"El_Azizia%2C_M%C3%A9d%C3%A9a"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"412c33e1d994382201037813dbddf220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193040141,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1193040141,
+    "wof:lastmodified":1537620175,
+    "wof:name":"El Azizia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.49412,
+    36.28656,
+    3.49412,
+    36.28656
+],
+  "geometry": {"coordinates":[3.49412,36.28656],"type":"Point"}
+}

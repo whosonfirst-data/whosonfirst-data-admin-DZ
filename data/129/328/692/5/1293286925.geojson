@@ -1,0 +1,65 @@
+{
+  "id": 1293286925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.41528,36.0775,0.41528,36.0775",
+    "geom:latitude":36.0775,
+    "geom:longitude":0.41528,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Kraiaia",
+    "gn:country_code":"DZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573759,
+    "gn:latitude":36.0775,
+    "gn:longitude":0.41528,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Kra\u00efaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573759
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e40e87e0b12e9e147c6b7228a3117325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293286925,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1293286925,
+    "wof:lastmodified":1537073104,
+    "wof:name":"Douar Kraiaia",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.41528,
+    36.0775,
+    0.41528,
+    36.0775
+],
+  "geometry": {"coordinates":[0.41528,36.0775],"type":"Point"}
+}

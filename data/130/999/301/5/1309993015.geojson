@@ -1,0 +1,70 @@
+{
+  "id": 1309993015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89531,35.93293,5.89531,35.93293",
+    "geom:latitude":35.93293,
+    "geom:longitude":5.89531,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Oum Ladjoul",
+    "gn:country_code":"DZ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484520,
+    "gn:latitude":35.93293,
+    "gn:longitude":5.89531,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oum Ladjoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pierre Curie",
+        "Oum Ladjoul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484520,
+        "wk:page":"Oum_Ladjoul"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"339f477f7f8e5e27a1b29e53d5acc358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309993015,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1309993015,
+    "wof:lastmodified":1537620122,
+    "wof:name":"Oum Ladjoul",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89531,
+    35.93293,
+    5.89531,
+    35.93293
+],
+  "geometry": {"coordinates":[5.89531,35.93293],"type":"Point"}
+}

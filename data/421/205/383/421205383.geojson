@@ -1,0 +1,140 @@
+{
+  "id": 421205383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9064,36.76967,7.9064,36.76967",
+    "geom:latitude":36.76967,
+    "geom:longitude":7.9064,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646 \u0645\u0647\u064a\u062f\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:deu_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:dut_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:eng_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:fra_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:fre_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:ger_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:ita_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:kab_x_preferred":[
+        "Ben Mhidi"
+    ],
+    "name:may_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:msa_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:nan_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646 \u0645\u0647\u06cc\u062f\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Ben Mehdi"
+    ],
+    "name:ron_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:rum_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:swe_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "name:unk_x_variant":[
+        "Morris"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ben Mehidi"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2504486,
+    "qs:gn_pop":28398,
+    "qs:name":"Ben Mehidi",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0637\u0627\u0631\u0641",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":262961,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1253295,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504486,
+        "gp:id":1253295,
+        "qs:id":262961,
+        "wd:id":"Q253342",
+        "wk:page":"Ben Mehdi"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459010223,
+    "wof:geomhash":"1086402dd201d46e4101afb79b30d34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421205383,
+            "region_id":85670719
+        }
+    ],
+    "wof:id":421205383,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Ben Mehidi",
+    "wof:parent_id":85670719,
+    "wof:placetype":"locality",
+    "wof:population":28398,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9064,
+    36.76967,
+    7.9064,
+    36.76967
+],
+  "geometry": {"coordinates":[7.9064,36.76967],"type":"Point"}
+}

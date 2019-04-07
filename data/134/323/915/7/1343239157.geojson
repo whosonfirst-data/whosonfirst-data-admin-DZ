@@ -1,0 +1,70 @@
+{
+  "id": 1343239157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58413,36.09391,5.58413,36.09391",
+    "geom:latitude":36.09391,
+    "geom:longitude":5.58413,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mechta 'Ain el Bey",
+    "gn:country_code":"DZ",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508176,
+    "gn:latitude":36.09391,
+    "gn:longitude":5.58413,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta \u2019A\u00efn el Bey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019A\u00efn el Bey",
+        "Mechtat A\u00efne el Bey",
+        "Mechta \u2019A\u00efn el Bey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508176
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9af052c0ed0edbd941d8fc713a551b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343239157,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1343239157,
+    "wof:lastmodified":1537620258,
+    "wof:name":"Mechta 'Ain el Bey",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58413,
+    36.09391,
+    5.58413,
+    36.09391
+],
+  "geometry": {"coordinates":[5.58413,36.09391],"type":"Point"}
+}

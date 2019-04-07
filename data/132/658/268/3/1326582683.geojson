@@ -1,0 +1,65 @@
+{
+  "id": 1326582683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.72972,35.4337,-0.72972,35.4337",
+    "geom:latitude":35.4337,
+    "geom:longitude":-0.72972,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Sidi Salah",
+    "gn:country_code":"DZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479828,
+    "gn:latitude":35.4337,
+    "gn:longitude":-0.72972,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479828
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3dc90322ead43d609429f8900788c16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326582683,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1326582683,
+    "wof:lastmodified":1536911796,
+    "wof:name":"Sidi Salah",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.72972,
+    35.4337,
+    -0.72972,
+    35.4337
+],
+  "geometry": {"coordinates":[-0.72972,35.4337],"type":"Point"}
+}

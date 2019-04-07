@@ -1,0 +1,65 @@
+{
+  "id": 1343441211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.57121,35.80951,5.57121,35.80951",
+    "geom:latitude":35.80951,
+    "geom:longitude":5.57121,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Merzeglal",
+    "gn:country_code":"DZ",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487838,
+    "gn:latitude":35.80951,
+    "gn:longitude":5.57121,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Merzeglal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487838
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"872a7fd105b3074188cf36aaa0f54f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343441211,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1343441211,
+    "wof:lastmodified":1536774715,
+    "wof:name":"Merzeglal",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.57121,
+    35.80951,
+    5.57121,
+    35.80951
+],
+  "geometry": {"coordinates":[5.57121,35.80951],"type":"Point"}
+}

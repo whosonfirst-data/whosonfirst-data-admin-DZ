@@ -1,0 +1,66 @@
+{
+  "id": 1243119781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68361,35.14415,3.68361,35.14415",
+    "geom:latitude":35.14415,
+    "geom:longitude":3.68361,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Medjedel",
+    "gn:country_code":"DZ",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488780,
+    "gn:latitude":35.14415,
+    "gn:longitude":3.68361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Medjedel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488780,
+        "wk:page":"Medjedel"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3827aa31b3d36e44eeecae521bbac3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243119781,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1243119781,
+    "wof:lastmodified":1537504279,
+    "wof:name":"Medjedel",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68361,
+    35.14415,
+    3.68361,
+    35.14415
+],
+  "geometry": {"coordinates":[3.68361,35.14415],"type":"Point"}
+}

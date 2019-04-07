@@ -1,0 +1,65 @@
+{
+  "id": 1310050405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.92315,36.19602,1.92315,36.19602",
+    "geom:latitude":36.19602,
+    "geom:longitude":1.92315,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mehmda",
+    "gn:country_code":"DZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7495945,
+    "gn:latitude":36.19602,
+    "gn:longitude":1.92315,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mehmda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7495945
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f6a91e08a83be8eec943fbfd0c5866d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310050405,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1310050405,
+    "wof:lastmodified":1537072910,
+    "wof:name":"Mehmda",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.92315,
+    36.19602,
+    1.92315,
+    36.19602
+],
+  "geometry": {"coordinates":[1.92315,36.19602],"type":"Point"}
+}

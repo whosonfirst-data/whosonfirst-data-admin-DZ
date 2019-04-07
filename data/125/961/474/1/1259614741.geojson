@@ -1,0 +1,69 @@
+{
+  "id": 1259614741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31667,36.93333,6.31667,36.93333",
+    "geom:latitude":36.93333,
+    "geom:longitude":6.31667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"El Mal'ab",
+    "gn:country_code":"DZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2497717,
+    "gn:latitude":36.93333,
+    "gn:longitude":6.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El M\u00e2l\u2019ab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Melab",
+        "El M\u00e2l\u2019ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497717
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e16b0397434ec21af1ba1a85d35ffa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259614741,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1259614741,
+    "wof:lastmodified":1537620197,
+    "wof:name":"El Mal'ab",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31667,
+    36.93333,
+    6.31667,
+    36.93333
+],
+  "geometry": {"coordinates":[6.31667,36.93333],"type":"Point"}
+}

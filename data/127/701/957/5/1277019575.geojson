@@ -1,0 +1,65 @@
+{
+  "id": 1277019575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.81644,35.90552,0.81644,35.90552",
+    "geom:latitude":35.90552,
+    "geom:longitude":0.81644,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Mechtat el Aoulia",
+    "gn:country_code":"DZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580424,
+    "gn:latitude":35.90552,
+    "gn:longitude":0.81644,
+    "gn:modification_date":"1997-04-29",
+    "gn:name":"Mechtat el Aoulia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580424
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"03495ea852ec38c8f3e29ff34ab9d2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277019575,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1277019575,
+    "wof:lastmodified":1536852676,
+    "wof:name":"Mechtat el Aoulia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.81644,
+    35.90552,
+    0.81644,
+    35.90552
+],
+  "geometry": {"coordinates":[0.81644,35.90552],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293913765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76285,23.65501,5.76285,23.65501",
+    "geom:latitude":23.65501,
+    "geom:longitude":5.76285,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Highafok",
+    "gn:country_code":"DZ",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493842,
+    "gn:latitude":23.65501,
+    "gn:longitude":5.76285,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Highafok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hirafok",
+        "Hirhafok",
+        "Highafok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493842
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"17e7c5667a8d4f3d5bd5942d69837387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293913765,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1293913765,
+    "wof:lastmodified":1537620184,
+    "wof:name":"Highafok",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76285,
+    23.65501,
+    5.76285,
+    23.65501
+],
+  "geometry": {"coordinates":[5.76285,23.65501],"type":"Point"}
+}

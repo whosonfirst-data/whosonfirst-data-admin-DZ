@@ -1,0 +1,65 @@
+{
+  "id": 1226476615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53833,35.47889,7.53833,35.47889",
+    "geom:latitude":35.47889,
+    "geom:longitude":7.53833,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mechta Dekhakhene",
+    "gn:country_code":"DZ",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589499,
+    "gn:latitude":35.47889,
+    "gn:longitude":7.53833,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Dekhakhene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589499
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aca8428672f74ccd17f56d039b6bf940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226476615,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1226476615,
+    "wof:lastmodified":1537094449,
+    "wof:name":"Mechta Dekhakhene",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53833,
+    35.47889,
+    7.53833,
+    35.47889
+],
+  "geometry": {"coordinates":[7.53833,35.47889],"type":"Point"}
+}

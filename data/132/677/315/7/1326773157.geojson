@@ -1,0 +1,65 @@
+{
+  "id": 1326773157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.54745,36.68593,3.54745,36.68593",
+    "geom:latitude":36.68593,
+    "geom:longitude":3.54745,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ta Brahim",
+    "gn:country_code":"DZ",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2478958,
+    "gn:latitude":36.68593,
+    "gn:longitude":3.54745,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ta Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2478958
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d3e0931bf05df59e4e425271abf10dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326773157,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1326773157,
+    "wof:lastmodified":1536635484,
+    "wof:name":"Ta Brahim",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.54745,
+    36.68593,
+    3.54745,
+    36.68593
+],
+  "geometry": {"coordinates":[3.54745,36.68593],"type":"Point"}
+}

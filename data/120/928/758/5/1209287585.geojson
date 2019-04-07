@@ -1,0 +1,61 @@
+{
+  "id": 1209287585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80667,34.8325,-1.80667,34.8325",
+    "geom:latitude":34.8325,
+    "geom:longitude":-1.80667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"El Betaiem",
+    "gn:country_code":"DZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570919,
+    "gn:latitude":34.8325,
+    "gn:longitude":-1.80667,
+    "gn:modification_date":"1997-05-07",
+    "gn:name":"El Bet\u00e1iem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570919
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"30e9c1a42e4ea75fcd505f6f922d9190",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209287585
+        }
+    ],
+    "wof:id":1209287585,
+    "wof:lastmodified":1536291806,
+    "wof:name":"El Betaiem",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80667,
+    34.8325,
+    -1.80667,
+    34.8325
+],
+  "geometry": {"coordinates":[-1.80667,34.8325],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259723677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.17813,35.56427,-1.17813,35.56427",
+    "geom:latitude":35.56427,
+    "geom:longitude":-1.17813,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Douar er Rouaiba",
+    "gn:country_code":"DZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499402,
+    "gn:latitude":35.56427,
+    "gn:longitude":-1.17813,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar er Roua\u00efba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Roua\u00efba",
+        "Roua\u00efba",
+        "Douar er Roua\u00efba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499402
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"41cfed7ac1614a86d491b6c6e973b647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259723677,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1259723677,
+    "wof:lastmodified":1537620216,
+    "wof:name":"Douar er Rouaiba",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.17813,
+    35.56427,
+    -1.17813,
+    35.56427
+],
+  "geometry": {"coordinates":[-1.17813,35.56427],"type":"Point"}
+}

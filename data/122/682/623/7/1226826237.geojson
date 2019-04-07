@@ -1,0 +1,65 @@
+{
+  "id": 1226826237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98402,36.37792,4.98402,36.37792",
+    "geom:latitude":36.37792,
+    "geom:longitude":4.98402,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Oulad Khoufach",
+    "gn:country_code":"DZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485238,
+    "gn:latitude":36.37792,
+    "gn:longitude":4.98402,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oulad Khoufach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485238
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"88dd92976483813e7cfc165f005e3a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226826237,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1226826237,
+    "wof:lastmodified":1537093264,
+    "wof:name":"Oulad Khoufach",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98402,
+    36.37792,
+    4.98402,
+    36.37792
+],
+  "geometry": {"coordinates":[4.98402,36.37792],"type":"Point"}
+}

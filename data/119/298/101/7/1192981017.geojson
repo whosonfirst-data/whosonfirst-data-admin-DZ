@@ -1,0 +1,65 @@
+{
+  "id": 1192981017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31628,34.90215,6.31628,34.90215",
+    "geom:latitude":34.90215,
+    "geom:longitude":6.31628,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Teboudjerine",
+    "gn:country_code":"DZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477440,
+    "gn:latitude":34.90215,
+    "gn:longitude":6.31628,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Teboudjerine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477440
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"37c768e3e1e7b8854d2f0802f892e3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192981017,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1192981017,
+    "wof:lastmodified":1536367869,
+    "wof:name":"Teboudjerine",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31628,
+    34.90215,
+    6.31628,
+    34.90215
+],
+  "geometry": {"coordinates":[6.31628,34.90215],"type":"Point"}
+}

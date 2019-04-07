@@ -1,0 +1,186 @@
+{
+  "id": 1141908227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16473872745,23.6939400421,5.16473872745,23.6939400421",
+    "geom:latitude":23.69394,
+    "geom:longitude":5.164739,
+    "iso:country":"DZ",
+    "lbl:latitude":23.69394,
+    "lbl:longitude":5.164739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0623\u0645\u0642\u0644"
+    ],
+    "name:dut_x_preferred":[
+        "In Amguel"
+    ],
+    "name:eng_x_preferred":[
+        "In Amguel"
+    ],
+    "name:fre_x_preferred":[
+        "In Amguel"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara In Guezzam"
+    ],
+    "name:ita_x_preferred":[
+        "In Amguel"
+    ],
+    "name:kab_x_preferred":[
+        "In Amgel"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang In Guezzam"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0645\u0642\u0644"
+    ],
+    "name:por_x_preferred":[
+        "In Amguel"
+    ],
+    "name:rum_x_preferred":[
+        "In Amguel"
+    ],
+    "name:sco_x_preferred":[
+        "In Amguel"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Tamanghasset",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":23.69394,
+    "ne:LONGITUDE":5.164739,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"I-n-Amguel",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"In Amguel",
+    "ne:NAMEALT":"I-n-Amguel",
+    "ne:NAMEASCII":"In Amguel",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":3030,
+    "ne:POP_MIN":3030,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":23.69394,
+    "reversegeo:longitude":5.164739,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3123591"
+    },
+    "wof:country":"DZ",
+    "wof:created":1499130854,
+    "wof:geomhash":"791dd8d8cc469e08190c1046551b3a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1141908227,
+            "region_id":85670735
+        }
+    ],
+    "wof:id":1141908227,
+    "wof:lastmodified":1513956051,
+    "wof:name":"In Amguel",
+    "wof:parent_id":85670735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16473872744723,
+    23.69394004210341,
+    5.16473872744723,
+    23.69394004210341
+],
+  "geometry": {"coordinates":[5.16473872744723,23.69394004210341],"type":"Point"}
+}

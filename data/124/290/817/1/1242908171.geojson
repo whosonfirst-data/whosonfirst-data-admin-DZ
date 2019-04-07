@@ -1,0 +1,69 @@
+{
+  "id": 1242908171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.43333,36.28333,1.43333,36.28333",
+    "geom:latitude":36.28333,
+    "geom:longitude":1.43333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Kaddour Ben Chaoui",
+    "gn:country_code":"DZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484876,
+    "gn:latitude":36.28333,
+    "gn:longitude":1.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Kaddour Ben Chaoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Kaddour",
+        "Ouled Kaddour Ben Chaoui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484876
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3695be08744b2db735487c5dcb16f529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242908171,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242908171,
+    "wof:lastmodified":1537620124,
+    "wof:name":"Ouled Kaddour Ben Chaoui",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.43333,
+    36.28333,
+    1.43333,
+    36.28333
+],
+  "geometry": {"coordinates":[1.43333,36.28333],"type":"Point"}
+}

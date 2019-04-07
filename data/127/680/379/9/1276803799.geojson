@@ -1,0 +1,73 @@
+{
+  "id": 1276803799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46049,36.98974,6.46049,36.98974",
+    "geom:latitude":36.98974,
+    "geom:longitude":6.46049,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Zitouna",
+    "gn:country_code":"DZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474341,
+    "gn:latitude":36.98974,
+    "gn:longitude":6.46049,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zitouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ez Z\u00eeto\u00fbna",
+        "Bessombourg",
+        "Bessembourg",
+        "Bessonbourg",
+        "Zitouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474341,
+        "wk:page":"Zitouna%2C_Skikda"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2a3929e6867b567e3fdbf1b18b928c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276803799,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":1276803799,
+    "wof:lastmodified":1537620089,
+    "wof:name":"Zitouna",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46049,
+    36.98974000000001,
+    6.46049,
+    36.98974000000001
+],
+  "geometry": {"coordinates":[6.46049,36.98974000000001],"type":"Point"}
+}

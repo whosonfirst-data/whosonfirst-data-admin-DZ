@@ -1,0 +1,61 @@
+{
+  "id": 1209446189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.28333,36.5,2.28333,36.5",
+    "geom:latitude":36.5,
+    "geom:longitude":2.28333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bou Arara",
+    "gn:country_code":"DZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2503473,
+    "gn:latitude":36.5,
+    "gn:longitude":2.28333,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Bou Arara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2503473
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"2a3e6ce507cd8567cf8341948d58efa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209446189
+        }
+    ],
+    "wof:id":1209446189,
+    "wof:lastmodified":1536286811,
+    "wof:name":"Bou Arara",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.28333,
+    36.5,
+    2.28333,
+    36.5
+],
+  "geometry": {"coordinates":[2.28333,36.5],"type":"Point"}
+}

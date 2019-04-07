@@ -1,0 +1,66 @@
+{
+  "id": 1242914709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.01167,35.66778,8.01167,35.66778",
+    "geom:latitude":35.66778,
+    "geom:longitude":8.01167,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Morsott",
+    "gn:country_code":"DZ",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487144,
+    "gn:latitude":35.66778,
+    "gn:longitude":8.01167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Morsott",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487144,
+        "wk:page":"Morsott"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ed4729b1e5be047d17460585904ad0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242914709,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1242914709,
+    "wof:lastmodified":1537504277,
+    "wof:name":"Morsott",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.01167,
+    35.66778,
+    8.01167,
+    35.66778
+],
+  "geometry": {"coordinates":[8.01167,35.66778],"type":"Point"}
+}

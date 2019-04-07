@@ -1,0 +1,71 @@
+{
+  "id": 1310556233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.00513,35.22382,-0.00513,35.22382",
+    "geom:latitude":35.22382,
+    "geom:longitude":-0.00513,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"'Ain Fekan",
+    "gn:country_code":"DZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508095,
+    "gn:latitude":35.22382,
+    "gn:longitude":-0.00513,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2019A\u00efn Fekan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Fekana",
+        "A\u00efne Fekane",
+        "A\u00efn Fekane",
+        "\u2019A\u00efn Fekan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508095
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4915b259c0a38df63889de8c30440557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310556233,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1310556233,
+    "wof:lastmodified":1537620257,
+    "wof:name":"'Ain Fekan",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.00513,
+    35.22382,
+    -0.00513,
+    35.22382
+],
+  "geometry": {"coordinates":[-0.00513,35.22382],"type":"Point"}
+}

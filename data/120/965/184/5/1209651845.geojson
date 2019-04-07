@@ -1,0 +1,61 @@
+{
+  "id": 1209651845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.91075,33.46548,6.91075,33.46548",
+    "geom:latitude":33.46548,
+    "geom:longitude":6.91075,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Zgoum",
+    "gn:country_code":"DZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474448,
+    "gn:latitude":33.46548,
+    "gn:longitude":6.91075,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zgoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474448
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bcbbe17ea88d5569489496137ffd446b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209651845
+        }
+    ],
+    "wof:id":1209651845,
+    "wof:lastmodified":1536280554,
+    "wof:name":"Zgoum",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.91075,
+    33.46548,
+    6.91075,
+    33.46548
+],
+  "geometry": {"coordinates":[6.91075,33.46548],"type":"Point"}
+}

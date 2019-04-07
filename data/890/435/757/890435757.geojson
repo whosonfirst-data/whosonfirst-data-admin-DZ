@@ -1,0 +1,105 @@
+{
+  "id": 890435757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75714,35.43058,1.75714,35.43058",
+    "geom:latitude":35.43058,
+    "geom:longitude":1.75714,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":39271,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u062f\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Mahdia"
+    ],
+    "name:eng_x_preferred":[
+        "Mahdia"
+    ],
+    "name:fre_x_preferred":[
+        "Mahdia"
+    ],
+    "name:ita_x_preferred":[
+        "Mahdia"
+    ],
+    "name:kab_x_preferred":[
+        "Mehdeyya"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0647\u062f\u06cc\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Mahdia"
+    ],
+    "name:rum_x_preferred":[
+        "Mahdia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0434\u0438\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Mehdia"
+    ],
+    "name:unk_x_variant":[
+        "Burdeau"
+    ],
+    "qs:name":"Mehdia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"35.5",
+    "wd:longitude":"11.066666666",
+    "wd:wordcount":935,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488616,
+        "gp:id":1256367,
+        "qs:id":1035972,
+        "wd:id":"Q3277676",
+        "wk:page":"Mahdia"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052080,
+    "wof:geomhash":"58770be0c7f84fa0b324c22e096b3ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435757,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":890435757,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Mehdia",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:population":39271,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75714,
+    35.43058,
+    1.75714,
+    35.43058
+],
+  "geometry": {"coordinates":[1.75714,35.43058],"type":"Point"}
+}

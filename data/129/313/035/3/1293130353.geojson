@@ -1,0 +1,66 @@
+{
+  "id": 1293130353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75143,35.92423,4.75143,35.92423",
+    "geom:latitude":35.92423,
+    "geom:longitude":4.75143,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Rabta",
+    "gn:country_code":"DZ",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484152,
+    "gn:latitude":35.92423,
+    "gn:longitude":4.75143,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rabta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484152,
+        "wk:page":"Rabta"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b77fd7e739f6e94141558cd54684ae5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293130353,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1293130353,
+    "wof:lastmodified":1537504272,
+    "wof:name":"Rabta",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75143,
+    35.92423,
+    4.75143,
+    35.92423
+],
+  "geometry": {"coordinates":[4.75143,35.92423],"type":"Point"}
+}

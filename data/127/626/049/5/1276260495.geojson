@@ -1,0 +1,64 @@
+{
+  "id": 1276260495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.61028,36.59972,2.61028,36.59972",
+    "geom:latitude":36.59972,
+    "geom:longitude":2.61028,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tagourait",
+    "gn:country_code":"DZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592673,
+    "gn:latitude":36.59972,
+    "gn:longitude":2.61028,
+    "gn:modification_date":"1999-05-12",
+    "gn:name":"Tagourait",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592673
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4498d0d20d5141dab0e41dcdb3905282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276260495,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276260495,
+    "wof:lastmodified":1536875346,
+    "wof:name":"Tagourait",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.61028,
+    36.59972,
+    2.61028,
+    36.59972
+],
+  "geometry": {"coordinates":[2.61028,36.59972],"type":"Point"}
+}

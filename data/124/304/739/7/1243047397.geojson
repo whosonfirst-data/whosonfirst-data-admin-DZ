@@ -1,0 +1,65 @@
+{
+  "id": 1243047397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.90935,35.41316,0.90935,35.41316",
+    "geom:latitude":35.41316,
+    "geom:longitude":0.90935,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar Ezaief",
+    "gn:country_code":"DZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490622,
+    "gn:latitude":35.41316,
+    "gn:longitude":0.90935,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Eza\u00efef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490622
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"eb94db8762d98a64a2500b94b7b5bb23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243047397,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1243047397,
+    "wof:lastmodified":1536883222,
+    "wof:name":"Douar Ezaief",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.90935,
+    35.41316,
+    0.90935,
+    35.41316
+],
+  "geometry": {"coordinates":[0.90935,35.41316],"type":"Point"}
+}

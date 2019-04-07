@@ -1,0 +1,134 @@
+{
+  "id": 421182055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31347,36.18683,5.31347,36.18683",
+    "geom:latitude":36.18683,
+    "geom:longitude":5.31347,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0623\u0631\u0646\u0627\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Arnat"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0631\u0646\u0627\u062a"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Arnat"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Arnat"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "A\u00efn Arnat"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2508297,
+    "qs:gn_pop":35088,
+    "qs:name":"'Ain Arnat",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Setif",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":638222,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252718,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508297,
+        "gp:id":1252718,
+        "qs:id":638222,
+        "wd:id":"Q2876253",
+        "wk:page":"A\u00efn Arnat"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009317,
+    "wof:geomhash":"7193930f9a1f19333398420adfecc318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421182055,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":421182055,
+    "wof:lastmodified":1527726434,
+    "wof:name":"'Ain Arnat",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:population":35088,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31347,
+    36.18683,
+    5.31347,
+    36.18683
+],
+  "geometry": {"coordinates":[5.31347,36.18683],"type":"Point"}
+}

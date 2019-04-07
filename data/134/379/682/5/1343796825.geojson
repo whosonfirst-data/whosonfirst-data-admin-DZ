@@ -1,0 +1,68 @@
+{
+  "id": 1343796825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.12762,36.3888,1.12762,36.3888",
+    "geom:latitude":36.3888,
+    "geom:longitude":1.12762,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Abdelaziz",
+    "gn:country_code":"DZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485429,
+    "gn:latitude":36.3888,
+    "gn:longitude":1.12762,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Abdelaziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulad Abd el Aziz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485429
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cdd0de31a4aba7c67b9760b6c4425300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343796825,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1343796825,
+    "wof:lastmodified":1537620132,
+    "wof:name":"Ouled Abdelaziz",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.12762,
+    36.3888,
+    1.12762,
+    36.3888
+],
+  "geometry": {"coordinates":[1.12762,36.3888],"type":"Point"}
+}

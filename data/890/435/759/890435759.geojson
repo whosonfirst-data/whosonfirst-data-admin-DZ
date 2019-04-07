@@ -1,0 +1,103 @@
+{
+  "id": 890435759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08695,33.19195,6.08695,33.19195",
+    "geom:latitude":33.19195,
+    "geom:longitude":6.08695,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":31711,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0631\u064a\u0646\u060c\u0648\u0631\u0642\u0644\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Megarine"
+    ],
+    "name:eng_x_preferred":[
+        "Megarine"
+    ],
+    "name:fre_x_preferred":[
+        "Megarine"
+    ],
+    "name:ita_x_preferred":[
+        "Megarine"
+    ],
+    "name:may_x_preferred":[
+        "Megarine"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0642\u0627\u0631\u06cc\u0646"
+    ],
+    "name:por_x_preferred":[
+        "Megarine"
+    ],
+    "name:rum_x_preferred":[
+        "Megarine"
+    ],
+    "name:swe_x_preferred":[
+        "Megarine"
+    ],
+    "name:unk_x_variant":[
+        "Meggarine"
+    ],
+    "name:vie_x_preferred":[
+        "Megarine"
+    ],
+    "qs:name":"Megarine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":394,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488716,
+        "gp:id":56558414,
+        "qs:id":1035973,
+        "wd:id":"Q2384877",
+        "wk:page":"Megarine"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052080,
+    "wof:geomhash":"bae8056635eb90384ceb0e456d1e26eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435759,
+            "region_id":85670759
+        }
+    ],
+    "wof:id":890435759,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Megarine",
+    "wof:parent_id":85670759,
+    "wof:placetype":"locality",
+    "wof:population":31711,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08695,
+    33.19195,
+    6.08695,
+    33.19195
+],
+  "geometry": {"coordinates":[6.08695,33.19195],"type":"Point"}
+}

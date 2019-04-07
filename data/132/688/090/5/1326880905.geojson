@@ -1,0 +1,65 @@
+{
+  "id": 1326880905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06038,36.05067,7.06038,36.05067",
+    "geom:latitude":36.05067,
+    "geom:longitude":7.06038,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mechtat ez Zaaroura",
+    "gn:country_code":"DZ",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489017,
+    "gn:latitude":36.05067,
+    "gn:longitude":7.06038,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechtat ez Zaaroura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489017
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3cd1f4a22b1a00ad53af31ba465f46be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326880905,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1326880905,
+    "wof:lastmodified":1536978238,
+    "wof:name":"Mechtat ez Zaaroura",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06038,
+    36.05067,
+    7.06038,
+    36.05067
+],
+  "geometry": {"coordinates":[7.06038,36.05067],"type":"Point"}
+}

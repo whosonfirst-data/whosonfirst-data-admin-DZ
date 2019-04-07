@@ -1,0 +1,74 @@
+{
+  "id": 1343717247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94615,34.29606,1.94615,34.29606",
+    "geom:latitude":34.29606,
+    "geom:longitude":1.94615,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gueltat Sidi Saad",
+    "gn:country_code":"DZ",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2495629,
+    "gn:latitude":34.29606,
+    "gn:longitude":1.94615,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gueltat Sidi Saad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj de Gueltet Sidi Saad",
+        "Guelta",
+        "Bordj Gueltet Sidi Saad",
+        "Gueltet Sidi Saad",
+        "Guella Sidi Saad",
+        "Gueltat Sidi Saad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2495629,
+        "wk:page":"Gueltat_Sidi_Saad"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d2d8779050d95a836894aead74722afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343717247,
+            "region_id":85670753
+        }
+    ],
+    "wof:id":1343717247,
+    "wof:lastmodified":1537620190,
+    "wof:name":"Gueltat Sidi Saad",
+    "wof:parent_id":85670753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94615,
+    34.29606,
+    1.94615,
+    34.29606
+],
+  "geometry": {"coordinates":[1.94615,34.29606],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293530069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.65041,36.3627,1.65041,36.3627",
+    "geom:latitude":36.3627,
+    "geom:longitude":1.65041,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kerkouch",
+    "gn:country_code":"DZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573228,
+    "gn:latitude":36.3627,
+    "gn:longitude":1.65041,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Kerkouch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573228
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"53513afaa7d8069981a3a167e779d731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293530069,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1293530069,
+    "wof:lastmodified":1536726055,
+    "wof:name":"Kerkouch",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.65041,
+    36.3627,
+    1.65041,
+    36.3627
+],
+  "geometry": {"coordinates":[1.65041,36.3627],"type":"Point"}
+}

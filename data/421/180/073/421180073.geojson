@@ -1,0 +1,149 @@
+{
+  "id": 421180073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.22015,36.26104,2.22015,36.26104",
+    "geom:latitude":36.26104,
+    "geom:longitude":2.22015,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u0645\u064a\u0633 \u0645\u0644\u064a\u0627\u0646\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:deu_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:dut_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:eng_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:fra_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:fra_x_variant":[
+        "Affreville"
+    ],
+    "name:fre_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:ger_x_preferred":[
+        "Malliana"
+    ],
+    "name:ita_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:kab_x_preferred":[
+        "Lexmis n Tmelyant"
+    ],
+    "name:may_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:msa_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:nan_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0645\u06cc\u0633 \u0645\u0644\u06cc\u0627\u0646\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Chamis Miljana"
+    ],
+    "name:por_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:ron_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:rum_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:swe_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:unk_x_variant":[
+        "El Khemis Miliana"
+    ],
+    "name:vie_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2491911,
+    "qs:gn_pop":75865,
+    "qs:name":"Khemis Miliana",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"Ain Defla",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":910501,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1255200,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":410,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491911,
+        "gp:id":1255200,
+        "qs:id":910501,
+        "wd:id":"Q954285",
+        "wk:page":"Khemis Miliana"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009243,
+    "wof:geomhash":"8d47d45c2e129709cc4574ed928df900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421180073,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":421180073,
+    "wof:lastmodified":1527716239,
+    "wof:name":"Khemis Miliana",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:population":75865,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.22015,
+    36.26104,
+    2.22015,
+    36.26104
+],
+  "geometry": {"coordinates":[2.22015,36.26104],"type":"Point"}
+}

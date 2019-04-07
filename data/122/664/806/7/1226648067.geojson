@@ -1,0 +1,65 @@
+{
+  "id": 1226648067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67448,35.79828,5.67448,35.79828",
+    "geom:latitude":35.79828,
+    "geom:longitude":5.67448,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zraia",
+    "gn:country_code":"DZ",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474184,
+    "gn:latitude":35.79828,
+    "gn:longitude":5.67448,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zra\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474184
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"28d38ebfd7e317572cc6783bb1518c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226648067,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1226648067,
+    "wof:lastmodified":1536854891,
+    "wof:name":"Zraia",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67448,
+    35.79828,
+    5.67448,
+    35.79828
+],
+  "geometry": {"coordinates":[5.67448,35.79828],"type":"Point"}
+}

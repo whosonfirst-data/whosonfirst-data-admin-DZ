@@ -1,0 +1,66 @@
+{
+  "id": 1326524635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.07119,35.8964,0.07119,35.8964",
+    "geom:latitude":35.8964,
+    "geom:longitude":0.07119,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mazagran",
+    "gn:country_code":"DZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490006,
+    "gn:latitude":35.8964,
+    "gn:longitude":0.07119,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Mazagran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490006,
+        "wk:page":"Mazagran%2C_Algeria"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3dd304d2e6bc0e1c5e31d12dbfefb62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326524635,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1326524635,
+    "wof:lastmodified":1537504285,
+    "wof:name":"Mazagran",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.07119,
+    35.8964,
+    0.07119,
+    35.8964
+],
+  "geometry": {"coordinates":[0.07119,35.8964],"type":"Point"}
+}

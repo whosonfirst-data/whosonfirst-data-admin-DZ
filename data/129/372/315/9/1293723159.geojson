@@ -1,0 +1,68 @@
+{
+  "id": 1293723159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.66624,35.8952,0.66624,35.8952",
+    "geom:latitude":35.8952,
+    "geom:longitude":0.66624,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar el Homr",
+    "gn:country_code":"DZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2579878,
+    "gn:latitude":35.8952,
+    "gn:longitude":0.66624,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Homr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat el Homor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2579878
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4d738a2c9600c8475ba9ceed1cba3899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293723159,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1293723159,
+    "wof:lastmodified":1537620269,
+    "wof:name":"Douar el Homr",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.66624,
+    35.8952,
+    0.66624,
+    35.8952
+],
+  "geometry": {"coordinates":[0.66624,35.8952],"type":"Point"}
+}

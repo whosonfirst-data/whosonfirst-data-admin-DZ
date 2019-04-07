@@ -1,0 +1,288 @@
+{
+  "id": 1141908231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.85998408878,33.3704036652,6.85998408878,33.3704036652",
+    "geom:latitude":33.370404,
+    "geom:longitude":6.859984,
+    "iso:country":"DZ",
+    "lbl:latitude":33.370404,
+    "lbl:longitude":6.859984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u0993\u09af\u09bc\u09c7\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "El Oued"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u5fb7"
+    ],
+    "name:dan_x_preferred":[
+        "El Oued"
+    ],
+    "name:dut_x_preferred":[
+        "El Oued"
+    ],
+    "name:eng_x_preferred":[
+        "El Oued"
+    ],
+    "name:epo_x_preferred":[
+        "El Ued"
+    ],
+    "name:fin_x_preferred":[
+        "El Oued"
+    ],
+    "name:fre_x_preferred":[
+        "El Oued"
+    ],
+    "name:ger_x_preferred":[
+        "El Oued"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab2 \u0a93\u0aaf\u0aa1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d5\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u0915\u0948\u0926"
+    ],
+    "name:ind_x_preferred":[
+        "El Oued"
+    ],
+    "name:ita_x_preferred":[
+        "El Oued"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\uff1d\u30a6\u30a7\u30c3\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0c94\u0ca1\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u044d\u0434 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc6e8\ub4dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ueda"
+    ],
+    "name:lit_x_preferred":[
+        "Uedas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932 \u0913\u090f\u0921"
+    ],
+    "name:may_x_preferred":[
+        "El Oued"
+    ],
+    "name:nan_x_preferred":[
+        "El Oued"
+    ],
+    "name:nob_x_preferred":[
+        "El Oued"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u06cc\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Wadi"
+    ],
+    "name:por_x_preferred":[
+        "El Oued"
+    ],
+    "name:rum_x_preferred":[
+        "El Oued"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "El Oued"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbd\u0dca \u0d9a\u0dd2\u0dba\u0dd4\u0da9\u0dca"
+    ],
+    "name:sna_x_preferred":[
+        "El Oued"
+    ],
+    "name:spa_x_preferred":[
+        "El Oued"
+    ],
+    "name:swe_x_preferred":[
+        "El Oued"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd  \u0b92\u0bb5\u0bc1\u0ba4\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c12\u0c2f\u0c46\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e25 \u0e04\u0e27\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "El Qued"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0423\u0435\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "El Oued"
+    ],
+    "name:war_x_preferred":[
+        "El Oued"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Biskra",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":33.370404,
+    "ne:LONGITUDE":6.859984,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Oued",
+    "ne:MAX_AREAKM":50.0,
+    "ne:MAX_AREAMI":19.0,
+    "ne:MAX_BBXMAX":6.933333,
+    "ne:MAX_BBXMIN":6.816667,
+    "ne:MAX_BBYMAX":33.416667,
+    "ne:MAX_BBYMIN":33.275,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":57.0,
+    "ne:MAX_PERMI":36.0,
+    "ne:MAX_POP10":177497,
+    "ne:MAX_POP20":177497,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":6.874405,
+    "ne:MEAN_BBYC":33.347857,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":50.0,
+    "ne:MIN_AREAMI":19.0,
+    "ne:MIN_BBXMAX":6.933333,
+    "ne:MIN_BBXMIN":6.816667,
+    "ne:MIN_BBYMAX":33.416667,
+    "ne:MIN_BBYMIN":33.275,
+    "ne:MIN_PERKM":57.0,
+    "ne:MIN_PERMI":36.0,
+    "ne:NAME":"El Oued",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Oued",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":177497,
+    "ne:POP_MIN":177497,
+    "ne:POP_OTHER":177497,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":33.370404,
+    "reversegeo:longitude":6.859984,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1642636"
+    },
+    "wof:country":"DZ",
+    "wof:created":1499130855,
+    "wof:geomhash":"9e3bc55849c316353abcf4f28cbfa97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1141908231,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1141908231,
+    "wof:lastmodified":1513956042,
+    "wof:name":"El Oued",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.85998408878214,
+    33.37040366518903,
+    6.85998408878214,
+    33.37040366518903
+],
+  "geometry": {"coordinates":[6.85998408878214,33.37040366518903],"type":"Point"}
+}

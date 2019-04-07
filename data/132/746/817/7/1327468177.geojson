@@ -1,0 +1,66 @@
+{
+  "id": 1327468177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.89287,34.91925,6.89287,34.91925",
+    "geom:latitude":34.91925,
+    "geom:longitude":6.89287,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Djellal",
+    "gn:country_code":"DZ",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499989,
+    "gn:latitude":34.91925,
+    "gn:longitude":6.89287,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Djellal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499989,
+        "wk:page":"Djellal"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"040228b136679e1a88e6ce178ca77b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327468177,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1327468177,
+    "wof:lastmodified":1537504298,
+    "wof:name":"Djellal",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.89287,
+    34.91925,
+    6.89287,
+    34.91925
+],
+  "geometry": {"coordinates":[6.89287,34.91925],"type":"Point"}
+}

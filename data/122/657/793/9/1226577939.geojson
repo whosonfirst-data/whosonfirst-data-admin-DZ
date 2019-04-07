@@ -1,0 +1,65 @@
+{
+  "id": 1226577939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80766,35.77154,0.80766,35.77154",
+    "geom:latitude":35.77154,
+    "geom:longitude":0.80766,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Kehailia",
+    "gn:country_code":"DZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417701,
+    "gn:latitude":35.77154,
+    "gn:longitude":0.80766,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Keha\u00eflia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417701
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4e8441fb65e59ba7c56679ce0e6d3d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226577939,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1226577939,
+    "wof:lastmodified":1536953382,
+    "wof:name":"Kehailia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80766,
+    35.77154,
+    0.80766,
+    35.77154
+],
+  "geometry": {"coordinates":[0.80766,35.77154],"type":"Point"}
+}

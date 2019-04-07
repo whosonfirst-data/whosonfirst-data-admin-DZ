@@ -1,0 +1,67 @@
+{
+  "id": 1209335971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16838,35.83796,0.16838,35.83796",
+    "geom:latitude":35.83796,
+    "geom:longitude":0.16838,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mesra",
+    "gn:country_code":"DZ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2487786,
+    "gn:latitude":35.83796,
+    "gn:longitude":0.16838,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mesra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboukir",
+        "Messhra",
+        "Mesra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487786,
+        "wk:page":"Mesra"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"772496db503903efe029a63d6fa2810d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209335971
+        }
+    ],
+    "wof:id":1209335971,
+    "wof:lastmodified":1537620139,
+    "wof:name":"Mesra",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16838,
+    35.83795999999999,
+    0.16838,
+    35.83795999999999
+],
+  "geometry": {"coordinates":[0.16838,35.83795999999999],"type":"Point"}
+}

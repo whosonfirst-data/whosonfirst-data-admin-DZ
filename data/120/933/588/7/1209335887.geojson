@@ -1,0 +1,61 @@
+{
+  "id": 1209335887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.21032,35.87727,0.21032,35.87727",
+    "geom:latitude":35.87727,
+    "geom:longitude":0.21032,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Beni Zeroual",
+    "gn:country_code":"DZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7392059,
+    "gn:latitude":35.87727,
+    "gn:longitude":0.21032,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Beni Zeroual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392059
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"114dc9ea35ee6289b0921207e6c62ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209335887
+        }
+    ],
+    "wof:id":1209335887,
+    "wof:lastmodified":1536290223,
+    "wof:name":"Douar Beni Zeroual",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.21032,
+    35.87727,
+    0.21032,
+    35.87727
+],
+  "geometry": {"coordinates":[0.21032,35.87727],"type":"Point"}
+}

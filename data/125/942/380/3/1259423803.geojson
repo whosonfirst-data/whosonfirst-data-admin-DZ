@@ -1,0 +1,65 @@
+{
+  "id": 1259423803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.18465,27.37624,-0.18465,27.37624",
+    "geom:latitude":27.37624,
+    "geom:longitude":-0.18465,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Rharmianou",
+    "gn:country_code":"DZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483432,
+    "gn:latitude":27.37624,
+    "gn:longitude":-0.18465,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Rharmianou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483432
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4b03e068ad0561e742f6fd0992d3c952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259423803,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1259423803,
+    "wof:lastmodified":1536944917,
+    "wof:name":"Rharmianou",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.18465,
+    27.37624000000001,
+    -0.18465,
+    27.37624000000001
+],
+  "geometry": {"coordinates":[-0.18465,27.37624000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209995345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.49088,36.61172,4.49088,36.61172",
+    "geom:latitude":36.61172,
+    "geom:longitude":4.49088,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ait Ikhlef",
+    "gn:country_code":"DZ",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10858980,
+    "gn:latitude":36.61172,
+    "gn:longitude":4.49088,
+    "gn:modification_date":"2015-10-18",
+    "gn:name":"A\u00eft Ikhlef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10858980
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e3d32f3f3796817394ec98e1792620ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1209995345,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1209995345,
+    "wof:lastmodified":1536384401,
+    "wof:name":"Ait Ikhlef",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49088,
+    36.61172,
+    4.49088,
+    36.61172
+],
+  "geometry": {"coordinates":[4.49088,36.61172],"type":"Point"}
+}

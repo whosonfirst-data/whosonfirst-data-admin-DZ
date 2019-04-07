@@ -1,0 +1,61 @@
+{
+  "id": 1209355309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98406,36.05537,1.98406,36.05537",
+    "geom:latitude":36.05537,
+    "geom:longitude":1.98406,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khelili",
+    "gn:country_code":"DZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7493710,
+    "gn:latitude":36.05537,
+    "gn:longitude":1.98406,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Khelili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7493710
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8c219869da134d8ac416bf48d3b59820",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209355309
+        }
+    ],
+    "wof:id":1209355309,
+    "wof:lastmodified":1536289605,
+    "wof:name":"Khelili",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98406,
+    36.05537,
+    1.98406,
+    36.05537
+],
+  "geometry": {"coordinates":[1.98406,36.05537],"type":"Point"}
+}

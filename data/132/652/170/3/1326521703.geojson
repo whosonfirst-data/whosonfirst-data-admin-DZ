@@ -1,0 +1,65 @@
+{
+  "id": 1326521703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.41722,36.055,0.41722,36.055",
+    "geom:latitude":36.055,
+    "geom:longitude":0.41722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Douar Ouled Tayeb",
+    "gn:country_code":"DZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573761,
+    "gn:latitude":36.055,
+    "gn:longitude":0.41722,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Douar Ouled Tayeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573761
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5d093e4993b4507187e0445c79ef5efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326521703,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1326521703,
+    "wof:lastmodified":1536998519,
+    "wof:name":"Douar Ouled Tayeb",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.41722,
+    36.055,
+    0.41722,
+    36.055
+],
+  "geometry": {"coordinates":[0.41722,36.055],"type":"Point"}
+}

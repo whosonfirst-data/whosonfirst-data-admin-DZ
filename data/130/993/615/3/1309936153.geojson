@@ -1,0 +1,65 @@
+{
+  "id": 1309936153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.28159,35.36212,7.28159,35.36212",
+    "geom:latitude":35.36212,
+    "geom:longitude":7.28159,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mechta Ouled Amara",
+    "gn:country_code":"DZ",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489360,
+    "gn:latitude":35.36212,
+    "gn:longitude":7.28159,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechta Ouled Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489360
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"19edfcef010b8c550809b8cd08c5190f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309936153,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1309936153,
+    "wof:lastmodified":1536743119,
+    "wof:name":"Mechta Ouled Amara",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.28159,
+    35.36212000000001,
+    7.28159,
+    35.36212000000001
+],
+  "geometry": {"coordinates":[7.28159,35.36212000000001],"type":"Point"}
+}

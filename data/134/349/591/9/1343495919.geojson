@@ -1,0 +1,70 @@
+{
+  "id": 1343495919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52095,35.97533,7.52095,35.97533",
+    "geom:latitude":35.97533,
+    "geom:longitude":7.52095,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mechta Sidi Maatallah",
+    "gn:country_code":"DZ",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489220,
+    "gn:latitude":35.97533,
+    "gn:longitude":7.52095,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Sidi Maatallah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mzaret Sidi Maatallah",
+        "Mechtat Sidi Maatallah",
+        "Mechta Sidi Maatallah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489220
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"66aab6986e3238b05fdd2cca6f6f6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343495919,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":1343495919,
+    "wof:lastmodified":1537620153,
+    "wof:name":"Mechta Sidi Maatallah",
+    "wof:parent_id":85670875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52095,
+    35.97533,
+    7.52095,
+    35.97533
+],
+  "geometry": {"coordinates":[7.52095,35.97533],"type":"Point"}
+}

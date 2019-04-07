@@ -1,0 +1,65 @@
+{
+  "id": 1343506013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.25491,36.31771,2.25491,36.31771",
+    "geom:latitude":36.31771,
+    "geom:longitude":2.25491,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Oudjida",
+    "gn:country_code":"DZ",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485677,
+    "gn:latitude":36.31771,
+    "gn:longitude":2.25491,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oudjida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485677
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"61ae669857fa6959a7235dfe31690470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343506013,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1343506013,
+    "wof:lastmodified":1536680484,
+    "wof:name":"Oudjida",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.25491,
+    36.31771,
+    2.25491,
+    36.31771
+],
+  "geometry": {"coordinates":[2.25491,36.31771],"type":"Point"}
+}

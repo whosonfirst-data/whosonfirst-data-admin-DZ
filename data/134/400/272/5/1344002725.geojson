@@ -1,0 +1,65 @@
+{
+  "id": 1344002725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.00996,36.09055,2.00996,36.09055",
+    "geom:latitude":36.09055,
+    "geom:longitude":2.00996,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hadj Ben Mira",
+    "gn:country_code":"DZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430139,
+    "gn:latitude":36.09055,
+    "gn:longitude":2.00996,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Hadj Ben Mira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430139
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"adc8f01acd9402a2b5402e139ceffb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344002725,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1344002725,
+    "wof:lastmodified":1536958985,
+    "wof:name":"Hadj Ben Mira",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.00996,
+    36.09055,
+    2.00996,
+    36.09055
+],
+  "geometry": {"coordinates":[2.00996,36.09055],"type":"Point"}
+}

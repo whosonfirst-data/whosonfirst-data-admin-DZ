@@ -1,0 +1,103 @@
+{
+  "id": 890444489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58556,36.92917,6.58556,36.92917",
+    "geom:latitude":36.92917,
+    "geom:longitude":6.58556,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":46747,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0643\u0631\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Kerkera"
+    ],
+    "name:eng_x_preferred":[
+        "Kerkera"
+    ],
+    "name:fre_x_preferred":[
+        "Kerkera"
+    ],
+    "name:ita_x_preferred":[
+        "Kerkera"
+    ],
+    "name:kab_x_preferred":[
+        "Kerkera"
+    ],
+    "name:may_x_preferred":[
+        "Kerkera"
+    ],
+    "name:por_x_preferred":[
+        "Kerkera"
+    ],
+    "name:rum_x_preferred":[
+        "Kerkera"
+    ],
+    "name:swe_x_preferred":[
+        "Kerkera"
+    ],
+    "name:unk_x_variant":[
+        "El Achra"
+    ],
+    "name:vie_x_preferred":[
+        "Kerkera"
+    ],
+    "qs:name":"Kerkera",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2492345,
+        "gp:id":1255174,
+        "qs:id":1035995,
+        "wd:id":"Q1649432",
+        "wk:page":"Kerkera"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052470,
+    "wof:geomhash":"709066865a24f7222c3a12675d5261a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890444489,
+            "region_id":85670727
+        }
+    ],
+    "wof:id":890444489,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Kerkera",
+    "wof:parent_id":85670727,
+    "wof:placetype":"locality",
+    "wof:population":46747,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58556,
+    36.92917,
+    6.58556,
+    36.92917
+],
+  "geometry": {"coordinates":[6.58556,36.92917],"type":"Point"}
+}

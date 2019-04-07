@@ -1,0 +1,65 @@
+{
+  "id": 1360239035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.04699,35.61071,8.04699,35.61071",
+    "geom:latitude":35.61071,
+    "geom:longitude":8.04699,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ouled Mehania",
+    "gn:country_code":"DZ",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484853,
+    "gn:latitude":35.61071,
+    "gn:longitude":8.04699,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ouled Mehania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484853
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a7f9fc98749d258bc7ceefbf402cb9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360239035,
+            "region_id":85670879
+        }
+    ],
+    "wof:id":1360239035,
+    "wof:lastmodified":1536724072,
+    "wof:name":"Ouled Mehania",
+    "wof:parent_id":85670879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.04699,
+    35.61071,
+    8.04699,
+    35.61071
+],
+  "geometry": {"coordinates":[8.04699,35.61071],"type":"Point"}
+}

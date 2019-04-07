@@ -1,0 +1,65 @@
+{
+  "id": 1226450049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84083,35.88194,5.84083,35.88194",
+    "geom:latitude":35.88194,
+    "geom:longitude":5.84083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mechta Lachraf",
+    "gn:country_code":"DZ",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489486,
+    "gn:latitude":35.88194,
+    "gn:longitude":5.84083,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Mechta Lachraf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489486
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cdf9b3ea2b1011d346cbda0e070d3f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226450049,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1226450049,
+    "wof:lastmodified":1536638135,
+    "wof:name":"Mechta Lachraf",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84083,
+    35.88194,
+    5.84083,
+    35.88194
+],
+  "geometry": {"coordinates":[5.84083,35.88194],"type":"Point"}
+}

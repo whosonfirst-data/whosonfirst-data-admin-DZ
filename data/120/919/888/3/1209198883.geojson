@@ -1,0 +1,61 @@
+{
+  "id": 1209198883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.70139,35.73611,-0.70139,35.73611",
+    "geom:latitude":35.73611,
+    "geom:longitude":-0.70139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"`Ain el Turc",
+    "gn:country_code":"DZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593169,
+    "gn:latitude":35.73611,
+    "gn:longitude":-0.70139,
+    "gn:modification_date":"1999-07-13",
+    "gn:name":"\u2018A\u00efn el Turc",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593169
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"30f18d4b529727fe7f6b3166a47c9d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209198883
+        }
+    ],
+    "wof:id":1209198883,
+    "wof:lastmodified":1536294679,
+    "wof:name":"`Ain el Turc",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.70139,
+    35.73611,
+    -0.70139,
+    35.73611
+],
+  "geometry": {"coordinates":[-0.70139,35.73611],"type":"Point"}
+}

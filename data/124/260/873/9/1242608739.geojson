@@ -1,0 +1,66 @@
+{
+  "id": 1242608739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.33909,36.53992,1.33909,36.53992",
+    "geom:latitude":36.53992,
+    "geom:longitude":1.33909,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sidi Merouane",
+    "gn:country_code":"DZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480197,
+    "gn:latitude":36.53992,
+    "gn:longitude":1.33909,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Merouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480197,
+        "wk:page":"Sidi_Merouane"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e3e2d5505ab90f75d971f10ba0699e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242608739,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1242608739,
+    "wof:lastmodified":1537504270,
+    "wof:name":"Sidi Merouane",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.33909,
+    36.53992,
+    1.33909,
+    36.53992
+],
+  "geometry": {"coordinates":[1.33909,36.53992],"type":"Point"}
+}

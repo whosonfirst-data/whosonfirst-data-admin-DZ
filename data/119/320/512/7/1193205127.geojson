@@ -1,0 +1,70 @@
+{
+  "id": 1193205127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.22401,28.35049,-0.22401,28.35049",
+    "geom:latitude":28.35049,
+    "geom:longitude":-0.22401,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tsabit",
+    "gn:country_code":"DZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475145,
+    "gn:latitude":28.35049,
+    "gn:longitude":-0.22401,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tsabit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zsabit",
+        "Tsabit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475145,
+        "wk:page":"Tsabit"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"cc2c403476a765bd0502635d4c8a94ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193205127,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1193205127,
+    "wof:lastmodified":1537620093,
+    "wof:name":"Tsabit",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.22401,
+    28.35049,
+    -0.22401,
+    28.35049
+],
+  "geometry": {"coordinates":[-0.22401,28.35049],"type":"Point"}
+}

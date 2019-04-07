@@ -1,0 +1,375 @@
+{
+  "id": 85670875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.40384,
+    "geom:area_square_m":4031875851.389768,
+    "geom:bbox":"7.32495893681,35.8309915231,8.35967533335,36.4919949789",
+    "geom:latitude":36.155775,
+    "geom:longitude":7.886955,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Souk Ahras Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.191121,
+    "lbl:longitude":8.032228,
+    "mps:latitude":36.191121,
+    "mps:longitude":8.032228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0633\u0648\u0642 \u0623\u0647\u0631\u0627\u0633",
+        "\u0633\u0648\u0642 \u0623\u0647\u0631\u0627\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0443\u043a-\u0410\u0445\u0440\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09cc\u0995 \u0986\u09b9\u09cd\u09b0\u09be\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u043a \u0410\u0445\u0440\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Souk Ahras"
+    ],
+    "name:ceb_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:chi_x_preferred":[
+        "\u82cf\u683c\u827e\u8d6b\u62c9\u65af\u7701"
+    ],
+    "name:cym_x_preferred":[
+        "Souk-Ahras"
+    ],
+    "name:dan_x_preferred":[
+        "Souk Ahras Province"
+    ],
+    "name:deu_x_preferred":[
+        "Souq Ahras"
+    ],
+    "name:dut_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:eng_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:eng_x_variant":[
+        "Souk Ahras Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Suk Ahras"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0647\u0631\u0627\u0633\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Souk Ahrasin provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Souk Ahras"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e3\u10d9-\u10d0\u10f0\u10e0\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Souk Ahras"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ba \u0391\u03c7\u03c1\u03ac\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acc\u0a95 \u0a8f\u0ab9\u0ab0\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0942\u0915 \u0905\u0939\u094d\u0930\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00fak Ahr\u00e1sz"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Souk Ahras"
+    ],
+    "name:ita_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30fc\u30af\u30fb\u30a2\u30d5\u30e9\u30fc\u30b9"
+    ],
+    "name:kab_x_preferred":[
+        "Tagast"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccc\u0c95\u0ccd \u0c85\u0cb9\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\ud06c\uc544\ub77c\uc2a4"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Suk Ahras"
+    ],
+    "name:lat_x_preferred":[
+        "Tagaste"
+    ],
+    "name:lav_x_preferred":[
+        "S\u016bk Ehr\u0101sas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Suk Ahrasas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094c\u0915\u0947 \u0905\u0939\u094d\u0930\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Souk Ahras"
+    ],
+    "name:msa_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:nan_x_preferred":[
+        "Souk Ahras S\u00e9ng"
+    ],
+    "name:nds_x_preferred":[
+        "Souq Ahras"
+    ],
+    "name:nld_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:nob_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0642 \u0627\u0647\u0631\u0627\u0633"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u06c1\u0631\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Suk Ahras"
+    ],
+    "name:por_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:ron_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Souk Ahras"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a-\u0410\u0445\u0440\u0430\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dba\u0dcf\u0dc4\u0dca \u0dc3\u0ddc\u0d8b\u0d9a\u0dca \u0d85\u0dc4\u0dca\u0dbb\u0dcf\u0dc3\u0dca"
+    ],
+    "name:sme_x_preferred":[
+        "Souk Ahras eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u043a \u0410\u0445\u0440\u0430\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:swe_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bcc\u0b95\u0bcd  \u0b85\u0bb9\u0bcd\u0bb0\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4c\u0c15\u0c4d \u0c06\u0c39\u0c4d\u0c30\u0c3e\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0443\u049b-\u0410\u04b3\u0440\u043e\u0441"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Souk Ahras"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e39\u0e01\u0e32\u0e23\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Sevk Ahras Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u043a-\u0410\u0445\u0440\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Souk Ahras"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u06c1\u0631\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:war_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u683c\u827e\u8d6b\u62c9\u65af"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2222",
+    "ne:adm1_code":"DZA-2222",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"DZ.SA",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2222",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG52",
+    "ne:fips_alt":"AG44",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.52",
+    "ne:gn_id":"2479213",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Souk Ahras",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG52",
+    "ne:gns_id":"-486747",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Souk Ahras",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"DZ.ET|DZA-SAH",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"9",
+    "ne:latitude":"36.15470000000",
+    "ne:longitude":"7.84211000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Souk Ahras",
+    "ne:name_alt":"Souk-Ahras|Souq Ahras",
+    "ne:name_len":10,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0633\u0648\u0642 \u0623\u0647\u0631\u0627\u0633",
+    "ne:note":"",
+    "ne:postal":"SA",
+    "ne:provnum_ne":"11",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"9",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344622,
+    "ne:woe_label":"",
+    "ne:woe_name":"Souk Ahras",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Souk Ahras",
+    "qs:a1_lc":"DZA-2222",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"4,360",
+    "statoids:area_mi":"1,683",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Souk Ahras",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG52",
+    "statoids:hasc":"DZ.SA",
+    "statoids:iso":"41",
+    "statoids:name":"Souk Ahras",
+    "statoids:population":"438127",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-41",
+    "wd:wordcount":1153,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG52",
+        "gn:id":2479213,
+        "gp:id":2344622,
+        "hasc:id":"DZ.SA",
+        "iso:id":"DZ-41",
+        "qs:id":1134899,
+        "unlc:id":"DZ-41",
+        "wd:id":"Q236772"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d8131516885045d4d5fc33f05e130bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670875
+        }
+    ],
+    "wof:id":85670875,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550368,
+    "wof:name":"Souk Ahras",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":438127,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"SA",
+    "wof:subdivision":"DZ-41",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32495893680556,
+    35.83099152314031,
+    8.35967533335003,
+    36.4919949788852
+],
+  "geometry": {"coordinates":[[[8.35542311298633,36.35611598646364],[8.35440433848947,36.35090891541415],[8.30706872584108,36.24362864194831],[8.30231449401873,36.20233917231502],[8.30706872584108,36.18249542362497],[8.31451013193708,36.16394358342967],[8.31709395342324,36.14590850897059],[8.30799890092857,36.12699493446871],[8.29673343899708,36.11040679993391],[8.27564945505833,36.03681956037445],[8.27244551594788,35.98173248326754],[8.26842340151882,35.96986394856242],[8.26800215007921,35.97000112575142],[8.22991661955638,35.98240346924479],[8.22216515509785,35.9860724963487],[8.2122432803032,35.99211863936375],[8.19994428869802,36.00307404203346],[8.19405317531385,36.0042109244946],[8.1895573259099,36.00322907256373],[8.18568159323098,36.00046438212559],[8.18289106616982,35.99883657504796],[8.17374433773102,35.99470245995064],[8.16692304925937,35.99299713850718],[8.13028445776155,35.99093008095855],[8.12361819802146,35.98958649292234],[8.11199100088402,35.98552989398945],[8.08046837731382,35.98012970612109],[8.03747358623707,35.97764923832176],[8.00274702265699,35.97129303604481],[7.9917399431439,35.96715892184682],[7.98491865377292,35.96359324842973],[7.97990604043144,35.95966583890737],[7.9772705421019,35.95485993114096],[7.9733948103223,35.94447296835284],[7.97091434072428,35.93958954532133],[7.96796878403222,35.9353262399141],[7.96393802262168,35.93165721281019],[7.95479129418294,35.92561106979508],[7.91691246923511,35.91003062651225],[7.90637047681611,35.90349355708207],[7.90249474503651,35.90023794202745],[7.89613854275962,35.89341665355579],[7.88590660960239,35.87972239797034],[7.86585615443801,35.85871592929675],[7.79619632260227,35.916283474203],[7.7794531593359,35.92561106979508],[7.75986779126561,35.93341421199636],[7.73459801628547,35.93449941671474],[7.7192501161,35.92651540825955],[7.70901818204351,35.9144231231287],[7.70276533435276,35.90044464850178],[7.69439375226989,35.88907583288341],[7.67625532412399,35.87563995971641],[7.67191450435092,35.86680329053945],[7.67098432836411,35.85496938692773],[7.66803877077268,35.84241201380343],[7.66013227668327,35.83419546225082],[7.64163211423073,35.83099152314031],[7.57724327995345,35.83349783026068],[7.56391075957396,35.83987986916071],[7.54825280102597,35.87256521271445],[7.53957116058063,35.88576854098545],[7.52308637883334,35.89331329986896],[7.48246870276847,35.90266673388271],[7.4672241553705,35.90922964083529],[7.45203128391665,35.91909983968588],[7.41740807492278,35.95227610875548],[7.39833947079001,35.96700389311525],[7.36826378714409,36.00278982209267],[7.32495893680556,36.08002025033431],[7.32588911279237,36.12740753802751],[7.34604292164357,36.12818268528275],[7.35751509004939,36.12975881641631],[7.36795372878163,36.13484894502284],[7.37539513487764,36.14306549747477],[7.38748742000848,36.16389109989439],[7.39709923734,36.17386465153248],[7.41043175592085,36.18125438078511],[7.47528567909086,36.19257152045935],[7.49487104716115,36.19365672517779],[7.50804853701044,36.19605967951065],[7.51967573414788,36.2014857040021],[7.53440351670901,36.21809967695856],[7.54375695162207,36.22375824634605],[7.6438025236676,36.25184438680907],[7.74343468636175,36.29241038692987],[7.77805789625495,36.29452912042262],[7.79526614841404,36.29788808916402],[7.81386966275477,36.30491608321074],[7.82942426941457,36.31504466447973],[7.83500532443622,36.3348625765467],[7.82973432777703,36.35013296236639],[7.81872724826394,36.36470571529657],[7.81216434131136,36.37509267808468],[7.81030398933768,36.38522125935367],[7.80952884298176,36.39568573740689],[7.80766849100809,36.40397980422466],[7.79371585480288,36.43506317822317],[7.79526614841404,36.440980130029],[7.80239749524827,36.44129018839152],[7.84306684725726,36.43079987191663],[7.87143720856039,36.43258270952447],[7.9878642113643,36.4843883331551],[8.00305708191883,36.45901520448814],[8.00724287296026,36.41279063587922],[8.01297895671354,36.40609853771741],[8.02321088987071,36.40413483295623],[8.0399540540364,36.40677033128583],[8.05488854307185,36.4104910343338],[8.06884118017638,36.41545197173116],[8.08325890527431,36.42214406989297],[8.09628136639202,36.43036062324421],[8.10687503385577,36.43917145399945],[8.12733890106949,36.46361440757892],[8.14160159743579,36.47648183906568],[8.15886152463969,36.48769562415379],[8.1675431659844,36.4918297392511],[8.16789016939583,36.4919949788852],[8.16785241675569,36.49136545884892],[8.20878015118308,36.47782623289436],[8.2955965574352,36.46867950445562],[8.3149235430871,36.4606179825339],[8.3338371184883,36.45638051464908],[8.34923669551711,36.44878407802281],[8.35771162948816,36.43038726835778],[8.35967533335003,36.41121531233682],[8.35812504153751,36.36992584360286],[8.35542311298633,36.35611598646364]]],"type":"Polygon"}
+}

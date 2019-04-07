@@ -1,0 +1,118 @@
+{
+  "id": 890434651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.62397,35.64779,-0.62397,35.64779",
+    "geom:latitude":35.64779,
+    "geom:longitude":-0.62397,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":68084,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u0646\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Es S\u00e9nia"
+    ],
+    "name:eng_x_preferred":[
+        "Es S\u00e9nia"
+    ],
+    "name:fre_x_preferred":[
+        "Es Senia"
+    ],
+    "name:ita_x_preferred":[
+        "Es Senia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b9\u30fb\u30bb\u30cb\u30a2"
+    ],
+    "name:kab_x_preferred":[
+        "Sanya"
+    ],
+    "name:may_x_preferred":[
+        "Es S\u00e9nia"
+    ],
+    "name:nan_x_preferred":[
+        "Es Senia"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u06cc\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Es S\u00e9nia"
+    ],
+    "name:rum_x_preferred":[
+        "Es S\u00e9nia"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441-\u0421\u0435\u043d\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Es Senia"
+    ],
+    "name:swe_x_preferred":[
+        "Es S\u00e9nia"
+    ],
+    "name:unk_x_variant":[
+        "La S\u00e9nia"
+    ],
+    "name:vie_x_preferred":[
+        "Es Senia"
+    ],
+    "qs:name":"Es Senia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2497060,
+        "gp:id":1254746,
+        "qs:id":140186,
+        "wd:id":"Q649874",
+        "wk:page":"Es S\u00e9nia"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052035,
+    "wof:geomhash":"6dadd3daae1be5fffa29723f57b3eb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890434651,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":890434651,
+    "wof:lastmodified":1527792944,
+    "wof:name":"Es Senia",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:population":68084,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.62397,
+    35.64779,
+    -0.62397,
+    35.64779
+],
+  "geometry": {"coordinates":[-0.62397,35.64779],"type":"Point"}
+}

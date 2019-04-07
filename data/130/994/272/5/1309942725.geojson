@@ -1,0 +1,65 @@
+{
+  "id": 1309942725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.32793,35.67284,0.32793,35.67284",
+    "geom:latitude":35.67284,
+    "geom:longitude":0.32793,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled Cheikh",
+    "gn:country_code":"DZ",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7407048,
+    "gn:latitude":35.67284,
+    "gn:longitude":0.32793,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Cheikh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7407048
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"88e490595f152f172f89d853f95ec2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1309942725,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1309942725,
+    "wof:lastmodified":1536733932,
+    "wof:name":"Douar Ouled Cheikh",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.32793,
+    35.67284,
+    0.32793,
+    35.67284
+],
+  "geometry": {"coordinates":[0.32793,35.67284],"type":"Point"}
+}

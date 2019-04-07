@@ -1,0 +1,99 @@
+{
+  "id": 1293600773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46999,35.49281,6.46999,35.49281",
+    "geom:latitude":35.49281,
+    "geom:longitude":6.46999,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Timgad",
+    "gn:country_code":"DZ",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476409,
+    "gn:latitude":35.49281,
+    "gn:longitude":6.46999,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Timgad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0645\u0642\u0627\u062f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05de\u05d2\u05d0\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00edmg\u00e1d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30e0\u30ac\u30c3\u30c9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10db\u10d2\u10d0\u10d3\u10d8"
+    ],
+    "name:lat_x_preferred":[
+        "Thamugadi"
+    ],
+    "name:lit_x_preferred":[
+        "Timgadas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3f\u0d02\u0d17\u0d3e\u0d21\u0d4d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0433\u0430\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043c\u0433\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043c\u0433\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476409,
+        "wk:page":"Timgad"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1ffaee1dae109972d77ff6b9fb4f20f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293600773,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1293600773,
+    "wof:lastmodified":1537620096,
+    "wof:name":"Timgad",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46999,
+    35.49281,
+    6.46999,
+    35.49281
+],
+  "geometry": {"coordinates":[6.46999,35.49281],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243126967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29023,35.27698,0.29023,35.27698",
+    "geom:latitude":35.27698,
+    "geom:longitude":0.29023,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Daacha",
+    "gn:country_code":"DZ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499480,
+    "gn:latitude":35.27698,
+    "gn:longitude":0.29023,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Da\u00e2cha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Daalcha",
+        "Douar Da\u00e2cha",
+        "Daalcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499480
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6742bfd1b65d036595b8a1a381d5a53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243126967,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1243126967,
+    "wof:lastmodified":1537620220,
+    "wof:name":"Douar Daacha",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29023,
+    35.27698,
+    0.29023,
+    35.27698
+],
+  "geometry": {"coordinates":[0.29023,35.27698],"type":"Point"}
+}

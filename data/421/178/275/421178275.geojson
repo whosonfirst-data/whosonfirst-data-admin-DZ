@@ -1,0 +1,239 @@
+{
+  "id": 421178275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.58333,32.75,-0.58333,32.75",
+    "geom:latitude":32.75,
+    "geom:longitude":-0.58333,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0635\u0641\u0631\u0627\u0621"
+    ],
+    "name:cat_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:ceb_x_preferred":[
+        "Ain Sefra"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:fry_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:ger_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:kab_x_preferred":[
+        "Ti\u1e6d Tawra\u0263t"
+    ],
+    "name:lit_x_preferred":[
+        "Ain Sefra"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:nld_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0635\u0641\u0631\u0627\u0621"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0421\u0435\u0444\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn S\u00e9fra"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn Sefra"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Sefra"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Na\u00e2ma",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2507943,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Ain Sefra",
+    "ne:GN_POP":63420,
+    "ne:GTOPO30":1082.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":32.760415,
+    "ne:LONGITUDE":-0.579949,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Sefra",
+    "ne:MAX_AREAKM":12.0,
+    "ne:MAX_AREAMI":4.0,
+    "ne:MAX_BBXMAX":-0.558333,
+    "ne:MAX_BBXMIN":-0.6,
+    "ne:MAX_BBYMAX":32.766667,
+    "ne:MAX_BBYMIN":32.733333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":16.0,
+    "ne:MAX_PERMI":10.0,
+    "ne:MAX_POP10":38816,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-0.579167,
+    "ne:MEAN_BBYC":32.752083,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":12.0,
+    "ne:MIN_AREAMI":4.0,
+    "ne:MIN_BBXMAX":-0.558333,
+    "ne:MIN_BBXMIN":-0.6,
+    "ne:MIN_BBYMAX":32.766667,
+    "ne:MIN_BBYMIN":32.733333,
+    "ne:MIN_PERKM":16.0,
+    "ne:MIN_PERMI":10.0,
+    "ne:NAME":"Sefra",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Sefra",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":63420,
+    "ne:POP_MIN":38816,
+    "ne:POP_OTHER":38664,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":"Africa/Algiers",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2507943,
+    "qs:gn_pop":63420,
+    "qs:name":"Ain Sefra",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0646\u0639\u0627\u0645\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":278737,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252983,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507943,
+        "gp:id":1252983,
+        "qs:id":278737,
+        "wd:id":"Q2745712",
+        "wk:page":"A\u00efn S\u00e9fra"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009176,
+    "wof:geomhash":"14c5cc717dd840b0572b2e30787e9cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421178275,
+            "region_id":85670707
+        }
+    ],
+    "wof:id":421178275,
+    "wof:lastmodified":1527717720,
+    "wof:name":"Ain Sefra",
+    "wof:parent_id":85670707,
+    "wof:placetype":"locality",
+    "wof:population":63420,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.58333,
+    32.75,
+    -0.58333,
+    32.75
+],
+  "geometry": {"coordinates":[-0.58333,32.75],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209177455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80007,36.79789,4.80007,36.79789",
+    "geom:latitude":36.79789,
+    "geom:longitude":4.80007,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tardam",
+    "gn:country_code":"DZ",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2477830,
+    "gn:latitude":36.79789,
+    "gn:longitude":4.80007,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Tardam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477830
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"52db13ad5e3e612c9d2370736a437c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209177455
+        }
+    ],
+    "wof:id":1209177455,
+    "wof:lastmodified":1536295374,
+    "wof:name":"Tardam",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80007,
+    36.79789,
+    4.80007,
+    36.79789
+],
+  "geometry": {"coordinates":[4.80007,36.79789],"type":"Point"}
+}

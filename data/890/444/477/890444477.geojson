@@ -1,0 +1,240 @@
+{
+  "id": 890444477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11353,35.87541,7.11353,35.87541",
+    "geom:latitude":35.87541,
+    "geom:longitude":7.11353,
+    "gn:country":"DZ",
+    "gn:fcode":"PPLA",
+    "gn:pop":100821,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0628\u0648\u0627\u0642\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u59c6\u5e03\u74e6\u5409"
+    ],
+    "name:dut_x_preferred":[
+        "Oum el-Bouaghi"
+    ],
+    "name:eng_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:epo_x_preferred":[
+        "Um el-Buaghi"
+    ],
+    "name:fre_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:ita_x_preferred":[
+        "Oum el-Bouaghi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30e1\u30eb\u30fb\u30d6\u30a2\u30fc\u30ae"
+    ],
+    "name:kab_x_preferred":[
+        "Um Lebwaqi"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6c0\uc5d8\ubd80\uc544\uae30"
+    ],
+    "name:lit_x_preferred":[
+        "Um el Buagis"
+    ],
+    "name:may_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:nan_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:nob_x_preferred":[
+        "Oum el-Bouaghi"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645 \u0628\u0648\u0627\u0642\u06cc"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0628\u0648\u0627\u0642\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Umm al-Bawaki"
+    ],
+    "name:por_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:rum_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c-\u044d\u043b\u044c-\u0411\u0443\u0430\u0445\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043c-\u0435\u043b\u044c-\u0411\u0443\u0430\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Canrobert"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0628\u0648\u0627\u0642\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Oum El Bouaghi"
+    ],
+    "name:war_x_preferred":[
+        "Oum el-Bouaghi"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Oum el Bouaghi",
+    "ne:ADMIN1_COD":29,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2484620,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Oum el Bouaghi",
+    "ne:GN_POP":100821,
+    "ne:GTOPO30":955.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":35.849997,
+    "ne:LONGITUDE":7.149997,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Oum el Bouaghi",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Oum el Bouaghi",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":100821,
+    "ne:POP_MIN":100821,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":"Africa/Algiers",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Oum el Bouaghi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:latitude":"35.870555555",
+    "wd:longitude":"7.115",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484620,
+        "gp:id":1257019,
+        "qs:id":1035938,
+        "wd:id":"Q5478122",
+        "wk:page":"Oum El Bouaghi"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052470,
+    "wof:geomhash":"502474744c53aa0fb318604a6935c68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890444477,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":890444477,
+    "wof:lastmodified":1527782129,
+    "wof:name":"Oum el Bouaghi",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:population":100821,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11353,
+    35.87541,
+    7.11353,
+    35.87541
+],
+  "geometry": {"coordinates":[7.11353,35.87541],"type":"Point"}
+}

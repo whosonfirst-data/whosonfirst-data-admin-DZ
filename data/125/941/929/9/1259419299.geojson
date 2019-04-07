@@ -1,0 +1,65 @@
+{
+  "id": 1259419299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66576,36.51332,1.66576,36.51332",
+    "geom:latitude":36.51332,
+    "geom:longitude":1.66576,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bou Yanouh",
+    "gn:country_code":"DZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573143,
+    "gn:latitude":36.51332,
+    "gn:longitude":1.66576,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Bou Yanouh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573143
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8e85e5d4d215f9c271489571fd7ada68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259419299,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1259419299,
+    "wof:lastmodified":1536951122,
+    "wof:name":"Bou Yanouh",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66576,
+    36.51332,
+    1.66576,
+    36.51332
+],
+  "geometry": {"coordinates":[1.66576,36.51332],"type":"Point"}
+}

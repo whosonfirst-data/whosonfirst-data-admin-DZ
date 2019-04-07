@@ -1,0 +1,65 @@
+{
+  "id": 1226005777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41749,35.77576,7.41749,35.77576",
+    "geom:latitude":35.77576,
+    "geom:longitude":7.41749,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Henchir Zirara",
+    "gn:country_code":"DZ",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9212660,
+    "gn:latitude":35.77576,
+    "gn:longitude":7.41749,
+    "gn:modification_date":"2014-07-15",
+    "gn:name":"Henchir Zirara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9212660
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"31203f75056d659234b4908708a12026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226005777,
+            "region_id":85670871
+        }
+    ],
+    "wof:id":1226005777,
+    "wof:lastmodified":1536783425,
+    "wof:name":"Henchir Zirara",
+    "wof:parent_id":85670871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41749,
+    35.77576,
+    7.41749,
+    35.77576
+],
+  "geometry": {"coordinates":[7.41749,35.77576],"type":"Point"}
+}

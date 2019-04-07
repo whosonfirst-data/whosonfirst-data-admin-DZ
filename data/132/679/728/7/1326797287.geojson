@@ -1,0 +1,65 @@
+{
+  "id": 1326797287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.00817,35.73293,5.00817,35.73293",
+    "geom:latitude":35.73293,
+    "geom:longitude":5.00817,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ouled Brahim",
+    "gn:country_code":"DZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484955,
+    "gn:latitude":35.73293,
+    "gn:longitude":5.00817,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484955
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"45f3bd91ad812b386b7605c36dd79243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1326797287,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1326797287,
+    "wof:lastmodified":1537095989,
+    "wof:name":"Ouled Brahim",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00817,
+    35.73293,
+    5.00817,
+    35.73293
+],
+  "geometry": {"coordinates":[5.00817,35.73293],"type":"Point"}
+}

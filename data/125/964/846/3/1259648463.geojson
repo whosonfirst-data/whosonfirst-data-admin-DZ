@@ -1,0 +1,65 @@
+{
+  "id": 1259648463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36352,36.5303,3.36352,36.5303",
+    "geom:latitude":36.5303,
+    "geom:longitude":3.36352,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nahata",
+    "gn:country_code":"DZ",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2486437,
+    "gn:latitude":36.5303,
+    "gn:longitude":3.36352,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Nahata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486437
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"76fb5aae5e697207a620bdf03580c3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259648463,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1259648463,
+    "wof:lastmodified":1536619065,
+    "wof:name":"Nahata",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36352,
+    36.5303,
+    3.36352,
+    36.5303
+],
+  "geometry": {"coordinates":[3.36352,36.5303],"type":"Point"}
+}

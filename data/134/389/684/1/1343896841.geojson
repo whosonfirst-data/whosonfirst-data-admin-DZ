@@ -1,0 +1,65 @@
+{
+  "id": 1343896841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80805,29.84337,-1.80805,29.84337",
+    "geom:latitude":29.84337,
+    "geom:longitude":-1.80805,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ammes",
+    "gn:country_code":"DZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507156,
+    "gn:latitude":29.84337,
+    "gn:longitude":-1.80805,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ammes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507156
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"52c16fe4594e422f891ca0cfd1088b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343896841,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1343896841,
+    "wof:lastmodified":1536611532,
+    "wof:name":"Ammes",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80805,
+    29.84337,
+    -1.80805,
+    29.84337
+],
+  "geometry": {"coordinates":[-1.80805,29.84337],"type":"Point"}
+}

@@ -1,0 +1,361 @@
+{
+  "id": 421169025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.63085,35.18994,-0.63085,35.18994",
+    "geom:latitude":35.18994,
+    "geom:longitude":-0.63085,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633"
+    ],
+    "name:baq_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0434\u044b-\u0411\u0435\u043b\u044c-\u0410\u0431\u0435\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09a6\u09bf \u09ac\u09c7\u09b2 \u0986\u09ac\u09c7\u09b8"
+    ],
+    "name:bre_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0434\u0438 \u0411\u0435\u043b \u0410\u0431\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:chi_x_preferred":[
+        "\u897f\u8fea\u8d1d\u52d2\u963f\u5df4\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Sidi-Bel-Abb\u00e8s"
+    ],
+    "name:dan_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:deu_x_preferred":[
+        "Sidi bel Abb\u00e8s"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi-bel-Abb\u00e8s"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:epo_x_preferred":[
+        "Sidi Bel Abes"
+    ],
+    "name:eus_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0644\u0639\u0628\u0627\u0633\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi-Bel-Abb\u00e8s"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:ger_x_preferred":[
+        "Sidi bel Abb\u00e8s"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03af\u03bd\u03c4\u03b9 \u039c\u03c0\u03b5\u03bb \u0386\u03bc\u03c0\u03b5\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0aa6\u0ac0 \u0aac\u0ac7\u0ab2 \u0a85\u0aac\u0acd\u0aac\u0ac7\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d3\u05d9 \u05d1\u05dc-\u05e2\u05d1\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0926\u0940 \u092c\u0947\u0932 \u0905\u092c\u0947\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Sidi Bilabbas"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c7\u30a3\u30fb\u30d9\u30eb\u30fb\u30a2\u30d9\u30b9"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Bel\u025bebbas"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0ca1\u0cbf \u0cac\u0cc6\u0cb2\u0ccd \u0c85\u0cac\u0ccd\u0cac\u0cc6\u0cb8\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u0411\u0435\u043b\u044c-\u0410\u0431\u0431\u0435\u0441 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub514\ubca8\uc544\ubca0\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "S\u012bd\u012b Bil Ab\u0101sa"
+    ],
+    "name:lit_x_preferred":[
+        "Sidi bel Abesas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0438\u0434\u0438 \u0411\u0435\u043b \u0410\u0431\u0435\u0441"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0926\u0940 \u092c\u0947\u0932 \u0905\u092c\u094d\u092c\u0947\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0434\u0438 \u0411\u0435\u043b \u0410\u0431\u0435\u0441"
+    ],
+    "name:nan_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:nld_x_preferred":[
+        "Sidi-bel-Abb\u00e8s"
+    ],
+    "name:nob_x_preferred":[
+        "Sidi bel Abb\u00e8s"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0644\u0639\u0628\u0627\u0633\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0644\u0639\u0628\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Sidi Bu-l-Abbas"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u0411\u0435\u043b\u044c-\u0410\u0431\u0431\u0435\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0da9\u0dd2 \u0db6\u0dd9\u0dbd\u0dca \u0d85\u0db6\u0dca\u0db6\u0dd9\u0dc3\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Bel Abb\u00e8s"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0ba4\u0bbf \u0baa\u0bc6\u0bb2\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bc7\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c26\u0c3f \u0c2c\u0c46\u0c32\u0c4d \u0c05\u0c2c\u0c4d\u0c2c\u0c46\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e14\u0e34\u0e40\u0e1a\u0e25\u0e41\u0e2d\u0e1a\u0e40\u0e1a\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Sidi Belabbas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0434\u0456-\u0411\u0435\u043b\u044c-\u0410\u0431\u0431\u0435\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Sidi-Bal-Abb\u00e8s"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06be\u06cc \u0628\u0644 \u0627\u0628\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:war_x_preferred":[
+        "Sidi Bel Abbes"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u8d1d\u52d2\u963f\u5df4\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Algeria",
+    "ne:ADM0_A3":"DZA",
+    "ne:ADM1NAME":"Sidi Bel Abb\u00e8s",
+    "ne:ADMIN1_COD":30,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2481007,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Sidi Bel Abbes",
+    "ne:GN_POP":191769,
+    "ne:GTOPO30":476.0,
+    "ne:ISO_A2":"DZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":35.190344,
+    "ne:LONGITUDE":-0.639972,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Sidi bel Abbes",
+    "ne:MAX_AREAKM":37.0,
+    "ne:MAX_AREAMI":14.0,
+    "ne:MAX_BBXMAX":-0.575,
+    "ne:MAX_BBXMIN":-0.666667,
+    "ne:MAX_BBYMAX":35.233333,
+    "ne:MAX_BBYMIN":35.166667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":36.0,
+    "ne:MAX_PERMI":22.0,
+    "ne:MAX_POP10":208604,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-0.620676,
+    "ne:MEAN_BBYC":35.195676,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":37.0,
+    "ne:MIN_AREAMI":14.0,
+    "ne:MIN_BBXMAX":-0.575,
+    "ne:MIN_BBXMIN":-0.666667,
+    "ne:MIN_BBYMAX":35.233333,
+    "ne:MIN_BBYMIN":35.166667,
+    "ne:MIN_PERKM":36.0,
+    "ne:MIN_PERMI":22.0,
+    "ne:NAME":"Sidi bel Abbes",
+    "ne:NAMEALT":"Sidi-Bel-Abbes",
+    "ne:NAMEASCII":"Sidi bel Abbes",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":208604,
+    "ne:POP_MIN":191769,
+    "ne:POP_OTHER":195921,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Algeria",
+    "ne:SOV_A3":"DZA",
+    "ne:TIMEZONE":"Africa/Algiers",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2481007,
+    "qs:gn_pop":191769,
+    "qs:name":"\u0648\u0644\u0627\u064a\u0629 \u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":160,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":58790,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1257296,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481007,
+        "gp:id":1257296,
+        "qs:id":58790,
+        "wd:id":"Q852276",
+        "wk:page":"Sidi Bel Abb\u00e8s"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459008791,
+    "wof:geomhash":"c4c3215ac128ac3451790113bd53e55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421169025,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":421169025,
+    "wof:lastmodified":1513956114,
+    "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633",
+    "wof:parent_id":85670691,
+    "wof:placetype":"locality",
+    "wof:population":191769,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63085,
+    35.18994,
+    -0.63085,
+    35.18994
+],
+  "geometry": {"coordinates":[-0.63085,35.18994],"type":"Point"}
+}

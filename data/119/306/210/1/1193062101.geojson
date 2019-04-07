@@ -1,0 +1,84 @@
+{
+  "id": 1193062101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.565,36.80278,3.565,36.80278",
+    "geom:latitude":36.80278,
+    "geom:longitude":3.565,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Zemmouri el Bahri",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474629,
+    "gn:latitude":36.80278,
+    "gn:longitude":3.565,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Zemmouri el Bahri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0648\u0631\u064a"
+    ],
+    "name:ber_x_preferred":[
+        "\u2d5c\u2d49\u2d63\u2d49 \u2d4f \u2d30\u2d5c\u2d40 \u2d30\u0306\u2d49\u2d5b\u2d30"
+    ],
+    "name:fra_x_historical":[
+        "Port-aux-Poules"
+    ],
+    "name:fra_x_preferred":[
+        "Port-aux-Poules"
+    ],
+    "name:und_x_variant":[
+        "Courbet Marine",
+        "Zemmouri Bahar",
+        "Zemmouri el Bahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474629,
+        "wk:page":"Zemmouri"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"bfb6380af0926c3a17fea8165a3c80d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193062101,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1193062101,
+    "wof:lastmodified":1537620090,
+    "wof:name":"Zemmouri el Bahri",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.565,
+    36.80278,
+    3.565,
+    36.80278
+],
+  "geometry": {"coordinates":[3.565,36.80278],"type":"Point"}
+}

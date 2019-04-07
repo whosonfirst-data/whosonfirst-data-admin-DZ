@@ -1,0 +1,65 @@
+{
+  "id": 1327270271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50553,35.84993,0.50553,35.84993",
+    "geom:latitude":35.84993,
+    "geom:longitude":0.50553,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Bent Doudi",
+    "gn:country_code":"DZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580203,
+    "gn:latitude":35.84993,
+    "gn:longitude":0.50553,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Bent Doudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580203
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a07add25e8e08eafcaf281b1a7a12dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327270271,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1327270271,
+    "wof:lastmodified":1536915366,
+    "wof:name":"Bent Doudi",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50553,
+    35.84993,
+    0.50553,
+    35.84993
+],
+  "geometry": {"coordinates":[0.50553,35.84993],"type":"Point"}
+}

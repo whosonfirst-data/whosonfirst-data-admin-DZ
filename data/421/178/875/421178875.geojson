@@ -1,0 +1,212 @@
+{
+  "id": 421178875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.90583,35.45139,2.90583,35.45139",
+    "geom:latitude":35.45139,
+    "geom:longitude":2.90583,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0648\u0633\u0627\u0631\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a8 \u0993\u09b8\u09c7\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u56e0\u70cf\u585e\u62c9"
+    ],
+    "name:dan_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0648\u0633\u0627\u0631\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b9\u03bd \u039f\u03c5\u03c3\u03c3\u03b5\u03c1\u03ac"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a87\u0aa8 \u0a93\u0ab8\u0ac7\u0ab0\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0928 \u0913\u0938\u093e\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30fb\u30a6\u30b9\u30a2\u30fc\u30e9"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Wessara"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c90\u0ca8\u0ccd \u0c92\u0cb8\u0cc6\u0cb0\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778 \uc624\uc6b0\uc138\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Ainusera"
+    ],
+    "name:lit_x_preferred":[
+        "Ain Usera"
+    ],
+    "name:mar_x_preferred":[
+        "\u0910\u0928 \u0913\u0938\u0915\u0947\u0930\u093e"
+    ],
+    "name:may_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:nob_x_preferred":[
+        "Ain Oussera"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0648\u0633\u0627\u0631\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Wisara"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:rum_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0423\u0441\u0435\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dd2\u0db1\u0dca \u0d94\u0d8b\u0dc3\u0dda\u0dbb\u0dcf"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0baf\u0bbf\u0ba9\u0bcd  \u0b92\u0bb8\u0bcd\u0b9a\u0bc7\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c10\u0c28\u0c4d \u0c13\u0c38\u0c47\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e19 \u0e2d\u0e2d\u0e40\u0e0b\u0e23\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Ain Oussera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0423\u0441\u0435\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "El Oussera"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646 \u0648\u0633\u0627\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Oussera"
+    ],
+    "name:war_x_preferred":[
+        "A\u00efn Oussera"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2507972,
+    "qs:gn_pop":118687,
+    "qs:name":"Ain Oussera",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0644\u0641\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":140236,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1252981,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507972,
+        "gp:id":1252981,
+        "qs:id":140236,
+        "wd:id":"Q651497",
+        "wk:page":"A\u00efn Oussera"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009196,
+    "wof:geomhash":"fa3d392410db4d7d896c6da637238cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421178875,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":421178875,
+    "wof:lastmodified":1527717720,
+    "wof:name":"Ain Oussera",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:population":118687,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.90583,
+    35.45139,
+    2.90583,
+    35.45139
+],
+  "geometry": {"coordinates":[2.90583,35.45139],"type":"Point"}
+}

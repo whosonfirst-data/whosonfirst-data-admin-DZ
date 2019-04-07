@@ -1,0 +1,65 @@
+{
+  "id": 1343994855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.82777,35.66779,0.82777,35.66779",
+    "geom:latitude":35.66779,
+    "geom:longitude":0.82777,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled Azzouz",
+    "gn:country_code":"DZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417402,
+    "gn:latitude":35.66779,
+    "gn:longitude":0.82777,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar Ouled Azzouz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417402
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"babf1599a2fe2d5b273c1af7f3eb3ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343994855,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1343994855,
+    "wof:lastmodified":1536969904,
+    "wof:name":"Douar Ouled Azzouz",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.82777,
+    35.66779000000001,
+    0.82777,
+    35.66779000000001
+],
+  "geometry": {"coordinates":[0.82777,35.66779000000001],"type":"Point"}
+}

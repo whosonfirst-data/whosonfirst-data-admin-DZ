@@ -1,0 +1,70 @@
+{
+  "id": 1259830993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.13405,29.31961,-1.13405,29.31961",
+    "geom:latitude":29.31961,
+    "geom:longitude":-1.13405,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Timmoudi",
+    "gn:country_code":"DZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476385,
+    "gn:latitude":29.31961,
+    "gn:longitude":-1.13405,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Timmoudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timoudi",
+        "Timmoudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476385,
+        "wk:page":"Timoudi"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"483bd87a5815d75d8dfc897d85cfd1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259830993,
+            "region_id":85670699
+        }
+    ],
+    "wof:id":1259830993,
+    "wof:lastmodified":1537620096,
+    "wof:name":"Timmoudi",
+    "wof:parent_id":85670699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.13405,
+    29.31961,
+    -1.13405,
+    29.31961
+],
+  "geometry": {"coordinates":[-1.13405,29.31961],"type":"Point"}
+}

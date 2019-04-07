@@ -1,0 +1,65 @@
+{
+  "id": 1226534797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3298,36.12953,3.3298,36.12953",
+    "geom:latitude":36.12953,
+    "geom:longitude":3.3298,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Drablia",
+    "gn:country_code":"DZ",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280656,
+    "gn:latitude":36.12953,
+    "gn:longitude":3.3298,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Drablia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280656
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b5a702cb887b6dc37061a7c1b79e1955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226534797,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1226534797,
+    "wof:lastmodified":1537013165,
+    "wof:name":"Drablia",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3298,
+    36.12953,
+    3.3298,
+    36.12953
+],
+  "geometry": {"coordinates":[3.3298,36.12953],"type":"Point"}
+}

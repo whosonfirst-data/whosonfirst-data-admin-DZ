@@ -1,0 +1,65 @@
+{
+  "id": 1310637243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1608,36.29621,1.1608,36.29621",
+    "geom:latitude":36.29621,
+    "geom:longitude":1.1608,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Beni Moussi",
+    "gn:country_code":"DZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467257,
+    "gn:latitude":36.29621,
+    "gn:longitude":1.1608,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Beni Moussi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467257
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"86415a870058ea06be27c435ca704266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310637243,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1310637243,
+    "wof:lastmodified":1536727182,
+    "wof:name":"Beni Moussi",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1608,
+    36.29621,
+    1.1608,
+    36.29621
+],
+  "geometry": {"coordinates":[1.1608,36.29621],"type":"Point"}
+}

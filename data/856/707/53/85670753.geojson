@@ -1,0 +1,375 @@
+{
+  "id": 85670753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.633126,
+    "geom:area_square_m":27130028706.710953,
+    "geom:bbox":"1.33622887496,32.6959890807,4.17621056467,34.6928697782",
+    "geom:latitude":33.559921,
+    "geom:longitude":2.699189,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Laghouat Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":33.406889,
+    "lbl:longitude":2.935809,
+    "mps:latitude":33.406889,
+    "mps:longitude":2.935809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0623\u063a\u0648\u0627\u0637",
+        "\u0627\u0644\u0623\u063a\u0648\u0627\u0637"
+    ],
+    "name:baq_x_preferred":[
+        "Laghouat probintzia"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0433\u0443\u0430\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0998\u09c1\u09af\u09bc\u09be\u099f \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "Laghouat"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u0430\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Laghouat"
+    ],
+    "name:ceb_x_preferred":[
+        "Laghouat"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u683c\u74e6\u7279\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Laghouat Province"
+    ],
+    "name:deu_x_preferred":[
+        "Al-A\u0121w\u0101\u1e6d"
+    ],
+    "name:dut_x_preferred":[
+        "Laghouat"
+    ],
+    "name:eng_x_preferred":[
+        "Laghouat"
+    ],
+    "name:eng_x_variant":[
+        "Laghouat Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Laghuat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u063a\u0648\u0627\u0637\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Laghouat"
+    ],
+    "name:fra_x_preferred":[
+        "Laghouat"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya de Laghouat"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0\u10d2\u10e3\u10d0\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Laghouat"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Laghouat"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe\u0a97\u0acb\u0a86\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d2\u05d5\u05d5\u05d0\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0918\u094c\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ina_x_preferred":[
+        "Laghouat"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Laghouat"
+    ],
+    "name:ita_x_preferred":[
+        "Laghouat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b0\u30a2\u30c3\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0c98\u0cc1\u0ca4\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uad6c\uc544\ud2b8"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Laghouat"
+    ],
+    "name:lav_x_preferred":[
+        "Agv\u0101tas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Laguatas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0917\u094b\u0906\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Laghouat"
+    ],
+    "name:msa_x_preferred":[
+        "Laghouat"
+    ],
+    "name:nan_x_preferred":[
+        "Laghouat S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Laghouat"
+    ],
+    "name:nob_x_preferred":[
+        "Laghouat"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0627\u063a\u0648\u0627\u0637"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u063a\u0648\u0627\u0637"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Aghwat"
+    ],
+    "name:por_x_preferred":[
+        "Laghouat"
+    ],
+    "name:ron_x_preferred":[
+        "Laghouat"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Laghouat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u0430\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0d9c\u0ddc\u0d8b\u0d85\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Laghouat eanangoddi"
+    ],
+    "name:sna_x_preferred":[
+        "Laghouat"
+    ],
+    "name:spa_x_preferred":[
+        "Laghouat"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u0430\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo la Laghouat"
+    ],
+    "name:swe_x_preferred":[
+        "Laghouat"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0b83\u0bb9\u0bcc\u0b85\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c17\u0c4d\u0c39\u0c4b\u0c35\u0c47 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u0493\u0443\u043e\u0442"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Laghouat"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e25\u0e01\u0e40\u0e2e\u0e32\u0e17\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Lagvat Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u0430\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya de Laghouat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0627\u063a\u0648\u0627\u0637"
+    ],
+    "name:vie_x_preferred":[
+        "Laghouat"
+    ],
+    "name:war_x_preferred":[
+        "Laghouat"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u683c\u74e6\u7279"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2193",
+    "ne:adm1_code":"DZA-2193",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.LG",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2193",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG25",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.25",
+    "ne:gn_id":"2491188",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Laghouat",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG25",
+    "ne:gns_id":"-474719",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Laghouat",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"7",
+    "ne:latitude":"33.45210000000",
+    "ne:longitude":"2.75622000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Laghouat",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0623\u063a\u0648\u0627\u0637",
+    "ne:note":"",
+    "ne:postal":"LG",
+    "ne:provnum_ne":"36",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344597,
+    "ne:woe_label":"Laghouat, DZ, Algeria",
+    "ne:woe_name":"Laghouat",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"Laghouat",
+    "qs:a1_lc":"DZA-2193",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"25,052",
+    "statoids:area_mi":"9,673",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"Laghouat",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG25",
+    "statoids:hasc":"DZ.LG",
+    "statoids:iso":"03",
+    "statoids:name":"Laghouat",
+    "statoids:population":"455602",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-03",
+    "wd:wordcount":365,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG25",
+        "gn:id":2491188,
+        "gp:id":2344597,
+        "hasc:id":"DZ.LG",
+        "iso:id":"DZ-03",
+        "qs:id":399887,
+        "unlc:id":"DZ-03",
+        "wd:id":"Q231748"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f56c5c336342fa295a7949462c36f3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670753
+        }
+    ],
+    "wof:id":85670753,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550366,
+    "wof:name":"Laghouat",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":455602,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"LG",
+    "wof:subdivision":"DZ-03",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.33622887496267,
+    32.69598908073152,
+    4.17621056466589,
+    34.69286977821776
+],
+  "geometry": {"coordinates":[[[2.59775393989247,33.90924835882475],[2.6322221210541,33.90979096118394],[2.6391984391567,33.91100535711161],[2.64276411257379,33.91568207546749],[2.64694990361522,33.93978913046408],[2.6488102555889,33.97017487247246],[2.64493452290998,34.07797190987577],[2.64648481562182,34.08985749033099],[2.65020551866979,34.09797068909609],[2.65609663295328,34.10241486345524],[2.66684533004798,34.10567047850981],[2.75727908656063,34.11833120442162],[2.8033744648597,34.13197378226431],[2.81763716032674,34.13884674757941],[2.82807579905892,34.1472183287629],[2.83753258586017,34.17176463512988],[2.84497399285556,34.18439952172059],[2.85799645307389,34.1969310573225],[2.93323733903202,34.25442108786297],[2.9494120624168,34.26361949314514],[2.963364698622,34.26578990348133],[2.97483686702782,34.26330943478263],[2.99814293814614,34.25222484000443],[3.00790978420923,34.24902090089392],[3.02248253713941,34.24736725539458],[3.07090335540556,34.24790985775377],[3.0935376320561,34.24002920208608],[3.10392459484422,34.22974559208546],[3.12800581231841,34.17166128234237],[3.14087324380523,34.0978673372079],[3.14924482588805,34.07476797076527],[3.16056196466297,34.05215953253645],[3.23213382261787,33.94741140371337],[3.64099775574186,33.56433401130562],[4.02831261603444,33.2803720158559],[4.05906009324877,33.25251841938962],[4.08448489696047,33.22399302845554],[4.11771284287346,33.16929352497624],[4.16561689630277,33.06265920755641],[4.17621056466589,33.02963796631911],[3.88444542791422,32.98186310499835],[3.85049401158943,32.98514455847464],[3.82408735504742,32.99788279875219],[3.81370039225936,33.00044078181668],[3.76403934144253,33.00341217693045],[3.73861453593213,33.0004666202384],[3.73504886161572,32.99796031311803],[3.42747073668522,32.87551300751932],[3.40545657675966,32.8566769482826],[3.36742272308027,32.81321706831312],[3.34757897259158,32.79500112580138],[3.3213273447812,32.78079010717778],[3.2951273938142,32.77699188886464],[3.26515506295584,32.78115184238368],[3.18340294778784,32.81613678658351],[3.15761640797092,32.82386241351963],[3.10066897978965,32.83068370199129],[2.88734866720728,32.81241608353548],[2.76549563991188,32.78898082120799],[2.65005048993822,32.75244558429631],[2.29146772615468,32.69598908073152],[2.26196048328973,32.74412567815756],[2.20594323109526,32.91625987389409],[2.17493737056327,32.97499013878394],[2.0779407079973,33.07581085898403],[2.05422122572901,33.10890961368779],[2.03959679505607,33.13769338614088],[2.03184532969823,33.16076691326248],[2.02130333817854,33.2222101908477],[2.0147921080694,33.23753225441004],[2.00564537873129,33.25130402346196],[1.98611168840375,33.27440338810595],[1.97520796077879,33.29218008104596],[1.97272749208014,33.30791555395967],[1.97613813586634,33.31962026636228],[1.98264936687485,33.32964549394444],[2.02037316219173,33.36736929016064],[2.03138024260414,33.39253571235332],[2.03742638471994,33.42491099754454],[2.03122521297325,33.46855174376799],[2.01928795657398,33.49904083946325],[1.88244876519838,33.67164012319319],[1.81149702306919,33.79522431125304],[1.7939787134469,33.81641164797924],[1.77692549001938,33.83134613701469],[1.76002729712212,33.84258576142378],[1.72695437994071,33.85860545517767],[1.67884362093639,33.87490936887235],[1.52458947092737,33.91136709231751],[1.48102623906971,33.93203766510624],[1.42810957229898,33.95118378270547],[1.40914432095371,33.96180329038958],[1.38976565935775,33.97818471934937],[1.33622887496267,34.06892853422454],[1.64158491361292,34.25615224952674],[1.6577596369977,34.27237864795632],[1.66876671741011,34.29728668952913],[1.67481286042522,34.31775055584353],[1.69109093569818,34.34581085878415],[1.71641238842102,34.37456879281558],[1.7701042006484,34.42358388938504],[1.80622602730938,34.44908620926122],[1.8327877125829,34.46430491823742],[1.95784467898881,34.49637014416686],[1.98109907416301,34.50698965095171],[2.0875525244295,34.58357412404666],[2.18082848484676,34.62912689908717],[2.19586632666972,34.64253693293318],[2.20408287912164,34.65375071892061],[2.21173099079266,34.6683234727501],[2.22056766086888,34.67467967412773],[2.238396029753,34.67995066988755],[2.31503217879208,34.69119029429669],[2.35771691240563,34.69286977821776],[2.36438317214572,34.63959137624107],[2.35957726437931,34.62711151838192],[2.35120568229644,34.61109182372871],[2.32314537935582,34.5853827991769],[2.30945112466969,34.56342031519546],[2.30123457221777,34.53132925084429],[2.29348310685992,34.47495026344393],[2.295808546827,34.43903514325729],[2.30449018727239,34.41262848581601],[2.31720259002753,34.39872752555493],[2.33864830917219,34.3815451118175],[2.35105065266555,34.36891022432746],[2.36097252835952,34.35273550094269],[2.36887902244899,34.32878347377834],[2.38691409690807,34.24194123000382],[2.3937353862791,34.22530141952495],[2.40675784739676,34.20835154888493],[2.44308637873343,34.17409007419764],[2.4584342789189,34.1567009548852],[2.47130171130499,34.13758067480836],[2.48339399643584,34.11357697169996],[2.48664961059109,34.09678213069083],[2.48447920115427,34.08081411378038],[2.46370527467872,34.02758738954645],[2.45827925018728,34.00324778875449],[2.4584342789189,33.99218903329728],[2.46634077300831,33.93694692655947],[2.47486738382276,33.9237177598668],[2.48995690338842,33.9173615593885],[2.51770714706726,33.91707733854838],[2.59775393989247,33.90924835882475]]],"type":"Polygon"}
+}

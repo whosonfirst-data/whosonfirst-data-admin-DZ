@@ -1,0 +1,65 @@
+{
+  "id": 1343796557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53194,36.51306,6.53194,36.51306",
+    "geom:latitude":36.51306,
+    "geom:longitude":6.53194,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mechtat el Haouima",
+    "gn:country_code":"DZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573843,
+    "gn:latitude":36.51306,
+    "gn:longitude":6.53194,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mechtat el Haouima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573843
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"62ac3a6a873f1a21731b7d12d6ebd77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343796557,
+            "region_id":85670855
+        }
+    ],
+    "wof:id":1343796557,
+    "wof:lastmodified":1536759055,
+    "wof:name":"Mechtat el Haouima",
+    "wof:parent_id":85670855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53194,
+    36.51306,
+    6.53194,
+    36.51306
+],
+  "geometry": {"coordinates":[6.53194,36.51306],"type":"Point"}
+}

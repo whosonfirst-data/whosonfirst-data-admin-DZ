@@ -1,0 +1,65 @@
+{
+  "id": 1276941657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85503,35.92493,3.85503,35.92493",
+    "geom:latitude":35.92493,
+    "geom:longitude":3.85503,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mechta Ferraha",
+    "gn:country_code":"DZ",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489580,
+    "gn:latitude":35.92493,
+    "gn:longitude":3.85503,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechta Ferraha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489580
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b2b4a19f4fcccaeae6034b38e820610f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276941657,
+            "region_id":85670823
+        }
+    ],
+    "wof:id":1276941657,
+    "wof:lastmodified":1536958566,
+    "wof:name":"Mechta Ferraha",
+    "wof:parent_id":85670823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85503,
+    35.92493,
+    3.85503,
+    35.92493
+],
+  "geometry": {"coordinates":[3.85503,35.92493],"type":"Point"}
+}

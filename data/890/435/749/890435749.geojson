@@ -1,0 +1,121 @@
+{
+  "id": 890435749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26444,36.45028,6.26444,36.45028",
+    "geom:latitude":36.45028,
+    "geom:longitude":6.26444,
+    "gn:country":"DZ",
+    "gn:fcode":"PPLA",
+    "gn:pop":68831,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Mila"
+    ],
+    "name:eng_x_preferred":[
+        "Mila"
+    ],
+    "name:fre_x_preferred":[
+        "Mila"
+    ],
+    "name:ger_x_preferred":[
+        "Milevum"
+    ],
+    "name:ind_x_preferred":[
+        "Mila"
+    ],
+    "name:ita_x_preferred":[
+        "diocesi di Milevi"
+    ],
+    "name:kab_x_preferred":[
+        "Mila"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc00\ub77c"
+    ],
+    "name:may_x_preferred":[
+        "Mila"
+    ],
+    "name:nan_x_preferred":[
+        "Mila"
+    ],
+    "name:pol_x_preferred":[
+        "Mila"
+    ],
+    "name:por_x_preferred":[
+        "Mila"
+    ],
+    "name:rum_x_preferred":[
+        "Mila"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mila"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:war_x_preferred":[
+        "Mila"
+    ],
+    "qs:name":"Mila",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2487452,
+        "gp:id":1256454,
+        "qs:id":1035968,
+        "wd:id":"Q335676",
+        "wk:page":"Mila"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052080,
+    "wof:geomhash":"24152ed73be26d473f1188adcd35c439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435749,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":890435749,
+    "wof:lastmodified":1527793048,
+    "wof:name":"Mila",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:population":68831,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26444,
+    36.45028,
+    6.26444,
+    36.45028
+],
+  "geometry": {"coordinates":[6.26444,36.45028],"type":"Point"}
+}

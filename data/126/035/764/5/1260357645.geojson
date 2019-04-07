@@ -1,0 +1,69 @@
+{
+  "id": 1260357645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41667,36.65,6.41667,36.65",
+    "geom:latitude":36.65,
+    "geom:longitude":6.41667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mechta Msid el Foukania",
+    "gn:country_code":"DZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489425,
+    "gn:latitude":36.65,
+    "gn:longitude":6.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Msid el Foukania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Msid el Foukania",
+        "Mechta Msid el Foukania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489425
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0e4a1ec2b27d207d23479ac8958e331a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260357645,
+            "region_id":85670723
+        }
+    ],
+    "wof:id":1260357645,
+    "wof:lastmodified":1537620159,
+    "wof:name":"Mechta Msid el Foukania",
+    "wof:parent_id":85670723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41667,
+    36.65,
+    6.41667,
+    36.65
+],
+  "geometry": {"coordinates":[6.41667,36.65],"type":"Point"}
+}

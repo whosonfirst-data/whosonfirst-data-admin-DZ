@@ -1,0 +1,65 @@
+{
+  "id": 1226733411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9903,36.62979,3.9903,36.62979",
+    "geom:latitude":36.62979,
+    "geom:longitude":3.9903,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Renndoussa",
+    "gn:country_code":"DZ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483617,
+    "gn:latitude":36.62979,
+    "gn:longitude":3.9903,
+    "gn:modification_date":"1996-03-05",
+    "gn:name":"Renndoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483617
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"62930f6f71f8cc464a9c31f0d253444f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226733411,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1226733411,
+    "wof:lastmodified":1536733539,
+    "wof:name":"Renndoussa",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9903,
+    36.62979,
+    3.9903,
+    36.62979
+],
+  "geometry": {"coordinates":[3.9903,36.62979],"type":"Point"}
+}

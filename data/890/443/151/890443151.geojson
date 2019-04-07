@@ -1,0 +1,66 @@
+{
+  "id": 890443151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.72334,35.70697,0.72334,35.70697",
+    "geom:latitude":35.70697,
+    "geom:longitude":0.72334,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":80,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ababsa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115825,
+        "gp:id":1257118,
+        "qs:id":656670,
+        "wk:page":"Ababsa"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052404,
+    "wof:geomhash":"35911cfb1e823fa33185faa3fe237c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890443151,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":890443151,
+    "wof:lastmodified":1527787058,
+    "wof:name":"Ababsa",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.72334,
+    35.70697,
+    0.72334,
+    35.70697
+],
+  "geometry": {"coordinates":[0.72334,35.70697],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226489909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77596,35.68937,4.77596,35.68937",
+    "geom:latitude":35.68937,
+    "geom:longitude":4.77596,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Selmane",
+    "gn:country_code":"DZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484935,
+    "gn:latitude":35.68937,
+    "gn:longitude":4.77596,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Selmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Derradj",
+        "Souk el Khemis",
+        "Souk el Kremis",
+        "Selmane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484935,
+        "wk:page":"Ouled_Derradj"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fb67760ff1b0fca07ae16620be1abb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226489909,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1226489909,
+    "wof:lastmodified":1537620125,
+    "wof:name":"Selmane",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77596,
+    35.68937000000001,
+    4.77596,
+    35.68937000000001
+],
+  "geometry": {"coordinates":[4.77596,35.68937000000001],"type":"Point"}
+}

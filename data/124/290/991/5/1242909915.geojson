@@ -1,0 +1,69 @@
+{
+  "id": 1242909915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98333,35.86667,4.98333,35.86667",
+    "geom:latitude":35.86667,
+    "geom:longitude":4.98333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mechta Sidi Said",
+    "gn:country_code":"DZ",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489217,
+    "gn:latitude":35.86667,
+    "gn:longitude":4.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Sidi Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtat Sidi Sa\u00efd",
+        "Mechta Sidi Sa\u00efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489217
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8784d6a9fd1a339b928dc81a1590e069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242909915,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1242909915,
+    "wof:lastmodified":1537620153,
+    "wof:name":"Mechta Sidi Said",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98333,
+    35.86667,
+    4.98333,
+    35.86667
+],
+  "geometry": {"coordinates":[4.98333,35.86667],"type":"Point"}
+}

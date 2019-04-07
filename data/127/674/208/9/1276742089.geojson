@@ -1,0 +1,65 @@
+{
+  "id": 1276742089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.66285,36.81426,4.66285,36.81426",
+    "geom:latitude":36.81426,
+    "geom:longitude":4.66285,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Abd el Moumene",
+    "gn:country_code":"DZ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2509175,
+    "gn:latitude":36.81426,
+    "gn:longitude":4.66285,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Abd el Moumene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2509175
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a1337b19efa14a5a440255f9fb579c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276742089,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1276742089,
+    "wof:lastmodified":1536728588,
+    "wof:name":"Abd el Moumene",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66285,
+    36.81426,
+    4.66285,
+    36.81426
+],
+  "geometry": {"coordinates":[4.66285,36.81426],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242640725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25,36.63333,5.25,36.63333",
+    "geom:latitude":36.63333,
+    "geom:longitude":5.25,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Aokas",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506939,
+    "gn:latitude":36.63333,
+    "gn:longitude":5.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aokas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cap Aokas",
+        "Oued Marsa",
+        "Aokas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506939,
+        "wk:page":"Aokas"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"136c8d43c2753c279b0112caaad0b3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1242640725,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1242640725,
+    "wof:lastmodified":1537620250,
+    "wof:name":"Aokas",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25,
+    36.63333,
+    5.25,
+    36.63333
+],
+  "geometry": {"coordinates":[5.25,36.63333],"type":"Point"}
+}

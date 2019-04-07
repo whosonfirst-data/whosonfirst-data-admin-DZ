@@ -1,0 +1,65 @@
+{
+  "id": 1277153393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.60192,35.06021,2.60192,35.06021",
+    "geom:latitude":35.06021,
+    "geom:longitude":2.60192,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Douar Ouled Arbia",
+    "gn:country_code":"DZ",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7441498,
+    "gn:latitude":35.06021,
+    "gn:longitude":2.60192,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Douar Ouled Arbia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7441498
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3050edf554286008e7fd510c87d03434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277153393,
+            "region_id":85670833
+        }
+    ],
+    "wof:id":1277153393,
+    "wof:lastmodified":1536665902,
+    "wof:name":"Douar Ouled Arbia",
+    "wof:parent_id":85670833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.60192,
+    35.06021,
+    2.60192,
+    35.06021
+],
+  "geometry": {"coordinates":[2.60192,35.06021],"type":"Point"}
+}

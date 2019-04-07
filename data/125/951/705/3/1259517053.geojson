@@ -1,0 +1,70 @@
+{
+  "id": 1259517053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39393,36.06965,1.39393,36.06965",
+    "geom:latitude":36.06965,
+    "geom:longitude":1.39393,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sendjas",
+    "gn:country_code":"DZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2481836,
+    "gn:latitude":36.06965,
+    "gn:longitude":1.39393,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sendjas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bougainville",
+        "Sendjas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2481836,
+        "wk:page":"Sendjas"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8cb400e7f2e2fb91a3709d0dc8e77c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259517053,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1259517053,
+    "wof:lastmodified":1537620114,
+    "wof:name":"Sendjas",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39393,
+    36.06965,
+    1.39393,
+    36.06965
+],
+  "geometry": {"coordinates":[1.39393,36.06965],"type":"Point"}
+}

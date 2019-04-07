@@ -1,0 +1,65 @@
+{
+  "id": 1344254591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.37468,36.12857,3.37468,36.12857",
+    "geom:latitude":36.12857,
+    "geom:longitude":3.37468,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bouhadjar",
+    "gn:country_code":"DZ",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281330,
+    "gn:latitude":36.12857,
+    "gn:longitude":3.37468,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bouhadjar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281330
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9ca4784f3baa574ef8972b7de3132593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1344254591,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1344254591,
+    "wof:lastmodified":1537089518,
+    "wof:name":"Bouhadjar",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.37468,
+    36.12857,
+    3.37468,
+    36.12857
+],
+  "geometry": {"coordinates":[3.37468,36.12857],"type":"Point"}
+}

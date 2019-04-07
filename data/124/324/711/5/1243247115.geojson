@@ -1,0 +1,65 @@
+{
+  "id": 1243247115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29784,36.89426,4.29784,36.89426",
+    "geom:latitude":36.89426,
+    "geom:longitude":4.29784,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ait Raouna",
+    "gn:country_code":"DZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507709,
+    "gn:latitude":36.89426,
+    "gn:longitude":4.29784,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"A\u00eft Raouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507709
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"aa6b71efd95267975483a071cc6de042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243247115,
+            "region_id":85670767
+        }
+    ],
+    "wof:id":1243247115,
+    "wof:lastmodified":1537089654,
+    "wof:name":"Ait Raouna",
+    "wof:parent_id":85670767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29784,
+    36.89426,
+    4.29784,
+    36.89426
+],
+  "geometry": {"coordinates":[4.29784,36.89426],"type":"Point"}
+}

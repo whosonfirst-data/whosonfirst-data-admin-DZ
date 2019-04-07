@@ -1,0 +1,65 @@
+{
+  "id": 1209280693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.79277,36.55778,4.79277,36.55778",
+    "geom:latitude":36.55778,
+    "geom:longitude":4.79277,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tizi-n-Djebar",
+    "gn:country_code":"DZ",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475755,
+    "gn:latitude":36.55778,
+    "gn:longitude":4.79277,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tizi-n-Djebar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tizi Endjebar",
+        "Tizi-n-Djebar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475755
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"06ac0c6bd6b3f238d525aaddf2f29ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209280693
+        }
+    ],
+    "wof:id":1209280693,
+    "wof:lastmodified":1537620094,
+    "wof:name":"Tizi-n-Djebar",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79277,
+    36.55778,
+    4.79277,
+    36.55778
+],
+  "geometry": {"coordinates":[4.79277,36.55778],"type":"Point"}
+}

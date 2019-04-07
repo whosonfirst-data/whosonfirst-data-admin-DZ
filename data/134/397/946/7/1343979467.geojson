@@ -1,0 +1,71 @@
+{
+  "id": 1343979467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.26851,36.02605,0.26851,36.02605",
+    "geom:latitude":36.02605,
+    "geom:longitude":0.26851,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sidi Bel Atar",
+    "gn:country_code":"DZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480998,
+    "gn:latitude":36.02605,
+    "gn:longitude":0.26851,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Bel Atar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadjadj",
+        "Pont du Ch\u00e9liff",
+        "Pont\u2019 d\u2019Ech Chlef",
+        "Sidi Bel Atar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480998
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"6cc43d60e561459513c012512add8802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343979467,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1343979467,
+    "wof:lastmodified":1537620113,
+    "wof:name":"Sidi Bel Atar",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.26851,
+    36.02605,
+    0.26851,
+    36.02605
+],
+  "geometry": {"coordinates":[0.26851,36.02605],"type":"Point"}
+}

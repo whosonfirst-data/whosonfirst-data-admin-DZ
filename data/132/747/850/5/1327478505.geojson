@@ -1,0 +1,65 @@
+{
+  "id": 1327478505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.31984,36.13541,2.31984,36.13541",
+    "geom:latitude":36.13541,
+    "geom:longitude":2.31984,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ouled Khaled",
+    "gn:country_code":"DZ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7434258,
+    "gn:latitude":36.13541,
+    "gn:longitude":2.31984,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Ouled Khaled",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7434258
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"94dfeda9409d967f7df80ac5342c1bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327478505,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1327478505,
+    "wof:lastmodified":1536611670,
+    "wof:name":"Ouled Khaled",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.31984,
+    36.13541,
+    2.31984,
+    36.13541
+],
+  "geometry": {"coordinates":[2.31984,36.13541],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259717307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.52425,35.65244,0.52425,35.65244",
+    "geom:latitude":35.65244,
+    "geom:longitude":0.52425,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Ouled el Ahmar Ben Kaddour",
+    "gn:country_code":"DZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577983,
+    "gn:latitude":35.65244,
+    "gn:longitude":0.52425,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar Ouled el Ahmar Ben Kaddour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577983
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d37ba4c0eb099436143ecff3c9a2307d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1259717307,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1259717307,
+    "wof:lastmodified":1537017686,
+    "wof:name":"Douar Ouled el Ahmar Ben Kaddour",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.52425,
+    35.65244000000001,
+    0.52425,
+    35.65244000000001
+],
+  "geometry": {"coordinates":[0.52425,35.65244000000001],"type":"Point"}
+}

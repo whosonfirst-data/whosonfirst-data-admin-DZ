@@ -1,0 +1,65 @@
+{
+  "id": 1243098023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75583,35.80098,0.75583,35.80098",
+    "geom:latitude":35.80098,
+    "geom:longitude":0.75583,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Raghaidia",
+    "gn:country_code":"DZ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417691,
+    "gn:latitude":35.80098,
+    "gn:longitude":0.75583,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ragha\u00efdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417691
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3dff84d5e7ed193da74dda03b8aeec47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243098023,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1243098023,
+    "wof:lastmodified":1536810374,
+    "wof:name":"Raghaidia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75583,
+    35.80098,
+    0.75583,
+    35.80098
+],
+  "geometry": {"coordinates":[0.75583,35.80098],"type":"Point"}
+}

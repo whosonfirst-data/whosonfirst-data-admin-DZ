@@ -1,0 +1,74 @@
+{
+  "id": 1276946211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.74996,36.58151,7.74996,36.58151",
+    "geom:latitude":36.58151,
+    "geom:longitude":7.74996,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Boukamouza",
+    "gn:country_code":"DZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2502911,
+    "gn:latitude":36.58151,
+    "gn:longitude":7.74996,
+    "gn:modification_date":"2013-11-01",
+    "gn:name":"Boukamouza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boukhamouza"
+    ],
+    "name:und_x_variant":[
+        "El Chedir",
+        "Boukemouza",
+        "Saint-Joseph",
+        "Boukamouza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502911
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e8715201b9d575eb959cef208fbc814d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1276946211,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1276946211,
+    "wof:lastmodified":1537620234,
+    "wof:name":"Boukamouza",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.74996,
+    36.58151,
+    7.74996,
+    36.58151
+],
+  "geometry": {"coordinates":[7.74996,36.58151],"type":"Point"}
+}

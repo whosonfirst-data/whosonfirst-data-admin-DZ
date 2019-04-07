@@ -1,0 +1,71 @@
+{
+  "id": 1343802741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75245,36.21519,1.75245,36.21519",
+    "geom:latitude":36.21519,
+    "geom:longitude":1.75245,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Douar Kaddour Ben Yahia",
+    "gn:country_code":"DZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474318,
+    "gn:latitude":36.21519,
+    "gn:longitude":1.75245,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Kaddour Ben Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zm\u00e2la",
+        "Zemala",
+        "Douar Kaddour Ben Yahia",
+        "Zemaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474318
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0352b8ef3269dedabbe582fada845776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343802741,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1343802741,
+    "wof:lastmodified":1537620089,
+    "wof:name":"Douar Kaddour Ben Yahia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75245,
+    36.21519,
+    1.75245,
+    36.21519
+],
+  "geometry": {"coordinates":[1.75245,36.21519],"type":"Point"}
+}

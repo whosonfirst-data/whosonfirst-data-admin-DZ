@@ -1,0 +1,61 @@
+{
+  "id": 1209646583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61515,36.50192,1.61515,36.50192",
+    "geom:latitude":36.50192,
+    "geom:longitude":1.61515,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Douar Bouaziz",
+    "gn:country_code":"DZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2573149,
+    "gn:latitude":36.50192,
+    "gn:longitude":1.61515,
+    "gn:modification_date":"1996-08-30",
+    "gn:name":"Douar Bouaziz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2573149
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"623446e647fa70058fca138692535a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209646583
+        }
+    ],
+    "wof:id":1209646583,
+    "wof:lastmodified":1536280716,
+    "wof:name":"Douar Bouaziz",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61515,
+    36.50192,
+    1.61515,
+    36.50192
+],
+  "geometry": {"coordinates":[1.61515,36.50192],"type":"Point"}
+}

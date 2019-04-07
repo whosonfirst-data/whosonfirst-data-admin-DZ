@@ -1,0 +1,116 @@
+{
+  "id": 1125764759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51389,36.45833,7.51389,36.45833",
+    "geom:latitude":36.45833,
+    "geom:longitude":7.51389,
+    "gn:gn_country":"DZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23022,
+    "gn:population":23022,
+    "iso:country":"DZ",
+    "lbl:latitude":36.45833,
+    "lbl:longitude":7.51389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0645\u0647\u0631\u0629 \u0623\u062d\u0645\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:eng_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:fre_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:ger_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:ita_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:may_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0645\u0647\u0631\u0647 \u0627\u062d\u0645\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:rum_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:swe_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "name:unk_x_variant":[
+        "Petit"
+    ],
+    "name:vie_x_preferred":[
+        "Boumahra Ahmed"
+    ],
+    "qs_pg:aaroncc":"DZ",
+    "qs_pg:gn_country":"DZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2502686,
+    "qs_pg:gn_pop":23022,
+    "qs_pg:name":"Boumahra Ahmed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1036026,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2502686,
+        "qs_pg:id":1036026,
+        "wd:id":"Q1649113"
+    },
+    "wof:country":"DZ",
+    "wof:created":1497289826,
+    "wof:geomhash":"9eed8c6fb4ea145f89d2d672d442fa4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1125764759,
+            "region_id":85670857
+        }
+    ],
+    "wof:id":1125764759,
+    "wof:lastmodified":1553816518,
+    "wof:name":"Boumahra Ahmed",
+    "wof:parent_id":85670857,
+    "wof:placetype":"locality",
+    "wof:population":23022,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51389,
+    36.45833,
+    7.51389,
+    36.45833
+],
+  "geometry": {"coordinates":[7.51389,36.45833],"type":"Point"}
+}

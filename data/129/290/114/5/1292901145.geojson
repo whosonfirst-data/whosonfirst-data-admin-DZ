@@ -1,0 +1,65 @@
+{
+  "id": 1292901145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5284,35.59256,2.5284,35.59256",
+    "geom:latitude":35.59256,
+    "geom:longitude":2.5284,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar Azouzi Ben Daoud",
+    "gn:country_code":"DZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500923,
+    "gn:latitude":35.59256,
+    "gn:longitude":2.5284,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Dar Azouzi Ben Daoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500923
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"17905086fc782dab17f687c7d5f842e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292901145,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1292901145,
+    "wof:lastmodified":1536637118,
+    "wof:name":"Dar Azouzi Ben Daoud",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5284,
+    35.59256,
+    2.5284,
+    35.59256
+],
+  "geometry": {"coordinates":[2.5284,35.59256],"type":"Point"}
+}

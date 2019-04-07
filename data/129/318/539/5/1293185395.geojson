@@ -1,0 +1,73 @@
+{
+  "id": 1293185395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.42581,35.78111,-0.42581,35.78111",
+    "geom:latitude":35.78111,
+    "geom:longitude":-0.42581,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gdyel",
+    "gn:country_code":"DZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496059,
+    "gn:latitude":35.78111,
+    "gn:longitude":-0.42581,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gdyel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gudhiel",
+        "Saint-Cloud-d\u2019Alg\u00e9rie",
+        "Saint-Cloud",
+        "Gdeyel",
+        "Gdyel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496059,
+        "wk:page":"Gdyel"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4982a64d85669c1ca124c563b7486a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293185395,
+            "region_id":85670689
+        }
+    ],
+    "wof:id":1293185395,
+    "wof:lastmodified":1537620190,
+    "wof:name":"Gdyel",
+    "wof:parent_id":85670689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.42581,
+    35.78111,
+    -0.42581,
+    35.78111
+],
+  "geometry": {"coordinates":[-0.42581,35.78111],"type":"Point"}
+}

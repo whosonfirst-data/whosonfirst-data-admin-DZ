@@ -1,0 +1,65 @@
+{
+  "id": 1226195855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98127,36.29385,1.98127,36.29385",
+    "geom:latitude":36.29385,
+    "geom:longitude":1.98127,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"El Hamatchia",
+    "gn:country_code":"DZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7511208,
+    "gn:latitude":36.29385,
+    "gn:longitude":1.98127,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"El Hamatchia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511208
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f8abc87c25281f20ec3e1a321fb63ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226195855,
+            "region_id":85670777
+        }
+    ],
+    "wof:id":1226195855,
+    "wof:lastmodified":1537004880,
+    "wof:name":"El Hamatchia",
+    "wof:parent_id":85670777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98127,
+    36.29385,
+    1.98127,
+    36.29385
+],
+  "geometry": {"coordinates":[1.98127,36.29385],"type":"Point"}
+}

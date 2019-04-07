@@ -1,0 +1,71 @@
+{
+  "id": 421182047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-1.860637,35.102004,-1.860637,35.102004",
+    "geom:latitude":35.102004,
+    "geom:longitude":-1.860637,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nemours-d'Algerie",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u062a\u0644\u0645\u0633\u0627\u0646",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":554505,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1254840,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1254840,
+        "qs:id":554505
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009317,
+    "wof:geomhash":"97673e536bc7fe907016922ec19c51fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":421182047,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":421182047,
+    "wof:lastmodified":1466635854,
+    "wof:name":"Nemours-d'Algerie",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.860637,
+    35.102004,
+    -1.860637,
+    35.102004
+],
+  "geometry": {"coordinates":[-1.860637,35.102004],"type":"Point"}
+}

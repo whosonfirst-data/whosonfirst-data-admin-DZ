@@ -1,0 +1,68 @@
+{
+  "id": 1193167993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31053,35.56409,0.31053,35.56409",
+    "geom:latitude":35.56409,
+    "geom:longitude":0.31053,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Mesrati",
+    "gn:country_code":"DZ",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2580231,
+    "gn:latitude":35.56409,
+    "gn:longitude":0.31053,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Mesrati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Msrata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2580231
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9c079bbb9b6e3e17c55dedf0f6948b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1193167993,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1193167993,
+    "wof:lastmodified":1537620270,
+    "wof:name":"Douar Mesrati",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31053,
+    35.56409,
+    0.31053,
+    35.56409
+],
+  "geometry": {"coordinates":[0.31053,35.56409],"type":"Point"}
+}

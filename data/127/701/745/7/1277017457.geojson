@@ -1,0 +1,65 @@
+{
+  "id": 1277017457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36335,36.2669,1.36335,36.2669",
+    "geom:latitude":36.2669,
+    "geom:longitude":1.36335,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ouled Ali Ben Djilali",
+    "gn:country_code":"DZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2485029,
+    "gn:latitude":36.2669,
+    "gn:longitude":1.36335,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ouled Ali Ben Djilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2485029
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"e75374e7bd6d7dc48b21bd1756b7eb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277017457,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1277017457,
+    "wof:lastmodified":1536855489,
+    "wof:name":"Ouled Ali Ben Djilali",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36335,
+    36.2669,
+    1.36335,
+    36.2669
+],
+  "geometry": {"coordinates":[1.36335,36.2669],"type":"Point"}
+}

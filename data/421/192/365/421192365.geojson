@@ -1,0 +1,115 @@
+{
+  "id": 421192365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.05699,36.75409,3.05699,36.75409",
+    "geom:latitude":36.75409,
+    "geom:longitude":3.05699,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0637\u0641\u0649"
+    ],
+    "name:deu_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c3\u03c4\u03b1\u03c6\u03ac"
+    ],
+    "name:fra_x_preferred":[
+        "Moustapha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05d8\u05e4\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Mustafa"
+    ],
+    "name:lat_x_preferred":[
+        "Mustapha"
+    ],
+    "name:nor_x_preferred":[
+        "Mustafa"
+    ],
+    "name:spa_x_preferred":[
+        "Mustaf\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Mustafa"
+    ],
+    "name:swe_x_preferred":[
+        "Mustafa"
+    ],
+    "name:tur_x_preferred":[
+        "Mustafa"
+    ],
+    "name:unk_x_variant":[
+        "Mustapha Inf\u00e9rieur"
+    ],
+    "qs:gn_country":"DZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2486610,
+    "qs:gn_pop":0,
+    "qs:name":"Mustapha",
+    "qs:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:name_adm1":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+    "qs:photos":775,
+    "qs:photos_1k":157,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":775,
+    "qs:photos_sr":9,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167964,
+    "qs:woe_adm0":23424740,
+    "qs:woe_id":1256516,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":624,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486610,
+        "gp:id":1256516,
+        "qs:id":1167964,
+        "wd:id":"Q4308518"
+    },
+    "wof:country":"DZ",
+    "wof:created":1459009734,
+    "wof:geomhash":"8fb7ab0eb5b4e568fbfd1c24f93ea8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":-1,
+            "neighbourhood_id":421192365,
+            "region_id":85670761
+        }
+    ],
+    "wof:id":421192365,
+    "wof:lastmodified":1531858681,
+    "wof:name":"Mustapha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.05699,
+    36.75409,
+    3.05699,
+    36.75409
+],
+  "geometry": {"coordinates":[3.05699,36.75409],"type":"Point"}
+}

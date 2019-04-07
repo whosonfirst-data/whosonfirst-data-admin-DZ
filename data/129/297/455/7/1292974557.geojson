@@ -1,0 +1,69 @@
+{
+  "id": 1292974557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63436,36.73128,4.63436,36.73128",
+    "geom:latitude":36.73128,
+    "geom:longitude":4.63436,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Irhilt Keroun",
+    "gn:country_code":"DZ",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2493086,
+    "gn:latitude":36.73128,
+    "gn:longitude":4.63436,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Irhilt Keroun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ihilt-Keroun",
+        "Irhilt Keroun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2493086
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3f2451aa80209902acac1d3fa57f4404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292974557,
+            "region_id":85670815
+        }
+    ],
+    "wof:id":1292974557,
+    "wof:lastmodified":1537620181,
+    "wof:name":"Irhilt Keroun",
+    "wof:parent_id":85670815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63436,
+    36.73128,
+    4.63436,
+    36.73128
+],
+  "geometry": {"coordinates":[4.63436,36.73128],"type":"Point"}
+}

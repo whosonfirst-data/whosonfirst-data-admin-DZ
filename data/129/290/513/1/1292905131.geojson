@@ -1,0 +1,65 @@
+{
+  "id": 1292905131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76699,35.68415,6.76699,35.68415",
+    "geom:latitude":35.68415,
+    "geom:longitude":6.76699,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ben Kadach Salah",
+    "gn:country_code":"DZ",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504539,
+    "gn:latitude":35.68415,
+    "gn:longitude":6.76699,
+    "gn:modification_date":"1997-03-25",
+    "gn:name":"Ben Kadach Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504539
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"89dfecd08ca114c73f3045ea1c920e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292905131,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1292905131,
+    "wof:lastmodified":1536630929,
+    "wof:name":"Ben Kadach Salah",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76699,
+    35.68415,
+    6.76699,
+    35.68415
+],
+  "geometry": {"coordinates":[6.76699,35.68415],"type":"Point"}
+}

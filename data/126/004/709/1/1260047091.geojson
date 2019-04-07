@@ -1,0 +1,65 @@
+{
+  "id": 1260047091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2465,35.59979,0.2465,35.59979",
+    "geom:latitude":35.59979,
+    "geom:longitude":0.2465,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ouled Sidi Hachmi",
+    "gn:country_code":"DZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484791,
+    "gn:latitude":35.59979,
+    "gn:longitude":0.2465,
+    "gn:modification_date":"1997-03-21",
+    "gn:name":"Ouled Sidi Hachmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484791
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f6fd91492e0e1c4f4013bbedf20686fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260047091,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1260047091,
+    "wof:lastmodified":1537038911,
+    "wof:name":"Ouled Sidi Hachmi",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2465,
+    35.59979000000001,
+    0.2465,
+    35.59979000000001
+],
+  "geometry": {"coordinates":[0.2465,35.59979000000001],"type":"Point"}
+}

@@ -1,0 +1,354 @@
+{
+  "id": 85670683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.194028,
+    "geom:area_square_m":1957228843.986336,
+    "geom:bbox":"-1.36197571041,35.0873934997,-0.62949093326,35.6232421068",
+    "geom:latitude":35.335109,
+    "geom:longitude":-1.030831,
+    "gn:population":371239,
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "A\u00efn T\u00e9mouchent Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":35.263694,
+    "lbl:longitude":-1.036268,
+    "mps:latitude":35.263694,
+    "mps:longitude":-1.036268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_colloquial":[
+        "'Ain Temouchent",
+        "Ain Temouchent"
+    ],
+    "name:ara_x_preferred":[
+        "'A\u00efn Temouchent",
+        "\u0648\u0644\u0627\u064a\u0629 \u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0439\u043d-\u0422\u044d\u043c\u0443\u0448\u044d\u043d\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0439\u043d-\u0422\u044d\u043c\u0443\u0448\u044d\u043d\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a8 \u099f\u09c7\u09ae\u09c1\u099a\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0439\u043d \u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'A\u00efn T\u00e9mouchent"
+    ],
+    "name:ceb_x_preferred":[
+        "Wilaya de A\u00efn Temouchent"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u56e0\u6cf0\u7a46\u5c1a\u7279\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:deu_x_preferred":[
+        "Ain Temouchent"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn T\u00e9mouchent Province"
+    ],
+    "name:eng_x_variant":[
+        "A\u00efn T\u00e9mouchent",
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Ajn Temu\u015dent"
+    ],
+    "name:fin_x_preferred":[
+        "A\u00efn T\u00e9mouchentin provinssi"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya d'A\u00efn T\u00e9mouchent"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d8\u10dc-\u10e2\u10d4\u10db\u10e3\u10e8\u10d4\u10dc\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Ain Temouchent"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de A\u00efn T\u00e9mouchent"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u0390\u03bd \u03a4\u03b5\u03bc\u03bf\u03c5\u03c7\u03ad\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a86\u0a87\u0aa8 \u0a9f\u0ac7\u0aae\u0acb\u0a89\u0a9a\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0928 \u091f\u0947\u092e\u0949\u091b\u0947\u0928\u094d\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Ain Temouchent"
+    ],
+    "name:ita_x_preferred":[
+        "provincia di A\u00efn T\u00e9mouchent"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30c6\u30a3\u30e0\u30b7\u30a7\u30f3\u30c8\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c90\u0ca8\u0ccd \u0c9f\u0cc6\u0cae\u0ccc\u0c9a\u0cc6\u0c82\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778\ud14c\ubb34\uc174\ud2b8 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de Eyn Temushent"
+    ],
+    "name:lav_x_preferred":[
+        "Ain T\u012bm\u016b\u0161entas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Ain Temu\u0161ento vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u0910\u0928 \u091f\u0947\u092e\u094c\u091a\u0947\u0902\u0928\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah A\u00efn T\u00e9mouchent"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn T\u00e9mouchent S\u00e9ng"
+    ],
+    "name:nob_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Ajn Tumuszanat"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia A\u00efn T\u00e9mouchent"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "A\u00efn T\u00e9mouchent Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dd2\u0db1\u0dca \u0da7\u0dd9\u0db8\u0ddc\u0d8b\u0da0\u0dd9\u0db1\u0dca\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "A\u00efn T\u00e9mouchent eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de A\u00efn T\u00e9mouchent"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0458\u043d \u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya A\u00efn T\u00e9mouchent"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0baf\u0bbf\u0ba9\u0bcd  \u0b9f\u0bc6\u0bae\u0bc6\u0b9a\u0bc7\u0ba3\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c2f\u0c3f\u0c28\u0c4d \u0c1f\u0c46\u0c2e\u0c4b\u0c1a\u0c46\u0c02\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u0439\u043d-\u0422\u0438\u043c\u0443\u0448\u0438\u043d\u0442"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng A\u00efn T\u00e9mouchent"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e19\u0e40\u0e2d\u0e21\u0e39\u0e40\u0e0a\u0e35\u0e22\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Ayn Temu\u015fent Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efn Temouchent"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "name:war_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2144",
+    "ne:adm1_code":"DZA-2144",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.AT",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2144",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG36",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.36",
+    "ne:gn_id":"2507899",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Wilaya de Ain Temouchent",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG36",
+    "ne:gns_id":"-457951",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ain Temouchent",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"35.27080000000",
+    "ne:longitude":"-0.99572200000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"A\u00efn T\u00e9mouchent",
+    "ne:name_alt":"Ain Tamouchent",
+    "ne:name_len":14,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a",
+    "ne:note":"",
+    "ne:postal":"AT",
+    "ne:provnum_ne":"22",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344606,
+    "ne:woe_label":"'A\u00c3\u00afn Temouchent, DZ, Algeria",
+    "ne:woe_name":"A\u00efn T\u00e9mouchent",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"A\u00efn T\u00e9mouchent",
+    "qs:a1_lc":"DZA-2144",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"2,630",
+    "statoids:area_mi":"1,015",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"A\u00efn T\u00e9mouchent",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG36",
+    "statoids:hasc":"DZ.AT",
+    "statoids:iso":"46",
+    "statoids:name":"A\u00efn T\u00e9mouchent",
+    "statoids:population":"371239",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-46",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG36",
+        "gn:id":2507899,
+        "gp:id":2344606,
+        "hasc:id":"DZ.AT",
+        "iso:id":"DZ-46",
+        "qs:id":268608,
+        "unlc:id":"DZ-46",
+        "wd:id":"Q233670",
+        "wk:page":"A\u00efn T\u00e9mouchent Province"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3544a187db826ac35b97e2f7aa7ebe1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":85670683,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550358,
+    "wof:name":"A\u00efn T\u00e9mouchent",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":371239,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"AT",
+    "wof:subdivision":"DZ-46",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36197571041066,
+    35.08739349971029,
+    -0.62949093325989,
+    35.62324210683784
+],
+  "geometry": {"coordinates":[[[-1.0590254382733,35.41153392255251],[-1.04967200425955,35.41504791912621],[-1.03928504057211,35.42626170511363],[-1.03101681217612,35.44354747253789],[-1.02429887469327,35.45277171534246],[-1.01778764458408,35.45587230076615],[-1.00750403458346,35.45354686079907],[-0.98486975703361,35.44197134050501],[-0.97226070796523,35.43856069581949],[-0.95412227981933,35.43732046236948],[-0.74090532092379,35.48245982536071],[-0.71542884036864,35.48248566288311],[-0.68943559407734,35.47605194803901],[-0.67238237064981,35.46197011972532],[-0.63424516418291,35.42238597333403],[-0.62949093325989,35.40962189373545],[-0.63310828262109,35.39830475496052],[-0.65476070824002,35.38559235310464],[-0.66122026240515,35.38099315001392],[-0.662977260692,35.37536041904815],[-0.66080685125513,35.36998607050083],[-0.65460567860913,35.36223460514299],[-0.65155676912957,35.35406972953444],[-0.65171179786114,35.34605988175821],[-0.66886837407617,35.3320038927655],[-0.75366939872373,35.31825796213531],[-0.76819047660916,35.30838776328471],[-0.79950639460441,35.27371287744739],[-0.81438920679642,35.26583222088033],[-0.83123572374961,35.2641010610152],[-0.84642859520346,35.26389435544019],[-0.86978634316517,35.2607420922738],[-0.88084509862233,35.25430837742971],[-0.88720129999996,35.24301707617718],[-0.88466915535719,35.23131236377463],[-0.87846798271119,35.21668793400102],[-0.87531572134344,35.1997122258386],[-0.87805457156116,35.1800235049808],[-0.89045691595385,35.15989553545063],[-0.90513302167159,35.15067129174679],[-0.92280636182409,35.14710561832965],[-0.93903276205231,35.14560700156193],[-0.95887651164168,35.13770050747252],[-0.97334591268367,35.12529816307983],[-1.00052771558154,35.08739349971029],[-1.04827674027928,35.09731537540432],[-1.27162228044386,35.19565562600638],[-1.27885698096486,35.19599152279062],[-1.28578162312334,35.19562978848398],[-1.2980806138292,35.19289093736694],[-1.3034549632759,35.19066885018736],[-1.31048295732256,35.18891185190051],[-1.31864783383043,35.18787832312614],[-1.3309468254356,35.1882400583321],[-1.33766476111975,35.19082387981825],[-1.34221228736715,35.19457042128795],[-1.34386593286644,35.19955719710703],[-1.34484778479737,35.21020254231354],[-1.34727657665263,35.21934926985296],[-1.34531287279077,35.2233541937411],[-1.3320837060981,35.23180329018976],[-1.3288797669876,35.23518809735288],[-1.3273811511192,35.23805613877983],[-1.32619259271394,35.24260366502716],[-1.32479732873367,35.26598725051127],[-1.32159338962316,35.2776661244921],[-1.32066321543499,35.28378978097368],[-1.32195512482912,35.29004263046306],[-1.32732947427576,35.2980008004966],[-1.33332394044743,35.30218659153803],[-1.34055864096848,35.30404694351171],[-1.34758663591447,35.30381439951498],[-1.35471798274864,35.30265167953144],[-1.35849036264006,35.3050804713867],[-1.35988562662033,35.30859446885972],[-1.36081580170781,35.31794790287347],[-1.36195268416901,35.31985993079121],[-1.36197571041066,35.31989865649786],[-1.35895748579929,35.32221100503392],[-1.33267167925453,35.34935130421934],[-1.31379146960057,35.35374583510225],[-1.29482988209333,35.36456940345528],[-1.27863521983949,35.37799713685843],[-1.26773027273384,35.39032623956433],[-1.25918535082326,35.41030507991553],[-1.24730383980034,35.45774974255664],[-1.23704993350759,35.47573476794526],[-1.22541256413848,35.49127838758756],[-1.19033769402932,35.56614817909525],[-1.18333899629761,35.57648346593925],[-1.17153886582594,35.58104075702539],[-1.14801998633328,35.5820987005946],[-1.1428116526356,35.58690013243523],[-1.11701412670055,35.61688873922401],[-1.10635331855076,35.62323639524351],[-1.10634377224727,35.62324210683784],[-1.10543087403556,35.62134023676259],[-1.07742224793833,35.5667182485484],[-1.04460771317537,35.54305044222417],[-1.01566891109133,35.53183665623675],[-1.00672888822754,35.52491201407821],[-1.00512691867232,35.5170055199888],[-1.01199988398741,35.50811717396846],[-1.02011308365184,35.50021067987905],[-1.05509802875099,35.47698212312656],[-1.0633662580463,35.46656932191672],[-1.06920569458708,35.45445119926347],[-1.07184119291668,35.43592519838927],[-1.07060095856735,35.4245563827709],[-1.06703528515027,35.41613312384465],[-1.0590254382733,35.41153392255251]]],"type":"Polygon"}
+}

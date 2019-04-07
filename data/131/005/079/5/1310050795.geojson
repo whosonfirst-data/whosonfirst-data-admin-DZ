@@ -1,0 +1,65 @@
+{
+  "id": 1310050795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2029,29.23295,0.2029,29.23295",
+    "geom:latitude":29.23295,
+    "geom:longitude":0.2029,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Beni Mehlal",
+    "gn:country_code":"DZ",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2504630,
+    "gn:latitude":29.23295,
+    "gn:longitude":0.2029,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Beni Mehlal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2504630
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"f4b1e68b1f469504c63fcdda4209a3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310050795,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1310050795,
+    "wof:lastmodified":1537072323,
+    "wof:name":"Beni Mehlal",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2029,
+    29.23295,
+    0.2029,
+    29.23295
+],
+  "geometry": {"coordinates":[0.2029,29.23295],"type":"Point"}
+}

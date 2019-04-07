@@ -1,0 +1,76 @@
+{
+  "id": 1310537379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.14333,35.43583,7.14333,35.43583",
+    "geom:latitude":35.43583,
+    "geom:longitude":7.14333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Khenchela",
+    "gn:country_code":"DZ",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2491889,
+    "gn:latitude":35.43583,
+    "gn:longitude":7.14333,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Khenchela",
+    "gn:population":117000,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u0634\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Krenchela",
+        "Khenchela"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2491889,
+        "wk:page":"Khenchela"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"8114062a177b624244958da75acce6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310537379,
+            "region_id":85670861
+        }
+    ],
+    "wof:id":1310537379,
+    "wof:lastmodified":1537620178,
+    "wof:name":"Khenchela",
+    "wof:parent_id":85670861,
+    "wof:placetype":"locality",
+    "wof:population":117000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.14333,
+    35.43583,
+    7.14333,
+    35.43583
+],
+  "geometry": {"coordinates":[7.14333,35.43583],"type":"Point"}
+}

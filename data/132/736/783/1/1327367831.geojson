@@ -1,0 +1,65 @@
+{
+  "id": 1327367831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42101,36.50019,1.42101,36.50019",
+    "geom:latitude":36.50019,
+    "geom:longitude":1.42101,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Mechtat Tidjeraihine",
+    "gn:country_code":"DZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572435,
+    "gn:latitude":36.50019,
+    "gn:longitude":1.42101,
+    "gn:modification_date":"1996-07-16",
+    "gn:name":"Mechtat Tidjeraihine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572435
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3e83d8e26448e67675c4d4402223bcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327367831,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1327367831,
+    "wof:lastmodified":1536774748,
+    "wof:name":"Mechtat Tidjeraihine",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42101,
+    36.50019,
+    1.42101,
+    36.50019
+],
+  "geometry": {"coordinates":[1.42101,36.50019],"type":"Point"}
+}

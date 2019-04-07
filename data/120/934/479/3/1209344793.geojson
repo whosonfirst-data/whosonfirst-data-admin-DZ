@@ -1,0 +1,65 @@
+{
+  "id": 1209344793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38985,31.95104,5.38985,31.95104",
+    "geom:latitude":31.95104,
+    "geom:longitude":5.38985,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Chott",
+    "gn:country_code":"DZ",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2501284,
+    "gn:latitude":31.95104,
+    "gn:longitude":5.38985,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chott",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ech Chott",
+        "Chott"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2501284
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0bcabf294c881ea29a39c30b56bb6246",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209344793
+        }
+    ],
+    "wof:id":1209344793,
+    "wof:lastmodified":1537620228,
+    "wof:name":"Chott",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38985,
+    31.95104000000001,
+    5.38985,
+    31.95104000000001
+],
+  "geometry": {"coordinates":[5.38985,31.95104000000001],"type":"Point"}
+}

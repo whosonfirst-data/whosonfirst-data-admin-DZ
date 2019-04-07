@@ -1,0 +1,72 @@
+{
+  "id": 1226279341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38932,36.19953,1.38932,36.19953",
+    "geom:latitude":36.19953,
+    "geom:longitude":1.38932,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Oum Drou",
+    "gn:country_code":"DZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2484495,
+    "gn:latitude":36.19953,
+    "gn:longitude":1.38932,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oum Drou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pont\u00e9ba",
+        "Oumm ed Dro\u00fb",
+        "Oum Drou",
+        "Oum ed Drou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2484495,
+        "wk:page":"Oum_Drou"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5b786398982bc5606cae9d4921ca0be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1226279341,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1226279341,
+    "wof:lastmodified":1537620122,
+    "wof:name":"Oum Drou",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38932,
+    36.19953,
+    1.38932,
+    36.19953
+],
+  "geometry": {"coordinates":[1.38932,36.19953],"type":"Point"}
+}

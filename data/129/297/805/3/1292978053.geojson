@@ -1,0 +1,72 @@
+{
+  "id": 1292978053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26583,35.97139,5.26583,35.97139",
+    "geom:latitude":35.97139,
+    "geom:longitude":5.26583,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ksar et Til",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488904,
+    "gn:latitude":35.97139,
+    "gn:longitude":5.26583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ksar et Til",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechtet Gsar et Tayer",
+        "Ksar-et-Tir",
+        "Ksar Tir",
+        "Ksar et Til"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488904
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"28f1ad56587fea30e234da695bfd66b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1292978053,
+            "region_id":85670845
+        }
+    ],
+    "wof:id":1292978053,
+    "wof:lastmodified":1537620144,
+    "wof:name":"Ksar et Til",
+    "wof:parent_id":85670845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26583,
+    35.97139,
+    5.26583,
+    35.97139
+],
+  "geometry": {"coordinates":[5.26583,35.97139],"type":"Point"}
+}

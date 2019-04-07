@@ -1,0 +1,66 @@
+{
+  "id": 1343456345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.42111,36.18923,3.42111,36.18923",
+    "geom:latitude":36.18923,
+    "geom:longitude":3.42111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bir Ben Laabed",
+    "gn:country_code":"DZ",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8281418,
+    "gn:latitude":36.18923,
+    "gn:longitude":3.42111,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Bir Ben Laabed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281418,
+        "wk:page":"Bir_Ben_Laabed"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a37c0524b9d2736bf83dbf2d644d3082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343456345,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1343456345,
+    "wof:lastmodified":1537504314,
+    "wof:name":"Bir Ben Laabed",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.42111,
+    36.18923,
+    3.42111,
+    36.18923
+],
+  "geometry": {"coordinates":[3.42111,36.18923],"type":"Point"}
+}

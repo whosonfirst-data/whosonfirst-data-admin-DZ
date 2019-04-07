@@ -1,0 +1,65 @@
+{
+  "id": 1310041963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.91935,35.90719,4.91935,35.90719",
+    "geom:latitude":35.90719,
+    "geom:longitude":4.91935,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ed Dechra",
+    "gn:country_code":"DZ",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2498916,
+    "gn:latitude":35.90719,
+    "gn:longitude":4.91935,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Ed Dechra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2498916
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1debb7efee28a1c9ceb6b9a6d1ac5eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1310041963,
+            "region_id":85670809
+        }
+    ],
+    "wof:id":1310041963,
+    "wof:lastmodified":1537084847,
+    "wof:name":"Ed Dechra",
+    "wof:parent_id":85670809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.91935,
+    35.90719,
+    4.91935,
+    35.90719
+],
+  "geometry": {"coordinates":[4.91935,35.90719],"type":"Point"}
+}

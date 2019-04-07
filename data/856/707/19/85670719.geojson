@@ -1,0 +1,359 @@
+{
+  "id": 85670719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.275706,
+    "geom:area_square_m":2732588345.340635,
+    "geom:bbox":"7.6497453139,36.404134833,8.64255212408,36.9580752627",
+    "geom:latitude":36.722264,
+    "geom:longitude":8.117478,
+    "gn:id":"",
+    "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "El Tarf Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":36.695567,
+    "lbl:longitude":8.068591,
+    "mps:latitude":36.695567,
+    "mps:longitude":8.068591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0637\u0627\u0631\u0641",
+        "\u0627\u0644\u0637\u0627\u0631\u0641"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043b\u044c-\u0422\u0430\u0440\u0444"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u099f\u09be\u09b0\u09ab \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b-\u0422\u0430\u0440\u0444"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'El Tarf"
+    ],
+    "name:ceb_x_preferred":[
+        "El Tarf"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u91cc\u592b\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "El Tarf Province"
+    ],
+    "name:deu_x_preferred":[
+        "El Taref"
+    ],
+    "name:dut_x_preferred":[
+        "El Tarf"
+    ],
+    "name:eng_x_preferred":[
+        "El Tarf"
+    ],
+    "name:eng_x_variant":[
+        "El Tarf Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco El Tarf"
+    ],
+    "name:fin_x_preferred":[
+        "El Tarfin l\u00e4\u00e4ni"
+    ],
+    "name:fra_x_preferred":[
+        "El Tarf"
+    ],
+    "name:fre_x_preferred":[
+        "wilaya d'El Tarf"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d0\u10e0\u10d4\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "El Tarf"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de El Taref"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u03a4\u03b1\u03c1\u03c6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0a9f\u0abe\u0ab0\u0acd\u0aab \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u0924\u0930\u0947\u092b \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "El Tarf"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi El Tarf"
+    ],
+    "name:ita_x_preferred":[
+        "El Tarf"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30bf\u30eb\u30d5\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0c9f\u0ccd\u0caf\u0cbe\u0cab\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud0c0\ub974\ud504"
+    ],
+    "name:lad_x_preferred":[
+        "Wilaya de El Taref"
+    ],
+    "name:lav_x_preferred":[
+        "T\u0101rfas vil\u0101ja"
+    ],
+    "name:lit_x_preferred":[
+        "Tarefo vilaja"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0932 \u0924\u093e\u0930\u092b \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "El Tarf Province"
+    ],
+    "name:msa_x_preferred":[
+        "El Taref"
+    ],
+    "name:nan_x_preferred":[
+        "El Taref S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "El Tarf"
+    ],
+    "name:nob_x_preferred":[
+        "El Tarf"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0637\u0627\u0631\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "At-Tarif"
+    ],
+    "name:por_x_preferred":[
+        "El Tarf"
+    ],
+    "name:ron_x_preferred":[
+        "El Tarf"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia El Tarf"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0430\u0440\u0444"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbd\u0dca \u0da7\u0dcf\u0dbb\u0dca\u0dc6\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "El Taref eanangoddi"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de El Tarf"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0422\u0430\u0440\u0444"
+    ],
+    "name:swa_x_preferred":[
+        "Jimbo ya El Tarf"
+    ],
+    "name:swe_x_preferred":[
+        "El Tarf"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd  \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c1f\u0c30\u0c4d\u0c2b\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043b-\u0422\u0430\u0440\u0444"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng El Taref"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25 \u0e17\u0e32\u0e23\u0e4c\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "El Tarif Vilayeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442-\u0422\u0430\u0440\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Wilaya d\u2019El Tarf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0637\u0627\u0631\u0641"
+    ],
+    "name:vie_x_preferred":[
+        "El Tarf"
+    ],
+    "name:war_x_preferred":[
+        "El Tarf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u91cc\u592b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"DZA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"DZA-2164",
+    "ne:adm1_code":"DZA-2164",
+    "ne:admin":"Algeria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"DZ.ET",
+    "ne:code_local":"",
+    "ne:datarank":"5",
+    "ne:diss_me":"2164",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AG44",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Algeria",
+    "ne:gn_a1_code":"DZ.44",
+    "ne:gn_id":"2497322",
+    "ne:gn_level":"1",
+    "ne:gn_name":"El Tarf",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AG44",
+    "ne:gns_id":"-468562",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"El Tarf",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"DZA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"DZ-",
+    "ne:iso_a2":"DZ",
+    "ne:labelrank":"6",
+    "ne:latitude":"36.70120000000",
+    "ne:longitude":"8.14597000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"El Tarf",
+    "ne:name_alt":"Et Tarf|El Taref",
+    "ne:name_len":7,
+    "ne:name_local":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0637\u0627\u0631\u0641",
+    "ne:note":"",
+    "ne:postal":"ET",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"DZA",
+    "ne:sub_code":"",
+    "ne:type":"Wilaya",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344614,
+    "ne:woe_label":"El Tarf, DZ, Algeria",
+    "ne:woe_name":"El Tarf",
+    "qs:a0":"Algeria",
+    "qs:a0_lc":"DZ",
+    "qs:a1":"El Tarf",
+    "qs:a1_lc":"DZA-2164",
+    "qs:adm0":"Algeria",
+    "qs:adm0_a3":"DZA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-04-16",
+    "statoids:area_km":"2,998",
+    "statoids:area_mi":"1,158",
+    "statoids:as_of_date":"2008-04-16",
+    "statoids:capital":"El Tarf",
+    "statoids:country":"DZ",
+    "statoids:gec":"AG44",
+    "statoids:hasc":"DZ.ET",
+    "statoids:iso":"36",
+    "statoids:name":"El Tarf",
+    "statoids:population":"408414",
+    "statoids:timezone":"+1",
+    "statoids:type":"province",
+    "unlc:subdivision":"DZ-36",
+    "wd:latitude":36.766944,
+    "wd:longitude":8.313611,
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191573,
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AG44",
+        "gn:id":2497322,
+        "gp:id":2344614,
+        "hasc:id":"DZ.ET",
+        "iso:id":"DZ-36",
+        "qs:id":985922,
+        "unlc:id":"DZ-36",
+        "wd:id":"Q236788"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"68ebaa83f096c3e8c1aa672899d12736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "region_id":85670719
+        }
+    ],
+    "wof:id":85670719,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1553550362,
+    "wof:name":"El Tarf",
+    "wof:parent_id":85632451,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":408414,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:shortcode":"ET",
+    "wof:subdivision":"DZ-36",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64974531389515,
+    36.40413483295623,
+    8.64255212408131,
+    36.95807526266327
+],
+  "geometry": {"coordinates":[[[8.60251042871334,36.93951076361088],[8.60565515106441,36.9130451466163],[8.60482832876443,36.90097869900779],[8.60823897344989,36.8907209274289],[8.64255212408131,36.84850128270807],[8.641725300882,36.83635732163316],[8.62384525515444,36.82607371163255],[8.55449548347985,36.80364613965764],[8.52007897916161,36.7979100550051],[8.48266524220719,36.79997711345305],[8.4440112709035,36.79620473356164],[8.4131087649576,36.78390574195646],[8.40670088673659,36.76798940009081],[8.4416341549923,36.75320994158557],[8.46178796384351,36.73279775031597],[8.45320967618568,36.69765777648524],[8.43036869306076,36.66262115544203],[8.40794112108591,36.64262237622171],[8.28691491698987,36.58340118401748],[8.22231937623826,36.56376414000312],[8.19348392694172,36.54898468149793],[8.16991947430432,36.52583363911123],[8.16789016939583,36.4919949788852],[8.1675431659844,36.4918297392511],[8.15886152463969,36.48769562415379],[8.14160159743579,36.47648183906568],[8.12733890106949,36.46361440757892],[8.10687503385577,36.43917145399945],[8.09628136639202,36.43036062324421],[8.08325890527431,36.42214406989297],[8.06884118017638,36.41545197173116],[8.05488854307185,36.4104910343338],[8.0399540540364,36.40677033128583],[8.02321088987071,36.40413483295623],[8.01297895671354,36.40609853771741],[8.00724287296026,36.41279063587922],[8.00305708191883,36.45901520448814],[7.9878642113643,36.4843883331551],[7.98269656659335,36.49332835511956],[7.97990604043144,36.50084727648067],[7.97851077555191,36.50314687802603],[7.97463504377231,36.50728099222408],[7.96564334496446,36.51221609119972],[7.78487918472666,36.5738402368375],[7.77154666524643,36.58164337813946],[7.76441531661362,36.59174612098673],[7.75878258564785,36.60717153643731],[7.75196129717619,36.61766185201293],[7.74126427602556,36.62882396115691],[7.70793297732507,36.65210419385352],[7.69702924970017,36.65773692481929],[7.64974531389515,36.66339549420672],[7.66431806772471,36.68551300691979],[7.69175825394029,36.71367666354723],[7.70979332839943,36.74550934547995],[7.7155294121527,36.752744046001],[7.72591637494082,36.75879018811673],[7.74731041814135,36.76483633113185],[7.75258141390117,36.77196767796602],[7.75537194186165,36.78338817042777],[7.75738732256696,36.87702586515161],[7.76038455610245,36.88338206652918],[7.76286502390178,36.88658600474037],[7.76953128364187,36.88823965113903],[7.77377917197129,36.88975326590054],[7.80990644582585,36.86815013212293],[7.86646569153851,36.85439687741399],[7.90845787882807,36.8495547548481],[8.04997806123856,36.87759023650028],[8.07300866012162,36.88739655200931],[8.09302819119813,36.90180084843047],[8.23316491053225,36.95807526266327],[8.25114993592086,36.94867584811198],[8.26872806125107,36.93374258035584],[8.28809654971604,36.92593008070872],[8.33326256591471,36.92780182529407],[8.35596764439134,36.92593008070872],[8.3740340503312,36.91844310146803],[8.38884524771004,36.9232445333086],[8.40162194119966,36.91860586167121],[8.41439863378997,36.91022369996381],[8.42872154965983,36.9042015652501],[8.46322675950739,36.9015567085753],[8.49756920735308,36.9042015652501],[8.60189863431458,36.93935781501119],[8.60251042871334,36.93951076361088]]],"type":"Polygon"}
+}

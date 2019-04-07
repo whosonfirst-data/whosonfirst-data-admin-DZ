@@ -1,0 +1,65 @@
+{
+  "id": 1343614499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.83333,35.43333,-0.83333,35.43333",
+    "geom:latitude":35.43333,
+    "geom:longitude":-0.83333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Douar des Zenakra",
+    "gn:country_code":"DZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2499476,
+    "gn:latitude":35.43333,
+    "gn:longitude":-0.83333,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Douar des Zenakra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2499476
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7f86e7840fb3a3bfbb6ba7df573d2857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343614499,
+            "region_id":85670683
+        }
+    ],
+    "wof:id":1343614499,
+    "wof:lastmodified":1537020529,
+    "wof:name":"Douar des Zenakra",
+    "wof:parent_id":85670683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.83333,
+    35.43333,
+    -0.83333,
+    35.43333
+],
+  "geometry": {"coordinates":[-0.83333,35.43333],"type":"Point"}
+}

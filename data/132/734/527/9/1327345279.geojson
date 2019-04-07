@@ -1,0 +1,65 @@
+{
+  "id": 1327345279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.46071,35.21322,5.46071,35.21322",
+    "geom:latitude":35.21322,
+    "geom:longitude":5.46071,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"'Ain ed Defla",
+    "gn:country_code":"DZ",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508210,
+    "gn:latitude":35.21322,
+    "gn:longitude":5.46071,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"\u2019A\u00efn ed Defla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508210
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7a2997b9f6df73d6ca9ada3a6a4968c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327345279,
+            "region_id":85670851
+        }
+    ],
+    "wof:id":1327345279,
+    "wof:lastmodified":1536806336,
+    "wof:name":"'Ain ed Defla",
+    "wof:parent_id":85670851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.46071,
+    35.21322,
+    5.46071,
+    35.21322
+],
+  "geometry": {"coordinates":[5.46071,35.21322],"type":"Point"}
+}

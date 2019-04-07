@@ -1,0 +1,68 @@
+{
+  "id": 1225982971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.88121,36.76111,3.88121,36.76111",
+    "geom:latitude":36.76111,
+    "geom:longitude":3.88121,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kef el Aogab",
+    "gn:country_code":"DZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2492519,
+    "gn:latitude":36.76111,
+    "gn:longitude":3.88121,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kef el Aogab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kef el \u2019Og\u00e2b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2492519
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"55264f4e720e200058a4fe9362c84cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225982971,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1225982971,
+    "wof:lastmodified":1537620180,
+    "wof:name":"Kef el Aogab",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.88121,
+    36.76111,
+    3.88121,
+    36.76111
+],
+  "geometry": {"coordinates":[3.88121,36.76111],"type":"Point"}
+}

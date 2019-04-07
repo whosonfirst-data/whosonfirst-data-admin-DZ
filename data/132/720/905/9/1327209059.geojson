@@ -1,0 +1,65 @@
+{
+  "id": 1327209059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.32701,34.99711,6.32701,34.99711",
+    "geom:latitude":34.99711,
+    "geom:longitude":6.32701,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sidi el Messaoud",
+    "gn:country_code":"DZ",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480495,
+    "gn:latitude":34.99711,
+    "gn:longitude":6.32701,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi el Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480495
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0e7117a876a7fe555c289b2180000dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1327209059,
+            "region_id":85670827
+        }
+    ],
+    "wof:id":1327209059,
+    "wof:lastmodified":1537002626,
+    "wof:name":"Sidi el Messaoud",
+    "wof:parent_id":85670827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.32701,
+    34.99711,
+    6.32701,
+    34.99711
+],
+  "geometry": {"coordinates":[6.32701,34.99711],"type":"Point"}
+}

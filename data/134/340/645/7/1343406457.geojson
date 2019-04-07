@@ -1,0 +1,66 @@
+{
+  "id": 1343406457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.49214,26.93602,1.49214,26.93602",
+    "geom:latitude":26.93602,
+    "geom:longitude":1.49214,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tit",
+    "gn:country_code":"DZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475837,
+    "gn:latitude":26.93602,
+    "gn:longitude":1.49214,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Tit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475837,
+        "wk:page":"Tit%2C_Adrar"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"62f5d9c64b5ae7ee0fed326e30165634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343406457,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1343406457,
+    "wof:lastmodified":1537504265,
+    "wof:name":"Tit",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.49214,
+    26.93602000000001,
+    1.49214,
+    26.93602000000001
+],
+  "geometry": {"coordinates":[1.49214,26.93602000000001],"type":"Point"}
+}

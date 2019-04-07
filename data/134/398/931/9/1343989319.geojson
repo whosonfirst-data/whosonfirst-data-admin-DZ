@@ -1,0 +1,104 @@
+{
+  "id": 1343989319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55599,35.73734,0.55599,35.73734",
+    "geom:latitude":35.73734,
+    "geom:longitude":0.55599,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Relizane",
+    "gn:country_code":"DZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2483668,
+    "gn:latitude":35.73734,
+    "gn:longitude":0.55599,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Relizane",
+    "gn:population":130094,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u063a\u0644\u064a\u0632\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0644\u064a\u0632\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Relizane"
+    ],
+    "name:eng_x_preferred":[
+        "Relizane"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u06cc\u0632\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Relizane"
+    ],
+    "name:ind_x_preferred":[
+        "Relizane"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Relizane"
+    ],
+    "name:por_x_preferred":[
+        "Relizane"
+    ],
+    "name:ron_x_preferred":[
+        "Relizane"
+    ],
+    "name:und_x_variant":[
+        "Ighil Izane",
+        "Relizan",
+        "Relizane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483668,
+        "wk:page":"Relizane"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b2b40e8a54d4957ba89d39f50e3e9c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343989319,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1343989319,
+    "wof:lastmodified":1537620118,
+    "wof:name":"Relizane",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:population":130094,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55599,
+    35.73734,
+    0.55599,
+    35.73734
+],
+  "geometry": {"coordinates":[0.55599,35.73734],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293485305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.22778,35.78748,3.22778,35.78748",
+    "geom:latitude":35.78748,
+    "geom:longitude":3.22778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"'Ain Touta",
+    "gn:country_code":"DZ",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507876,
+    "gn:latitude":35.78748,
+    "gn:longitude":3.22778,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u2019A\u00efn Touta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507876
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"ea61781d97a1cc72ed117d8d1eabe8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293485305,
+            "region_id":85670837
+        }
+    ],
+    "wof:id":1293485305,
+    "wof:lastmodified":1536790628,
+    "wof:name":"'Ain Touta",
+    "wof:parent_id":85670837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.22778,
+    35.78748,
+    3.22778,
+    35.78748
+],
+  "geometry": {"coordinates":[3.22778,35.78748],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1277028439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.54194,35.70583,4.54194,35.70583",
+    "geom:latitude":35.70583,
+    "geom:longitude":4.54194,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"M'Sila",
+    "gn:country_code":"DZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2486690,
+    "gn:latitude":35.70583,
+    "gn:longitude":4.54194,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"M\u2019Sila",
+    "gn:population":100000,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u064a\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "M'Sila"
+    ],
+    "name:und_x_variant":[
+        "M\u2019Sila",
+        "MSila"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2486690,
+        "wk:page":"M%27Sila"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"3f0e39ceedea2851d858d6574fd34403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277028439,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1277028439,
+    "wof:lastmodified":1537620136,
+    "wof:name":"M'Sila",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:population":100000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.54194,
+    35.70583,
+    4.54194,
+    35.70583
+],
+  "geometry": {"coordinates":[4.54194,35.70583],"type":"Point"}
+}

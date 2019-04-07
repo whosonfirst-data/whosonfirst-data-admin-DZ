@@ -1,0 +1,70 @@
+{
+  "id": 1277133699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73881,35.36705,0.73881,35.36705",
+    "geom:latitude":35.36705,
+    "geom:longitude":0.73881,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Douar Khadaid",
+    "gn:country_code":"DZ",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2483529,
+    "gn:latitude":35.36705,
+    "gn:longitude":0.73881,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Khadaid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Rhaded",
+        "Douar Khadaid",
+        "Rhaded"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2483529
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0039d1e3544ac3393b5e1fdfc8c74db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1277133699,
+            "region_id":85670785
+        }
+    ],
+    "wof:id":1277133699,
+    "wof:lastmodified":1537620118,
+    "wof:name":"Douar Khadaid",
+    "wof:parent_id":85670785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73881,
+    35.36705,
+    0.73881,
+    35.36705
+],
+  "geometry": {"coordinates":[0.73881,35.36705],"type":"Point"}
+}

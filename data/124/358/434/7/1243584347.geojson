@@ -1,0 +1,69 @@
+{
+  "id": 1243584347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31622,36.50068,1.31622,36.50068",
+    "geom:latitude":36.50068,
+    "geom:longitude":1.31622,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Vieux Tenes",
+    "gn:country_code":"DZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2475089,
+    "gn:latitude":36.50068,
+    "gn:longitude":1.31622,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vieux T\u00e9n\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Old T\u00e9n\u00e8s",
+        "Vieux T\u00e9n\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2475089
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"fb7e8b3a38b7626a703241677e585591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1243584347,
+            "region_id":85670781
+        }
+    ],
+    "wof:id":1243584347,
+    "wof:lastmodified":1537620092,
+    "wof:name":"Vieux Tenes",
+    "wof:parent_id":85670781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31622,
+    36.50068,
+    1.31622,
+    36.50068
+],
+  "geometry": {"coordinates":[1.31622,36.50068],"type":"Point"}
+}

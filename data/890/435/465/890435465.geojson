@@ -1,0 +1,106 @@
+{
+  "id": 890435465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35434,36.11653,6.35434,36.11653",
+    "geom:latitude":36.11653,
+    "geom:longitude":6.35434,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
+    "gn:pop":51708,
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u0627\u063a\u0645\u0629"
+    ],
+    "name:arq_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u0627\u063a\u0645\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Telerghma"
+    ],
+    "name:eng_x_preferred":[
+        "Telerghma"
+    ],
+    "name:fre_x_preferred":[
+        "Teleghma"
+    ],
+    "name:ita_x_preferred":[
+        "Teleghma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30ec\u30eb\u30b0\u30de"
+    ],
+    "name:may_x_preferred":[
+        "Telerghma"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0644\u0627\u063a\u0645\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Telerghma"
+    ],
+    "name:rum_x_preferred":[
+        "Teleghma"
+    ],
+    "name:swe_x_preferred":[
+        "Telerghma"
+    ],
+    "name:unk_x_variant":[
+        "Telergma"
+    ],
+    "qs:name":"Telerghma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2477255,
+        "gp:id":1256454,
+        "qs:id":1035917,
+        "wd:id":"Q3517295",
+        "wk:page":"Teleghma"
+    },
+    "wof:country":"DZ",
+    "wof:created":1469052068,
+    "wof:geomhash":"32653244c18534fc87f9f3992c42227a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":890435465,
+            "region_id":85670867
+        }
+    ],
+    "wof:id":890435465,
+    "wof:lastmodified":1527793047,
+    "wof:name":"Telerghma",
+    "wof:parent_id":85670867,
+    "wof:placetype":"locality",
+    "wof:population":51708,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35434,
+    36.11653,
+    6.35434,
+    36.11653
+],
+  "geometry": {"coordinates":[6.35434,36.11653],"type":"Point"}
+}

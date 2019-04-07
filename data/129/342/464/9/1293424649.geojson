@@ -1,0 +1,65 @@
+{
+  "id": 1293424649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.63711,35.51732,0.63711,35.51732",
+    "geom:latitude":35.51732,
+    "geom:longitude":0.63711,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Douar Lahssainia",
+    "gn:country_code":"DZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2577149,
+    "gn:latitude":35.51732,
+    "gn:longitude":0.63711,
+    "gn:modification_date":"1996-12-09",
+    "gn:name":"Douar Lahssa\u00efnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2577149
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"61636d495466f35542fb9a400b1d5622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293424649,
+            "region_id":85670791
+        }
+    ],
+    "wof:id":1293424649,
+    "wof:lastmodified":1536876777,
+    "wof:name":"Douar Lahssainia",
+    "wof:parent_id":85670791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.63711,
+    35.51732,
+    0.63711,
+    35.51732
+],
+  "geometry": {"coordinates":[0.63711,35.51732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343399659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.58333,32.1,-1.58333,32.1",
+    "geom:latitude":32.1,
+    "geom:longitude":-1.58333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Djehifet",
+    "gn:country_code":"DZ",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2500031,
+    "gn:latitude":32.1,
+    "gn:longitude":-1.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Djehifet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jehifet",
+        "Djehifet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673923,
+        1108784825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2500031
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"a7ec7dbc7dd14d4d6152b2b05b2015bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784825,
+            "locality_id":1343399659,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":1343399659,
+    "wof:lastmodified":1537620225,
+    "wof:name":"Djehifet",
+    "wof:parent_id":1108784825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.58333,
+    32.1,
+    -1.58333,
+    32.1
+],
+  "geometry": {"coordinates":[-1.58333,32.1],"type":"Point"}
+}

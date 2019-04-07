@@ -1,0 +1,65 @@
+{
+  "id": 1343241575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.09891,35.03932,1.09891,35.03932",
+    "geom:latitude":35.03932,
+    "geom:longitude":1.09891,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mekheref",
+    "gn:country_code":"DZ",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2488525,
+    "gn:latitude":35.03932,
+    "gn:longitude":1.09891,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mekheref",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2488525
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"091c290cb8dd71519744fe7e15867190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343241575,
+            "region_id":85670801
+        }
+    ],
+    "wof:id":1343241575,
+    "wof:lastmodified":1537059661,
+    "wof:name":"Mekheref",
+    "wof:parent_id":85670801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.09891,
+    35.03932,
+    1.09891,
+    35.03932
+],
+  "geometry": {"coordinates":[1.09891,35.03932],"type":"Point"}
+}

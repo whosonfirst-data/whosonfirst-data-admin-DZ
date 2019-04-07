@@ -1,0 +1,66 @@
+{
+  "id": 1343949773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01565,35.75243,-0.01565,35.75243",
+    "geom:latitude":35.75243,
+    "geom:longitude":-0.01565,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Fornaka",
+    "gn:country_code":"DZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496368,
+    "gn:latitude":35.75243,
+    "gn:longitude":-0.01565,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fornaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496368,
+        "wk:page":"Fornaka"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d2a67481cae175452aaaa46be9f0e24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1343949773,
+            "region_id":85670787
+        }
+    ],
+    "wof:id":1343949773,
+    "wof:lastmodified":1537504291,
+    "wof:name":"Fornaka",
+    "wof:parent_id":85670787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01565,
+    35.75243,
+    -0.01565,
+    35.75243
+],
+  "geometry": {"coordinates":[-0.01565,35.75243],"type":"Point"}
+}

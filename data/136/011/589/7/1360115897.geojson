@@ -1,0 +1,65 @@
+{
+  "id": 1360115897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.79369,33.54448,6.79369,33.54448",
+    "geom:latitude":33.54448,
+    "geom:longitude":6.79369,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Sidi Touhami",
+    "gn:country_code":"DZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2479729,
+    "gn:latitude":33.54448,
+    "gn:longitude":6.79369,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Sidi Touhami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2479729
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9ab78912c9422e0d718d0b526b42f0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1360115897,
+            "region_id":85670745
+        }
+    ],
+    "wof:id":1360115897,
+    "wof:lastmodified":1536901337,
+    "wof:name":"Sidi Touhami",
+    "wof:parent_id":85670745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.79369,
+    33.54448,
+    6.79369,
+    33.54448
+],
+  "geometry": {"coordinates":[6.79369,33.54448],"type":"Point"}
+}

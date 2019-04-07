@@ -1,0 +1,71 @@
+{
+  "id": 1293766565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.72753,34.84969,-1.72753,34.84969",
+    "geom:latitude":34.84969,
+    "geom:longitude":-1.72753,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maghnia",
+    "gn:country_code":"DZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2490584,
+    "gn:latitude":34.84969,
+    "gn:longitude":-1.72753,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maghnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marnia",
+        "Lalla Maghnia",
+        "Maghnia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2490584,
+        "wk:page":"Maghnia"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"9d46f717f5d9fb65ebfc5997d4624661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293766565,
+            "region_id":85670695
+        }
+    ],
+    "wof:id":1293766565,
+    "wof:lastmodified":1537620174,
+    "wof:name":"Maghnia",
+    "wof:parent_id":85670695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.72753,
+    34.84969,
+    -1.72753,
+    34.84969
+],
+  "geometry": {"coordinates":[-1.72753,34.84969],"type":"Point"}
+}

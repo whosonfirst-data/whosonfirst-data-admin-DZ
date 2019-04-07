@@ -1,0 +1,78 @@
+{
+  "id": 1293822363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85667,36.85583,3.85667,36.85583",
+    "geom:latitude":36.85583,
+    "geom:longitude":3.85667,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Sidi Daoud",
+    "gn:cc2":"DZ",
+    "gn:country_code":"DZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2480672,
+    "gn:latitude":36.85583,
+    "gn:longitude":3.85667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Daoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062f\u0627\u0648\u062f"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Dawed"
+    ],
+    "name:und_x_variant":[
+        "Bois Sacr\u00e9",
+        "Abbo",
+        "Sidi Daoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2480672,
+        "wk:page":"Sidi_Daoud"
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"7fc1be9b1794be4aaaac7d2a191cd4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1293822363,
+            "region_id":85670765
+        }
+    ],
+    "wof:id":1293822363,
+    "wof:lastmodified":1537620112,
+    "wof:name":"Sidi Daoud",
+    "wof:parent_id":85670765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85667,
+    36.85583,
+    3.85667,
+    36.85583
+],
+  "geometry": {"coordinates":[3.85667,36.85583],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260110819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.85804,36.48414,1.85804,36.48414",
+    "geom:latitude":36.48414,
+    "geom:longitude":1.85804,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Zadra Klilich",
+    "gn:country_code":"DZ",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7514412,
+    "gn:latitude":36.48414,
+    "gn:longitude":1.85804,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Zadra Klilich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7514412
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b96413589ba8329f39a756e59f50f0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1260110819,
+            "region_id":85670771
+        }
+    ],
+    "wof:id":1260110819,
+    "wof:lastmodified":1536949118,
+    "wof:name":"Zadra Klilich",
+    "wof:parent_id":85670771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.85804,
+    36.48414,
+    1.85804,
+    36.48414
+],
+  "geometry": {"coordinates":[1.85804,36.48414],"type":"Point"}
+}

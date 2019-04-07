@@ -1,0 +1,69 @@
+{
+  "id": 1192985239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13869,35.68193,5.13869,35.68193",
+    "geom:latitude":35.68193,
+    "geom:longitude":5.13869,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mechta Ouled Atia",
+    "gn:country_code":"DZ",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489355,
+    "gn:latitude":35.68193,
+    "gn:longitude":5.13869,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mechta Ouled Atia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta Ouled Atla",
+        "Mechta Ouled Atia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489355
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"1dda61f0761a4693fc559bd19823a7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1192985239,
+            "region_id":85670841
+        }
+    ],
+    "wof:id":1192985239,
+    "wof:lastmodified":1537620157,
+    "wof:name":"Mechta Ouled Atia",
+    "wof:parent_id":85670841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13869,
+    35.68193,
+    5.13869,
+    35.68193
+],
+  "geometry": {"coordinates":[5.13869,35.68193],"type":"Point"}
+}

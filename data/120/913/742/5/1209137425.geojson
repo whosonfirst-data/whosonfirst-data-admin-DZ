@@ -1,0 +1,66 @@
+{
+  "id": 1209137425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15,36.53333,6.15,36.53333",
+    "geom:latitude":36.53333,
+    "geom:longitude":6.15,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Aidem",
+    "gn:country_code":"DZ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2508335,
+    "gn:latitude":36.53333,
+    "gn:longitude":6.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u00efdem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dechra A\u00efdem",
+        "Dechret A\u00efdem",
+        "A\u00efdem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2508335
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"4486daf0d7b8dbfa6ad13c183be14ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209137425
+        }
+    ],
+    "wof:id":1209137425,
+    "wof:lastmodified":1537620260,
+    "wof:name":"Aidem",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15,
+    36.53333,
+    6.15,
+    36.53333
+],
+  "geometry": {"coordinates":[6.15,36.53333],"type":"Point"}
+}

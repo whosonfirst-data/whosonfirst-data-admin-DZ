@@ -1,0 +1,65 @@
+{
+  "id": 1209445859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80852,36.35898,4.80852,36.35898",
+    "geom:latitude":36.35898,
+    "geom:longitude":4.80852,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Aourir Ouelmi",
+    "gn:country_code":"DZ",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2506753,
+    "gn:latitude":36.35898,
+    "gn:longitude":4.80852,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aourir Ouelmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aourir Ou Eulmi",
+        "Aourir Ouelmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2506753
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"b0c3aa0b43c5de543f75c400fb7a821e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209445859
+        }
+    ],
+    "wof:id":1209445859,
+    "wof:lastmodified":1537620249,
+    "wof:name":"Aourir Ouelmi",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80852,
+    36.35898,
+    4.80852,
+    36.35898
+],
+  "geometry": {"coordinates":[4.80852,36.35898],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209573705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.36741,36.25718,7.36741,36.25718",
+    "geom:latitude":36.25718,
+    "geom:longitude":7.36741,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mechtat et Toubaga",
+    "gn:country_code":"DZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2489018,
+    "gn:latitude":36.25718,
+    "gn:longitude":7.36741,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mechtat et Toubaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2489018
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"0237fa9c50faf7a2e93a30989a9be802",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209573705
+        }
+    ],
+    "wof:id":1209573705,
+    "wof:lastmodified":1536283004,
+    "wof:name":"Mechtat et Toubaga",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.36741,
+    36.25718,
+    7.36741,
+    36.25718
+],
+  "geometry": {"coordinates":[7.36741,36.25718],"type":"Point"}
+}

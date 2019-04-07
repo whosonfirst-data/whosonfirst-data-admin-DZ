@@ -1,0 +1,65 @@
+{
+  "id": 1225998547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31952,29.38864,0.31952,29.38864",
+    "geom:latitude":29.38864,
+    "geom:longitude":0.31952,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Feraoun",
+    "gn:country_code":"DZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2496574,
+    "gn:latitude":29.38864,
+    "gn:longitude":0.31952,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Feraoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2496574
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"5991c97ce1c6e7c0b1e4d97a3f59ad0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632451,
+            "locality_id":1225998547,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":1225998547,
+    "wof:lastmodified":1536793616,
+    "wof:name":"Feraoun",
+    "wof:parent_id":85670677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31952,
+    29.38864,
+    0.31952,
+    29.38864
+],
+  "geometry": {"coordinates":[0.31952,29.38864],"type":"Point"}
+}

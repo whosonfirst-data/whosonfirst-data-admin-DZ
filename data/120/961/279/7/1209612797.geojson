@@ -1,0 +1,61 @@
+{
+  "id": 1209612797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48931,36.13922,3.48931,36.13922",
+    "geom:latitude":36.13922,
+    "geom:longitude":3.48931,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bled el Hamadia",
+    "gn:country_code":"DZ",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281468,
+    "gn:latitude":36.13922,
+    "gn:longitude":3.48931,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bled el Hamadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281468
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"33927a6d81e75edae0db4a82a8ef5392",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209612797
+        }
+    ],
+    "wof:id":1209612797,
+    "wof:lastmodified":1536281792,
+    "wof:name":"Bled el Hamadia",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48931,
+    36.13922,
+    3.48931,
+    36.13922
+],
+  "geometry": {"coordinates":[3.48931,36.13922],"type":"Point"}
+}

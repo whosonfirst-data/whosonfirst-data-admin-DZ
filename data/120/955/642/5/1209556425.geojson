@@ -1,0 +1,61 @@
+{
+  "id": 1209556425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34134,29.66951,0.34134,29.66951",
+    "geom:latitude":29.66951,
+    "geom:longitude":0.34134,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Anguellou",
+    "gn:country_code":"DZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2507011,
+    "gn:latitude":29.66951,
+    "gn:longitude":0.34134,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Anguellou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"DZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2507011
+    },
+    "wof:country":"DZ",
+    "wof:geomhash":"d8a68236cda138874531b9c00e233101",
+    "wof:hierarchy":[
+        {
+            "country_id":85632451,
+            "locality_id":1209556425
+        }
+    ],
+    "wof:id":1209556425,
+    "wof:lastmodified":1536283531,
+    "wof:name":"Anguellou",
+    "wof:parent_id":85632451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34134000000000003,
+    29.66951,
+    0.34134000000000003,
+    29.66951
+],
+  "geometry": {"coordinates":[0.34134,29.66951],"type":"Point"}
+}
