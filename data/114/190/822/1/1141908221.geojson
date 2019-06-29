@@ -17,7 +17,7 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0628\u0627\u062f\u0644\u0629"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Abadla"
     ],
     "name:eng_x_preferred":[
@@ -29,10 +29,10 @@
     "name:est_x_preferred":[
         "Abadla"
     ],
-    "name:fre_x_preferred":[
-        "Abadla"
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0627\u062f\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Abadla"
     ],
     "name:ita_x_preferred":[
@@ -41,14 +41,14 @@
     "name:kab_x_preferred":[
         "\u0190badla"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Abadla"
     ],
     "name:nan_x_preferred":[
         "Abadla"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0628\u0627\u062f\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Abadla"
     ],
     "name:pol_x_preferred":[
         "Abadla"
@@ -56,7 +56,7 @@
     "name:por_x_preferred":[
         "Abadla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Abadla"
     ],
     "name:vie_x_preferred":[
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1141908221,
-    "wof:lastmodified":1513955994,
+    "wof:lastmodified":1561791151,
     "wof:name":"Abadla",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

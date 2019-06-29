@@ -15,29 +15,23 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ain Temouchent"
-    ],
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
     ],
     "name:cat_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u56e0\u6cf0\u7a46\u5c1a\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "A\u00efn T\u00e9mouchent"
+    "name:ell_x_preferred":[
+        "\u0391\u0390\u03bd \u03a4\u03b5\u03bc\u03bf\u03c5\u03c7\u03ad\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
-    "name:fre_x_preferred":[
-        "A\u00efn T\u00e9mouchent"
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u0390\u03bd \u03a4\u03b5\u03bc\u03bf\u03c5\u03c7\u03ad\u03bd\u03c4"
+    "name:fra_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
     ],
     "name:ita_x_preferred":[
         "\u02bfAyn Tem\u016bshent"
@@ -48,17 +42,17 @@
     "name:lit_x_preferred":[
         "Ain Temu\u0161entas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
     "name:nan_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    "name:nob_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
     ],
     "name:pnb_x_preferred":[
         "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
@@ -69,7 +63,7 @@
     "name:por_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
     "name:rus_x_preferred":[
@@ -77,6 +71,9 @@
     ],
     "name:spa_x_preferred":[
         "A\u00efn T\u00e9mouchent"
+    ],
+    "name:sqi_x_preferred":[
+        "Ain Temouchent"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043d-\u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
@@ -92,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "A\u00efn T\u00e9mouchent"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u6cf0\u7a46\u5c1a\u7279"
     ],
     "qs:name":"\u2019A\u00efn Temouchent",
     "qs:photos_9r":0,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":890432335,
-    "wof:lastmodified":1527793039,
+    "wof:lastmodified":1561791106,
     "wof:name":"\u2019A\u00efn Temouchent",
     "wof:parent_id":85670683,
     "wof:placetype":"locality",

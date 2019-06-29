@@ -25,9 +25,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:alb_x_preferred":[
-        "Ain Defla"
-    ],
     "name:ara_x_preferred":[
         "Ain Defla",
         "\u0648\u0644\u0627\u064a\u0629 \u0639\u064a\u0646 \u0627\u0644\u062f\u0641\u0644\u0649"
@@ -50,17 +47,14 @@
     "name:ceb_x_preferred":[
         "Wilaya de A\u00efn Defla"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u56e0\u8fea\u592b\u62c9\u7701"
-    ],
     "name:dan_x_preferred":[
         "A\u00efn Defla"
     ],
     "name:deu_x_preferred":[
         "Ain Defla"
     ],
-    "name:dut_x_preferred":[
-        "A\u00efn Defla"
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03bd \u039d\u03c4\u03ad\u03c6\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "A\u00efn Defla Province"
@@ -72,23 +66,17 @@
     "name:epo_x_preferred":[
         "Provinco Ajn Defla"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0639\u06cc\u0646 \u0627\u0644\u062f\u0641\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "A\u00efn Deflan provinssi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "wilaya de A\u00efn Defla"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10dc-\u10d3\u10d4\u10e4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ain Defla"
     ],
     "name:glg_x_preferred":[
         "Provincia de A\u00efn Defla"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03ca\u03bd \u039d\u03c4\u03ad\u03c6\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8 \u0aa1\u0ac7\u0aab\u0acd\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -111,6 +99,9 @@
     "name:kan_x_preferred":[
         "\u0c8f\u0ca8\u0ccd \u0ca1\u0cc6\u0cab\u0ccd\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10dc-\u10d3\u10d4\u10e4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc778\ub370\ud50c\ub77c \uc8fc"
     ],
@@ -126,17 +117,17 @@
     "name:mar_x_preferred":[
         "\u0910\u0928 \u0921\u093f\u092b\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah A\u00efn Defla"
     ],
     "name:nan_x_preferred":[
         "A\u00efn Defla S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "A\u00efn Defla"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0639\u06cc\u0646 \u0627\u0644\u062f\u0641\u0644\u06cc"
+    "name:nob_x_preferred":[
+        "A\u00efn Defla"
     ],
     "name:pol_x_preferred":[
         "Prowincja Ajn ad-Dafla"
@@ -144,7 +135,7 @@
     "name:por_x_preferred":[
         "A\u00efn Defla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia A\u00efn Defla"
     ],
     "name:rus_x_preferred":[
@@ -158,6 +149,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de A\u00edn Defla"
+    ],
+    "name:sqi_x_preferred":[
+        "Ain Defla"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0458\u043d \u0414\u0435\u043b\u0444\u0430"
@@ -200,6 +194,9 @@
     ],
     "name:war_x_preferred":[
         "A\u00efn Defla"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u8fea\u592b\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -324,7 +321,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550365,
+    "wof:lastmodified":1561791033,
     "wof:name":"A\u00efn Defla",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u0639\u0646\u0627\u0628\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u0576\u0561\u0562\u0561"
-    ],
     "name:arq_x_preferred":[
         "\u0639\u0646\u0627\u0628\u0629"
-    ],
-    "name:baq_x_preferred":[
-        "Annaba"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09a8\u09be\u09ac\u09be"
@@ -46,10 +40,10 @@
     "name:cat_x_preferred":[
         "Annaba"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u7eb3\u5df4"
+    "name:ces_x_preferred":[
+        "Annaba"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Annaba"
     ],
     "name:dan_x_preferred":[
@@ -58,8 +52,8 @@
     "name:deu_x_preferred":[
         "Annaba"
     ],
-    "name:dut_x_preferred":[
-        "Annaba"
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Annaba"
@@ -68,6 +62,9 @@
         "Anaba"
     ],
     "name:est_x_preferred":[
+        "Annaba"
+    ],
+    "name:eus_x_preferred":[
         "Annaba"
     ],
     "name:fas_x_preferred":[
@@ -85,17 +82,8 @@
     "name:fra_x_variant":[
         "Annaba"
     ],
-    "name:fre_x_preferred":[
-        "Annaba"
-    ],
-    "name:ger_x_preferred":[
-        "Annaba"
-    ],
     "name:glg_x_preferred":[
         "Annaba - \u0633\u064a\u0627\u062d\u0629"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa8\u0acd\u0aa8\u0abe\u0aac\u0abe"
@@ -142,17 +130,14 @@
     "name:lit_x_preferred":[
         "Anaba"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043d\u0430\u0431\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0928\u094d\u200d\u0928\u093e\u092c\u093e"
     ],
-    "name:may_x_preferred":[
-        "Annaba"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043d\u0430\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Annaba"
     ],
     "name:nan_x_preferred":[
         "Annaba"
@@ -169,9 +154,6 @@
     "name:oci_x_preferred":[
         "Annaba"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0646\u0627\u0628\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0639\u0646\u0627\u0628\u06c1"
     ],
@@ -182,9 +164,6 @@
         "Annaba"
     ],
     "name:ron_x_preferred":[
-        "Annaba"
-    ],
-    "name:rum_x_preferred":[
         "Annaba"
     ],
     "name:rus_x_preferred":[
@@ -242,9 +221,6 @@
         "Annaba"
     ],
     "name:war_x_preferred":[
-        "Annaba"
-    ],
-    "name:wel_x_preferred":[
         "Annaba"
     ],
     "name:zho_x_preferred":[
@@ -373,7 +349,7 @@
         }
     ],
     "wof:id":890440139,
-    "wof:lastmodified":1527727107,
+    "wof:lastmodified":1561791101,
     "wof:name":"Annaba",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

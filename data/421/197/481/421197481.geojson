@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Bougaa"
     ],
-    "name:dut_x_preferred":[
-        "Bougaa"
-    ],
     "name:eng_x_preferred":[
         "Bougaa"
     ],
-    "name:fra_x_preferred":[
-        "Bougaa"
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0642\u0627\u0639\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bougaa"
     ],
     "name:ita_x_preferred":[
@@ -37,16 +34,13 @@
     "name:kab_x_preferred":[
         "Buge\u025b\u025ba"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0642\u0627\u0639\u0647"
+    "name:nld_x_preferred":[
+        "Bougaa"
     ],
     "name:por_x_preferred":[
         "Bougaa"
     ],
     "name:ron_x_preferred":[
-        "Bougaa"
-    ],
-    "name:rum_x_preferred":[
         "Bougaa"
     ],
     "name:swe_x_preferred":[
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":421197481,
-    "wof:lastmodified":1527716405,
+    "wof:lastmodified":1561791097,
     "wof:name":"Bougaa",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

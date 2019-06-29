@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Bougara"
     ],
-    "name:dut_x_preferred":[
-        "Bougara"
-    ],
     "name:eng_x_preferred":[
         "Bougara"
     ],
     "name:fra_x_preferred":[
-        "Bougara"
-    ],
-    "name:fre_x_preferred":[
         "Bougara"
     ],
     "name:ita_x_preferred":[
@@ -40,19 +34,16 @@
     "name:kab_x_preferred":[
         "Bugerra"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bougara"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Bougara"
     ],
     "name:por_x_preferred":[
         "Bougara"
     ],
     "name:ron_x_preferred":[
-        "Bougara"
-    ],
-    "name:rum_x_preferred":[
         "Bougara"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +107,7 @@
         }
     ],
     "wof:id":421167727,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1561791092,
     "wof:name":"Bougara",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

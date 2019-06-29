@@ -22,31 +22,31 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0628\u0633\u062a"
     ],
-    "name:dut_x_preferred":[
-        "Tebesbest"
-    ],
     "name:eng_x_preferred":[
         "Tebesbest"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0633\u0628\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Tebesbest"
     ],
     "name:ita_x_preferred":[
         "Tebesbest"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tebesbest"
     ],
     "name:nan_x_preferred":[
         "Tebesbest"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0628\u0633\u0628\u0633\u062a"
+    "name:nld_x_preferred":[
+        "Tebesbest"
     ],
     "name:por_x_preferred":[
         "Tebesbest"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tebesbest"
     ],
     "name:spa_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125768517,
-    "wof:lastmodified":1513956095,
+    "wof:lastmodified":1561791109,
     "wof:name":"Tebesbest",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

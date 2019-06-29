@@ -43,17 +43,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mila"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u62c9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Mila Province"
     ],
     "name:deu_x_preferred":[
         "Mila"
     ],
-    "name:dut_x_preferred":[
-        "Mila"
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mila"
@@ -64,26 +61,20 @@
     "name:epo_x_preferred":[
         "Provinco Mila"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Milan provinssi"
     ],
     "name:fra_x_preferred":[
         "Mila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya de Mila"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mila"
     ],
     "name:glg_x_preferred":[
         "Provincia de Mila"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -109,6 +100,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubc00\ub77c \uc8fc"
     ],
@@ -124,11 +118,11 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Mila"
-    ],
     "name:msa_x_preferred":[
         "Mila"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah Mila"
     ],
     "name:nan_x_preferred":[
         "Mila S\u00e9ng"
@@ -142,9 +136,6 @@
     "name:oci_x_preferred":[
         "Mila"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u0644\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u06cc\u0644\u06c1"
     ],
@@ -157,7 +148,7 @@
     "name:ron_x_preferred":[
         "Mila"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Mila"
     ],
     "name:rus_x_preferred":[
@@ -213,6 +204,9 @@
     ],
     "name:war_x_preferred":[
         "Mila"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -337,7 +331,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550374,
+    "wof:lastmodified":1561791030,
     "wof:name":"Mila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

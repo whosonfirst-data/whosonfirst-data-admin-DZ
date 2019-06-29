@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Tamalous"
     ],
-    "name:dut_x_preferred":[
-        "Tamalous"
-    ],
     "name:eng_x_preferred":[
         "Tamalous"
     ],
-    "name:fra_x_preferred":[
-        "Tamalous"
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0627\u0644\u0648\u0633"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tamalous"
     ],
     "name:ita_x_preferred":[
@@ -37,22 +34,16 @@
     "name:kab_x_preferred":[
         "Tamalus"
     ],
-    "name:may_x_preferred":[
-        "Tamalous"
-    ],
     "name:msa_x_preferred":[
         "Tamalous"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u0627\u0644\u0648\u0633"
+    "name:nld_x_preferred":[
+        "Tamalous"
     ],
     "name:por_x_preferred":[
         "Tamalous"
     ],
     "name:ron_x_preferred":[
-        "Tamalous"
-    ],
-    "name:rum_x_preferred":[
         "Tamalous"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421180069,
-    "wof:lastmodified":1527716241,
+    "wof:lastmodified":1561791094,
     "wof:name":"Tamalous",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

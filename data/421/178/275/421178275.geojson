@@ -23,23 +23,20 @@
     "name:ceb_x_preferred":[
         "Ain Sefra"
     ],
-    "name:dut_x_preferred":[
-        "A\u00efn Sefra"
+    "name:deu_x_preferred":[
+        "A\u00efn S\u00e9fra"
     ],
     "name:eng_x_preferred":[
         "A\u00efn S\u00e9fra"
     ],
-    "name:fra_x_preferred":[
-        "A\u00efn Sefra"
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0635\u0641\u0631\u0627\u0621"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00efn Sefra"
     ],
     "name:fry_x_preferred":[
         "A\u00efn Sefra"
-    ],
-    "name:ger_x_preferred":[
-        "A\u00efn S\u00e9fra"
     ],
     "name:ita_x_preferred":[
         "A\u00efn S\u00e9fra"
@@ -50,22 +47,16 @@
     "name:lit_x_preferred":[
         "Ain Sefra"
     ],
-    "name:may_x_preferred":[
-        "A\u00efn S\u00e9fra"
-    ],
     "name:msa_x_preferred":[
         "A\u00efn S\u00e9fra"
     ],
     "name:nld_x_preferred":[
         "A\u00efn Sefra"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u06cc\u0646 \u0635\u0641\u0631\u0627\u0621"
-    ],
     "name:por_x_preferred":[
         "A\u00efn S\u00e9fra"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "A\u00efn S\u00e9fra"
     ],
     "name:rus_x_preferred":[
@@ -218,7 +209,7 @@
         }
     ],
     "wof:id":421178275,
-    "wof:lastmodified":1527717720,
+    "wof:lastmodified":1561791099,
     "wof:name":"Ain Sefra",
     "wof:parent_id":85670707,
     "wof:placetype":"locality",

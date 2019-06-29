@@ -26,14 +26,14 @@
     "name:cat_x_preferred":[
         "Djelfa"
     ],
-    "name:chi_x_preferred":[
-        "\u6770\u52d2\u6cd5"
-    ],
     "name:dan_x_preferred":[
         "Djelfa"
     ],
-    "name:dut_x_preferred":[
-        "Djelfa"
+    "name:deu_x_preferred":[
+        "El Djelfa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ad\u03bb\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Djelfa"
@@ -41,17 +41,14 @@
     "name:epo_x_preferred":[
         "\u011celfa"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Djelfa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Djelfa"
-    ],
-    "name:ger_x_preferred":[
-        "El Djelfa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ad\u03bb\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0ab2\u0acd\u0aab\u0abe"
@@ -86,17 +83,17 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0932\u094d\u092b\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Djelfa"
     ],
     "name:nan_x_preferred":[
         "Djelfa"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Djelfa"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062c\u0641\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "Djelfa"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0644\u0641\u06c1"
@@ -107,7 +104,7 @@
     "name:por_x_preferred":[
         "Djelfa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Djelfa"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +145,9 @@
     ],
     "name:war_x_preferred":[
         "Djelfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u52d2\u6cd5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -266,7 +266,7 @@
         }
     ],
     "wof:id":1141909133,
-    "wof:lastmodified":1513956034,
+    "wof:lastmodified":1561791150,
     "wof:name":"Djelfa",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

@@ -17,41 +17,38 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u0627\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Bexar"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0995\u09b9\u09be\u09b0"
     ],
     "name:cat_x_preferred":[
         "B\u00e9char"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u6c99\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u00e9char"
     ],
     "name:dan_x_preferred":[
         "B\u00e9char"
     ],
-    "name:dut_x_preferred":[
-        "B\u00e9char"
+    "name:deu_x_preferred":[
+        "Bechar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "B\u00e9char"
     ],
+    "name:eus_x_preferred":[
+        "Bexar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0627\u0631\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "B\u00e9char"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "B\u00e9char"
-    ],
-    "name:ger_x_preferred":[
-        "Bechar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c3\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9a\u0ab0"
@@ -86,17 +83,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0915\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "B\u00e9char"
     ],
     "name:nan_x_preferred":[
         "B\u00e9char"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "B\u00e9char"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0634\u0627\u0631\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "B\u00e9char"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0634\u0627\u0631"
@@ -107,7 +104,7 @@
     "name:por_x_preferred":[
         "B\u00e9char"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "B\u00e9char"
     ],
     "name:rus_x_preferred":[
@@ -151,6 +148,9 @@
     ],
     "name:war_x_preferred":[
         "B\u00e9char"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u6c99\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -269,7 +269,7 @@
         }
     ],
     "wof:id":1141909123,
-    "wof:lastmodified":1513956009,
+    "wof:lastmodified":1561791150,
     "wof:name":"Bechar",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

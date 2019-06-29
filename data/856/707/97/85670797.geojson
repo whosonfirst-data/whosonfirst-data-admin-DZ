@@ -47,17 +47,14 @@
     "name:ceb_x_preferred":[
         "Wilaya de Sa\u00efda"
     ],
-    "name:chi_x_preferred":[
-        "\u8d5b\u4f0a\u8fbe\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sa\u00efda Province"
     ],
     "name:deu_x_preferred":[
         "Saida"
     ],
-    "name:dut_x_preferred":[
-        "Sa\u00efda"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b9\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Saida Province"
@@ -76,20 +73,11 @@
     "name:fin_x_preferred":[
         "Sa\u00efdan maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "wilaya de Sa\u00efda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d8\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Saida"
     ],
     "name:glg_x_preferred":[
         "Provincia de Sa\u00efda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03b9\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0a88\u0aa6\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -112,6 +100,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc8\u0ca6\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d8\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc774\ub2e4 \uc8fc"
     ],
@@ -127,17 +118,17 @@
     "name:mar_x_preferred":[
         "\u0938\u0908\u0926\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saida Province"
     ],
     "name:nan_x_preferred":[
         "Sa\u00efda S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Sa\u00efda"
+    ],
     "name:nob_x_preferred":[
         "Saida"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0639\u06cc\u062f\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0639\u06cc\u062f\u06c1"
@@ -148,7 +139,7 @@
     "name:por_x_preferred":[
         "Sa\u00efda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Sa\u00efda"
     ],
     "name:rus_x_preferred":[
@@ -204,6 +195,9 @@
     ],
     "name:war_x_preferred":[
         "Sa\u00efda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d5b\u4f0a\u8fbe\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -328,7 +322,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550365,
+    "wof:lastmodified":1561791033,
     "wof:name":"Sa\u00efda",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

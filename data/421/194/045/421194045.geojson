@@ -22,29 +22,23 @@
     "name:ceb_x_preferred":[
         "Aflou"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u592b\u5362"
-    ],
     "name:dan_x_preferred":[
         "Aflou"
     ],
-    "name:dut_x_preferred":[
-        "Aflou"
+    "name:ell_x_preferred":[
+        "\u0386\u03c6\u03bb\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Aflou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0641\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Aflou"
     ],
     "name:fra_x_preferred":[
         "Aflou"
-    ],
-    "name:fre_x_preferred":[
-        "Aflou"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c6\u03bb\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aab\u0acd\u0ab2\u0acb\u0a89"
@@ -82,13 +76,13 @@
     "name:mar_x_preferred":[
         "\u0905\u092b\u094d\u0932\u094b\u090a"
     ],
-    "name:may_x_preferred":[
-        "Aflou"
-    ],
     "name:msa_x_preferred":[
         "Aflou"
     ],
     "name:nan_x_preferred":[
+        "Aflou"
+    ],
+    "name:nld_x_preferred":[
         "Aflou"
     ],
     "name:nno_x_preferred":[
@@ -97,9 +91,6 @@
     "name:nob_x_preferred":[
         "Aflou"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0641\u0644\u0648"
-    ],
     "name:pol_x_preferred":[
         "Aflu"
     ],
@@ -107,9 +98,6 @@
         "Aflou"
     ],
     "name:ron_x_preferred":[
-        "Aflou"
-    ],
-    "name:rum_x_preferred":[
         "Aflou"
     ],
     "name:rus_x_preferred":[
@@ -205,7 +193,7 @@
         }
     ],
     "wof:id":421194045,
-    "wof:lastmodified":1527716134,
+    "wof:lastmodified":1561791091,
     "wof:name":"Aflou",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

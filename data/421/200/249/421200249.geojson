@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Tirmitine"
     ],
-    "name:dut_x_preferred":[
-        "Tirmitine"
-    ],
     "name:eng_x_preferred":[
         "Tirmitine"
     ],
     "name:fra_x_preferred":[
-        "Tirmitine"
-    ],
-    "name:fre_x_preferred":[
         "Tirmitine"
     ],
     "name:ita_x_preferred":[
@@ -37,13 +31,13 @@
     "name:kab_x_preferred":[
         "Tirmitin"
     ],
+    "name:nld_x_preferred":[
+        "Tirmitine"
+    ],
     "name:por_x_preferred":[
         "Tirmitine"
     ],
     "name:ron_x_preferred":[
-        "Tirmitine"
-    ],
-    "name:rum_x_preferred":[
         "Tirmitine"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":421200249,
-    "wof:lastmodified":1527716427,
+    "wof:lastmodified":1561791098,
     "wof:name":"Tirmitine",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

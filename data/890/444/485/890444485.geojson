@@ -28,17 +28,14 @@
     "name:cat_x_preferred":[
         "Laghouat"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u683c\u74e6\u7279"
-    ],
     "name:dan_x_preferred":[
         "Laghouat"
     ],
     "name:deu_x_preferred":[
         "Laghouat"
     ],
-    "name:dut_x_preferred":[
-        "Laghouat"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Laghouat"
@@ -51,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Laghouat"
-    ],
-    "name:fre_x_preferred":[
-        "Laghouat"
-    ],
-    "name:ger_x_preferred":[
-        "Laghouat"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a98\u0ac1\u0a85\u0a9f"
@@ -94,17 +82,17 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u0901\u0917\u090a\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Laghouat"
     ],
     "name:nan_x_preferred":[
         "Laghouat"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Laghouat"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0627\u063a\u0648\u0627\u0637\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "Laghouat"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u063a\u0648\u0627\u0637"
@@ -116,9 +104,6 @@
         "Laghouat"
     ],
     "name:ron_x_preferred":[
-        "Laghouat"
-    ],
-    "name:rum_x_preferred":[
         "Laghouat"
     ],
     "name:rus_x_preferred":[
@@ -289,7 +274,7 @@
         }
     ],
     "wof:id":890444485,
-    "wof:lastmodified":1527782129,
+    "wof:lastmodified":1561791103,
     "wof:name":"Laghouat",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

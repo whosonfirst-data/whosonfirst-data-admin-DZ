@@ -31,10 +31,7 @@
     "name:bre_x_preferred":[
         "Guelma"
     ],
-    "name:chi_x_preferred":[
-        "\u76d6\u52d2\u9a6c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Guelma"
     ],
     "name:dan_x_preferred":[
@@ -43,8 +40,8 @@
     "name:deu_x_preferred":[
         "Guelma"
     ],
-    "name:dut_x_preferred":[
-        "Guelma"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ad\u03bb\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Guelma"
@@ -60,15 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Guelma"
-    ],
-    "name:fre_x_preferred":[
-        "Guelma"
-    ],
-    "name:ger_x_preferred":[
-        "Guelma"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03ad\u03bb\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac7\u0ab2\u0aae\u0abe"
@@ -109,17 +97,17 @@
     "name:mar_x_preferred":[
         "\u0917\u0947\u0932\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Guelma"
     ],
     "name:nan_x_preferred":[
         "Guelma"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Guelma"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0644\u0645\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "Guelma"
     ],
     "name:pnb_x_preferred":[
         "\u0642\u0627\u0644\u0645\u06c1"
@@ -131,9 +119,6 @@
         "Guelma"
     ],
     "name:ron_x_preferred":[
-        "Guelma"
-    ],
-    "name:rum_x_preferred":[
         "Guelma"
     ],
     "name:rus_x_preferred":[
@@ -212,7 +197,7 @@
         }
     ],
     "wof:id":1125915157,
-    "wof:lastmodified":1534379289,
+    "wof:lastmodified":1561791109,
     "wof:name":"Guelma",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

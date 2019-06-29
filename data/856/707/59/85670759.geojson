@@ -44,17 +44,14 @@
     "name:ceb_x_preferred":[
         "Ouargla"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5c14\u683c\u62c9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ouargla Province"
     ],
     "name:deu_x_preferred":[
         "Ouargla"
     ],
-    "name:dut_x_preferred":[
-        "Ouargla"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ad\u03c1\u03b3\u03ba\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ouargla"
@@ -68,26 +65,20 @@
     "name:fas_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0642\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Ouargla"
     ],
     "name:fra_x_preferred":[
         "Ouargla"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya d'Ouargla"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10e0\u10d2\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ouargla"
     ],
     "name:glg_x_preferred":[
         "Provincia de Ouargla"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03ad\u03c1\u03b3\u03ba\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a94\u0a86\u0ab0\u0acd\u0a97\u0acd\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0c93\u0cb0\u0ccd\u0c97\u0cbe\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10e0\u10d2\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0423\u0430\u0440\u0433\u043b\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -125,11 +119,11 @@
     "name:mar_x_preferred":[
         "\u0914\u0905\u0930\u094d\u0917\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Ouargla"
-    ],
     "name:msa_x_preferred":[
         "Ouargla"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah Ouargla"
     ],
     "name:nan_x_preferred":[
         "Ouargla S\u00e9ng"
@@ -139,9 +133,6 @@
     ],
     "name:nob_x_preferred":[
         "Ouargla"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0631\u0642\u0644\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0631\u0642\u0644\u06c1"
@@ -155,7 +146,7 @@
     "name:ron_x_preferred":[
         "Ouargla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Ouargla"
     ],
     "name:rus_x_preferred":[
@@ -217,6 +208,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5c14\u683c\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u5c14\u683c\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -344,7 +338,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550366,
+    "wof:lastmodified":1561791032,
     "wof:name":"Ouargla",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

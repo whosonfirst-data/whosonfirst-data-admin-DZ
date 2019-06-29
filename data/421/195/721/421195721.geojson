@@ -19,9 +19,6 @@
     "name:ara_x_variant":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0633\u0643\u0631\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Biskra"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b8\u0995\u09cd\u09b0\u09be"
     ],
@@ -34,10 +31,7 @@
     "name:cat_x_preferred":[
         "Biskra"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u65af\u514b\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Biskra"
     ],
     "name:dan_x_preferred":[
@@ -46,8 +40,8 @@
     "name:deu_x_preferred":[
         "Biskra"
     ],
-    "name:dut_x_preferred":[
-        "Biskra"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03c3\u03ba\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Biskra"
@@ -55,23 +49,20 @@
     "name:epo_x_preferred":[
         "Biskra"
     ],
+    "name:eus_x_preferred":[
+        "Biskra"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0633\u06a9\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0633\u06a9\u0631\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Biskra"
     ],
     "name:fra_x_preferred":[
         "Biskra"
-    ],
-    "name:fre_x_preferred":[
-        "Biskra"
-    ],
-    "name:ger_x_preferred":[
-        "Biskra"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03af\u03c3\u03ba\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab8\u0acd\u0a95\u0acd\u0ab0\u0acd\u0ab0\u0abe"
@@ -109,17 +100,17 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0938\u0915\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Biskra"
     ],
     "name:nan_x_preferred":[
         "Biskra"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Biskra"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0633\u06a9\u0631\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "Biskra"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0633\u06a9\u0631\u06c1"
@@ -131,9 +122,6 @@
         "Biskra"
     ],
     "name:ron_x_preferred":[
-        "Biskra"
-    ],
-    "name:rum_x_preferred":[
         "Biskra"
     ],
     "name:rus_x_preferred":[
@@ -222,7 +210,7 @@
         }
     ],
     "wof:id":421195721,
-    "wof:lastmodified":1513956112,
+    "wof:lastmodified":1561791091,
     "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0633\u0643\u0631\u0629",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

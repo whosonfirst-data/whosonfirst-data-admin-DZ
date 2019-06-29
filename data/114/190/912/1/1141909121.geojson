@@ -20,13 +20,10 @@
     "name:cat_x_preferred":[
         "Adrar"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5fb7\u62c9\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Adrar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Adrar"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +35,13 @@
     "name:est_x_preferred":[
         "Adrar"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0631\u0627\u0631\u060c \u0627\u0644\u062c\u06cc\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Adrar"
     ],
-    "name:fre_x_preferred":[
-        "Adrar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Adrar"
     ],
     "name:glg_x_preferred":[
@@ -62,17 +59,17 @@
     "name:lit_x_preferred":[
         "Adraras"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Adrar"
     ],
     "name:nan_x_preferred":[
         "Adrar"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Adrar"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062f\u0631\u0627\u0631\u060c \u0627\u0644\u062c\u06cc\u0631\u0647"
+    "name:nob_x_preferred":[
+        "Adrar"
     ],
     "name:pol_x_preferred":[
         "Adrar"
@@ -80,7 +77,7 @@
     "name:por_x_preferred":[
         "Adrar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Adrar"
     ],
     "name:rus_x_preferred":[
@@ -103,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Adrar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5fb7\u62c9\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":1141909121,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1561791150,
     "wof:name":"Adrar",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

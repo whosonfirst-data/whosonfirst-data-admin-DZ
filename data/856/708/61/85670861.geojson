@@ -47,14 +47,14 @@
     "name:ceb_x_preferred":[
         "Khenchela"
     ],
-    "name:chi_x_preferred":[
-        "\u6c49\u820d\u83b1\u7701"
-    ],
     "name:dan_x_preferred":[
         "Khenchela"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Khenchela"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bd\u03c3\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Khenchela"
@@ -68,26 +68,20 @@
     "name:fas_x_preferred":[
         "\u062e\u0646\u0634\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0646\u0634\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Khenchelan l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
         "Khenchela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya de Khenchela"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d4\u10dc\u10e8\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Khenchela"
     ],
     "name:glg_x_preferred":[
         "Provincia de Khenchela"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b5\u03bd\u03c3\u03ad\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac7\u0a82\u0a9a\u0ac7\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -110,6 +104,9 @@
     "name:kan_x_preferred":[
         "\u0c96\u0cc6\u0c82\u0c9a\u0cc6\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10dc\u10e8\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0435\u043d\u0448\u0435\u043b\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -128,11 +125,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0902\u0916\u0947\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Khenchela"
-    ],
     "name:msa_x_preferred":[
         "Khenchela"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah Khenchela"
     ],
     "name:nan_x_preferred":[
         "Khenchela S\u00e9ng"
@@ -146,9 +143,6 @@
     "name:nor_x_preferred":[
         "Khenchela"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0646\u0634\u0644\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u062e\u0646\u0634\u0644\u06c1"
     ],
@@ -161,7 +155,7 @@
     "name:ron_x_preferred":[
         "Khenchela"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Khenchela"
     ],
     "name:rus_x_preferred":[
@@ -220,6 +214,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6c49\u820d\u83b1"
+    ],
+    "name:zho_x_variant":[
+        "\u6c49\u820d\u83b1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -346,7 +343,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550377,
+    "wof:lastmodified":1561791030,
     "wof:name":"Khenchela",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

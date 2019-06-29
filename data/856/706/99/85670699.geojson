@@ -25,15 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:alb_x_preferred":[
-        "Bechar"
-    ],
     "name:ara_x_preferred":[
         "Bechar",
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0634\u0627\u0631"
-    ],
-    "name:baq_x_preferred":[
-        "Bexar probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0435\u0448\u0430\u0440"
@@ -53,17 +47,17 @@
     "name:ceb_x_preferred":[
         "Wilaya de B\u00e9char"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u6c99\u5c14\u7701"
-    ],
     "name:dan_x_preferred":[
         "B\u00e9char"
     ],
     "name:deu_x_preferred":[
         "Bechar"
     ],
-    "name:dut_x_preferred":[
-        "B\u00e9char"
+    "name:deu_x_variant":[
+        "Wilaya Bechar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "B\u00e9char Province"
@@ -75,23 +69,20 @@
     "name:epo_x_preferred":[
         "Provinco Be\u015dar"
     ],
+    "name:eus_x_preferred":[
+        "Bexar probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0634\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "B\u00e9charin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "wilaya de B\u00e9char"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e8\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Wilaya Bechar"
     ],
     "name:glg_x_preferred":[
         "Provincia de B\u00e9char"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c3\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9a\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -114,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e8\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\uc0e4\ub974 \uc8fc"
     ],
@@ -129,17 +123,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u091a\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah B\u00e9char"
     ],
     "name:nan_x_preferred":[
         "B\u00e9char S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "B\u00e9char"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0634\u0627\u0631"
+    "name:nob_x_preferred":[
+        "B\u00e9char"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0634\u0627\u0631"
@@ -150,7 +144,7 @@
     "name:por_x_preferred":[
         "B\u00e9char"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia B\u00e9char"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +158,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de B\u00e9char"
+    ],
+    "name:sqi_x_preferred":[
+        "Bechar"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0448\u0430\u0440"
@@ -206,6 +203,9 @@
     ],
     "name:war_x_preferred":[
         "B\u00e9char"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u6c99\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -330,7 +330,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550358,
+    "wof:lastmodified":1561791029,
     "wof:name":"B\u00e9char",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0646\u0631\u0627\u0633\u062a"
     ],
-    "name:baq_x_preferred":[
-        "Tamanrasset"
-    ],
     "name:bre_x_preferred":[
         "Tamanghasset"
     ],
@@ -33,10 +30,10 @@
     "name:cat_x_preferred":[
         "Tamanrasset"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u66fc\u62c9\u585e\u7279"
+    "name:ces_x_preferred":[
+        "Tamanrasset"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tamanrasset"
     ],
     "name:dan_x_preferred":[
@@ -45,13 +42,13 @@
     "name:deu_x_preferred":[
         "Tamanrasset"
     ],
-    "name:dut_x_preferred":[
-        "Tamanrasset"
-    ],
     "name:eng_x_preferred":[
         "Tamanrasset"
     ],
     "name:epo_x_preferred":[
+        "Tamanrasset"
+    ],
+    "name:eus_x_preferred":[
         "Tamanrasset"
     ],
     "name:fas_x_preferred":[
@@ -63,10 +60,7 @@
     "name:fra_x_preferred":[
         "Tamanghasset"
     ],
-    "name:fre_x_preferred":[
-        "Tamanrasset"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Tamanrasset"
     ],
     "name:heb_x_preferred":[
@@ -93,7 +87,7 @@
     "name:lit_x_preferred":[
         "Tamanrasetas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tamanrasset"
     ],
     "name:nan_x_preferred":[
@@ -111,9 +105,6 @@
     "name:oci_x_preferred":[
         "Tamanrasset"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u0646\u0631\u0627\u0633\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u062a\u0645\u0646\u0631\u0627\u0633\u062a"
     ],
@@ -123,7 +114,7 @@
     "name:por_x_preferred":[
         "Tamanrasset"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tamanrasset"
     ],
     "name:rus_x_preferred":[
@@ -157,9 +148,6 @@
         "Tamenghasset"
     ],
     "name:war_x_preferred":[
-        "Tamanrasset"
-    ],
-    "name:wel_x_preferred":[
         "Tamanrasset"
     ],
     "name:zho_x_preferred":[
@@ -296,7 +284,7 @@
         }
     ],
     "wof:id":1141909397,
-    "wof:lastmodified":1534379289,
+    "wof:lastmodified":1561791149,
     "wof:name":"Tamanrasset",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

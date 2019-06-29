@@ -18,22 +18,16 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0630\u0631\u0639\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0580\u0565\u0561\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Mondovi"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u96f7\u5b89"
-    ],
     "name:dan_x_preferred":[
         "Dr\u00e9an"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dr\u00e9an"
     ],
     "name:eng_x_preferred":[
@@ -42,20 +36,17 @@
     "name:fao_x_preferred":[
         "Dr\u00e9an"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dr\u00e9an"
     ],
     "name:fry_x_preferred":[
         "Dr\u00e9an"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e0\u10d4\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dr\u00e9an"
-    ],
     "name:gla_x_preferred":[
         "Dr\u00e9an"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0565\u0561\u0576"
     ],
     "name:ilo_x_preferred":[
         "Dr\u00e9an"
@@ -72,13 +63,19 @@
     "name:kab_x_preferred":[
         "Der\u025ban"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d3\u10e0\u10d4\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dr\u00e9an"
+    ],
+    "name:nld_x_preferred":[
         "Dr\u00e9an"
     ],
     "name:por_x_preferred":[
         "Mondovi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dr\u00e9an"
     ],
     "name:spa_x_preferred":[
@@ -98,6 +95,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05e8\u05e2\u05d0\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u96f7\u5b89"
     ],
     "qs:name":"Drean",
     "qs:photos_9r":0,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":890437145,
-    "wof:lastmodified":1527729750,
+    "wof:lastmodified":1561791102,
     "wof:name":"Drean",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

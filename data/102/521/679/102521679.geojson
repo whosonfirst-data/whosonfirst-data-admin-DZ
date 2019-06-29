@@ -18,11 +18,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0642\u0633\u0646\u0637\u064a\u0646\u0629 - \u0645\u062d\u0645\u062f \u0628\u0648\u0636\u064a\u0627\u0641"
     ],
-    "name:chi_x_preferred":[
-        "\u541b\u58eb\u5766\u4e01"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Mohamed Boudiaf"
+    "name:deu_x_preferred":[
+        "Flughafen Constantine"
     ],
     "name:eng_x_preferred":[
         "Mohamed Boudiaf International Airport"
@@ -31,11 +28,11 @@
         "CZL",
         "KCZL"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Constantine - Mohamed Boudiaf"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u062d\u0645\u062f \u0628\u0648\u0636\u06cc\u0627\u0641"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Constantine"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Constantine - Mohamed Boudiaf"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Mohamed Boudiaf"
@@ -46,11 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30b9\u30bf\u30f3\u30c6\u30a3\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Mohamed Boudiaf"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u062d\u0645\u062f \u0628\u0648\u0636\u06cc\u0627\u0641"
+    "name:nld_x_preferred":[
+        "Luchthaven Mohamed Boudiaf"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Konstantyna"
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Mohamed Boudiaf"
+    ],
+    "name:zho_x_preferred":[
+        "\u541b\u58eb\u5766\u4e01"
     ],
     "oa:elevation_ft":"2265",
     "oa:type":"medium_airport",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":102521679,
-    "wof:lastmodified":1513955998,
+    "wof:lastmodified":1561791011,
     "wof:name":"Ain El Bey Airport",
     "wof:parent_id":85670855,
     "wof:placetype":"campus",

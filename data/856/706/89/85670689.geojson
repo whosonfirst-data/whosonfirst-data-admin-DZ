@@ -43,14 +43,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Or\u00e0"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u5170\u7701"
-    ],
     "name:dan_x_preferred":[
         "Oran"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oran"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Oran"
@@ -61,23 +61,17 @@
     "name:epo_x_preferred":[
         "Provinco Oran"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0647\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Oranin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "wilaya d'Oran"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Oran"
     ],
     "name:glg_x_preferred":[
         "Provincia de Or\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac7\u0aa8"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cb0\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub791 \uc8fc"
     ],
@@ -115,17 +112,17 @@
     "name:mar_x_preferred":[
         "\u0911\u0930\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Oran"
     ],
     "name:nan_x_preferred":[
         "Oran S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Oran"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0647\u0631\u0627\u0646"
+    "name:nob_x_preferred":[
+        "Oran"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0648\u06c1\u0631\u0627\u0646"
@@ -136,7 +133,7 @@
     "name:por_x_preferred":[
         "Or\u00e3"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Oran"
     ],
     "name:rus_x_preferred":[
@@ -195,6 +192,9 @@
     ],
     "name:war_x_preferred":[
         "Oran"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5170\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -318,7 +318,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550358,
+    "wof:lastmodified":1561791029,
     "wof:name":"Oran",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -25,14 +25,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:alb_x_preferred":[
-        "Vilajeti Adrar"
-    ],
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0623\u062f\u0631\u0627\u0631"
-    ],
-    "name:baq_x_preferred":[
-        "Adrar probintzia"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0434\u0440\u0430\u0440"
@@ -52,17 +46,17 @@
     "name:ces_x_preferred":[
         "Adrar"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5fb7\u62c9\u723e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Adrar"
     ],
     "name:deu_x_preferred":[
         "Adrar"
     ],
-    "name:dut_x_preferred":[
-        "Adrar"
+    "name:deu_x_variant":[
+        "Wilaya Adrar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03c1\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Adrar"
@@ -73,26 +67,23 @@
     "name:epo_x_preferred":[
         "Adrar"
     ],
+    "name:eus_x_preferred":[
+        "Adrar probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u062f\u0631\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Adrar"
     ],
     "name:fra_x_preferred":[
         "Adrar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya d'Adrar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d3\u10e0\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Wilaya Adrar"
     ],
     "name:glg_x_preferred":[
         "Adrar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03c4\u03c1\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa6\u0acd\u0ab0\u0abe\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -118,6 +109,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0ca1\u0ccd\u0cb0\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d3\u10e0\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub4dc\ub77c\ub974"
     ],
@@ -133,7 +127,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0926\u0930\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Adrar"
     ],
     "name:nan_x_preferred":[
@@ -148,9 +142,6 @@
     "name:nor_x_preferred":[
         "Adrar"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u062f\u0631\u0627\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u062f\u0631\u0627\u0631"
     ],
@@ -163,7 +154,7 @@
     "name:ron_x_preferred":[
         "Adrar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Adrar"
     ],
     "name:rus_x_preferred":[
@@ -183,6 +174,9 @@
     ],
     "name:spa_x_preferred":[
         "Adrar"
+    ],
+    "name:sqi_x_preferred":[
+        "Vilajeti Adrar"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0434\u0440\u0430\u0440"
@@ -231,6 +225,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5fb7\u62c9\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5fb7\u62c9\u723e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -355,7 +352,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1561791030,
     "wof:name":"Adrar",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

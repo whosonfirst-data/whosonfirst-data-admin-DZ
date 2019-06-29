@@ -19,37 +19,28 @@
     "name:ceb_x_preferred":[
         "Bordj Zemoura"
     ],
-    "name:dut_x_preferred":[
-        "Bordj Zemoura"
-    ],
     "name:eng_x_preferred":[
         "Bordj Zemoura"
     ],
-    "name:fra_x_preferred":[
-        "Bordj Zemoura"
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bordj Zemoura"
     ],
     "name:ita_x_preferred":[
         "Bordj Zemoura"
     ],
-    "name:may_x_preferred":[
-        "Bordj Zemoura"
-    ],
     "name:msa_x_preferred":[
         "Bordj Zemoura"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0647"
+    "name:nld_x_preferred":[
+        "Bordj Zemoura"
     ],
     "name:por_x_preferred":[
         "Bordj Zemoura"
     ],
     "name:ron_x_preferred":[
-        "Bordj Zemoura"
-    ],
-    "name:rum_x_preferred":[
         "Bordj Zemoura"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421174565,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1561791093,
     "wof:name":"Bordj Zemoura",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

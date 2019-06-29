@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Khemis el Khechna"
     ],
-    "name:dut_x_preferred":[
-        "Khemis El-Khechna"
-    ],
     "name:eng_x_preferred":[
         "Khemis El-Khechna"
     ],
-    "name:fra_x_preferred":[
-        "Khemis El Khechna"
+    "name:fas_x_preferred":[
+        "\u062e\u0645\u06cc\u0633 \u062e\u0634\u0646\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khemis El Khechna"
     ],
     "name:ita_x_preferred":[
@@ -37,22 +34,16 @@
     "name:kab_x_preferred":[
         "Lexmis n Lxecna"
     ],
-    "name:may_x_preferred":[
-        "Khemis El-Khechna"
-    ],
     "name:msa_x_preferred":[
         "Khemis El-Khechna"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0645\u06cc\u0633 \u062e\u0634\u0646\u0647"
+    "name:nld_x_preferred":[
+        "Khemis El-Khechna"
     ],
     "name:por_x_preferred":[
         "Khemis El-Khechna"
     ],
     "name:ron_x_preferred":[
-        "Khemis El-Khechna"
-    ],
-    "name:rum_x_preferred":[
         "Khemis El-Khechna"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":421167715,
-    "wof:lastmodified":1527716157,
+    "wof:lastmodified":1561791092,
     "wof:name":"Khemis el Khechna",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",
