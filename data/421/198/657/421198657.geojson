@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Sfizef"
     ],
-    "name:dut_x_preferred":[
-        "Sfissef"
-    ],
     "name:eng_x_preferred":[
         "Sfissef"
     ],
-    "name:fra_x_preferred":[
-        "Sfisef"
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u06cc\u0632\u0641"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sfisef"
     ],
     "name:ita_x_preferred":[
@@ -37,14 +34,11 @@
     "name:kab_x_preferred":[
         "Sfisef"
     ],
-    "name:may_x_preferred":[
-        "Sfissef"
-    ],
     "name:msa_x_preferred":[
         "Sfissef"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0641\u06cc\u0632\u0641"
+    "name:nld_x_preferred":[
+        "Sfissef"
     ],
     "name:pol_x_preferred":[
         "Sufajzif"
@@ -53,9 +47,6 @@
         "Sfissef"
     ],
     "name:ron_x_preferred":[
-        "Sfisef"
-    ],
-    "name:rum_x_preferred":[
         "Sfisef"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":421198657,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561791096,
     "wof:name":"Sfizef",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

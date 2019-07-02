@@ -16,34 +16,34 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Ain Merane"
-    ],
     "name:eng_x_preferred":[
         "Ain Merane"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_variant":[
+        "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "A\u00efn Merane"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ain Merane"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ain Merane"
     ],
     "name:nan_x_preferred":[
         "A\u00efn Merane"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Ain Merane"
     ],
     "name:por_x_preferred":[
         "A\u00efn Merane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "A\u00efn Merane"
     ],
     "name:unk_x_variant":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":421196675,
-    "wof:lastmodified":1513955994,
+    "wof:lastmodified":1561791096,
     "wof:name":"'Ain Merane",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

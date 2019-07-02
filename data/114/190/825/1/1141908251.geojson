@@ -17,26 +17,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0535\u0562\u0565\u057d\u057d\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "T\u00e9bessa"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09ac\u09c7\u09b8\u09be"
     ],
     "name:cat_x_preferred":[
         "Theveste"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u8d1d\u8428"
-    ],
     "name:dan_x_preferred":[
         "Tebessa"
     ],
-    "name:dut_x_preferred":[
-        "T\u00e9bessa"
+    "name:deu_x_preferred":[
+        "Tebessa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "T\u00e9bessa"
@@ -44,17 +38,17 @@
     "name:epo_x_preferred":[
         "Tebesa"
     ],
+    "name:eus_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0633\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "T\u00e9bessa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "T\u00e9bessa"
-    ],
-    "name:ger_x_preferred":[
-        "Tebessa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03c3\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0aac\u0ac7\u0ab8\u0abe"
@@ -64,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "T\u00e9bessa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0535\u0562\u0565\u057d\u057d\u0561"
     ],
     "name:ind_x_preferred":[
         "T\u00e9bessa"
@@ -92,17 +89,17 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u092c\u0938\u0947\u0938\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "T\u00e9bessa"
     ],
     "name:nan_x_preferred":[
         "T\u00e9bessa"
     ],
+    "name:nld_x_preferred":[
+        "T\u00e9bessa"
+    ],
     "name:nob_x_preferred":[
         "Tebessa"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0628\u0633\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06cc\u0628\u0627\u0632\u06c1"
@@ -113,7 +110,7 @@
     "name:por_x_preferred":[
         "T\u00e9bessa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "T\u00e9bessa"
     ],
     "name:rus_x_preferred":[
@@ -151,6 +148,9 @@
     ],
     "name:war_x_preferred":[
         "T\u00e9bessa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u8d1d\u8428"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -269,7 +269,7 @@
         }
     ],
     "wof:id":1141908251,
-    "wof:lastmodified":1513956095,
+    "wof:lastmodified":1561791151,
     "wof:name":"Tebessa",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

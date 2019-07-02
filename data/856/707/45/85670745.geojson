@@ -44,17 +44,14 @@
     "name:ceb_x_preferred":[
         "El Oued"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u8fea\u7701"
-    ],
     "name:dan_x_preferred":[
         "El Oued"
     ],
     "name:deu_x_preferred":[
         "El Oued"
     ],
-    "name:dut_x_preferred":[
-        "El Oued"
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "El Oued"
@@ -68,26 +65,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0627\u062f\u06cc\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "El Oued Province"
     ],
     "name:fra_x_preferred":[
         "El Oued"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya d'El Oued"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10e3\u10d4\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "El Oued"
     ],
     "name:glg_x_preferred":[
         "Provincia de El Oued"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2 \u0a93\u0aaf\u0aa1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -110,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb2\u0ccd \u0c94\u0ca1\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e3\u10d4\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u042d\u043b\u044c-\u0423\u044d\u0434 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -128,11 +122,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0932 \u0913\u092f\u0921 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah El Oued"
-    ],
     "name:msa_x_preferred":[
         "El Oued"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah El Oued"
     ],
     "name:nan_x_preferred":[
         "El Oued S\u00e9ng"
@@ -142,9 +136,6 @@
     ],
     "name:nob_x_preferred":[
         "El Oued"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0648\u0627\u062f\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0627\u062f\u06cc"
@@ -158,7 +149,7 @@
     "name:ron_x_preferred":[
         "El Oued"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia El Oued"
     ],
     "name:rus_x_preferred":[
@@ -223,6 +214,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u8fea\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -350,7 +344,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550364,
+    "wof:lastmodified":1561791032,
     "wof:name":"El Oued",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

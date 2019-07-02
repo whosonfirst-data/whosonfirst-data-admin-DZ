@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Sebdou"
     ],
-    "name:dut_x_preferred":[
-        "Sebdou"
-    ],
     "name:eng_x_preferred":[
         "Sebdou"
     ],
-    "name:fra_x_preferred":[
-        "Sebdou"
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u062f\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sebdou"
     ],
     "name:ita_x_preferred":[
@@ -37,14 +34,11 @@
     "name:kab_x_preferred":[
         "Sebdu"
     ],
-    "name:may_x_preferred":[
-        "Sebdou"
-    ],
     "name:msa_x_preferred":[
         "Sebdou"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0628\u062f\u0648"
+    "name:nld_x_preferred":[
+        "Sebdou"
     ],
     "name:pol_x_preferred":[
         "Sabdu"
@@ -53,9 +47,6 @@
         "Sebdou"
     ],
     "name:ron_x_preferred":[
-        "Sebdou"
-    ],
-    "name:rum_x_preferred":[
         "Sebdou"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +107,7 @@
         }
     ],
     "wof:id":421170775,
-    "wof:lastmodified":1527716474,
+    "wof:lastmodified":1561791099,
     "wof:name":"Debdou",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

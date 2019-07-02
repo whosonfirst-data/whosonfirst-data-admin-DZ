@@ -29,9 +29,6 @@
         "Tebessa",
         "\u0648\u0644\u0627\u064a\u0629 \u062a\u0628\u0633\u0629"
     ],
-    "name:baq_x_preferred":[
-        "T\u00e9bessa probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u044d\u0431\u0435\u0441\u0430"
     ],
@@ -50,17 +47,14 @@
     "name:ceb_x_preferred":[
         "Wilaya de T\u00e9bessa"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u8d1d\u8428\u7701"
-    ],
     "name:dan_x_preferred":[
         "T\u00e9bessa Province"
     ],
     "name:deu_x_preferred":[
         "Tebessa"
     ],
-    "name:dut_x_preferred":[
-        "T\u00e9bessa"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "T\u00e9bessa Province"
@@ -81,17 +75,11 @@
     "name:fin_x_preferred":[
         "T\u00e9bessan l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "wilaya de T\u00e9bessa"
-    ],
-    "name:ger_x_preferred":[
-        "Tebessa"
     ],
     "name:glg_x_preferred":[
         "Provincia de T\u00e9bessa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03c3\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0aac\u0ac7\u0ab8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -126,17 +114,17 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u092c\u0938\u0947\u0938\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah T\u00e9bessa"
     ],
     "name:nan_x_preferred":[
         "T\u00e9bessa S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "T\u00e9bessa"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0628\u0633\u0647"
+    "name:nob_x_preferred":[
+        "T\u00e9bessa"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06cc\u0628\u0627\u0632\u06c1"
@@ -147,7 +135,7 @@
     "name:por_x_preferred":[
         "T\u00e9bessa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia T\u00e9bessa"
     ],
     "name:rus_x_preferred":[
@@ -203,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "T\u00e9bessa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u8d1d\u8428\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -327,7 +318,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1561791031,
     "wof:name":"T\u00e9bessa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -167,9 +167,6 @@
     "name:cym_x_preferred":[
         "Algeria"
     ],
-    "name:cze_x_preferred":[
-        "Al\u017e\u00edrsko"
-    ],
     "name:dan_x_preferred":[
         "Algeriet"
     ],
@@ -842,7 +839,6 @@
         "\u963f\u5c14\u53ca\u5229\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u963f\u5c14\u53ca\u5229\u4e9a",
         "\u963f\u723e\u53ca\u5229\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -1002,7 +998,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1544059115,
+    "wof:lastmodified":1561791034,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

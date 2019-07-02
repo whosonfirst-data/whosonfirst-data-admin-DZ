@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Aljer probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043b\u0436\u044b\u0440"
     ],
@@ -40,14 +37,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Alger"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u53ca\u5c14\u7701"
-    ],
     "name:deu_x_preferred":[
         "Algier"
-    ],
-    "name:dut_x_preferred":[
-        "Algiers"
     ],
     "name:eng_x_preferred":[
         "Alger"
@@ -59,17 +50,17 @@
     "name:epo_x_preferred":[
         "Provinco Al\u011dero"
     ],
+    "name:eus_x_preferred":[
+        "Aljer probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
     "name:fra_x_preferred":[
         "Alger"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya d'Alger"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10df\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Algier"
     ],
     "name:glg_x_preferred":[
         "Provincia de Alxer"
@@ -89,23 +80,26 @@
     "name:kab_x_preferred":[
         "Agezdu n Dzayer Tamana\u0263t"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10df\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\uc81c"
     ],
     "name:lit_x_preferred":[
         "Al\u017eyro vilaja"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Algiers"
     ],
     "name:nan_x_preferred":[
         "Algiers S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Algiers"
+    ],
     "name:nob_x_preferred":[
         "Alger"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0627\u06cc\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
@@ -116,7 +110,7 @@
     "name:por_x_preferred":[
         "Argel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Alger"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +160,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u53ca\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c14\u53ca\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -290,7 +287,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550362,
+    "wof:lastmodified":1561791031,
     "wof:name":"Alger",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

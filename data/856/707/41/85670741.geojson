@@ -44,17 +44,14 @@
     "name:ceb_x_preferred":[
         "El Bayadh"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4e9a\u5179\u7701"
-    ],
     "name:dan_x_preferred":[
         "El Bayadh"
     ],
     "name:deu_x_preferred":[
         "El Bayadh"
     ],
-    "name:dut_x_preferred":[
-        "El Bayadh"
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03b4"
     ],
     "name:eng_x_preferred":[
         "El Bayadh"
@@ -68,26 +65,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u06cc\u0636"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u06cc\u0636"
+    ],
     "name:fin_x_preferred":[
         "El Bayadhn l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
         "El Bayadh"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya d'El Bayadh"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d1\u10d0\u10d8\u10d0\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "El Bayadh"
     ],
     "name:glg_x_preferred":[
         "Provincia de El Bayadh"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u039c\u03c0\u03ac\u03b3\u03b9\u03b1\u03b4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aac\u0abe\u0aaf\u0abe\u0aa6 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,6 +98,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb2\u0ccd \u0cac\u0caf\u0cbe\u0ca6\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10d8\u10d0\u10d3\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc5d8\ubc14\uc57c\ub4dc"
     ],
@@ -122,11 +116,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0932 \u092c\u0947\u0905\u0926 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah El Bayadh"
-    ],
     "name:msa_x_preferred":[
         "El Bayadh"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah El Bayadh"
     ],
     "name:nan_x_preferred":[
         "El Bayadh S\u00e9ng"
@@ -140,9 +134,6 @@
     "name:nor_x_preferred":[
         "El Bayadh"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0628\u06cc\u0636"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0636"
     ],
@@ -155,7 +146,7 @@
     "name:ron_x_preferred":[
         "El Bayadh"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia El Bayadh"
     ],
     "name:rus_x_preferred":[
@@ -217,6 +208,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u4e9a\u5179"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u4e9a\u5179\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -341,7 +335,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550363,
+    "wof:lastmodified":1561791033,
     "wof:name":"El Bayadh",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

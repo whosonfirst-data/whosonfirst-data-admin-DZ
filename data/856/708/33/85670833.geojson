@@ -29,9 +29,6 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0644\u0641\u0629",
         "\u0627\u0644\u062c\u0644\u0641\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Djelfa probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0414\u0436\u044d\u043b\u044c\u0444\u0430"
     ],
@@ -47,17 +44,17 @@
     "name:ceb_x_preferred":[
         "Djelfa"
     ],
-    "name:chi_x_preferred":[
-        "\u6770\u52d2\u6cd5\u7701"
-    ],
     "name:dan_x_preferred":[
         "Djelfa Province"
     ],
     "name:deu_x_preferred":[
         "El Djelfa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Djelfa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ad\u03bb\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Djelfa"
@@ -68,8 +65,14 @@
     "name:epo_x_preferred":[
         "Provinco \u011celfa"
     ],
+    "name:eus_x_preferred":[
+        "Djelfa probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062c\u0641\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0644\u0641\u0647"
     ],
     "name:fin_x_preferred":[
         "Djelfan l\u00e4\u00e4ni"
@@ -77,20 +80,11 @@
     "name:fra_x_preferred":[
         "Djelfa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "wilaya de Djelfa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d4\u10da\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Djelfa"
     ],
     "name:glg_x_preferred":[
         "Provincia de Djelfa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ad\u03bb\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0ab2\u0acd\u0aab\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -113,6 +107,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cbf\u0c9c\u0cc6\u0cb2\u0ccd\u0cab\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10da\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0436\u0435\u043b\u044c\u0444\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -131,11 +128,11 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0932\u094d\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Djelfa"
-    ],
     "name:msa_x_preferred":[
         "Djelfa"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah Djelfa"
     ],
     "name:nan_x_preferred":[
         "Djelfa S\u00e9ng"
@@ -145,9 +142,6 @@
     ],
     "name:nob_x_preferred":[
         "Djelfa"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0644\u0641\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0644\u0641\u06c1"
@@ -161,7 +155,7 @@
     "name:ron_x_preferred":[
         "Djelfa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Provincia Djelfa"
     ],
     "name:rus_x_preferred":[
@@ -223,6 +217,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6770\u52d2\u6cd5"
+    ],
+    "name:zho_x_variant":[
+        "\u6770\u52d2\u6cd5\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -349,7 +346,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1561791030,
     "wof:name":"Djelfa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

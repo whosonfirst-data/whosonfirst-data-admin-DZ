@@ -20,14 +20,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09a1\u099c \u09ac\u09cc \u0986\u09b0\u09c7\u0987\u099c"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u963f\u62c9\u91cc\u5b63\u5821"
-    ],
     "name:dan_x_preferred":[
         "Bordj Bou Arreridj"
     ],
-    "name:dut_x_preferred":[
-        "Bordj Bou Arr\u00e9ridj"
+    "name:deu_x_preferred":[
+        "Bordj Bou Arreridj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03bd\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03bd\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
@@ -35,17 +35,14 @@
     "name:epo_x_preferred":[
         "Bor\u011d Bu Areri\u011d"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bordj Bou Arreridj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bordj Bou Arreridj"
-    ],
-    "name:ger_x_preferred":[
-        "Bordj Bou Arreridj"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c1\u03bd\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03bd\u03c4\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab0\u0acd\u0aa1\u0ac7\u0a9c\u0acd \u0aac\u0acc \u0a85\u0ab0\u0ac7\u0ab0\u0abf\u0a9c"
@@ -80,17 +77,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0930\u094d\u0921\u091c \u092c\u093e\u090a \u0905\u0930\u094d\u0930\u0947\u0907\u0921\u093e\u091c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bordj-Bou-Arreridj"
     ],
     "name:nan_x_preferred":[
         "Bordj Bou Arreridj"
     ],
+    "name:nld_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
     "name:nob_x_preferred":[
         "Bordj Bou Arreridj"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
@@ -101,7 +98,7 @@
     "name:por_x_preferred":[
         "Bordj Bou Arreridj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
     ],
     "name:rus_x_preferred":[
@@ -139,6 +136,9 @@
     ],
     "name:war_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u963f\u62c9\u91cc\u5b63\u5821"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -257,7 +257,7 @@
         }
     ],
     "wof:id":1141906189,
-    "wof:lastmodified":1513956017,
+    "wof:lastmodified":1561791150,
     "wof:name":"Bordj Bou Arreridj",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

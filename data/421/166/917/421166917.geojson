@@ -25,23 +25,20 @@
     "name:dan_x_preferred":[
         "Bir El Djir"
     ],
-    "name:dut_x_preferred":[
-        "Bir El Djir"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c1 \u0395\u03bb \u039d\u03c4\u03b6\u03b9\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bir El Djir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0626\u0631 \u062c\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Bir El Djir"
     ],
     "name:fra_x_preferred":[
         "Bir El Djir"
-    ],
-    "name:fre_x_preferred":[
-        "Bir El Djir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03c1 \u0395\u03bb \u039d\u03c4\u03b6\u03b9\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac0\u0ab0 \u0a85\u0ab2 \u0aa1\u0ac0\u0a9c\u0abf\u0ab0"
@@ -76,20 +73,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0940\u0930 \u0905\u0932 \u091c\u093f\u091c\u093f\u0930"
     ],
-    "name:may_x_preferred":[
-        "Bir El Djir"
-    ],
     "name:msa_x_preferred":[
         "Bir El Djir"
     ],
     "name:nan_x_preferred":[
         "Bir El Djir"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Bir El Djir"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0626\u0631 \u062c\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "Bir El Djir"
     ],
     "name:pol_x_preferred":[
         "Bir El Djir"
@@ -98,9 +92,6 @@
         "Bir El Djir"
     ],
     "name:ron_x_preferred":[
-        "Bir El Djir"
-    ],
-    "name:rum_x_preferred":[
         "Bir El Djir"
     ],
     "name:rus_x_preferred":[
@@ -188,7 +179,7 @@
         }
     ],
     "wof:id":421166917,
-    "wof:lastmodified":1527716107,
+    "wof:lastmodified":1561791091,
     "wof:name":"Bir el Djir",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

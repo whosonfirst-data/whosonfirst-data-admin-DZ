@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Seddouk"
     ],
-    "name:dut_x_preferred":[
-        "Seddouk"
-    ],
     "name:eng_x_preferred":[
         "Seddouk"
     ],
     "name:fra_x_preferred":[
-        "Seddouk"
-    ],
-    "name:fre_x_preferred":[
         "Seddouk"
     ],
     "name:ita_x_preferred":[
@@ -37,19 +31,16 @@
     "name:kab_x_preferred":[
         "Sedduq"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Seddouk"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Seddouk"
     ],
     "name:por_x_preferred":[
         "Seddouk"
     ],
     "name:ron_x_preferred":[
-        "Seddouk"
-    ],
-    "name:rum_x_preferred":[
         "Seddouk"
     ],
     "name:swe_x_preferred":[
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":421198661,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561791096,
     "wof:name":"Seddouk",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

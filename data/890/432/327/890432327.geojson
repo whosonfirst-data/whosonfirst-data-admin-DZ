@@ -18,13 +18,13 @@
     "name:ara_x_preferred":[
         "\u0634\u062a\u0648\u0627\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Chetouane"
-    ],
     "name:eng_x_preferred":[
         "Chetouane"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Chetouane"
     ],
     "name:ita_x_preferred":[
@@ -33,16 +33,16 @@
     "name:kab_x_preferred":[
         "Ce\u1e6dwan"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chetouane"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u062a\u0648\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Chetouane"
     ],
     "name:por_x_preferred":[
         "Chetouane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chetouane"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":890432327,
-    "wof:lastmodified":1527793042,
+    "wof:lastmodified":1561791106,
     "wof:name":"Chetouane",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

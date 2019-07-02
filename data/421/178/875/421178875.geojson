@@ -22,14 +22,11 @@
     "name:ceb_x_preferred":[
         "A\u00efn Oussera"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u56e0\u70cf\u585e\u62c9"
-    ],
     "name:dan_x_preferred":[
         "A\u00efn Oussera"
     ],
-    "name:dut_x_preferred":[
-        "A\u00efn Oussera"
+    "name:ell_x_preferred":[
+        "\u0386\u03b9\u03bd \u039f\u03c5\u03c3\u03c3\u03b5\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "A\u00efn Oussera"
@@ -42,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "A\u00efn Oussara"
-    ],
-    "name:fre_x_preferred":[
-        "A\u00efn Oussara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b9\u03bd \u039f\u03c5\u03c3\u03c3\u03b5\u03c1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a87\u0aa8 \u0a93\u0ab8\u0ac7\u0ab0\u0abe"
@@ -82,20 +73,17 @@
     "name:mar_x_preferred":[
         "\u0910\u0928 \u0913\u0938\u0915\u0947\u0930\u093e"
     ],
-    "name:may_x_preferred":[
-        "A\u00efn Oussera"
-    ],
     "name:msa_x_preferred":[
         "A\u00efn Oussera"
     ],
     "name:nan_x_preferred":[
         "A\u00efn Oussara"
     ],
+    "name:nld_x_preferred":[
+        "A\u00efn Oussera"
+    ],
     "name:nob_x_preferred":[
         "Ain Oussera"
-    ],
-    "name:per_x_preferred":[
-        "\u0639\u06cc\u0646 \u0648\u0633\u0627\u0631\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Ajn Wisara"
@@ -104,9 +92,6 @@
         "A\u00efn Oussera"
     ],
     "name:ron_x_preferred":[
-        "A\u00efn Oussara"
-    ],
-    "name:rum_x_preferred":[
         "A\u00efn Oussara"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "A\u00efn Oussera"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u70cf\u585e\u62c9"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -191,7 +179,7 @@
         }
     ],
     "wof:id":421178875,
-    "wof:lastmodified":1527717720,
+    "wof:lastmodified":1561791099,
     "wof:name":"Ain Oussera",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

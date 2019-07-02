@@ -18,13 +18,13 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0627\u0644\u0623\u0628\u0637\u0627\u0644"
     ],
-    "name:dut_x_preferred":[
-        "Oued El Abtal"
-    ],
     "name:eng_x_preferred":[
         "Oued El Abtal"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0627\u0628\u0637\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
         "Oued El Abtal"
     ],
     "name:ita_x_preferred":[
@@ -33,16 +33,16 @@
     "name:kab_x_preferred":[
         "Asif Lab\u1e6dal"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oued El Abtal"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u062f\u06cc \u0627\u0628\u0637\u0627\u0644"
+    "name:nld_x_preferred":[
+        "Oued El Abtal"
     ],
     "name:por_x_preferred":[
         "Oued El Abtal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oued El Abtal"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":890435473,
-    "wof:lastmodified":1527793051,
+    "wof:lastmodified":1561791107,
     "wof:name":"Oued el Abtal",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

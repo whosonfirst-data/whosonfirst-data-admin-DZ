@@ -22,22 +22,13 @@
     "name:aze_x_preferred":[
         "Mers \u018fl K\u0259bir"
     ],
-    "name:baq_x_preferred":[
-        "Mers el-Kebir"
-    ],
     "name:cat_x_preferred":[
         "Mers el-Kebir"
     ],
     "name:ceb_x_preferred":[
         "Mers el Kebir"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u6bd4\u723e\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Mers-el-K\u00e9bir"
-    ],
-    "name:dut_x_preferred":[
         "Mers-el-K\u00e9bir"
     ],
     "name:ell_x_preferred":[
@@ -55,6 +46,9 @@
     "name:eus_x_preferred":[
         "Mers el-Kebir"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0633\u0649 \u06a9\u0628\u06cc\u0631"
+    ],
     "name:fra_x_historical":[
         "Saint Andr\u00e9 de Mers-el-K\u00e9bir"
     ],
@@ -63,15 +57,6 @@
     ],
     "name:fra_x_variant":[
         "Saint Andr\u00e9 de Mers-el-K\u00e9bir"
-    ],
-    "name:fre_x_preferred":[
-        "Mers el-K\u00e9bir"
-    ],
-    "name:ger_x_preferred":[
-        "Mers-el-K\u00e9bir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03c1\u03c2 \u0395\u03bb \u039a\u03b5\u03bc\u03c0\u03af\u03c1"
     ],
     "name:ita_x_preferred":[
         "Mers-el-K\u00e9bir"
@@ -82,17 +67,17 @@
     "name:kor_x_preferred":[
         "\uba54\ub974\uc2a4\uc5d8\ucf00\ube44\ub974"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mers El K\u00e9bir"
     ],
     "name:nan_x_preferred":[
         "Mers el-K\u00e9bir"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Mers-el-K\u00e9bir"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u0633\u0649 \u06a9\u0628\u06cc\u0631"
+    "name:nob_x_preferred":[
+        "Mers-el-K\u00e9bir"
     ],
     "name:pol_x_preferred":[
         "Al-Marsa al-Kabir"
@@ -100,7 +85,7 @@
     "name:por_x_preferred":[
         "Mers El K\u00e9bir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mers-el-Kebir"
     ],
     "name:rus_x_preferred":[
@@ -123,6 +108,9 @@
     ],
     "name:vie_x_preferred":[
         "Mers El Kebir"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u6bd4\u723e\u6e2f"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -169,7 +157,7 @@
         }
     ],
     "wof:id":421189367,
-    "wof:lastmodified":1527716268,
+    "wof:lastmodified":1561791094,
     "wof:name":"Mers el Kebir",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

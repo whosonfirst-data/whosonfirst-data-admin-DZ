@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Regha\u00efa"
     ],
-    "name:dut_x_preferred":[
-        "R\u00e9gha\u00efa"
-    ],
     "name:eng_x_preferred":[
         "R\u00e9gha\u00efa"
     ],
-    "name:fra_x_preferred":[
-        "Regha\u00efa"
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0631\u063a\u0627\u06cc\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Regha\u00efa"
     ],
     "name:ita_x_preferred":[
@@ -37,22 +34,16 @@
     "name:kab_x_preferred":[
         "Rr\u0263aya"
     ],
-    "name:may_x_preferred":[
-        "Regha\u00efa"
-    ],
     "name:msa_x_preferred":[
         "Regha\u00efa"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0631\u063a\u0627\u06cc\u0647"
+    "name:nld_x_preferred":[
+        "R\u00e9gha\u00efa"
     ],
     "name:por_x_preferred":[
         "Regha\u00efa"
     ],
     "name:ron_x_preferred":[
-        "Regha\u00efa"
-    ],
-    "name:rum_x_preferred":[
         "Regha\u00efa"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":421178263,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561791100,
     "wof:name":"Reghaia",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

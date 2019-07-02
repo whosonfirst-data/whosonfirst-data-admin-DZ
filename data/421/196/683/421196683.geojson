@@ -19,16 +19,13 @@
     "name:ceb_x_preferred":[
         "Ksar el Boukhari"
     ],
-    "name:dut_x_preferred":[
-        "Ksar Boukhari"
-    ],
     "name:eng_x_preferred":[
         "Ksar Boukhari"
     ],
-    "name:fra_x_preferred":[
-        "Ksar el Boukhari"
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0631 \u0628\u062e\u0627\u0631\u06cc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ksar el Boukhari"
     ],
     "name:ita_x_preferred":[
@@ -37,14 +34,11 @@
     "name:kab_x_preferred":[
         "Q\u1e63er Buxari"
     ],
-    "name:may_x_preferred":[
-        "Ksar Boukhari"
-    ],
     "name:msa_x_preferred":[
         "Ksar Boukhari"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0635\u0631 \u0628\u062e\u0627\u0631\u06cc"
+    "name:nld_x_preferred":[
+        "Ksar Boukhari"
     ],
     "name:pol_x_preferred":[
         "Kasr al-Buchari"
@@ -53,9 +47,6 @@
         "Ksar Boukhari"
     ],
     "name:ron_x_preferred":[
-        "Ksar el Boukhari"
-    ],
-    "name:rum_x_preferred":[
         "Ksar el Boukhari"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +107,7 @@
         }
     ],
     "wof:id":421196683,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1561791097,
     "wof:name":"Ksar el Boukhari",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",
