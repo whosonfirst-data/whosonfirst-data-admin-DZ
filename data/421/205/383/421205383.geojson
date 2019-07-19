@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646 \u0645\u0647\u064a\u062f\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646 \u0645\u0647\u06cc\u062f\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Ben Mehidi"
     ],
@@ -58,8 +61,14 @@
     "name:unk_x_variant":[
         "Morris"
     ],
+    "name:vie_x_preferred":[
+        "Ben Mehdi"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Ben Mehidi"
+    ],
+    "name:zho_x_preferred":[
+        "\u672c\u9081\u5e0c\u8fea"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421205383,
-    "wof:lastmodified":1561791093,
+    "wof:lastmodified":1563572238,
     "wof:name":"Ben Mehidi",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

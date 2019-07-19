@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17222103.478551,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.154596,36.734201,3.154596,36.734201",
     "geom:latitude":36.734201,
     "geom:longitude":3.154596,
@@ -34,22 +34,52 @@
         "El Harrach 5 Maisons",
         "Maison Carr\u00e9e"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0634"
+    ],
     "name:deu_x_preferred":[
         "El-Harrach"
+    ],
+    "name:eng_x_preferred":[
+        "El Harrach"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0634"
     ],
     "name:fra_x_preferred":[
         "El-Harrach"
     ],
+    "name:fra_x_variant":[
+        "El Harrach"
+    ],
+    "name:ita_x_preferred":[
+        "El Harrach"
+    ],
     "name:kab_x_preferred":[
         "L\u1e25errac"
     ],
+    "name:ltz_x_preferred":[
+        "El-Harrach"
+    ],
     "name:msa_x_preferred":[
+        "El Harrach"
+    ],
+    "name:nan_x_preferred":[
+        "El-Harrach"
+    ],
+    "name:nld_x_preferred":[
         "El Harrach"
     ],
     "name:por_x_preferred":[
         "El Harrach"
     ],
     "name:ron_x_preferred":[
+        "El Harrach"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0440\u0440\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
         "El Harrach"
     ],
     "name:unk_x_variant":[
@@ -124,7 +154,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862137,
+    "wof:lastmodified":1563571535,
     "wof:name":"El Harrach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

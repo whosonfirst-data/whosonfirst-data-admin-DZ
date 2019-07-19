@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0645\u0627\u0645 \u0628\u0648\u062d\u062c\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u0628\u0648\u062d\u062c\u0631"
+    ],
     "name:ceb_x_preferred":[
         "Hammam Bou Hadjar"
     ],
@@ -52,6 +55,9 @@
     "name:ron_x_variant":[
         "Hammam Bouhadjar"
     ],
+    "name:spa_x_preferred":[
+        "Hammam Bou Hadjar"
+    ],
     "name:swe_x_preferred":[
         "Hammam Bou Hadjar"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Hammam Bou Hadjar"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u99ac\u59c6\u5e03\u54c8\u5091\u723e"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":421200239,
-    "wof:lastmodified":1561791098,
+    "wof:lastmodified":1563572279,
     "wof:name":"Hammam Bou Hadjar",
     "wof:parent_id":85670683,
     "wof:placetype":"locality",

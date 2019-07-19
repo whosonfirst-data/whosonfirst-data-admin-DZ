@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0628\u0633\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0628\u0633\u0628\u0633\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Tebesbest"
+    ],
     "name:eng_x_preferred":[
         "Tebesbest"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Tebesbest"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u8c9d\u65af\u8c9d\u65af\u7279"
     ],
     "qs_pg:aaroncc":"DZ",
     "qs_pg:gn_country":"DZ",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1125768517,
-    "wof:lastmodified":1561791109,
+    "wof:lastmodified":1563572362,
     "wof:name":"Tebesbest",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

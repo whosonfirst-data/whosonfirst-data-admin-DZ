@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0628\u0627\u0634\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0628\u0627\u0634\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Barbacha"
+    ],
     "name:eng_x_preferred":[
         "Barbacha"
     ],
@@ -34,6 +40,9 @@
     "name:msa_x_preferred":[
         "Barbacha"
     ],
+    "name:nan_x_preferred":[
+        "Barbacha"
+    ],
     "name:nld_x_preferred":[
         "Barbacha"
     ],
@@ -41,6 +50,9 @@
         "Barbacha"
     ],
     "name:ron_x_preferred":[
+        "Barbacha"
+    ],
+    "name:spa_x_preferred":[
         "Barbacha"
     ],
     "name:swe_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Berbacha"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u5df4\u6c99"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":421197483,
-    "wof:lastmodified":1561791097,
+    "wof:lastmodified":1563572274,
     "wof:name":"Souk et Tleta",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "name:ara_x_preferred":[
         "\u0623\u062f\u0631\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u062f\u0631\u0627\u0631"
+    ],
     "name:cat_x_preferred":[
+        "Adrar"
+    ],
+    "name:ceb_x_preferred":[
         "Adrar"
     ],
     "name:ces_x_preferred":[
@@ -37,6 +43,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u062f\u0631\u0627\u0631\u060c \u0627\u0644\u062c\u06cc\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u062f\u0631\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Adrar"
@@ -97,6 +106,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u0631\u0627\u0631\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u062f\u0631\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Adrar"
     ],
     "name:war_x_preferred":[
         "Adrar"
@@ -221,7 +236,7 @@
         }
     ],
     "wof:id":1141909121,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572700,
     "wof:name":"Adrar",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

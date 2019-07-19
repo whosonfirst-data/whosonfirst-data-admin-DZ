@@ -22,6 +22,9 @@
     "name:arg_x_preferred":[
         "Boch\u00eda"
     ],
+    "name:ast_x_preferred":[
+        "B\u00e9ja\u00efa"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u099c\u09be\u09b0\u09be"
     ],
@@ -33,6 +36,15 @@
     ],
     "name:cat_x_preferred":[
         "Bugia"
+    ],
+    "name:cat_x_variant":[
+        "Beja\u00efa"
+    ],
+    "name:ceb_x_preferred":[
+        "Beja\u00efa"
+    ],
+    "name:ces_x_preferred":[
+        "Bid\u017e\u00e1ja"
     ],
     "name:dan_x_preferred":[
         "B\u00e9ja\u00efa"
@@ -46,6 +58,9 @@
     "name:eng_x_preferred":[
         "B\u00e9ja\u00efa"
     ],
+    "name:eng_x_variant":[
+        "Beja\u00efa"
+    ],
     "name:epo_x_preferred":[
         "Be\u0135aja"
     ],
@@ -57,6 +72,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u062c\u0627\u06cc\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u062c\u0627\u06cc\u0647"
     ],
     "name:fin_x_preferred":[
         "Beja\u00efa"
@@ -81,6 +99,9 @@
     ],
     "name:ita_x_preferred":[
         "Bijaya"
+    ],
+    "name:ita_x_variant":[
+        "B\u00e9ja\u00efa"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30b8\u30e3\u30a4\u30a2"
@@ -157,14 +178,23 @@
     "name:spa_x_preferred":[
         "Bug\u00eda"
     ],
+    "name:srp_x_preferred":[
+        "Bed\u017eaja"
+    ],
     "name:swe_x_preferred":[
         "Beja\u00efa"
+    ],
+    "name:swe_x_variant":[
+        "B\u00e9ja\u00efa"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0b9c\u0bc8\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c1c\u0c3e\u0c2f\u0c3f\u0c06"
+    ],
+    "name:tgl_x_preferred":[
+        "B\u00e9ja\u00efa"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e08\u0e32\u0e22\u0e32"
@@ -313,7 +343,7 @@
         }
     ],
     "wof:id":890444495,
-    "wof:lastmodified":1561791104,
+    "wof:lastmodified":1563572327,
     "wof:name":"Beja\u00efa",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

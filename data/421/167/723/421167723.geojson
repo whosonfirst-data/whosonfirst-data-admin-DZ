@@ -49,8 +49,14 @@
     "name:unk_x_variant":[
         "Draa Ben Kredda"
     ],
+    "name:vie_x_preferred":[
+        "Draa-Ben-Khedda"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Dra\u00e2 Ben Khedda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u672c\u6d77\u9054"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421167723,
-    "wof:lastmodified":1561791092,
+    "wof:lastmodified":1563572232,
     "wof:name":"Mirabeau",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

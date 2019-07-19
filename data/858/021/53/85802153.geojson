@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14368310.681728,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.652304,35.707065,-0.652304,35.707065",
     "geom:latitude":35.707065,
     "geom:longitude":-0.652304,
@@ -27,6 +27,12 @@
         "Kasbah",
         "\u0642\u0635\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0635\u0628\u0627\u062a \u0627\u0644\u0645\u063a\u0627\u0631\u0628\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "qasba"
+    ],
     "name:ces_x_preferred":[
         "Kasba"
     ],
@@ -36,11 +42,20 @@
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c3\u03bc\u03c0\u03b1\u03c7"
     ],
+    "name:eng_x_preferred":[
+        "kasbah"
+    ],
     "name:epo_x_preferred":[
         "Kasbaho"
     ],
+    "name:eus_x_preferred":[
+        "Kasbah"
+    ],
     "name:fra_x_preferred":[
         "Kasbah"
+    ],
+    "name:fra_x_variant":[
+        "kasbah"
     ],
     "name:hbs_x_preferred":[
         "Kazba"
@@ -60,14 +75,29 @@
     "name:ita_x_preferred":[
         "Qasba"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30d0"
+    ],
     "name:nld_x_preferred":[
         "Kasba"
+    ],
+    "name:nld_x_variant":[
+        "kasba"
+    ],
+    "name:nob_x_preferred":[
+        "kasbah"
     ],
     "name:nor_x_preferred":[
         "Kasbah"
     ],
+    "name:oci_x_preferred":[
+        "Kasbah"
+    ],
     "name:pol_x_preferred":[
         "Kasba"
+    ],
+    "name:pol_x_variant":[
+        "Kasbah"
     ],
     "name:por_x_preferred":[
         "Casb\u00e1"
@@ -96,6 +126,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0628\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0642\u0635\u0628\u06c1"
     ],
     "qs:gn_adm0_cc":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -155,7 +188,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862139,
+    "wof:lastmodified":1563571534,
     "wof:name":"Kasbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

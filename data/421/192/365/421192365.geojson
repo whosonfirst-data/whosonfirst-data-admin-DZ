@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.05699,36.75409,3.05699,36.75409",
     "geom:latitude":36.75409,
     "geom:longitude":3.05699,
@@ -12,8 +13,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Mustafa"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0635\u0637\u0641\u0649"
+    ],
+    "name:arg_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ast_x_preferred":[
+        "Mustafa"
+    ],
+    "name:aze_x_preferred":[
+        "Mustafa"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:bar_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u09ab\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Mustafa"
+    ],
+    "name:cat_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ces_x_preferred":[
+        "Mustafa"
+    ],
+    "name:cos_x_preferred":[
+        "Mustafa"
+    ],
+    "name:cym_x_preferred":[
+        "Mustafa"
+    ],
+    "name:dan_x_preferred":[
+        "Mustafa"
     ],
     "name:deu_x_preferred":[
         "Mustafa"
@@ -21,25 +61,181 @@
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c3\u03c4\u03b1\u03c6\u03ac"
     ],
+    "name:eng_x_preferred":[
+        "Mustafa"
+    ],
+    "name:epo_x_preferred":[
+        "Mustafa"
+    ],
+    "name:est_x_preferred":[
+        "Mustafa"
+    ],
+    "name:eus_x_preferred":[
+        "Mustafa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u0637\u0641\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Mustafa"
+    ],
     "name:fra_x_preferred":[
         "Moustapha"
+    ],
+    "name:fra_x_variant":[
+        "Mustafa"
+    ],
+    "name:frp_x_preferred":[
+        "Mustafa"
+    ],
+    "name:fur_x_preferred":[
+        "Mustafa"
+    ],
+    "name:gla_x_preferred":[
+        "Mustafa"
+    ],
+    "name:gle_x_preferred":[
+        "Mustafa"
+    ],
+    "name:glg_x_preferred":[
+        "Mustafa"
+    ],
+    "name:gsw_x_preferred":[
+        "Mustafa"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e1\u05d8\u05e4\u05d0"
     ],
+    "name:hrv_x_preferred":[
+        "Mustafa"
+    ],
+    "name:hun_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ido_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ile_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ina_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ind_x_preferred":[
+        "Mustafa"
+    ],
+    "name:isl_x_preferred":[
+        "Mustafa"
+    ],
     "name:ita_x_preferred":[
+        "Mustafa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b9\u30bf\u30d5\u30a1"
+    ],
+    "name:kon_x_preferred":[
         "Mustafa"
     ],
     "name:lat_x_preferred":[
         "Mustapha"
     ],
+    "name:lav_x_preferred":[
+        "Mustafa"
+    ],
+    "name:lij_x_preferred":[
+        "Mustafa"
+    ],
+    "name:lim_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ltz_x_preferred":[
+        "Mustafa"
+    ],
+    "name:min_x_preferred":[
+        "Mustafa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Mustafa"
+    ],
+    "name:msa_x_preferred":[
+        "Mustafa"
+    ],
+    "name:nap_x_preferred":[
+        "Mustafa"
+    ],
+    "name:nds_x_preferred":[
+        "Mustafa"
+    ],
+    "name:nld_x_preferred":[
+        "Mustafa"
+    ],
+    "name:nno_x_preferred":[
+        "Mustafa"
+    ],
+    "name:nob_x_preferred":[
+        "Mustafa"
+    ],
     "name:nor_x_preferred":[
+        "Mustafa"
+    ],
+    "name:nrm_x_preferred":[
+        "Mustafa"
+    ],
+    "name:oci_x_preferred":[
+        "Mustafa"
+    ],
+    "name:pcd_x_preferred":[
+        "Mustafa"
+    ],
+    "name:pms_x_preferred":[
+        "Mustafa"
+    ],
+    "name:pol_x_preferred":[
+        "Mustafa"
+    ],
+    "name:por_x_preferred":[
+        "Mustafa"
+    ],
+    "name:roh_x_preferred":[
+        "Mustafa"
+    ],
+    "name:ron_x_preferred":[
+        "Mustafa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Mustafa"
+    ],
+    "name:sco_x_preferred":[
+        "Mustafa"
+    ],
+    "name:slk_x_preferred":[
+        "Mustafa"
+    ],
+    "name:slv_x_preferred":[
         "Mustafa"
     ],
     "name:spa_x_preferred":[
         "Mustaf\u00e1"
     ],
+    "name:spa_x_variant":[
+        "Mustafa"
+    ],
     "name:sqi_x_preferred":[
+        "Mustafa"
+    ],
+    "name:srd_x_preferred":[
+        "Mustafa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:swa_x_preferred":[
         "Mustafa"
     ],
     "name:swe_x_preferred":[
@@ -48,8 +244,38 @@
     "name:tur_x_preferred":[
         "Mustafa"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u0444\u0430"
+    ],
     "name:unk_x_variant":[
         "Mustapha Inf\u00e9rieur"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0635\u0637\u0641\u0670\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Mustafa"
+    ],
+    "name:vie_x_preferred":[
+        "Mustafa"
+    ],
+    "name:vls_x_preferred":[
+        "Mustafa"
+    ],
+    "name:vol_x_preferred":[
+        "Mustafa"
+    ],
+    "name:wln_x_preferred":[
+        "Mustafa"
+    ],
+    "name:wol_x_preferred":[
+        "Mustafa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u65af\u5854\u6cd5"
+    ],
+    "name:zul_x_preferred":[
+        "Mustafa"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -96,7 +322,7 @@
         }
     ],
     "wof:id":421192365,
-    "wof:lastmodified":1531858681,
+    "wof:lastmodified":1563572223,
     "wof:name":"Mustapha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

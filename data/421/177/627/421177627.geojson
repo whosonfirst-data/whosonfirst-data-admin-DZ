@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a8 \u09ac\u09c7\u0987\u09a1\u09be"
     ],
@@ -31,8 +34,14 @@
     "name:eng_x_preferred":[
         "A\u00efn Be\u00efda"
     ],
+    "name:epo_x_preferred":[
+        "Ain Beida"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
     ],
     "name:fin_x_preferred":[
         "A\u00efn Be\u00efda"
@@ -75,6 +84,9 @@
     ],
     "name:msa_x_preferred":[
         "A\u00efn Be\u00efda"
+    ],
+    "name:nan_x_preferred":[
+        "A\u00efn B\u00e9\u00efda"
     ],
     "name:nld_x_preferred":[
         "A\u00efn Be\u00efda"
@@ -129,6 +141,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627 \u060c \u0648\u0648\u0645 \u0627\u0644 \u0628\u0648\u0648\u0627\u06af\u06be\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627 "
     ],
     "name:vie_x_preferred":[
         "Ain Beida"
@@ -185,7 +200,7 @@
         }
     ],
     "wof:id":421177627,
-    "wof:lastmodified":1561791099,
+    "wof:lastmodified":1563572284,
     "wof:name":"Ain Beida",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

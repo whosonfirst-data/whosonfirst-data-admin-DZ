@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0641\u0627\u0631\u064a\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0641\u0627\u0631\u06cc\u06a9"
+    ],
     "name:bre_x_preferred":[
         "Boufarik"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:ces_x_preferred":[
         "B\u00fafar\u00edk"
+    ],
+    "name:deu_x_preferred":[
+        "Boufarik"
     ],
     "name:eng_x_preferred":[
         "Boufarik"
@@ -43,17 +49,29 @@
     "name:kab_x_preferred":[
         "Bufarik"
     ],
+    "name:kor_x_preferred":[
+        "\ubd80\ud30c\ub9ac\ud06c"
+    ],
     "name:msa_x_preferred":[
+        "Boufarik"
+    ],
+    "name:nan_x_preferred":[
         "Boufarik"
     ],
     "name:nld_x_preferred":[
         "Boufarik"
+    ],
+    "name:pol_x_preferred":[
+        "Bufarik"
     ],
     "name:por_x_preferred":[
         "Boufarik"
     ],
     "name:ron_x_preferred":[
         "Boufarik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0444\u0430\u0440\u0438\u043a"
     ],
     "name:spa_x_preferred":[
         "Boufarik"
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":421185647,
-    "wof:lastmodified":1561791101,
+    "wof:lastmodified":1563572302,
     "wof:name":"Boufarik",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

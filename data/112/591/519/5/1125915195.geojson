@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631 \u0627\u0644\u0634\u0644\u0627\u0644\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0635\u0631 \u0634\u0644\u0627\u0644\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Ksar Chellala"
+    ],
     "name:eng_x_preferred":[
         "Ksar Chellala"
     ],
@@ -40,6 +46,9 @@
     "name:msa_x_preferred":[
         "Ksar Chellala"
     ],
+    "name:nan_x_preferred":[
+        "Ksar Chellala"
+    ],
     "name:nld_x_preferred":[
         "Ksar Chellala"
     ],
@@ -47,6 +56,9 @@
         "Ksar Chellala"
     ],
     "name:ron_x_preferred":[
+        "Ksar Chellala"
+    ],
+    "name:spa_x_preferred":[
         "Ksar Chellala"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125915195,
-    "wof:lastmodified":1561791108,
+    "wof:lastmodified":1563572354,
     "wof:name":"Ksar Chellala",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

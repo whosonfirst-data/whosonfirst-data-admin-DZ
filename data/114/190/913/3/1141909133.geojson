@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0644\u0641\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u0644\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09ab\u09be"
     ],
@@ -24,6 +27,9 @@
         "\u0414\u0436\u0435\u043b\u0444\u0430"
     ],
     "name:cat_x_preferred":[
+        "Djelfa"
+    ],
+    "name:ceb_x_preferred":[
         "Djelfa"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +47,14 @@
     "name:epo_x_preferred":[
         "\u011celfa"
     ],
+    "name:eus_x_preferred":[
+        "Djelfa"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062c\u0641\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u062c\u0641\u0644\u0647"
     ],
     "name:fin_x_preferred":[
         "Djelfa"
@@ -266,7 +278,7 @@
         }
     ],
     "wof:id":1141909133,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572703,
     "wof:name":"Djelfa",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

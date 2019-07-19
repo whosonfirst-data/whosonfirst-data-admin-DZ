@@ -37,6 +37,9 @@
     "name:msa_x_preferred":[
         "Tolga"
     ],
+    "name:nan_x_preferred":[
+        "Tolga"
+    ],
     "name:nld_x_preferred":[
         "Tolga"
     ],
@@ -49,7 +52,13 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u043b\u0433\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Tolga"
+    ],
     "name:swe_x_preferred":[
+        "Tolga"
+    ],
+    "name:vie_x_preferred":[
         "Tolga"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421168191,
-    "wof:lastmodified":1561791090,
+    "wof:lastmodified":1563572221,
     "wof:name":"Tolga",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

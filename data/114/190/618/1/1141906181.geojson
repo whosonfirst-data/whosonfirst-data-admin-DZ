@@ -17,11 +17,17 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062c\u0644"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u06cc\u062c\u0644"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u099c\u09c7\u09b2"
     ],
     "name:cat_x_preferred":[
         "G\u00edger"
+    ],
+    "name:ceb_x_preferred":[
+        "Jijel"
     ],
     "name:dan_x_preferred":[
         "Jijel"
@@ -35,8 +41,14 @@
     "name:eng_x_preferred":[
         "Jijel"
     ],
+    "name:epo_x_preferred":[
+        "Jijel"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u06cc\u062c\u0644\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u06cc\u062c\u0644"
     ],
     "name:fin_x_preferred":[
         "Jijel"
@@ -127,6 +139,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c1c\u0c46\u0c32\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Jijel"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e34\u0e40\u0e08\u0e25"
@@ -266,7 +281,7 @@
         }
     ],
     "wof:id":1141906181,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572698,
     "wof:name":"Jijel",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

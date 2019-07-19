@@ -17,7 +17,13 @@
     "name:ara_x_preferred":[
         "\u062a\u0646\u062f\u0648\u0641"
     ],
+    "name:ast_x_preferred":[
+        "Tinduf"
+    ],
     "name:cat_x_preferred":[
+        "Tindouf"
+    ],
+    "name:ceb_x_preferred":[
         "Tindouf"
     ],
     "name:ces_x_preferred":[
@@ -51,6 +57,9 @@
         "Tindouf"
     ],
     "name:frr_x_preferred":[
+        "Tindouf"
+    ],
+    "name:glg_x_preferred":[
         "Tindouf"
     ],
     "name:heb_x_preferred":[
@@ -248,7 +257,7 @@
         }
     ],
     "wof:id":1141909125,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572701,
     "wof:name":"Tindouf",
     "wof:parent_id":85670709,
     "wof:placetype":"locality",

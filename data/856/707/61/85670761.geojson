@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Alger"
     ],
+    "name:dan_x_preferred":[
+        "Algier"
+    ],
     "name:deu_x_preferred":[
         "Algier"
     ],
@@ -77,6 +80,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30b8\u30a7"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30eb\u30b8\u30a7\u770c"
+    ],
     "name:kab_x_preferred":[
         "Agezdu n Dzayer Tamana\u0263t"
     ],
@@ -85,6 +91,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\uc81c"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\uc81c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Arjel"
     ],
     "name:lit_x_preferred":[
         "Al\u017eyro vilaja"
@@ -287,7 +299,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791031,
+    "wof:lastmodified":1563571506,
     "wof:name":"Alger",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

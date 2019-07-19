@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062c\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u062c\u0627\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "El Hadjar"
+    ],
     "name:eng_x_preferred":[
         "El Hadjar"
     ],
@@ -31,6 +37,9 @@
         "El Hadjar"
     ],
     "name:msa_x_preferred":[
+        "El Hadjar"
+    ],
+    "name:nan_x_preferred":[
         "El Hadjar"
     ],
     "name:nld_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890434655,
-    "wof:lastmodified":1561791105,
+    "wof:lastmodified":1563572333,
     "wof:name":"El Hadjar",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

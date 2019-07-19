@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0632\u0645\u0648\u0631\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u0645\u0648\u0631\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Zemoura"
+    ],
     "name:eng_x_preferred":[
         "Zemmoura"
     ],
@@ -33,6 +39,9 @@
     "name:msa_x_preferred":[
         "Zemmoura"
     ],
+    "name:nan_x_preferred":[
+        "Zemmora"
+    ],
     "name:nld_x_preferred":[
         "Zemmoura"
     ],
@@ -40,6 +49,9 @@
         "Zemmoura"
     ],
     "name:ron_x_preferred":[
+        "Zemmora"
+    ],
+    "name:spa_x_preferred":[
         "Zemmora"
     ],
     "name:swe_x_preferred":[
@@ -50,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Zemmoura"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bb0\u7a46\u62c9"
     ],
     "qs:name":"Zemoura",
     "qs:photos_9r":0,
@@ -80,7 +95,7 @@
         }
     ],
     "wof:id":890437135,
-    "wof:lastmodified":1561791102,
+    "wof:lastmodified":1563572309,
     "wof:name":"Zemoura",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

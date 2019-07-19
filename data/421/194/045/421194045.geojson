@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0641\u0644\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0641\u0644\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ab\u09cd\u09b2\u09c1"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421194045,
-    "wof:lastmodified":1561791091,
+    "wof:lastmodified":1563572229,
     "wof:name":"Aflou",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
     "name:fra_x_preferred":[
         "wilaya de S\u00e9tif"
     ],
+    "name:fra_x_variant":[
+        "S\u00e9tif"
+    ],
     "name:glg_x_preferred":[
         "Provincia de S\u00e9tif"
     ],
@@ -110,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc138\ud2f0\ud504 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc138\ud2f0\ud504\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Wilaya de Setif"
@@ -327,7 +333,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791031,
+    "wof:lastmodified":1563571498,
     "wof:name":"S\u00e9tif",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

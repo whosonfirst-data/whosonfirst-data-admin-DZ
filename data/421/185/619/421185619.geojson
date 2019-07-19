@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0633\u062d\u0627\u0648\u0644\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u062d\u0627\u0648\u0644\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u062d\u0627\u0648\u0644\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Saoula"
     ],
@@ -37,6 +43,9 @@
     "name:msa_x_preferred":[
         "Saoula"
     ],
+    "name:nan_x_preferred":[
+        "Saoula"
+    ],
     "name:nld_x_preferred":[
         "Saoula"
     ],
@@ -44,6 +53,9 @@
         "Saoula"
     ],
     "name:ron_x_preferred":[
+        "Saoula"
+    ],
+    "name:spa_x_preferred":[
         "Saoula"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421185619,
-    "wof:lastmodified":1561791101,
+    "wof:lastmodified":1563572298,
     "wof:name":"Saoula",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

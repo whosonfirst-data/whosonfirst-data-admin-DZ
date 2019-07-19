@@ -17,11 +17,17 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0635\u0627\u0644\u062d"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0635\u0627\u0644\u062d"
+    ],
     "name:cat_x_preferred":[
         "In Salah"
     ],
     "name:ceb_x_preferred":[
         "A\u00efn Salah"
+    ],
+    "name:ceb_x_variant":[
+        "I-n-Salah"
     ],
     "name:deu_x_preferred":[
         "In Salah"
@@ -85,6 +91,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u043d-\u0421\u0430\u043b\u0430\u0445"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0439\u043d-\u0421\u0430\u043b\u0430\u0445"
     ],
     "name:spa_x_preferred":[
         "In Salah"
@@ -241,7 +250,7 @@
         }
     ],
     "wof:id":421169027,
-    "wof:lastmodified":1561791092,
+    "wof:lastmodified":1563572236,
     "wof:name":"Ain Salah",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

@@ -106,6 +106,9 @@
     "name:kor_x_preferred":[
         "\ubc00\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc00\ub77c\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Wilaya de Mila"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:lit_x_preferred":[
         "Mila"
+    ],
+    "name:lit_x_variant":[
+        "Milos vilaja"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -141,6 +147,9 @@
     ],
     "name:pol_x_preferred":[
         "Mila"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja Mila"
     ],
     "name:por_x_preferred":[
         "Mila"
@@ -331,7 +340,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791030,
+    "wof:lastmodified":1563571494,
     "wof:name":"Mila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

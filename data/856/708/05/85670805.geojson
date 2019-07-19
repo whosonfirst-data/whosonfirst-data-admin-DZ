@@ -29,6 +29,12 @@
         "\u0648\u0644\u0627\u064a\u0629 \u062a\u0633\u0645\u0633\u064a\u0644\u062a",
         "\u062a\u064a\u0633\u0645\u0633\u064a\u0644\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u064a\u0633\u0645\u0633\u064a\u0644\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Tissemsilt vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u044b\u0441\u0435\u043c\u0441\u0456\u043b\u0442"
     ],
@@ -101,6 +107,9 @@
     "name:kor_x_preferred":[
         "\ud2f0\uc148\uc2e4\ud2b8"
     ],
+    "name:kor_x_variant":[
+        "\ud2f0\uc148\uc2e4\ud2b8\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Wilaya de Tissemsilt"
     ],
@@ -131,8 +140,14 @@
     "name:pnb_x_preferred":[
         "\u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
+    ],
     "name:pol_x_preferred":[
         "Tisamsilt"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja Tisamsilt"
     ],
     "name:por_x_preferred":[
         "Tissemsilt"
@@ -145,6 +160,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0441\u0435\u043c\u0441\u0438\u043b\u044c\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0438\u0441\u0441\u0435\u043c\u0441\u0438\u043b\u0442"
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd2\u0dc3\u0dda\u0db8\u0dd2\u0dc3\u0dd2\u0dbd\u0dca\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
@@ -190,6 +208,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
+    ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
     ],
     "name:vie_x_preferred":[
         "Tissemsilt"
@@ -328,7 +349,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791030,
+    "wof:lastmodified":1563571496,
     "wof:name":"Tissemsilt",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

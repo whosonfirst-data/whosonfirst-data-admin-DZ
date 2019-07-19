@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09a1\u099c \u09ac\u09cc \u0986\u09b0\u09c7\u0987\u099c"
+    ],
+    "name:ceb_x_preferred":[
+        "Bordj Bou Arreridj"
     ],
     "name:dan_x_preferred":[
         "Bordj Bou Arreridj"
@@ -37,6 +43,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
     ],
     "name:fin_x_preferred":[
         "Bordj Bou Arreridj"
@@ -257,7 +266,7 @@
         }
     ],
     "wof:id":1141906189,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572697,
     "wof:name":"Bordj Bou Arreridj",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

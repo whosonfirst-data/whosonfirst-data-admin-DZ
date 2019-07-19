@@ -17,8 +17,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648\u064a\u0631\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u06cc\u0631\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Bou\u00efra"
+    ],
+    "name:deu_x_preferred":[
+        "Bouira"
+    ],
     "name:eng_x_preferred":[
         "Bou\u00efra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0631\u0647"
     ],
     "name:fra_x_preferred":[
         "Bouira"
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":1141908245,
-    "wof:lastmodified":1561791151,
+    "wof:lastmodified":1563572709,
     "wof:name":"Bouira",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

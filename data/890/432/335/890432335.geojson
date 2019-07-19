@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
     "name:cat_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:ita_x_preferred":[
         "\u02bfAyn Tem\u016bshent"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Timucent"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc778\ud14c\ubb34\uc174\ud2b8"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":890432335,
-    "wof:lastmodified":1561791106,
+    "wof:lastmodified":1563572337,
     "wof:name":"\u2019A\u00efn Temouchent",
     "wof:parent_id":85670683,
     "wof:placetype":"locality",

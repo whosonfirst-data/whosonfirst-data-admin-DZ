@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.03916,36.7458,3.03916,36.7458",
     "geom:latitude":36.7458,
     "geom:longitude":3.03916,
@@ -15,11 +16,32 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u064a\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u06cc\u0633"
+    ],
+    "name:cym_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:dan_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:hrv_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
     "name:ita_x_preferred":[
         "Birmendre\u00efs"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30fb\u30e0\u30e9\u30c3\u30c9\u30fb\u30e9\u30a4"
     ],
     "name:kab_x_preferred":[
         "Bir Murad Rayes"
@@ -27,10 +49,22 @@
     "name:msa_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
+    "name:nan_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:nld_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
     "name:por_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
     "name:ron_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440-\u041c\u0443\u0440\u0430\u0434-\u0420\u0430\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
     "name:unk_x_variant":[
@@ -87,7 +121,7 @@
         }
     ],
     "wof:id":421182383,
-    "wof:lastmodified":1531858488,
+    "wof:lastmodified":1563572295,
     "wof:name":"Bir Mourad Rais",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

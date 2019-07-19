@@ -29,14 +29,29 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0633\u062a\u063a\u0627\u0646\u0645",
         "\u0645\u0633\u062a\u063a\u0627\u0646\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0633\u062a\u063a\u0627\u0646\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Mostaqanem"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b8\u09cd\u09a4\u09be\u0997\u09be\u09a8\u09c7\u09ae"
+    ],
     "name:cat_x_preferred":[
         "Mostaganem"
     ],
     "name:ceb_x_preferred":[
         "Mostaganem"
     ],
+    "name:dan_x_preferred":[
+        "Mostaganem"
+    ],
     "name:deu_x_preferred":[
         "Mostaganem"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c3\u03c4\u03b1\u03b3\u03ba\u03b1\u03bd\u03ad\u03bc"
     ],
     "name:eng_x_preferred":[
         "Mostaganem"
@@ -44,11 +59,35 @@
     "name:eng_x_variant":[
         "Mostaganem Province"
     ],
+    "name:epo_x_preferred":[
+        "Mostaganem"
+    ],
+    "name:eus_x_preferred":[
+        "Mostaganem"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0633\u062a\u063a\u0627\u0646\u0645"
     ],
+    "name:fin_x_preferred":[
+        "Mostaganem"
+    ],
     "name:fra_x_preferred":[
         "Mostaganem"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0ab8\u0acd\u0a9f\u0a97\u0ac7\u0aa8\u0aae"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05ea\u05d2\u05d0\u05e0\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0938\u094d\u091f\u0906\u0917\u093e\u0928\u0947\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Mostaganem"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057d\u057f\u0561\u0563\u0561\u0576\u0565\u0574"
     ],
     "name:ind_x_preferred":[
         "Mostaganem"
@@ -59,19 +98,40 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30b9\u30bf\u30ac\u30cd\u30e0"
     ],
+    "name:kab_x_preferred":[
+        "Mest\u0263anem"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccb\u0cb8\u0ccd\u0c9f\u0ccd\u0c97\u0c97\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10e1\u10d7\u10d0\u10e6\u10d0\u10dc\u10d4\u10db\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubaa8\uc2a4\ud0c0\uac00\ub134"
     ],
+    "name:lav_x_preferred":[
+        "Mostaganema"
+    ],
     "name:lit_x_preferred":[
         "Mostaganemas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0938\u094d\u091f\u0917\u0947\u0902\u092e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0433\u0430\u043d\u0435\u043c"
     ],
     "name:msa_x_preferred":[
         "Mostaganem"
     ],
+    "name:nan_x_preferred":[
+        "Mostaganem"
+    ],
     "name:nld_x_preferred":[
+        "Mostaganem"
+    ],
+    "name:nob_x_preferred":[
         "Mostaganem"
     ],
     "name:pnb_x_preferred":[
@@ -89,6 +149,12 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0433\u0430\u043d\u0435\u043c"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0dc3\u0dca\u0da7\u0d9c\u0db1\u0dd9\u0db8\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Mostaganem"
+    ],
     "name:spa_x_preferred":[
         "Mostaganem"
     ],
@@ -97,6 +163,15 @@
     ],
     "name:swe_x_preferred":[
         "Mostaganem"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0bb8\u0bcd\u0ba4\u0b95\u0bbe\u0ba3\u0bc7\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c38\u0c4d\u0c1f\u0c4d \u0c06\u0c17\u0c3e\u0c28\u0c46\u0c02"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e2a\u0e15\u0e32\u0e01\u0e32\u0e40\u0e19\u0e21"
     ],
     "name:tur_x_preferred":[
         "Mosteganim"
@@ -245,7 +320,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550375,
+    "wof:lastmodified":1563571511,
     "wof:name":"Mostaganem",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
