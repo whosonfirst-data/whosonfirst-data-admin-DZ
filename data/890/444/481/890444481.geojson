@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u062a\u063a\u0627\u0646\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0633\u062a\u063a\u0627\u0646\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Mostaqanem"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b8\u09cd\u09a4\u09be\u0997\u09be\u09a8\u09c7\u09ae"
     ],
@@ -26,6 +32,9 @@
         "Must\u0263anem"
     ],
     "name:cat_x_preferred":[
+        "Mostaganem"
+    ],
+    "name:ceb_x_preferred":[
         "Mostaganem"
     ],
     "name:dan_x_preferred":[
@@ -67,6 +76,9 @@
     "name:hun_x_preferred":[
         "Mostaganem"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057d\u057f\u0561\u0563\u0561\u0576\u0565\u0574"
+    ],
     "name:ind_x_preferred":[
         "Mostaganem"
     ],
@@ -75,6 +87,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30b9\u30bf\u30ac\u30cd\u30e0"
+    ],
+    "name:kab_x_preferred":[
+        "Mest\u0263anem"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ccb\u0cb8\u0ccd\u0c9f\u0ccd\u0c97\u0c97\u0ca8\u0ccd"
@@ -294,7 +309,7 @@
         }
     ],
     "wof:id":890444481,
-    "wof:lastmodified":1561791104,
+    "wof:lastmodified":1563572324,
     "wof:name":"Mostaganem",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

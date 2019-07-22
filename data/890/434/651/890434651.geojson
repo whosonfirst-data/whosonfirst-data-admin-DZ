@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0646\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646\u06cc\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Es Senia"
+    ],
     "name:eng_x_preferred":[
         "Es S\u00e9nia"
     ],
@@ -66,6 +72,9 @@
     "name:vie_x_preferred":[
         "Es Senia"
     ],
+    "name:zho_x_preferred":[
+        "\u585e\u5c3c\u8036"
+    ],
     "qs:name":"Es Senia",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":890434651,
-    "wof:lastmodified":1561791105,
+    "wof:lastmodified":1563572331,
     "wof:name":"Es Senia",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

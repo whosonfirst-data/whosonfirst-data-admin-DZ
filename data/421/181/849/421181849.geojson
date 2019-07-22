@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.06667,36.75,3.06667,36.75",
     "geom:latitude":36.75,
     "geom:longitude":3.06667,
@@ -15,7 +16,22 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062f\u0646\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0645\u062f\u0646\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u062f\u0646\u06cc\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "El Madania"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062f\u0646\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
+        "El Madania"
+    ],
+    "name:ita_x_preferred":[
         "El Madania"
     ],
     "name:kab_x_preferred":[
@@ -24,14 +40,26 @@
     "name:msa_x_preferred":[
         "El Madania"
     ],
+    "name:nan_x_preferred":[
+        "El Madania"
+    ],
+    "name:nld_x_preferred":[
+        "El Madania"
+    ],
     "name:por_x_preferred":[
         "El Madania"
     ],
     "name:ron_x_preferred":[
         "El Madania"
     ],
+    "name:spa_x_preferred":[
+        "El Madania"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u062f\u06cc\u0646\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0645\u062f\u06cc\u0646\u06c1"
     ],
     "name:vie_x_preferred":[
         "El Madania"
@@ -85,7 +113,7 @@
         }
     ],
     "wof:id":421181849,
-    "wof:lastmodified":1531858477,
+    "wof:lastmodified":1563572257,
     "wof:name":"El Madania",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

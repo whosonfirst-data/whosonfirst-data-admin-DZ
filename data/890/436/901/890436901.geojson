@@ -19,7 +19,13 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u064a\u0645\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0645\u06cc\u0645\u0648\u0646"
+    ],
     "name:cat_x_preferred":[
+        "Timimoun"
+    ],
+    "name:ceb_x_preferred":[
         "Timimoun"
     ],
     "name:cym_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:ron_x_preferred":[
         "Timimoun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u043c\u0443\u043d"
     ],
     "name:spa_x_preferred":[
         "Timimoun"
@@ -212,7 +221,7 @@
         }
     ],
     "wof:id":890436901,
-    "wof:lastmodified":1561791103,
+    "wof:lastmodified":1563572317,
     "wof:name":"Timimoun",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

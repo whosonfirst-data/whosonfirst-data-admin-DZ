@@ -12,11 +12,20 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "A\u00efn Oussera Airport"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Ain Oussera"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30a6\u30bb\u30e9\u7a7a\u8ecd\u57fa\u5730"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Ain Oussera"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul A\u00efn Oussera"
     ],
     "oa:elevation_ft":"2132",
     "oa:type":"small_airport",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":102521765,
-    "wof:lastmodified":1543846096,
+    "wof:lastmodified":1563571356,
     "wof:name":"Ain Oussera Airport",
     "wof:parent_id":85670833,
     "wof:placetype":"campus",

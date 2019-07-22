@@ -19,6 +19,12 @@
     "name:ara_x_variant":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0633\u0643\u0631\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0633\u06a9\u0631\u0647"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b8\u0995\u09cd\u09b0\u09be"
     ],
@@ -29,6 +35,9 @@
         "\u0411\u0438\u0441\u043a\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Biskra"
+    ],
+    "name:ceb_x_preferred":[
         "Biskra"
     ],
     "name:ces_x_preferred":[
@@ -87,6 +96,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cbf\u0cb8\u0ccd\u0c95\u0ccd\u0cb0\u0cbe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u0440\u0430"
     ],
     "name:kor_x_preferred":[
         "\ube44\uc2a4\ud06c\ub77c"
@@ -210,7 +222,7 @@
         }
     ],
     "wof:id":421195721,
-    "wof:lastmodified":1561791091,
+    "wof:lastmodified":1563572228,
     "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0628\u0633\u0643\u0631\u0629",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

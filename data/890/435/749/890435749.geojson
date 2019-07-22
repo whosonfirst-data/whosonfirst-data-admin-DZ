@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Mila"
+    ],
     "name:deu_x_preferred":[
         "Milevum"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mila"
@@ -60,11 +66,20 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Mila"
+    ],
     "name:swe_x_preferred":[
         "Mila"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0644\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Mila"
     ],
     "name:war_x_preferred":[
         "Mila"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":890435749,
-    "wof:lastmodified":1561791106,
+    "wof:lastmodified":1563572344,
     "wof:name":"Mila",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

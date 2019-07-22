@@ -29,6 +29,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0623\u063a\u0648\u0627\u0637",
         "\u0627\u0644\u0623\u063a\u0648\u0627\u0637"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0627\u063a\u0648\u0627\u0637 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0433\u0443\u0430\u0442"
     ],
@@ -110,6 +113,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30b0\u30a2\u30c3\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u30e9\u30b0\u30a2\u30c3\u30c8\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0cb2\u0c98\u0cc1\u0ca4\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -119,6 +125,9 @@
     "name:kor_x_preferred":[
         "\ub77c\uad6c\uc544\ud2b8"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uad6c\uc544\ud2b8\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Wilaya de Laghouat"
     ],
@@ -127,6 +136,9 @@
     ],
     "name:lit_x_preferred":[
         "Laguatas"
+    ],
+    "name:lit_x_variant":[
+        "Laguato vilaja"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0917\u094b\u0906\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -149,8 +161,14 @@
     "name:pnb_x_preferred":[
         "\u0627\u063a\u0648\u0627\u0637"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u063a\u0648\u0627\u0637"
+    ],
     "name:pol_x_preferred":[
         "Al-Aghwat"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja Al-Aghwat"
     ],
     "name:por_x_preferred":[
         "Laghouat"
@@ -211,6 +229,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0627\u063a\u0648\u0627\u0637"
+    ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0627\u063a\u0648\u0627\u0637"
     ],
     "name:vie_x_preferred":[
         "Laghouat"
@@ -347,7 +368,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791033,
+    "wof:lastmodified":1563571517,
     "wof:name":"Laghouat",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

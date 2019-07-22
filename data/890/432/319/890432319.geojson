@@ -18,7 +18,13 @@
     "name:ara_x_preferred":[
         "\u062f\u0644\u0651\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0644\u0633"
+    ],
     "name:cat_x_preferred":[
+        "Dellys"
+    ],
+    "name:ceb_x_preferred":[
         "Dellys"
     ],
     "name:cym_x_preferred":[
@@ -45,10 +51,16 @@
     "name:msa_x_preferred":[
         "Dellys"
     ],
+    "name:nan_x_preferred":[
+        "Dellys"
+    ],
     "name:nld_x_preferred":[
         "Dellys"
     ],
     "name:pol_x_preferred":[
+        "Dellys"
+    ],
+    "name:por_x_preferred":[
         "Dellys"
     ],
     "name:ron_x_preferred":[
@@ -68,6 +80,9 @@
     ],
     "name:vie_x_preferred":[
         "Dellys"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u5229\u65af"
     ],
     "qs:name":"Dellys",
     "qs:photos_9r":0,
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":890432319,
-    "wof:lastmodified":1561791106,
+    "wof:lastmodified":1563572339,
     "wof:name":"Dellys",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

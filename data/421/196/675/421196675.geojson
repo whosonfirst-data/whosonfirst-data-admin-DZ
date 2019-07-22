@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Ain Merane"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Ain Merane"
+    ],
+    "name:ita_x_variant":[
+        "A\u00efn Merane"
     ],
     "name:msa_x_preferred":[
         "Ain Merane"
@@ -51,6 +60,15 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "name:urd_x_variant":[
+        "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Merrane"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u9081\u862d"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -96,7 +114,7 @@
         }
     ],
     "wof:id":421196675,
-    "wof:lastmodified":1561791096,
+    "wof:lastmodified":1563572265,
     "wof:name":"'Ain Merane",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

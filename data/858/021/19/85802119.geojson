@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1922805.311846,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.048526,36.787042,3.048526,36.787042",
     "geom:latitude":36.787042,
     "geom:longitude":3.048526,
@@ -31,10 +31,28 @@
         "Alger Bab El Oued",
         "Faubourg Bab el Oued"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0628 \u0648\u0627\u062f\u06cc"
+    ],
     "name:cat_x_preferred":[
         "Bab El-Oued"
     ],
+    "name:eng_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628 \u0648\u0627\u062f\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d1 \u05d0\u05dc-\u05d5\u05d0\u05d3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562 \u0537\u056c \u0548\u0582\u0565\u0564"
+    ],
+    "name:ita_x_preferred":[
         "Bab El Oued"
     ],
     "name:kab_x_preferred":[
@@ -43,10 +61,22 @@
     "name:msa_x_preferred":[
         "Bab El-Oued"
     ],
+    "name:nan_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:nld_x_preferred":[
+        "Bab El Oued"
+    ],
     "name:por_x_preferred":[
         "Bab El Oued"
     ],
     "name:ron_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431 \u044d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:spa_x_preferred":[
         "Bab El Oued"
     ],
     "name:unk_x_variant":[
@@ -61,6 +91,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Bab El Oued"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5e03\u74e6\u5fb7"
     ],
     "qs:gn_adm0_cc":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -121,7 +154,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862134,
+    "wof:lastmodified":1563571533,
     "wof:name":"Bab el Oued",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

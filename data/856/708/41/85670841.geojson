@@ -73,6 +73,9 @@
     "name:fin_x_preferred":[
         "M'Sila"
     ],
+    "name:fin_x_variant":[
+        "M'Silan l\u00e4\u00e4ni"
+    ],
     "name:fra_x_preferred":[
         "M'Sila"
     ],
@@ -100,6 +103,9 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30b7\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30e0\u30b7\u30e9\u770c"
+    ],
     "name:kab_x_preferred":[
         "Msila"
     ],
@@ -112,6 +118,9 @@
     "name:kor_x_preferred":[
         "\uc74c\uc2e4\ub77c"
     ],
+    "name:kor_x_variant":[
+        "\uc74c\uc2e4\ub77c\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Wilaya de M'sila"
     ],
@@ -120,6 +129,9 @@
     ],
     "name:lit_x_preferred":[
         "Msila"
+    ],
+    "name:lit_x_variant":[
+        "Msilos vilaja"
     ],
     "name:mar_x_preferred":[
         "\u090f\u092e'\u0938\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -142,8 +154,14 @@
     "name:pnb_x_preferred":[
         "\u0645\u0633\u06cc\u0644\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0645\u0633\u06cc\u0644\u06c1"
+    ],
     "name:pol_x_preferred":[
         "Al-Masila"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja Al-Masila"
     ],
     "name:por_x_preferred":[
         "M'Sila"
@@ -204,6 +222,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u06cc\u0644\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0645\u0633\u06cc\u0644\u06c1"
     ],
     "name:vie_x_preferred":[
         "M'Sila"
@@ -338,7 +359,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791031,
+    "wof:lastmodified":1563571503,
     "wof:name":"M'Sila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

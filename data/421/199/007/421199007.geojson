@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0642"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0642"
+    ],
+    "name:cat_x_preferred":[
+        "Sig"
+    ],
     "name:ceb_x_preferred":[
         "Sig"
     ],
@@ -37,10 +43,16 @@
     "name:ita_x_preferred":[
         "Sig"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30b0"
+    ],
     "name:kab_x_preferred":[
         "Sigg"
     ],
     "name:msa_x_preferred":[
+        "Sig"
+    ],
+    "name:nan_x_preferred":[
         "Sig"
     ],
     "name:nld_x_preferred":[
@@ -55,10 +67,19 @@
     "name:ron_x_preferred":[
         "Sig"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433"
+    ],
     "name:sco_x_preferred":[
         "Sig"
     ],
+    "name:spa_x_preferred":[
+        "Sig"
+    ],
     "name:swe_x_preferred":[
+        "Sig"
+    ],
+    "name:szl_x_preferred":[
         "Sig"
     ],
     "name:unk_x_variant":[
@@ -113,7 +134,7 @@
         }
     ],
     "wof:id":421199007,
-    "wof:lastmodified":1561791098,
+    "wof:lastmodified":1563572276,
     "wof:name":"Sig",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

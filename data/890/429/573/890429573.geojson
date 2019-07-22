@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062d\u0646\u064a\u0641\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Bou Hanifia el Hamamat"
+    ],
     "name:eng_x_preferred":[
         "Bou Hanifia"
     ],
@@ -33,6 +36,9 @@
     "name:msa_x_preferred":[
         "Bou Hanifia"
     ],
+    "name:nan_x_preferred":[
+        "Bou Hanifia"
+    ],
     "name:nld_x_preferred":[
         "Bou Hanifia"
     ],
@@ -40,6 +46,9 @@
         "Bou Hanifia"
     ],
     "name:ron_x_preferred":[
+        "Bou Hanifia"
+    ],
+    "name:spa_x_preferred":[
         "Bou Hanifia"
     ],
     "name:swe_x_preferred":[
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890429573,
-    "wof:lastmodified":1561791105,
+    "wof:lastmodified":1563572329,
     "wof:name":"Bou Hanifia el Hamamat",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

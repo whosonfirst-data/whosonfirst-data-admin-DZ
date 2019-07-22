@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0643\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0643\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u06cc\u06a9\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09be\u09bf\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Barika"
     ],
     "name:dan_x_preferred":[
         "Barika"
@@ -36,6 +45,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u06cc\u06a9\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u06cc\u06a9\u0647"
     ],
     "name:fin_x_preferred":[
         "Barika"
@@ -57,6 +69,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30ea\u30ab"
+    ],
+    "name:kab_x_preferred":[
+        "Barika"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cb0\u0cbf\u0c95\u0cbe"
@@ -99,6 +114,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dbb\u0dd2\u0d9a\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Barika"
     ],
     "name:swe_x_preferred":[
         "Barika"
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":1125881741,
-    "wof:lastmodified":1561791107,
+    "wof:lastmodified":1563572350,
     "wof:name":"Barika",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

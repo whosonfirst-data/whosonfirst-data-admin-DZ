@@ -23,6 +23,9 @@
     "name:bre_x_preferred":[
         "Souk Ahras"
     ],
+    "name:ceb_x_preferred":[
+        "Souk Ahras"
+    ],
     "name:cym_x_preferred":[
         "Souk-Ahras"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0642 \u0627\u0647\u0631\u0627\u0633\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0642 \u0627\u0647\u0631\u0627\u0633"
     ],
     "name:fin_x_preferred":[
         "Souk Ahras"
@@ -121,6 +127,9 @@
     ],
     "name:ron_x_preferred":[
         "Souk Ahras"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0443\u043a \u0410\u0440\u0430\u0441"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043a-\u0410\u0445\u0440\u0430\u0441"
@@ -281,7 +290,7 @@
         }
     ],
     "wof:id":1141908249,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572707,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85670875,
     "wof:placetype":"locality",

@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0646 \u0633\u0643\u0631\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646 \u0633\u06a9\u0631\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Bensekrane"
+    ],
     "name:eng_x_preferred":[
         "Bensekrane"
     ],
@@ -49,6 +55,9 @@
         "Bensekrane"
     ],
     "name:ron_x_preferred":[
+        "Bensekrane"
+    ],
+    "name:spa_x_preferred":[
         "Bensekrane"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890437159,
-    "wof:lastmodified":1561791102,
+    "wof:lastmodified":1563572310,
     "wof:name":"Bensekrane",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

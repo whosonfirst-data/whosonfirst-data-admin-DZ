@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0644\u0641"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u0644\u0641"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09ab"
     ],
@@ -24,6 +27,9 @@
         "\u0428\u043b\u0435\u0444"
     ],
     "name:cat_x_preferred":[
+        "Chlef"
+    ],
+    "name:ceb_x_preferred":[
         "Chlef"
     ],
     "name:dan_x_preferred":[
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":1141908235,
-    "wof:lastmodified":1561791150,
+    "wof:lastmodified":1563572706,
     "wof:name":"Chlef",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

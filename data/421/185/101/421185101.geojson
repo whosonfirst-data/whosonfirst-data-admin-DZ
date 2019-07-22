@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.09366,35.93433,0.09366,35.93433",
     "geom:latitude":35.93433,
     "geom:longitude":0.09366,
@@ -12,16 +13,40 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0645\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0637\u0645\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Matemore"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0637\u0645\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Matemore"
     ],
+    "name:ita_x_preferred":[
+        "Matemore"
+    ],
     "name:msa_x_preferred":[
+        "Matemore"
+    ],
+    "name:nan_x_preferred":[
+        "Matemore"
+    ],
+    "name:nld_x_preferred":[
         "Matemore"
     ],
     "name:por_x_preferred":[
         "Matemore"
     ],
     "name:ron_x_preferred":[
+        "Matemore"
+    ],
+    "name:spa_x_preferred":[
         "Matemore"
     ],
     "name:unk_x_variant":[
@@ -75,7 +100,7 @@
         }
     ],
     "wof:id":421185101,
-    "wof:lastmodified":1531858561,
+    "wof:lastmodified":1563572301,
     "wof:name":"Matemore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

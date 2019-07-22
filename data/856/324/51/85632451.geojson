@@ -38,6 +38,9 @@
     "name:aka_x_preferred":[
         "\u0186lgyeria"
     ],
+    "name:aka_x_variant":[
+        "Algeria"
+    ],
     "name:als_x_preferred":[
         "Algerien"
     ],
@@ -70,6 +73,9 @@
     "name:ast_x_preferred":[
         "Arxelia"
     ],
+    "name:aym_x_preferred":[
+        "Alhirya"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0627\u06cc\u06cc\u0631"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:bam_x_preferred":[
         "Alizeri"
+    ],
+    "name:bam_x_variant":[
+        "Aljeri"
     ],
     "name:bar_x_preferred":[
         "Algerien"
@@ -102,6 +111,12 @@
     ],
     "name:ben_x_variant":[
         "\u098f\u09b2\u099c\u09bf\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u0932\u094d\u091c\u0940\u0930\u093f\u092f\u093e"
     ],
     "name:bjn_x_preferred":[
         "Aljajair"
@@ -161,6 +176,9 @@
     "name:cor_x_preferred":[
         "Aljeri"
     ],
+    "name:cos_x_preferred":[
+        "Algeria"
+    ],
     "name:crh_x_preferred":[
         "Cezair"
     ],
@@ -185,8 +203,14 @@
     "name:dsb_x_preferred":[
         "Algeriska"
     ],
+    "name:dty_x_preferred":[
+        "\u0905\u0932\u094d\u091c\u0947\u0930\u093f\u092f\u093e"
+    ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f71\u0f63\u0f0b\u0f47\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f61"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f68\u0f63\u0f0b\u0f47\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b3\u03b5\u03c1\u03af\u03b1"
@@ -220,7 +244,8 @@
         "\u0186ldzeria"
     ],
     "name:ewe_x_variant":[
-        "Algeria nutome"
+        "Algeria nutome",
+        "Algeria"
     ],
     "name:ext_x_preferred":[
         "Arg\u00e9lia"
@@ -235,6 +260,9 @@
         "\u0627\u0644\u062c\u0632\u06cc\u0631\u0647"
     ],
     "name:fin_x_preferred":[
+        "Algeria"
+    ],
+    "name:fit_x_preferred":[
         "Algeria"
     ],
     "name:fra_x_preferred":[
@@ -279,8 +307,17 @@
     "name:grn_x_preferred":[
         "Arh\u00e9lia"
     ],
+    "name:grn_x_variant":[
+        "Ayhelia"
+    ],
+    "name:gsw_x_preferred":[
+        "Algerie"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0acd\u0a9c\u0ac0\u0ab0\u0abf\u0aaf\u0abe"
+    ],
+    "name:guj_x_variant":[
+        "\u0a85\u0ab2\u0a9c\u0ac0\u0ab0\u0abf\u0aaf\u0abe"
     ],
     "name:hak_x_preferred":[
         "Algeria"
@@ -323,6 +360,9 @@
     "name:hye_x_preferred":[
         "\u0531\u056c\u056a\u056b\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u056c\u0573\u0565\u0580\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Algeria"
     ],
@@ -343,6 +383,9 @@
     ],
     "name:ind_x_variant":[
         "Algeria"
+    ],
+    "name:inh_x_preferred":[
+        "\u0410\u043b\u0436\u0438\u0440"
     ],
     "name:isl_x_preferred":[
         "Als\u00edr"
@@ -371,6 +414,9 @@
     "name:kab_x_preferred":[
         "Dzayer"
     ],
+    "name:kab_x_variant":[
+        "Lezzayer"
+    ],
     "name:kal_x_preferred":[
         "Algeriet"
     ],
@@ -388,6 +434,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u0410\u043b\u0434\u0436\u0430\u0437\u0430\u0438\u0440"
+    ],
+    "name:kbp_x_preferred":[
+        "Alizeerii"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a2\u17b6\u179b\u17cb\u17a0\u17d2\u179f\u17c1\u179a\u17b8"
@@ -420,7 +469,8 @@
         "Cezayir"
     ],
     "name:kur_x_variant":[
-        "\u0626\u06d5\u0644\u062c\u06d5\u0632\u0627\u06cc\u0631"
+        "\u0626\u06d5\u0644\u062c\u06d5\u0632\u0627\u06cc\u0631",
+        "Alcerya"
     ],
     "name:lad_x_preferred":[
         "Arjelia"
@@ -437,11 +487,17 @@
     "name:lez_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
+    "name:lfn_x_preferred":[
+        "Jazair"
+    ],
     "name:lij_x_preferred":[
         "Alger\u00eea"
     ],
     "name:lim_x_preferred":[
         "Algerije"
+    ],
+    "name:lim_x_variant":[
+        "Algerie\u00eb"
     ],
     "name:lin_x_preferred":[
         "Aljeria"
@@ -466,6 +522,12 @@
     ],
     "name:lug_x_variant":[
         "Aligerya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u963f\u723e\u53ca\u5229\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0932\u094d\u091c\u0947\u0930\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d7e\u0d1c\u0d40\u0d31\u0d3f\u0d2f"
@@ -515,8 +577,17 @@
     "name:mya_x_variant":[
         "\u1021\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u1038\u101b\u102e\u1038\u101a\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0410\u043b\u0436\u0438\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "Argelia"
+    ],
+    "name:nan_x_preferred":[
+        "Algeria"
     ],
     "name:nau_x_preferred":[
         "Ardjiriya"
@@ -559,6 +630,9 @@
     ],
     "name:oci_x_preferred":[
         "Argeria"
+    ],
+    "name:olo_x_preferred":[
+        "Al\u017eir"
     ],
     "name:ori_x_preferred":[
         "\u0b06\u0b32\u0b1c\u0b47\u0b30\u0b3f\u0b06"
@@ -603,7 +677,8 @@
         "\u0627\u0644\u062c\u0632\u0627\u064a\u0631"
     ],
     "name:pus_x_variant":[
-        "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+        "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631",
+        "\u0627\u0644\u062c\u06d0\u0631\u064a\u0627"
     ],
     "name:que_x_preferred":[
         "Alhirya"
@@ -620,6 +695,9 @@
     "name:run_x_preferred":[
         "Alijeriya"
     ],
+    "name:rup_x_preferred":[
+        "Algheria"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
@@ -635,11 +713,17 @@
     "name:san_x_preferred":[
         "\u0905\u0932\u094d\u091c\u0940\u0930\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c5e\u1c61\u1c6e.\u1c68\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Algir\u00eca"
     ],
     "name:sco_x_preferred":[
         "Algerie"
+    ],
+    "name:sgs_x_preferred":[
+        "Al\u017e\u012brs"
     ],
     "name:sin_x_preferred":[
         "\u0d87\u0dbd\u0dca\u0da2\u0dd3\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
@@ -707,6 +791,9 @@
     "name:szl_x_preferred":[
         "Algeryjo"
     ],
+    "name:tah_x_preferred":[
+        "Areteria"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb2\u0bcd\u0b9a\u0bc0\u0bb0\u0bbf\u0baf\u0bbe"
     ],
@@ -737,6 +824,9 @@
     "name:tir_x_preferred":[
         "\u12a0\u120d\u1304\u122a\u12eb"
     ],
+    "name:tir_x_variant":[
+        "\u12a0\u120d\u1300\u122a\u12eb"
+    ],
     "name:ton_x_preferred":[
         "\u02bbAisilia"
     ],
@@ -751,6 +841,9 @@
     ],
     "name:twi_x_preferred":[
         "Algeria"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u043b\u0436\u0438\u0440"
     ],
     "name:uig_x_preferred":[
         "\u0626\u0627\u0644\u062c\u0649\u0631\u0649\u064a\u06d5"
@@ -799,6 +892,9 @@
     "name:vol_x_preferred":[
         "Laljer\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Al\u017eeeri\u00e4"
+    ],
     "name:war_x_preferred":[
         "Alherya"
     ],
@@ -814,6 +910,9 @@
     "name:xal_x_preferred":[
         "\u0410\u043b\u0497\u0440\u043c\u0443\u0434\u0438\u043d \u0423\u043b\u0441 \u041e\u0440\u043d"
     ],
+    "name:xho_x_preferred":[
+        "E-Algeria"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10da\u10df\u10d8\u10e0\u10d8"
     ],
@@ -825,6 +924,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de \u00c0l\u00f9g\u00e8r\u00ed\u00e1n\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u723e\u53ca\u5229\u4e9e"
     ],
     "name:zea_x_preferred":[
         "Alherije"
@@ -998,7 +1100,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791034,
+    "wof:lastmodified":1563571529,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

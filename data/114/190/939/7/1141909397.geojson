@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0645\u0646\u0631\u0627\u0633\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0645\u0646\u0631\u0627\u0633\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0645\u0646\u0631\u0627\u0633\u062a"
+    ],
     "name:bre_x_preferred":[
         "Tamanghasset"
     ],
@@ -28,6 +34,9 @@
         "\u0422\u0430\u043c\u0430\u043d\u0440\u0430\u0441\u0435\u0442"
     ],
     "name:cat_x_preferred":[
+        "Tamanrasset"
+    ],
+    "name:ceb_x_preferred":[
         "Tamanrasset"
     ],
     "name:ces_x_preferred":[
@@ -41,6 +50,9 @@
     ],
     "name:deu_x_preferred":[
         "Tamanrasset"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03b1\u03bd\u03c1\u03b1\u03c3\u03c3\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tamanrasset"
@@ -118,9 +130,6 @@
         "Tamanrasset"
     ],
     "name:rus_x_preferred":[
-        "\u0422\u0430\u043c\u0430\u043d\u0440\u0430\u0441\u0441\u0435\u0442"
-    ],
-    "name:rus_x_variant":[
         "\u0422\u0430\u043c\u0430\u043d\u0440\u0430\u0441\u0441\u0435\u0442"
     ],
     "name:sco_x_preferred":[
@@ -284,7 +293,7 @@
         }
     ],
     "wof:id":1141909397,
-    "wof:lastmodified":1561791149,
+    "wof:lastmodified":1563572696,
     "wof:name":"Tamanrasset",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

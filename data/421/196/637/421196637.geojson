@@ -46,6 +46,12 @@
     "name:ron_x_preferred":[
         "Boudouaou"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0443\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Boudouaou"
+    ],
     "name:swe_x_preferred":[
         "Boudouaou"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Boudouaou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u675c\u5967"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421196637,
-    "wof:lastmodified":1561791097,
+    "wof:lastmodified":1563572271,
     "wof:name":"Boudouaou",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

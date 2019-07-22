@@ -16,8 +16,14 @@
     "name:deu_x_preferred":[
         "Mar\u00e9chal Foch"
     ],
+    "name:eng_x_preferred":[
+        "Marechal Foch"
+    ],
     "name:fra_x_preferred":[
         "Mar\u00e9chal Foch"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ec\u30b7\u30e3\u30eb\u30fb\u30d5\u30a9\u30b7\u30e5"
     ],
     "name:pol_x_preferred":[
         "Mar\u00e9chal Foch"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":421183229,
-    "wof:lastmodified":1527716489,
+    "wof:lastmodified":1563572285,
     "wof:name":"Marechal Foch",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

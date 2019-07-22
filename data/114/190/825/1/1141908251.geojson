@@ -17,11 +17,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0628\u0633\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u0431\u0435\u0441\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09ac\u09c7\u09b8\u09be"
     ],
     "name:cat_x_preferred":[
         "Theveste"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u00e9bessa"
     ],
     "name:dan_x_preferred":[
         "Tebessa"
@@ -44,6 +53,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0628\u0633\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0628\u0633\u0647"
+    ],
     "name:fin_x_preferred":[
         "T\u00e9bessa"
     ],
@@ -52,6 +64,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0aac\u0ac7\u0ab8\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d1\u05e1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091f\u092c\u0947\u0938\u0938\u093e"
@@ -269,7 +284,7 @@
         }
     ],
     "wof:id":1141908251,
-    "wof:lastmodified":1561791151,
+    "wof:lastmodified":1563572710,
     "wof:name":"Tebessa",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

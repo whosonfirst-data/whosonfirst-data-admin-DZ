@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0644\u064a\u062f\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u06cc\u062f\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u043b\u0456\u0434\u0430"
     ],
@@ -33,6 +36,9 @@
         "\u0411\u043b\u0438\u0434\u0430"
     ],
     "name:cat_x_preferred":[
+        "Blida"
+    ],
+    "name:ceb_x_preferred":[
         "Blida"
     ],
     "name:cym_x_preferred":[
@@ -68,11 +74,17 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0abf\u0aa1\u0abe"
     ],
+    "name:hau_x_preferred":[
+        "Blida"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05d9\u05d3\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0932\u093f\u0926\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u056b\u0564\u0561"
     ],
     "name:ind_x_preferred":[
         "Blida"
@@ -88,6 +100,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb2\u0cbf\u0ca1\u0cbe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043b\u0438\u0434\u0430"
     ],
     "name:kor_x_preferred":[
         "\ube14\ub9ac\ub2e4"
@@ -299,7 +314,7 @@
         }
     ],
     "wof:id":1141908243,
-    "wof:lastmodified":1561791151,
+    "wof:lastmodified":1563572709,
     "wof:name":"Blida",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

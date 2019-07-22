@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0645\u0644\u062d"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0645\u0644\u062d"
+    ],
     "name:eng_x_preferred":[
         "A\u00efn El Melh"
     ],
@@ -31,6 +34,9 @@
     "name:msa_x_preferred":[
         "A\u00efn El Melh"
     ],
+    "name:nan_x_preferred":[
+        "A\u00efn El Melh"
+    ],
     "name:nld_x_preferred":[
         "A\u00efn El Melh"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u043d-\u044d\u043b\u044c-\u041c\u0435\u043b\u044c\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn El Melh"
     ],
     "name:unk_x_variant":[
         "A\u00efne Melah"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421167729,
-    "wof:lastmodified":1561791092,
+    "wof:lastmodified":1563572234,
     "wof:name":"'Ain el Melh",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

@@ -22,14 +22,23 @@
     "name:arg_x_preferred":[
         "Termic\u00e9n"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0644\u0645\u0633\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u043b\u0435\u043c\u0441\u0435\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u043b\u0435\u043c\u0441\u0435\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09ae\u099a\u09c7\u09a8"
     ],
     "name:cat_x_preferred":[
         "Tilimsen"
+    ],
+    "name:ceb_x_preferred":[
+        "Tlemcen"
     ],
     "name:cym_x_preferred":[
         "Tlemcen"
@@ -84,6 +93,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ec\u30e0\u30bb\u30f3"
+    ],
+    "name:kab_x_preferred":[
+        "Tlemsan"
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0ccd\u0cb2\u0cc6\u0cae\u0ccd\u0cb8\u0cc6\u0ca8\u0ccd"
@@ -157,6 +169,9 @@
     "name:spa_x_preferred":[
         "Tremec\u00e9n"
     ],
+    "name:spa_x_variant":[
+        "Tlemec\u00e9n"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Tlemcen"
     ],
@@ -171,6 +186,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e40\u0e25\u0e21\u0e40\u0e0b\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e41\u0e25\u0e21\u0e41\u0e0b\u0e19"
     ],
     "name:tur_x_preferred":[
         "Tilimsan"
@@ -319,7 +337,7 @@
         }
     ],
     "wof:id":890440143,
-    "wof:lastmodified":1561791101,
+    "wof:lastmodified":1563572305,
     "wof:name":"Tlemcen",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

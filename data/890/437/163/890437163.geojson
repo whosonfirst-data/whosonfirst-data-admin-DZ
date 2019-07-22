@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u062d\u062c\u0644"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u062d\u062c\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018A\u00efn el Hadjel"
+    ],
     "name:eng_x_preferred":[
         "Ain el Hadjel"
+    ],
+    "name:eng_x_variant":[
+        "A\u00efn El Hadjel"
     ],
     "name:fas_x_preferred":[
         "\u0639\u06cc\u0646 \u062d\u062c\u0644"
@@ -33,6 +42,9 @@
     "name:msa_x_preferred":[
         "A\u00efn El Hadjel"
     ],
+    "name:nan_x_preferred":[
+        "A\u00efn El Hadjel"
+    ],
     "name:nld_x_preferred":[
         "A\u00efn El Hadjel"
     ],
@@ -43,6 +55,9 @@
         "A\u00efn El Hadjel"
     ],
     "name:ron_x_preferred":[
+        "A\u00efn El Hadjel"
+    ],
+    "name:spa_x_preferred":[
         "A\u00efn El Hadjel"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +100,7 @@
         }
     ],
     "wof:id":890437163,
-    "wof:lastmodified":1561791103,
+    "wof:lastmodified":1563572314,
     "wof:name":"\u2018A\u00efn el Hadjel",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

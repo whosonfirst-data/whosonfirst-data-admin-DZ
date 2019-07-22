@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0642\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u0642\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Reggane"
+    ],
     "name:ces_x_preferred":[
         "Reggane"
     ],
@@ -28,10 +34,16 @@
     "name:eng_x_preferred":[
         "Reggane"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0642\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Reggane"
     ],
     "name:fra_x_preferred":[
+        "Reggane"
+    ],
+    "name:glg_x_preferred":[
         "Reggane"
     ],
     "name:ita_x_preferred":[
@@ -61,6 +73,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0433\u0433\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Reggane"
+    ],
     "name:swe_x_preferred":[
         "Reggane"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "Reggane"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7518"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -196,7 +214,7 @@
         }
     ],
     "wof:id":890440309,
-    "wof:lastmodified":1561791101,
+    "wof:lastmodified":1563572304,
     "wof:name":"Reggane",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

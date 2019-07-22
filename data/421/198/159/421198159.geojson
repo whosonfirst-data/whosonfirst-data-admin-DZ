@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.61292,35.68229,-0.61292,35.68229",
     "geom:latitude":35.68229,
     "geom:longitude":-0.61292,
@@ -33,6 +34,12 @@
     "name:ast_x_preferred":[
         "Victor Hugo"
     ],
+    "name:aym_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u06a9\u062a\u0648\u0631 \u0647\u0648\u0642\u0648"
+    ],
     "name:aze_x_preferred":[
         "Viktor H\u00fcqo"
     ],
@@ -51,6 +58,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u0995\u09cd\u099f\u09b0 \u09b9\u09c1\u0997\u09cb"
     ],
+    "name:bis_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:bos_x_preferred":[
         "Victor Hugo"
     ],
@@ -63,17 +73,26 @@
     "name:bxr_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
     ],
+    "name:bxr_x_variant":[
+        "\u0413\u044e\u0433\u043e"
+    ],
     "name:cat_x_preferred":[
         "Victor Hugo"
     ],
     "name:cdo_x_preferred":[
         "Victor Hugo"
     ],
+    "name:cdo_x_variant":[
+        "M\u00ec-k\u00e1ik-d\u014f\u0324 \u1e72\u0304-gu\u014d"
+    ],
     "name:ces_x_preferred":[
         "Victor Hugo"
     ],
     "name:che_x_preferred":[
         "\u0413\u044e\u0433\u043e"
+    ],
+    "name:che_x_variant":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
     ],
     "name:chv_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
@@ -95,6 +114,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03ba\u03c4\u03cc\u03c1 \u039f\u03c5\u03b3\u03ba\u03ce"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03af\u03ba\u03c4\u03c9\u03c1 \u039f\u03c5\u03b3\u03ba\u03ce"
+    ],
+    "name:eng_x_preferred":[
+        "Victor Hugo"
     ],
     "name:epo_x_preferred":[
         "Victor Hugo"
@@ -120,6 +145,12 @@
     "name:fra_x_preferred":[
         "Victor Hugo"
     ],
+    "name:frc_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:frr_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:fry_x_preferred":[
         "Victor Hugo"
     ],
@@ -136,6 +167,12 @@
         "Victor Hugo"
     ],
     "name:grn_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:gsw_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:hak_x_preferred":[
         "Victor Hugo"
     ],
     "name:hat_x_preferred":[
@@ -161,6 +198,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u056f\u057f\u0578\u0580 \u0540\u0575\u0578\u0582\u0563\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u056b\u0584\u0569\u0578\u0580 \u0540\u056b\u0582\u056f\u0585"
     ],
     "name:ido_x_preferred":[
         "Victor Hugo"
@@ -195,6 +235,9 @@
     "name:kaa_x_preferred":[
         "Victor Hugo"
     ],
+    "name:kab_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cbf\u0c95\u0ccd\u0c9f\u0cb0\u0ccd \u0cb9\u0ccd\u0caf\u0cc2\u0c97\u0cca"
     ],
@@ -206,6 +249,12 @@
     ],
     "name:kbd_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
+    ],
+    "name:kbp_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u044e\u0433\u043e"
     ],
     "name:kor_x_preferred":[
         "\ube45\ud1a0\ub974 \uc704\uace0"
@@ -222,10 +271,16 @@
     "name:lez_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
     ],
+    "name:lfn_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:lim_x_preferred":[
         "Victor Hugo"
     ],
     "name:lit_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:lmo_x_preferred":[
         "Victor Hugo"
     ],
     "name:lrc_x_preferred":[
@@ -267,13 +322,34 @@
     "name:mya_x_preferred":[
         "\u1017\u1005\u103a\u1010\u102c\u101f\u1030\u1038\u1002\u102d\u102f\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0413\u044e\u0433\u043e"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u06cc\u06a9\u062a\u0648\u0631 \u0647\u0648\u06af\u0648"
+    ],
+    "name:nah_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:nan_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:nds_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:nep_x_preferred":[
         "\u092d\u093f\u0915\u094d\u091f\u0930 \u0939\u094d\u092f\u0941\u0917\u094b"
+    ],
+    "name:nep_x_variant":[
+        "\u092d\u093f\u0915\u094d\u091f\u0930 \u0939\u0941\u0917\u094b"
     ],
     "name:nld_x_preferred":[
         "Victor Hugo"
     ],
     "name:nno_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:nob_x_preferred":[
         "Victor Hugo"
     ],
     "name:nor_x_preferred":[
@@ -285,11 +361,20 @@
     "name:oci_x_preferred":[
         "Victor Hugo"
     ],
+    "name:olo_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:pag_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:pam_x_preferred":[
         "Victor Hugo"
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a3f\u0a15\u0a24\u0a4b\u0a30 \u0a0a\u0a17\u0a4b"
+    ],
+    "name:pan_x_variant":[
+        "\u0a35\u0a3f\u0a15\u0a1f\u0a30 \u0a39\u0a3f\u0a0a\u0a17\u0a4b"
     ],
     "name:pcd_x_preferred":[
         "Victor Hugo"
@@ -309,6 +394,9 @@
     "name:pus_x_preferred":[
         "\u0648\u06d0\u06a9\u067c\u0648\u0631 \u0647\u0648\u06af\u0648"
     ],
+    "name:pus_x_variant":[
+        "\u0648\u06d0\u06a9\u067c\u0648\u0631 \u0647\u0648\u06ab\u0648"
+    ],
     "name:que_x_preferred":[
         "Victor Hugo"
     ],
@@ -318,16 +406,34 @@
     "name:rue_x_preferred":[
         "\u0412\u0456\u043a\u0442\u043e\u0440 \u0413\u044e\u0491\u043e"
     ],
+    "name:rup_x_preferred":[
+        "Victor Hugo"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u044e\u0433\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
     ],
     "name:sah_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440 \u0413\u044e\u0433\u043e"
     ],
+    "name:sah_x_variant":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440 \u04ae\u0433\u043e"
+    ],
     "name:san_x_preferred":[
         "\u0935\u093f\u0915\u094d\u091f\u0930 \u0939\u094d\u092f\u0942\u0917\u094b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c69\u1c5c\u1c5a \u1c75\u1c77\u1c64\u1c60\u1c74\u1c5a\u1c68"
+    ],
     "name:scn_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:sco_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:sgs_x_preferred":[
         "Victor Hugo"
     ],
     "name:sin_x_preferred":[
@@ -347,6 +453,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0433\u043e"
+    ],
+    "name:stq_x_preferred":[
+        "Victor Hugo"
     ],
     "name:swa_x_preferred":[
         "Victor Hugo"
@@ -402,7 +511,13 @@
     "name:vol_x_preferred":[
         "Victor Hugo"
     ],
+    "name:vro_x_preferred":[
+        "Hugo Victor"
+    ],
     "name:war_x_preferred":[
+        "Victor Hugo"
+    ],
+    "name:wln_x_preferred":[
         "Victor Hugo"
     ],
     "name:wuu_x_preferred":[
@@ -416,6 +531,9 @@
     ],
     "name:yor_x_preferred":[
         "Victor Hugo"
+    ],
+    "name:yue_x_preferred":[
+        "\u96e8\u679c"
     ],
     "name:zho_min_nan_x_preferred":[
         "Victor Hugo"
@@ -471,7 +589,7 @@
         }
     ],
     "wof:id":421198159,
-    "wof:lastmodified":1531858759,
+    "wof:lastmodified":1563572262,
     "wof:name":"Victor Hugo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

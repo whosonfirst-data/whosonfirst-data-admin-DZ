@@ -29,6 +29,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062c\u0644\u0641\u0629",
         "\u0627\u0644\u062c\u0644\u0641\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u0644\u0641\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0414\u0436\u044d\u043b\u044c\u0444\u0430"
     ],
@@ -104,6 +107,9 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30a7\u30eb\u30d5\u30a1"
     ],
+    "name:jpn_x_variant":[
+        "\u30b8\u30a7\u30eb\u30d5\u30a1\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0ca1\u0cbf\u0c9c\u0cc6\u0cb2\u0ccd\u0cab\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -116,6 +122,9 @@
     "name:kor_x_preferred":[
         "\uc824\ud30c"
     ],
+    "name:kor_x_variant":[
+        "\uc824\ud30c\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Wilaya de Djelfa"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:lit_x_preferred":[
         "D\u017eelfa"
+    ],
+    "name:lit_x_variant":[
+        "D\u017eelfos vilaja"
     ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u0932\u094d\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -146,8 +158,14 @@
     "name:pnb_x_preferred":[
         "\u062c\u0644\u0641\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u062c\u0644\u0641\u06c1"
+    ],
     "name:pol_x_preferred":[
         "D\u017cilfa"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja D\u017cilfa"
     ],
     "name:por_x_preferred":[
         "Djelfa"
@@ -163,6 +181,9 @@
     ],
     "name:sco_x_preferred":[
         "Djelfa"
+    ],
+    "name:sco_x_variant":[
+        "Djelfa Province"
     ],
     "name:sin_x_preferred":[
         "\u0da9\u0dca\u0da2\u0dd9\u0dbd\u0dca\u0dc6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
@@ -346,7 +367,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791030,
+    "wof:lastmodified":1563571495,
     "wof:name":"Djelfa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

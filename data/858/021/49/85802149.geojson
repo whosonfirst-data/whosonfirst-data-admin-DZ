@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12680786.818092,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.113463,36.738754,3.113463,36.738754",
     "geom:latitude":36.738754,
     "geom:longitude":3.113463,
@@ -37,7 +37,13 @@
     "name:cat_x_preferred":[
         "Nasr Athl\u00e9tique de Hussein Dey"
     ],
+    "name:cat_x_variant":[
+        "NA Hussein Dey"
+    ],
     "name:deu_x_preferred":[
+        "NA Hussein Dey"
+    ],
+    "name:eng_x_preferred":[
         "NA Hussein Dey"
     ],
     "name:epo_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:fra_x_preferred":[
         "Nasr athl\u00e9tique d'Hussein Dey"
+    ],
+    "name:fra_x_variant":[
+        "NA Hussein Dey"
     ],
     "name:ind_x_preferred":[
         "NA Hussein Dey"
@@ -63,6 +72,9 @@
     ],
     "name:spa_x_preferred":[
         "NA Hussein Dey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0441\u0441\u0435\u0439\u043d \u0414\u0435\u0439"
     ],
     "name:unk_x_variant":[
         "Husse\u00efn Dey"
@@ -124,7 +136,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862139,
+    "wof:lastmodified":1563571536,
     "wof:name":"Husse\u00efn Dey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

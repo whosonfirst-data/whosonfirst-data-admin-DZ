@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u064a\u0633 \u0645\u0644\u064a\u0627\u0646\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0645\u06cc\u0633 \u0645\u0644\u06cc\u0627\u0646\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Khemis Miliana"
     ],
@@ -61,6 +64,9 @@
     "name:ron_x_preferred":[
         "Khemis Miliana"
     ],
+    "name:spa_x_preferred":[
+        "Khemis Miliana"
+    ],
     "name:swe_x_preferred":[
         "Khemis Miliana"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Khemis Miliana"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u7c73\u65af\u7c73\u5229\u4e9e\u7d0d"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421180073,
-    "wof:lastmodified":1561791094,
+    "wof:lastmodified":1563572248,
     "wof:name":"Khemis Miliana",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

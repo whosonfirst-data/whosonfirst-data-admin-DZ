@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u062d\u0627\u0645\u0629 \u0628\u0648\u0632\u064a\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0645\u0629 \u0628\u0648\u0632\u064a\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Hamma Bouziane"
+    ],
     "name:eng_x_preferred":[
         "Hamma Bouziane"
     ],
@@ -31,6 +37,9 @@
     "name:msa_x_preferred":[
         "Hamma Bouziane"
     ],
+    "name:nan_x_preferred":[
+        "Hamma Bouziane"
+    ],
     "name:por_x_preferred":[
         "Hamma Bouziane"
     ],
@@ -38,6 +47,9 @@
         "Districtul Hamma Bouziane"
     ],
     "name:ron_x_variant":[
+        "Hamma Bouziane"
+    ],
+    "name:spa_x_preferred":[
         "Hamma Bouziane"
     ],
     "name:swe_x_preferred":[
@@ -48,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Hamma Bouziane"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u99ac\u5e03\u6fdf\u5b89"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":421167721,
-    "wof:lastmodified":1561791092,
+    "wof:lastmodified":1563572233,
     "wof:name":"Hamma Bouziane",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

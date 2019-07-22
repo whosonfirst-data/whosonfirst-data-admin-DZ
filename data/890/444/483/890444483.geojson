@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0639\u0627\u0645\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0639\u0627\u0645\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Naama"
+    ],
     "name:eng_x_preferred":[
         "Na\u00e2ma"
     ],
@@ -51,6 +57,9 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0430\u043c\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Na\u00e2ma"
+    ],
     "name:swe_x_preferred":[
         "Na\u00e2ma"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0639\u0627\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Na\u00e2ma"
     ],
     "name:war_x_preferred":[
         "Na\u00e2ma"
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":890444483,
-    "wof:lastmodified":1561791104,
+    "wof:lastmodified":1563572321,
     "wof:name":"Naama",
     "wof:parent_id":85670707,
     "wof:placetype":"locality",

@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u0648\u0646\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0632\u0648\u0646\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Mazouna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b6\u03bf\u03cd\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mazouna"
@@ -49,6 +55,9 @@
     "name:ron_x_preferred":[
         "Mazouna"
     ],
+    "name:spa_x_preferred":[
+        "Mazouna"
+    ],
     "name:swe_x_preferred":[
         "Mazouna"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Mazouna"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7956\u7d0d"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421173955,
-    "wof:lastmodified":1561791094,
+    "wof:lastmodified":1563572251,
     "wof:name":"Mazouna",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

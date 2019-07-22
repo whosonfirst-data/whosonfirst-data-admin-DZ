@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628 \u0627\u0644\u0632\u0648\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0628\u200c\u0627\u0644\u0632\u0648\u0627\u0631"
+    ],
     "name:cat_x_preferred":[
         "Bab Ezzouar"
     ],
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421185651,
-    "wof:lastmodified":1561791101,
+    "wof:lastmodified":1563572299,
     "wof:name":"Bab Ezzouar",
     "wof:parent_id":85670761,
     "wof:placetype":"locality",

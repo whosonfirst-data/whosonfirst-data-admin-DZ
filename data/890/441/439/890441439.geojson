@@ -18,7 +18,13 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0627\u0644\u062d"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0644\u062d"
+    ],
     "name:cat_x_preferred":[
+        "El Malah"
+    ],
+    "name:ceb_x_preferred":[
         "El Malah"
     ],
     "name:eng_x_preferred":[
@@ -42,6 +48,9 @@
     "name:msa_x_preferred":[
         "El Malah"
     ],
+    "name:nan_x_preferred":[
+        "El Malah"
+    ],
     "name:nld_x_preferred":[
         "El Malah"
     ],
@@ -49,6 +58,9 @@
         "El Malah"
     ],
     "name:ron_x_preferred":[
+        "El Malah"
+    ],
+    "name:spa_x_preferred":[
         "El Malah"
     ],
     "name:swe_x_preferred":[
@@ -59,6 +71,9 @@
     ],
     "name:vie_x_preferred":[
         "El Malah"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u8d6b"
     ],
     "qs:name":"El Malah",
     "qs:photos_9r":0,
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":890441439,
-    "wof:lastmodified":1561791102,
+    "wof:lastmodified":1563572309,
     "wof:name":"El Malah",
     "wof:parent_id":85670683,
     "wof:placetype":"locality",

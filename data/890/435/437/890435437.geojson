@@ -15,8 +15,56 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0628\u064a\u0636 \u0633\u064a\u062f\u064a \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u06cc\u0636 \u0633\u06cc\u062f\u06cc \u0634\u06cc\u062e"
+    ],
+    "name:ceb_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:eng_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u06cc\u0636 \u0633\u06cc\u062f\u06cc \u0634\u06cc\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:ita_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:msa_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:nan_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:nld_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:por_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:ron_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:spa_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
+    "name:swe_x_preferred":[
+        "El Abiodh Sidi Cheikh"
+    ],
     "name:unk_x_variant":[
         "Sidi Cheikh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0636 \u0633\u06cc\u062f\u06cc \u0634\u06cc\u062e"
+    ],
+    "name:vie_x_preferred":[
+        "El Biodh Sidi Cheikh"
     ],
     "qs:name":"El Abiodh Sidi Cheikh",
     "qs:photos_9r":0,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":890435437,
-    "wof:lastmodified":1527793046,
+    "wof:lastmodified":1563572342,
     "wof:name":"El Abiodh Sidi Cheikh",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",

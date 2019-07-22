@@ -47,6 +47,9 @@
     "name:dan_x_preferred":[
         "Mascara"
     ],
+    "name:dan_x_variant":[
+        "Mascara Province"
+    ],
     "name:deu_x_preferred":[
         "Mascara"
     ],
@@ -65,6 +68,9 @@
     "name:epo_x_preferred":[
         "Okul\u015dminko"
     ],
+    "name:epo_x_variant":[
+        "Provinco Muaskar"
+    ],
     "name:eus_x_preferred":[
         "Errimel"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:fin_x_preferred":[
         "Ripsiv\u00e4ri"
+    ],
+    "name:fin_x_variant":[
+        "Mascaran l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
         "Mascara"
@@ -98,11 +107,17 @@
     "name:ind_x_preferred":[
         "Maskara"
     ],
+    "name:ind_x_variant":[
+        "Provinsi Mascara"
+    ],
     "name:ita_x_preferred":[
         "Mascara"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b9\u30ab\u30e9"
+    ],
+    "name:jpn_x_variant":[
+        "\u30de\u30b9\u30ab\u30e9\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cb8\u0ccd\u0c95\u0cb0\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
@@ -112,6 +127,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc2a4\uce74\ub77c"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc2a4\uce74\ub77c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Kila ron"
@@ -149,11 +167,20 @@
     "name:pnb_x_preferred":[
         "\u0645\u0639\u0633\u06a9\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0645\u0639\u0633\u06a9\u0631"
+    ],
     "name:pol_x_preferred":[
         "Tusz do rz\u0119s"
     ],
+    "name:pol_x_variant":[
+        "Prowincja Muaskar"
+    ],
     "name:por_x_preferred":[
         "R\u00edmel"
+    ],
+    "name:por_x_variant":[
+        "Mascara"
     ],
     "name:ron_x_preferred":[
         "Rimel"
@@ -163,6 +190,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0448\u044c \u0434\u043b\u044f \u0440\u0435\u0441\u043d\u0438\u0446"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0441\u043a\u0430\u0440\u0430"
     ],
     "name:sco_x_preferred":[
         "Mascara Province"
@@ -188,6 +218,9 @@
     "name:swe_x_preferred":[
         "Mascara"
     ],
+    "name:swe_x_variant":[
+        "Muaskar"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0ba3\u0bcd\u0ba3\u0bbf\u0bae\u0bc8\u0bae\u0bc1\u0b9f\u0bbf\u0b9a\u0bcd \u0b9a\u0bbe\u0baf\u0bae\u0bcd"
     ],
@@ -203,11 +236,20 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e2a\u0e04\u0e32\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e2a\u0e01\u0e32\u0e23\u0e48\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Rimel"
     ],
+    "name:tur_x_variant":[
+        "Muaskar Vilayeti"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0448 \u0434\u043b\u044f \u0432\u0456\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0441\u043a\u0430\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Wilaya de Mascara"
@@ -350,7 +392,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561791033,
+    "wof:lastmodified":1563571521,
     "wof:name":"Mascara",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
