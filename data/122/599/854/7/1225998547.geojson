@@ -25,6 +25,48 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0639\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0639\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Feraoun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0639\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ferraoun"
+    ],
+    "name:ita_x_preferred":[
+        "Feraoun"
+    ],
+    "name:kab_x_preferred":[
+        "Fer\u025bun"
+    ],
+    "name:msa_x_preferred":[
+        "Feraoun"
+    ],
+    "name:por_x_preferred":[
+        "Feraoun"
+    ],
+    "name:ron_x_preferred":[
+        "Ferraoun"
+    ],
+    "name:spa_x_preferred":[
+        "Ferraoun"
+    ],
+    "name:swe_x_preferred":[
+        "Feraoun"
+    ],
+    "name:vie_x_preferred":[
+        "Feraoun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u62c9\u96f2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1225998547,
-    "wof:lastmodified":1536793616,
+    "wof:lastmodified":1564197088,
     "wof:name":"Feraoun",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

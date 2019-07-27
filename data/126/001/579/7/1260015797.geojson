@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maison rouge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1260015797,
-    "wof:lastmodified":1537082242,
+    "wof:lastmodified":1564196569,
     "wof:name":"Maison Rouge",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0628\u0631 \u062a\u064a\u0646\u0627\u0644\u0643\u0648\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0637\u06cc\u0646 \u0627\u0644\u06a9\u0648\u0645"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u06cc\u0646 \u0627\u0644\u06a9\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Tin Alkoum"
+    ],
+    "name:por_x_preferred":[
+        "Tin El Koum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1226478597,
-    "wof:lastmodified":1537504313,
+    "wof:lastmodified":1564197105,
     "wof:name":"Tin Alkoum",
     "wof:parent_id":85670731,
     "wof:placetype":"locality",

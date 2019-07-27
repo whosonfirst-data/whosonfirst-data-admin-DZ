@@ -25,9 +25,42 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u064a\u0641"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u06cc\u0641"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "El Kouif"
+    ],
+    "name:ita_x_preferred":[
+        "El Kouif"
+    ],
+    "name:kab_x_preferred":[
+        "Lakwif"
+    ],
+    "name:msa_x_preferred":[
+        "El Kouif"
+    ],
+    "name:por_x_preferred":[
+        "El Kouif"
+    ],
+    "name:ron_x_preferred":[
+        "El Kouif"
+    ],
+    "name:spa_x_preferred":[
+        "El Kouif"
+    ],
     "name:und_x_variant":[
         "Djebel Kouif",
         "Le Kouif",
+        "El Kouif"
+    ],
+    "name:vie_x_preferred":[
         "El Kouif"
     ],
     "src:geom":"geonames",
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1293438515,
-    "wof:lastmodified":1537620197,
+    "wof:lastmodified":1564196228,
     "wof:name":"El Kouif",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

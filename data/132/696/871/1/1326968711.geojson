@@ -28,9 +28,45 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0625\u0642\u0644\u06cc"
+    ],
+    "name:deu_x_preferred":[
+        "Igli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0625\u0642\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Igli"
+    ],
+    "name:ita_x_preferred":[
+        "Igli"
+    ],
+    "name:kab_x_preferred":[
+        "Igli"
+    ],
+    "name:msa_x_preferred":[
+        "Igli"
+    ],
+    "name:por_x_preferred":[
+        "Igli"
+    ],
+    "name:ron_x_preferred":[
+        "Igli"
+    ],
+    "name:spa_x_preferred":[
+        "Igli"
+    ],
     "name:und_x_variant":[
         "Ksar d\u2019Igli",
         "Igli"
+    ],
+    "name:vie_x_preferred":[
+        "Igli"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u683c\u5229"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1326968711,
-    "wof:lastmodified":1537620183,
+    "wof:lastmodified":1564195908,
     "wof:name":"Igli",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u062d\u0631\u0628\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u062d\u0631\u0628\u06cc\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u062d\u0631\u0628\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:ita_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:msa_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:por_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:ron_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:spa_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:vie_x_preferred":[
+        "Oued Harbil"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u8fea\u54c8\u723e\u6bd4\u52d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1293881429,
-    "wof:lastmodified":1537504313,
+    "wof:lastmodified":1564196230,
     "wof:name":"Oued Harbil",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

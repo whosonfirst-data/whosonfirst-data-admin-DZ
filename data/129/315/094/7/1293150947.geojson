@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u064a \u0633\u0644\u064a\u0633\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u06cc \u0633\u0644\u06cc\u0633\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u06cc \u0633\u0644\u06cc\u0633\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Moulay Slissen"
+    ],
+    "name:ita_x_preferred":[
+        "Moulay Slissen"
+    ],
+    "name:kab_x_preferred":[
+        "Mulay Slisen"
+    ],
+    "name:msa_x_preferred":[
+        "Moulay Slissen"
+    ],
+    "name:pol_x_preferred":[
+        "Maulaj Salisan"
+    ],
+    "name:por_x_preferred":[
+        "Moulay Slissen"
+    ],
+    "name:ron_x_preferred":[
+        "Moulay Slissen"
+    ],
+    "name:spa_x_preferred":[
+        "Moulay Slissen"
+    ],
     "name:und_x_variant":[
         "Slissen",
         "Sliss\u00e8ne",
+        "Moulay Slissen"
+    ],
+    "name:vie_x_preferred":[
         "Moulay Slissen"
     ],
     "src:geom":"geonames",
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1293150947,
-    "wof:lastmodified":1537620137,
+    "wof:lastmodified":1564196135,
     "wof:name":"Moulay Slissen",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

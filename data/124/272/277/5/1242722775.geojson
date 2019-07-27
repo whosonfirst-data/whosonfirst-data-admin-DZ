@@ -25,10 +25,34 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Soltane"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Soltane"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Soltane"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Soltane"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn Soltane"
+    ],
     "name:und_x_variant":[
         "A\u00efne Sultan",
         "Ain Soltane",
         "\u2019A\u00efn Sultan"
+    ],
+    "name:vie_x_preferred":[
+        "A\u00efn Soltane"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u7d22\u723e\u5766"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1242722775,
-    "wof:lastmodified":1537620253,
+    "wof:lastmodified":1564196828,
     "wof:name":"Ain Soltane",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

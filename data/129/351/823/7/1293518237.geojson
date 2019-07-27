@@ -25,11 +25,44 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u063a\u064a\u0644\u0627\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u063a\u06cc\u0644\u0627\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u063a\u06cc\u0644\u0627\u0633"
+    ],
     "name:fra_x_historical":[
         "Novi"
     ],
     "name:fra_x_preferred":[
         "Novi"
+    ],
+    "name:fra_x_variant":[
+        "Sidi Ghiles"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Ghiles"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi \u0194ilas"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Ghiles"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Ghiles"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Ghiles"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Ghiles"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Ghiles"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1293518237,
-    "wof:lastmodified":1537620111,
+    "wof:lastmodified":1564196173,
     "wof:name":"Sidi Ghiles",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

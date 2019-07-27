@@ -25,6 +25,51 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0648\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0631\u0648\u06cc\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Charouine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0648\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Charouine"
+    ],
+    "name:ita_x_preferred":[
+        "Charouine"
+    ],
+    "name:kab_x_preferred":[
+        "Carwin"
+    ],
+    "name:msa_x_preferred":[
+        "Charouine"
+    ],
+    "name:por_x_preferred":[
+        "Charouine"
+    ],
+    "name:ron_x_preferred":[
+        "Charouine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0443\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Charouine"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u0648\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Charouine"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u723e\u6eab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +92,7 @@
         }
     ],
     "wof:id":1327088219,
-    "wof:lastmodified":1537504299,
+    "wof:lastmodified":1564195811,
     "wof:name":"Charouine",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

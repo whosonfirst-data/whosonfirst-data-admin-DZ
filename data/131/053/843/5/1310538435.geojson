@@ -28,11 +28,38 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0635\u0627\u0644\u062d"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0635\u0627\u0644\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "In Salah"
+    ],
+    "name:deu_x_preferred":[
+        "In Salah"
+    ],
+    "name:epo_x_preferred":[
+        "In Salah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0635\u0627\u0644\u062d"
+    ],
+    "name:fin_x_preferred":[
+        "In Salah"
+    ],
+    "name:fra_x_preferred":[
+        "In Salah"
+    ],
+    "name:ita_x_preferred":[
+        "In Salah"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30f3\u30b5\u30e9\u30fc"
     ],
     "name:kab_x_preferred":[
         "In \u1e62ale\u1e25"
+    ],
+    "name:kab_x_variant":[
+        "\u0190in \u1e62ale\u1e25"
     ],
     "name:kor_x_preferred":[
         "\uc778\uc0b4\ub77c"
@@ -40,14 +67,41 @@
     "name:lit_x_preferred":[
         "Ain Sala"
     ],
+    "name:msa_x_preferred":[
+        "In Salah"
+    ],
+    "name:nor_x_preferred":[
+        "In Salah"
+    ],
+    "name:oci_x_preferred":[
+        "In Salah"
+    ],
     "name:pol_x_preferred":[
         "Ajn Salih"
+    ],
+    "name:por_x_preferred":[
+        "In Salah"
+    ],
+    "name:ron_x_preferred":[
+        "In Salah"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u043d-\u0421\u0430\u043b\u0430\u0445"
     ],
+    "name:rus_x_variant":[
+        "\u0418\u043d-\u0421\u0430\u043b\u0430\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "In Salah"
+    ],
+    "name:swe_x_preferred":[
+        "In Salah"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043d-\u0421\u0430\u043b\u0430\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "In Salah"
     ],
     "name:zho_x_preferred":[
         "\u56e0\u8428\u62c9\u8d6b"
@@ -74,7 +128,7 @@
         }
     ],
     "wof:id":1310538435,
-    "wof:lastmodified":1537620275,
+    "wof:lastmodified":1564196624,
     "wof:name":"In Salah",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

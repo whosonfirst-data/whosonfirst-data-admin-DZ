@@ -25,11 +25,47 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0639\u0631\u0628\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0639\u0631\u0628\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0639\u0631\u0628\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Belarbi"
+    ],
+    "name:ita_x_preferred":[
+        "Belarbi"
+    ],
+    "name:kab_x_preferred":[
+        "Bel\u025berbi"
+    ],
+    "name:msa_x_preferred":[
+        "Belarbi"
+    ],
+    "name:pol_x_preferred":[
+        "Bu-l-Arabi"
+    ],
+    "name:por_x_preferred":[
+        "Belarbi"
+    ],
+    "name:ron_x_preferred":[
+        "Belarbi"
+    ],
+    "name:spa_x_preferred":[
+        "Belarbi"
+    ],
     "name:und_x_variant":[
         "Daudens",
         "Belarbi Abdelkader",
         "Baudens",
         "El Ksar",
+        "Belarbi"
+    ],
+    "name:vie_x_preferred":[
         "Belarbi"
     ],
     "src:geom":"geonames",
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1309955933,
-    "wof:lastmodified":1537620247,
+    "wof:lastmodified":1564196763,
     "wof:name":"Belarbi",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

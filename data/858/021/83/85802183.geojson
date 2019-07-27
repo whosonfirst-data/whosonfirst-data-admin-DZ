@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3431716.951338,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.055006,36.766506,3.055006,36.766506",
     "geom:latitude":36.766506,
     "geom:longitude":3.055006,
@@ -33,6 +33,15 @@
         "L'Agha",
         "L'Arha",
         "Mustapha Inf\u00e9rieur"
+    ],
+    "name:ceb_x_preferred":[
+        "Agha"
+    ],
+    "name:deu_x_preferred":[
+        "Agha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0642\u0627"
     ],
     "name:unk_x_variant":[
         "Agha"
@@ -90,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862144,
+    "wof:lastmodified":1564196079,
     "wof:name":"Agha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

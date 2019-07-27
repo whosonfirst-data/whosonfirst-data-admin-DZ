@@ -25,10 +25,46 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0644\u0634\u064a\u0627\u062e"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0644\u0634\u06cc\u0627\u062e"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0644\u0634\u06cc\u0627\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Lechiekh"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Lechiakh"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Lecyax"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Lechiakh"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Lechiakh"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Lechiekh"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn Lechiekh"
+    ],
     "name:und_x_variant":[
         "Voltaire",
         "A\u00efn Lechiakh",
         "\u2019A\u00efn Lechiakh"
+    ],
+    "name:vie_x_preferred":[
+        "A\u00efn Lechiakh"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u840a\u5e0c\u4e9e\u8d6b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1360138171,
-    "wof:lastmodified":1537620255,
+    "wof:lastmodified":1564196700,
     "wof:name":"Ain Lechiakh",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

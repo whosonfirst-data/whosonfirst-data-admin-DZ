@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0633\u0637"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0633\u0637"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0633\u0637"
+    ],
+    "name:fra_x_preferred":[
+        "Morsott"
+    ],
+    "name:ita_x_preferred":[
+        "Morsott"
+    ],
+    "name:msa_x_preferred":[
+        "Morsott"
+    ],
+    "name:por_x_preferred":[
+        "Morsott"
+    ],
+    "name:ron_x_preferred":[
+        "Morsott"
+    ],
+    "name:spa_x_preferred":[
+        "Morsott"
+    ],
+    "name:vie_x_preferred":[
+        "Morsott"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u723e\u8607\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1242914709,
-    "wof:lastmodified":1537504277,
+    "wof:lastmodified":1564196900,
     "wof:name":"Morsott",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

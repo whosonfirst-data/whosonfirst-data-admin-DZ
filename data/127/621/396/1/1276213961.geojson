@@ -25,9 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0622\u0632\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Azel"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Azel"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Azel"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Azel"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Azel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0410\u0437\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn Azel"
+    ],
     "name:und_x_variant":[
         "Amp\u00e8re",
         "\u2019A\u00efn Azel"
+    ],
+    "name:vie_x_preferred":[
+        "A\u00efn Azel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1276213961,
-    "wof:lastmodified":1537620260,
+    "wof:lastmodified":1564196250,
     "wof:name":"'Ain Azel",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

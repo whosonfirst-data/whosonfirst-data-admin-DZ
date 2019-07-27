@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9942,36.77388,2.9942,36.77388",
     "geom:latitude":36.77388,
     "geom:longitude":2.9942,
@@ -24,7 +25,13 @@
     "name:fra_x_preferred":[
         "Miremont"
     ],
+    "name:hun_x_preferred":[
+        "Miremont"
+    ],
     "name:ita_x_preferred":[
+        "Miremont"
+    ],
+    "name:nds_x_preferred":[
         "Miremont"
     ],
     "name:nld_x_preferred":[
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":421188411,
-    "wof:lastmodified":1531858620,
+    "wof:lastmodified":1564196790,
     "wof:name":"Miremont",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0643\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u06a9\u0631\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06a9\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Zekri"
+    ],
+    "name:ita_x_preferred":[
+        "Zekri"
+    ],
+    "name:kab_x_preferred":[
+        "Zekri"
+    ],
+    "name:msa_x_preferred":[
+        "Zekri"
+    ],
+    "name:por_x_preferred":[
+        "Zekri"
+    ],
+    "name:ron_x_preferred":[
+        "Zekri"
+    ],
+    "name:spa_x_preferred":[
+        "Zekri"
+    ],
     "name:und_x_variant":[
         "Taharoust",
         "Zekri"
+    ],
+    "name:vie_x_preferred":[
+        "Zekri"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fa4\u514b\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1309977201,
-    "wof:lastmodified":1537620091,
+    "wof:lastmodified":1564196741,
     "wof:name":"Zekri",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

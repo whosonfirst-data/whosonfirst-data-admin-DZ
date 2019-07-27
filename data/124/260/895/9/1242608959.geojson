@@ -25,8 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0648\u0627\u0639"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0646\u0648\u0627\u0639"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0646\u0648\u0627\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Kanoua"
+    ],
+    "name:ita_x_preferred":[
+        "Kanoua"
+    ],
+    "name:kab_x_preferred":[
+        "Qenwa\u025b"
+    ],
+    "name:msa_x_preferred":[
+        "Kanoua"
+    ],
+    "name:por_x_preferred":[
+        "Kanoua"
+    ],
+    "name:ron_x_preferred":[
+        "Kanoua"
+    ],
+    "name:spa_x_preferred":[
+        "Kanoua"
+    ],
     "name:und_x_variant":[
         "Kanou\u00e2"
+    ],
+    "name:vie_x_preferred":[
+        "Kanoua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1242608959,
-    "wof:lastmodified":1537620181,
+    "wof:lastmodified":1564196844,
     "wof:name":"Kanoua",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

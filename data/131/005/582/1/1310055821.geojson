@@ -25,10 +25,46 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062e\u0627\u0644\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u062e\u0627\u0644\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u062e\u0627\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Khaled"
+    ],
     "name:und_x_variant":[
         "Palissy",
         "Sidi Kraled",
         "Sidi Kh\u00e2led"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Khaled"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1310055821,
-    "wof:lastmodified":1537620111,
+    "wof:lastmodified":1564196686,
     "wof:name":"Sidi Khaled",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

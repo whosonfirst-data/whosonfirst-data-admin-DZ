@@ -25,8 +25,35 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0634\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "El Aricha"
+    ],
+    "name:ita_x_preferred":[
+        "El Aricha"
+    ],
+    "name:msa_x_preferred":[
+        "El Aricha"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Arisza"
+    ],
+    "name:por_x_preferred":[
+        "El Aricha"
+    ],
+    "name:ron_x_preferred":[
+        "El Aricha"
+    ],
+    "name:spa_x_preferred":[
+        "El Aricha"
+    ],
     "name:und_x_variant":[
         "Al Aricha"
+    ],
+    "name:vie_x_preferred":[
+        "El Aricha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1327316709,
-    "wof:lastmodified":1537620203,
+    "wof:lastmodified":1564195820,
     "wof:name":"El Aricha",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

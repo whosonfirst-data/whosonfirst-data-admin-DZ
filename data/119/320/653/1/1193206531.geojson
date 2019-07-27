@@ -26,9 +26,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0648\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0645\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u0648\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Zemmouri"
+    ],
+    "name:ita_x_preferred":[
+        "Zemmouri"
+    ],
+    "name:kab_x_preferred":[
+        "Zemmuri"
+    ],
+    "name:msa_x_preferred":[
+        "Zemmouri"
+    ],
+    "name:por_x_preferred":[
+        "Zemmouri"
+    ],
+    "name:ron_x_preferred":[
+        "Zemmouri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043c\u0443\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Zemmouri"
+    ],
     "name:und_x_variant":[
         "Courbet",
         "Zamori",
+        "Zemmouri"
+    ],
+    "name:vie_x_preferred":[
         "Zemmouri"
     ],
     "src:geom":"geonames",
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1193206531,
-    "wof:lastmodified":1537620091,
+    "wof:lastmodified":1564196530,
     "wof:name":"Zemmouri",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

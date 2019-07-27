@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Zoubia"
+    ],
     "name:und_x_variant":[
         "Duveyrier",
         "Zoubia"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1276162113,
-    "wof:lastmodified":1537620089,
+    "wof:lastmodified":1564196269,
     "wof:name":"Zoubia",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

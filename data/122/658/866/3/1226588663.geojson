@@ -25,9 +25,42 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0632\u0642\u064a\u062f\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0645\u0632\u0642\u06cc\u062f\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0632\u0642\u06cc\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Tamesguida"
+    ],
+    "name:ita_x_preferred":[
+        "Tamesguida"
+    ],
+    "name:msa_x_preferred":[
+        "Tamesguida"
+    ],
+    "name:por_x_preferred":[
+        "Tamesguida"
+    ],
+    "name:ron_x_preferred":[
+        "Tamesguida"
+    ],
+    "name:spa_x_preferred":[
+        "Tamesguida"
+    ],
     "name:und_x_variant":[
         "Mouza\u00efa les Mines",
         "Tamesguida"
+    ],
+    "name:vie_x_preferred":[
+        "Tamesguida"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u9081\u65af\u5409\u9054"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1226588663,
-    "wof:lastmodified":1537620104,
+    "wof:lastmodified":1564197061,
     "wof:name":"Tamesguida",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

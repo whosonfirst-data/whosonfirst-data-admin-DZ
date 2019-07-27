@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0633\u0649 \u0628\u0646 \u0645\u0647\u064a\u062f\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0633\u06cc \u0628\u0646 \u0645\u0647\u06cc\u062f\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0633\u06cc \u0628\u0646 \u0645\u0647\u06cc\u062f\u06cc"
+    ],
     "name:fra_x_historical":[
         "Say",
         "Port-Say"
@@ -36,7 +42,26 @@
         "Say"
     ],
     "name:fra_x_variant":[
-        "Port-Say"
+        "Port-Say",
+        "Marsa Ben M'Hidi"
+    ],
+    "name:ita_x_preferred":[
+        "Marsa Ben M'Hidi"
+    ],
+    "name:kab_x_preferred":[
+        "Mer\u1e63a Ben Mhidi"
+    ],
+    "name:pol_x_preferred":[
+        "Marsa Bin Muhajdi"
+    ],
+    "name:por_x_preferred":[
+        "Marsa Ben M'Hidi"
+    ],
+    "name:ron_x_preferred":[
+        "Marsa Ben M'Hidi"
+    ],
+    "name:spa_x_preferred":[
+        "Marsa Ben M'Hidi"
     ],
     "name:und_x_variant":[
         "Le Kiss",
@@ -44,6 +69,9 @@
         "Marsa Ben Mehiou",
         "Marsat Ben Mehidi",
         "Marsa Ben Mehidi"
+    ],
+    "name:vie_x_preferred":[
+        "Marsa Ben M'Hidi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +95,7 @@
         }
     ],
     "wof:id":1243524855,
-    "wof:lastmodified":1537620172,
+    "wof:lastmodified":1564196820,
     "wof:name":"Marsa Ben Mehidi",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0628\u0627\u0632\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Tipasa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u043f\u0430\u0441\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Tipasa"
+    ],
+    "name:dan_x_preferred":[
+        "Tipasa"
+    ],
     "name:deu_x_preferred":[
         "Tipasa"
     ],
@@ -36,6 +48,12 @@
     ],
     "name:epo_x_preferred":[
         "Tipazo"
+    ],
+    "name:est_x_preferred":[
+        "Tipaza"
+    ],
+    "name:eus_x_preferred":[
+        "Tipasa"
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u200c\u067e\u0627\u0632\u0647"
@@ -49,14 +67,26 @@
     "name:heb_x_preferred":[
         "\u05ea\u05d9\u05e4\u05d0\u05d6\u05d4"
     ],
+    "name:hrv_x_preferred":[
+        "Tipasa"
+    ],
     "name:hun_x_preferred":[
         "Tip\u00e1za"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u056b\u057a\u0561\u0566\u0561"
     ],
     "name:ind_x_preferred":[
         "Tipasa"
     ],
+    "name:ita_x_preferred":[
+        "Tipasa"
+    ],
     "name:jpn_x_preferred":[
         "\u30c6\u30a3\u30d1\u30b5"
+    ],
+    "name:kab_x_preferred":[
+        "Tipaza"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d8\u10de\u10d0\u10e1\u10d0"
@@ -67,10 +97,31 @@
     "name:kor_x_preferred":[
         "\ud2f0\ud30c\uc790"
     ],
+    "name:lat_x_preferred":[
+        "Tipasa"
+    ],
+    "name:lit_x_preferred":[
+        "Tipaza"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u093f\u092a\u0938\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3f\u0d2a\u0d3e\u0d38\u0d3e"
+    ],
+    "name:msa_x_preferred":[
+        "Tipaza"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u102e\u1015\u102b\u1007\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nep_x_preferred":[
         "\u0924\u093f\u092a\u091c\u093e"
     ],
     "name:nld_x_preferred":[
+        "Tipasa"
+    ],
+    "name:nor_x_preferred":[
         "Tipasa"
     ],
     "name:pnb_x_preferred":[
@@ -78,6 +129,9 @@
     ],
     "name:pol_x_preferred":[
         "Tipaza"
+    ],
+    "name:pol_x_variant":[
+        "Tipasa"
     ],
     "name:por_x_preferred":[
         "Tipasa"
@@ -88,11 +142,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0438\u043f\u0430\u0437\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Tipasa"
+    ],
     "name:spa_x_preferred":[
         "Tipasa"
     ],
     "name:swe_x_preferred":[
         "Tipasa"
+    ],
+    "name:swe_x_variant":[
+        "Tipaza"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043f\u0430\u0437\u0430"
@@ -103,6 +163,12 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0628\u0627\u0632\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Tipaza"
+    ],
+    "name:war_x_preferred":[
+        "Tipasa"
     ],
     "name:zho_x_preferred":[
         "\u63d0\u5e15\u85a9"
@@ -130,7 +196,7 @@
         }
     ],
     "wof:id":1326664483,
-    "wof:lastmodified":1537620096,
+    "wof:lastmodified":1564195853,
     "wof:name":"Tipasa",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

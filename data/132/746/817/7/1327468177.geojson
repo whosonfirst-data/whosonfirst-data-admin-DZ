@@ -25,6 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0627\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0644\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Djellal"
+    ],
+    "name:ita_x_preferred":[
+        "Djellal"
+    ],
+    "name:msa_x_preferred":[
+        "Djellal"
+    ],
+    "name:por_x_preferred":[
+        "Djellal"
+    ],
+    "name:ron_x_preferred":[
+        "Djellal"
+    ],
+    "name:spa_x_preferred":[
+        "Djellal"
+    ],
+    "name:vie_x_preferred":[
+        "Djellal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1327468177,
-    "wof:lastmodified":1537504298,
+    "wof:lastmodified":1564195872,
     "wof:name":"Djellal",
     "wof:parent_id":85670861,
     "wof:placetype":"locality",

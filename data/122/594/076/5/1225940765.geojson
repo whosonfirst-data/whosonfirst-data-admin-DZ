@@ -25,8 +25,17 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u064a\u0648\u0629"
+    ],
     "name:ber_x_preferred":[
         "Bat'tiwa"
+    ],
+    "name:ceb_x_preferred":[
+        "Bettioua"
+    ],
+    "name:deu_x_preferred":[
+        "B\u00e9thioua"
     ],
     "name:fra_x_historical":[
         "Sainte Leu"
@@ -34,12 +43,42 @@
     "name:fra_x_preferred":[
         "Sainte Leu"
     ],
+    "name:fra_x_variant":[
+        "Bethioua"
+    ],
+    "name:ita_x_preferred":[
+        "Bethioua"
+    ],
+    "name:kab_x_preferred":[
+        "Ibe\u1e6d\u1e6diwen"
+    ],
+    "name:msa_x_preferred":[
+        "Bethioua"
+    ],
+    "name:por_x_preferred":[
+        "Bethioua"
+    ],
+    "name:ron_x_preferred":[
+        "Bethioua"
+    ],
+    "name:spa_x_preferred":[
+        "Bethioua"
+    ],
+    "name:swe_x_preferred":[
+        "Bettioua"
+    ],
     "name:und_x_variant":[
         "Bethioua",
         "Saint-Leu-d\u2019 Alg\u00e9rie",
         "Bethioua ed Douamis",
         "Saint-Leu",
         "Bettioua"
+    ],
+    "name:vie_x_preferred":[
+        "Bethioua"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u932b\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +102,7 @@
         }
     ],
     "wof:id":1225940765,
-    "wof:lastmodified":1537620242,
+    "wof:lastmodified":1564197010,
     "wof:name":"Bettioua",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

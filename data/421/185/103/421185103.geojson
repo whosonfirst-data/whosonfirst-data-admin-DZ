@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.60956,35.69228,-0.60956,35.69228",
     "geom:latitude":35.69228,
     "geom:longitude":-0.60956,
@@ -12,6 +13,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:ces_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u042d\u0436\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Eug\u00e8ne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0415\u0436\u0435\u043d"
+    ],
     "name:unk_x_variant":[
         "Village Saint Eug\u00e8ne"
     ],
@@ -58,7 +101,7 @@
         }
     ],
     "wof:id":421185103,
-    "wof:lastmodified":1531858562,
+    "wof:lastmodified":1564196796,
     "wof:name":"Saint-Eug\u00e8ne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

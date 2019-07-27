@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Gambetta"
     ],
+    "name:pol_x_preferred":[
+        "Gambetta"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043c\u0431\u0435\u0442\u0442\u0430"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421171235,
-    "wof:lastmodified":1531858359,
+    "wof:lastmodified":1564196796,
     "wof:name":"Gambetta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

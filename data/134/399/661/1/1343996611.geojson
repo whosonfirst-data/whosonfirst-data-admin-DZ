@@ -26,11 +26,53 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0627\u062f\u0633\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0646\u0627\u062f\u0633\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00e9nadsa"
+    ],
+    "name:epo_x_preferred":[
+        "Kenadsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0646\u0627\u062f\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Kenadsa"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00e9nadsa"
+    ],
+    "name:kab_x_preferred":[
+        "Iqnadsen"
+    ],
+    "name:msa_x_preferred":[
+        "Kenadsa"
+    ],
+    "name:por_x_preferred":[
+        "K\u00e9nadsa"
+    ],
+    "name:ron_x_preferred":[
+        "Kenadsa"
+    ],
+    "name:spa_x_preferred":[
+        "Kenadsa"
+    ],
     "name:und_x_variant":[
         "Kenatsa",
         "Kanadsa",
         "Kenadza",
         "Kenadsa"
+    ],
+    "name:vie_x_preferred":[
+        "Kenadsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u7d0d\u5fb7\u85a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1343996611,
-    "wof:lastmodified":1537620180,
+    "wof:lastmodified":1564195958,
     "wof:name":"Kenadsa",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

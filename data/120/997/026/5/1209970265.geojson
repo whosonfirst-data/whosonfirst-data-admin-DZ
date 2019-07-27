@@ -25,6 +25,15 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tabia"
+    ],
+    "name:ita_x_preferred":[
+        "Tabia"
+    ],
+    "name:swe_x_preferred":[
+        "Tabia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209970265,
-    "wof:lastmodified":1536395353,
+    "wof:lastmodified":1564196393,
     "wof:name":"Tabia",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

@@ -15,8 +15,26 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Xorfa"
+    ],
+    "name:ceb_x_preferred":[
+        "Chorfa"
+    ],
+    "name:fra_x_preferred":[
+        "Chorfa"
+    ],
+    "name:ita_x_preferred":[
+        "Chorfa"
+    ],
+    "name:ron_x_preferred":[
+        "Chorfa"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u0440\u0444\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Chorfa"
     ],
     "name:unk_x_variant":[
         "Cheurfa"
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":890432323,
-    "wof:lastmodified":1527793037,
+    "wof:lastmodified":1564196801,
     "wof:name":"Chorfa",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

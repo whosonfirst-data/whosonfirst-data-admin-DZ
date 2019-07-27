@@ -25,12 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gdyel"
+    ],
+    "name:ita_x_preferred":[
+        "Gdyel"
+    ],
+    "name:kab_x_preferred":[
+        "Gdeyyel"
+    ],
+    "name:por_x_preferred":[
+        "Gdyel"
+    ],
+    "name:ron_x_preferred":[
+        "Gdyel"
+    ],
+    "name:spa_x_preferred":[
+        "Gdyel"
+    ],
     "name:und_x_variant":[
         "Gudhiel",
         "Saint-Cloud-d\u2019Alg\u00e9rie",
         "Saint-Cloud",
         "Gdeyel",
         "Gdyel"
+    ],
+    "name:vie_x_preferred":[
+        "Gdyel"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u8fea\u8036\u52d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1293185395,
-    "wof:lastmodified":1537620190,
+    "wof:lastmodified":1564196194,
     "wof:name":"Gdyel",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

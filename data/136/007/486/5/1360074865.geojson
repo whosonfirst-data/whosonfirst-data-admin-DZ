@@ -26,9 +26,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0646 \u064a\u0628\u0642\u0649"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Benyebka"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Benyebka"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Benyebqa"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Ben Yebka"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Ben Yebka"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Benyebka"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Benyebka"
+    ],
     "name:und_x_variant":[
         "Kl\u00e9ber",
         "Sidi Benyebka"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Ben Yebka"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u672c\u8036\u5e03\u5361"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1360074865,
-    "wof:lastmodified":1537620113,
+    "wof:lastmodified":1564196708,
     "wof:name":"Sidi Benyebka",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Ch\u00e9gamat"
+    ],
     "name:und_x_variant":[
         "Chegamate",
         "Chegamat"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276911521,
-    "wof:lastmodified":1537620230,
+    "wof:lastmodified":1564196359,
     "wof:name":"Chegamat",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

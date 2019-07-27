@@ -25,8 +25,47 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u064a\u0632\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0631\u06cc\u0632\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Zerizer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u06cc\u0632\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Zerizer"
+    ],
+    "name:ita_x_preferred":[
+        "Zerizer"
+    ],
+    "name:kab_x_preferred":[
+        "Zrizer"
+    ],
+    "name:msa_x_preferred":[
+        "Zerizer"
+    ],
+    "name:por_x_preferred":[
+        "Zerizer"
+    ],
+    "name:ron_x_preferred":[
+        "Zerizer"
+    ],
+    "name:spa_x_preferred":[
+        "Zerizer"
+    ],
     "name:und_x_variant":[
         "Z\u00e9rizer"
+    ],
+    "name:vie_x_preferred":[
+        "Zerizer"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bb0\u91cc\u5bb0\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +89,7 @@
         }
     ],
     "wof:id":1327262745,
-    "wof:lastmodified":1537620090,
+    "wof:lastmodified":1564195915,
     "wof:name":"Zerizer",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

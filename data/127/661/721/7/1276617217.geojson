@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0627\u0644\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0627\u0644\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0627\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Amalou"
+    ],
+    "name:ita_x_preferred":[
+        "Amalou"
+    ],
+    "name:kab_x_preferred":[
+        "Amalu"
+    ],
+    "name:msa_x_preferred":[
+        "Amalou"
+    ],
+    "name:por_x_preferred":[
+        "Amalou"
+    ],
+    "name:ron_x_preferred":[
+        "Amalou"
+    ],
+    "name:spa_x_preferred":[
+        "Amalou"
+    ],
     "name:und_x_variant":[
         "Mahfouda",
         "Amalou"
+    ],
+    "name:vie_x_preferred":[
+        "Amalou"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u99ac\u76e7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1276617217,
-    "wof:lastmodified":1537620251,
+    "wof:lastmodified":1564196296,
     "wof:name":"Amalou",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

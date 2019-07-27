@@ -25,6 +25,30 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0637\u064a\u0641\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Tifour"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Tifour"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Taifour"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Tifour"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Tifour"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0637\u06cc\u0641\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Tifour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1310435795,
-    "wof:lastmodified":1537504269,
+    "wof:lastmodified":1564196658,
     "wof:name":"Sidi Tifour",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",

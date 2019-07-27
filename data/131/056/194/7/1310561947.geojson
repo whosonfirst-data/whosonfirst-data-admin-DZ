@@ -25,6 +25,297 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:als_x_preferred":[
+        "Alexandre Dumas der \u00c4ltere"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u1208\u12ad\u1233\u1295\u12f5\u122d \u12f1\u121b"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0643\u0633\u0646\u062f\u0631 \u062f\u0648\u0645\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0643\u0633\u0646\u062f\u0631 \u062f\u0648\u0645\u0627\u0633 \u0627\u0644\u0627\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:aym_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631 \u062f\u0648\u0645\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Aleksandr D\u00fcma"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u044e\u043c\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044f\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u0437\u044e\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09c7\u0995\u09cd\u09b8\u09be\u0981\u09a6\u09cd\u09b0\u09cd \u09a6\u09cd\u09af\u09c1\u09ae\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:bre_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u0414\u044e\u043c\u0430-\u0431\u0430\u0449\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:cdo_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:ces_x_preferred":[
+        "Alexandre Dumas star\u0161\u00ed"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u044e\u043c\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0644\u06cc\u06a9\u0633\u0627\u0646\u062f\u0631 \u062f\u0648\u0648\u0645\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:dan_x_preferred":[
+        "Alexandre Dumas den \u00e6ldre"
+    ],
+    "name:deu_x_preferred":[
+        "Alexandre Dumas der \u00c4ltere"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2 \u0394\u03bf\u03c5\u03bc\u03ac\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:est_x_preferred":[
+        "Alexandre Dumas vanem"
+    ],
+    "name:eus_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631 \u062f\u0648\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:fra_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:fry_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:glg_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:hak_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:hat_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05db\u05e1\u05e0\u05d3\u05e8 \u05d3\u05d9\u05d5\u05de\u05d0 \u05d4\u05d0\u05d1"
+    ],
+    "name:hrv_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0565\u0584\u057d\u0561\u0576\u0564\u0580 \u0534\u0575\u0578\u0582\u0574\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:isl_x_preferred":[
+        "Alexandre Dumas eldri"
+    ],
+    "name:ita_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:jav_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30af\u30b5\u30f3\u30c9\u30eb\u30fb\u30c7\u30e5\u30de\u30fb\u30da\u30fc\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d4\u10e5\u10e1\u10d0\u10dc\u10d3\u10e0 \u10d3\u10d8\u10e3\u10db\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044e\u043c\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044e\u043c\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ub809\uc0c1\ub4dc\ub974 \ub4a4\ub9c8"
+    ],
+    "name:lat_x_preferred":[
+        "Alexander Dumas"
+    ],
+    "name:lav_x_preferred":[
+        "Aleksandrs Dim\u0101"
+    ],
+    "name:lit_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:ltz_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d32\u0d15\u0d4d\u0d38\u0d3e\u0d23\u0d4d\u0d1f\u0d7c \u0d21\u0d4d\u0d2f\u0d42\u0d2e\u0d3e\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932\u0947\u0915\u094d\u091d\u093e\u0902\u0921\u0930 \u0921\u094d\u092f\u0941\u092e\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0430\u0440 \u0414\u0438\u043c\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044e\u043c\u0430"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0414\u044e\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:nah_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u0932\u0947\u0915\u094d\u091c\u0947\u0928\u094d\u0921\u0930 \u0921\u0941\u092e\u093e\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Alexandre Dumas p\u00e8re"
+    ],
+    "name:nno_x_preferred":[
+        "Alexandre Dumas den eldre"
+    ],
+    "name:nor_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:oci_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a32\u0a48\u0a17\u0a1c\u0a3c\u0a48\u0a02\u0a21\u0a30 \u0a21\u0a3f\u0a0a\u0a2e\u0a3e"
+    ],
+    "name:pms_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u06cc\u06af\u0632\u0646\u0688\u0631 \u0688\u0648\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:por_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:que_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:ron_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043c\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:sco_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:slk_x_preferred":[
+        "Alexandre Dumas star\u0161\u00ed"
+    ],
+    "name:slv_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:spa_x_preferred":[
+        "Alejandro Dumas"
+    ],
+    "name:sqi_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0430\u0440 \u0414\u0438\u043c\u0430 \u041e\u0442\u0430\u0446"
+    ],
+    "name:sun_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:swe_x_preferred":[
+        "Alexandre Dumas den \u00e4ldre"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0b9f\u0bc2\u0bae\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044e\u043c\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044e\u043c\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e41\u0e25\u0e47\u0e01\u0e0b\u0e47\u0e2d\u0e07\u0e14\u0e23\u0e4c \u0e14\u0e39\u0e27\u0e4c\u0e21\u0e32"
+    ],
+    "name:tuk_x_preferred":[
+        "Aleksandr D\u00fduma"
+    ],
+    "name:tur_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u044e\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06cc\u06af\u0632\u0646\u0688\u0631 \u0688\u0648\u0645\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:vie_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:war_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u4ef2\u9a6c"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10da\u10d4\u10e5\u10e1\u10d0\u10dc\u10d3\u10e0\u10d4 \u10d3\u10d8\u10e3\u10db\u10d0"
+    ],
+    "name:yor_x_preferred":[
+        "Alexandre Dumas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u4ef2\u9a6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +337,7 @@
         }
     ],
     "wof:id":1310561947,
-    "wof:lastmodified":1536834644,
+    "wof:lastmodified":1564196689,
     "wof:name":"Alexandre Dumas",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

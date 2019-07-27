@@ -25,6 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u063a\u0631\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0632\u063a\u0631\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u063a\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Mazagran"
+    ],
+    "name:ita_x_preferred":[
+        "Mazagran"
+    ],
+    "name:kab_x_preferred":[
+        "Maza\u0263ran"
+    ],
+    "name:msa_x_preferred":[
+        "Mazagran"
+    ],
+    "name:pol_x_preferred":[
+        "Mazagran"
+    ],
+    "name:por_x_preferred":[
+        "Mazagran"
+    ],
+    "name:ron_x_preferred":[
+        "Mazagran"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0433\u0440\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Mazagran"
+    ],
+    "name:vie_x_preferred":[
+        "Mezagran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +86,7 @@
         }
     ],
     "wof:id":1326524635,
-    "wof:lastmodified":1537504285,
+    "wof:lastmodified":1564195901,
     "wof:name":"Mazagran",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

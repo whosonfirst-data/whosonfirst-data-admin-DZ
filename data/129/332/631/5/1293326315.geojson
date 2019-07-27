@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0644\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Asla"
+    ],
+    "name:fra_x_preferred":[
+        "Assela"
+    ],
+    "name:ita_x_preferred":[
+        "Asla"
+    ],
+    "name:kab_x_preferred":[
+        "Asla"
+    ],
+    "name:msa_x_preferred":[
+        "Asla"
+    ],
+    "name:por_x_preferred":[
+        "Asla"
+    ],
+    "name:ron_x_preferred":[
+        "Assela"
+    ],
+    "name:spa_x_preferred":[
+        "Assela"
+    ],
+    "name:swe_x_preferred":[
+        "Asla"
+    ],
+    "name:vie_x_preferred":[
+        "Assela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1293326315,
-    "wof:lastmodified":1537504305,
+    "wof:lastmodified":1564196169,
     "wof:name":"Asla",
     "wof:parent_id":85670707,
     "wof:placetype":"locality",

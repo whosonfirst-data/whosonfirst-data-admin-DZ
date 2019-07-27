@@ -25,9 +25,33 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Mesra"
+    ],
+    "name:ita_x_preferred":[
+        "Mesra"
+    ],
+    "name:msa_x_preferred":[
+        "Mesra"
+    ],
+    "name:por_x_preferred":[
+        "Mesra"
+    ],
+    "name:ron_x_preferred":[
+        "Mesra"
+    ],
+    "name:spa_x_preferred":[
+        "Mesra"
+    ],
     "name:und_x_variant":[
         "Aboukir",
         "Messhra",
+        "Mesra"
+    ],
+    "name:vie_x_preferred":[
         "Mesra"
     ],
     "src:geom":"geonames",
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209335971,
-    "wof:lastmodified":1537620139,
+    "wof:lastmodified":1564196464,
     "wof:name":"Mesra",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

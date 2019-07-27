@@ -25,6 +25,18 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zahra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0647\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zahra"
+    ],
+    "name:ita_x_preferred":[
+        "Zahra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209798453,
-    "wof:lastmodified":1536391814,
+    "wof:lastmodified":1564196408,
     "wof:name":"Zahra",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

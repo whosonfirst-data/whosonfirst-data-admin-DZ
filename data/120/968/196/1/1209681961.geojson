@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0627\u0645\u0629 \u0645\u0646\u0635\u0648\u0631\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u06cc\u0627\u0645\u0647 \u0645\u0646\u0635\u0648\u0631\u06cc\u0647"
+    ],
     "name:ber_x_preferred":[
         "\u2d63\u2d62\u2d30\u2d4e\u2d30 \u2d4d\u2d4e\u2d30\u2d4f\u2d5a\u2d67\u2d54\u2d49\u2d62\u2d30"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0627\u0645\u0647 \u0645\u0646\u0635\u0648\u0631\u06cc\u0647"
     ],
     "name:fra_x_historical":[
         "Cova"
@@ -37,11 +43,35 @@
     "name:fra_x_preferred":[
         "Cova"
     ],
+    "name:fra_x_variant":[
+        "Ziama Mansouriah"
+    ],
+    "name:kab_x_preferred":[
+        "Zyama Lmen\u1e63uriya"
+    ],
+    "name:msa_x_preferred":[
+        "Ziama Mansouriah"
+    ],
+    "name:por_x_preferred":[
+        "Ziama Mansouriah"
+    ],
+    "name:ron_x_preferred":[
+        "Ziama Mansouriah"
+    ],
+    "name:spa_x_preferred":[
+        "Ziama Mansouriah"
+    ],
     "name:und_x_variant":[
         "Mansouria",
         "Ziama",
         "Ziama Mansouriah",
         "Ziama Mansouria"
+    ],
+    "name:vie_x_preferred":[
+        "Ziama Mansouriah"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fdf\u963f\u99ac\u66fc\u8607\u91cc\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":1209681961,
-    "wof:lastmodified":1537620090,
+    "wof:lastmodified":1564196439,
     "wof:name":"Ziama Mansouria",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

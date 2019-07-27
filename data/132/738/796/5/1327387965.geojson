@@ -25,9 +25,48 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:deu_x_preferred":[
+        "Sebaa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Sebaa"
+    ],
+    "name:ita_x_preferred":[
+        "Sebaa"
+    ],
+    "name:msa_x_preferred":[
+        "Sebaa"
+    ],
+    "name:por_x_preferred":[
+        "Sbaa"
+    ],
+    "name:ron_x_preferred":[
+        "Sebaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0431\u0430\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Sebaa"
+    ],
     "name:und_x_variant":[
         "Sba",
         "Sbaa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Sebaa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1327387965,
-    "wof:lastmodified":1537620115,
+    "wof:lastmodified":1564195821,
     "wof:name":"Sbaa",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

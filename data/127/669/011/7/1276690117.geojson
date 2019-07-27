@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062d\u0644\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1276690117,
-    "wof:lastmodified":1537504309,
+    "wof:lastmodified":1564196275,
     "wof:name":"Bouhlou",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

@@ -25,11 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0637\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u0637\u06cc\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0637\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Still"
+    ],
+    "name:ita_x_preferred":[
+        "Still"
+    ],
+    "name:msa_x_preferred":[
+        "Still"
+    ],
+    "name:por_x_preferred":[
+        "Estile"
+    ],
+    "name:ron_x_preferred":[
+        "Still"
+    ],
+    "name:spa_x_preferred":[
+        "Still"
+    ],
     "name:und_x_variant":[
         "Stil",
         "Slite",
         "Still",
         "Stile"
+    ],
+    "name:vie_x_preferred":[
+        "Still"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1193167785,
-    "wof:lastmodified":1537620107,
+    "wof:lastmodified":1564196534,
     "wof:name":"Stile",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u062f\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Djelida"
+    ],
+    "name:ita_x_preferred":[
+        "Djelida"
+    ],
+    "name:msa_x_preferred":[
+        "Djelida"
+    ],
+    "name:por_x_preferred":[
+        "Djelida"
+    ],
+    "name:ron_x_preferred":[
+        "Djelida"
+    ],
+    "name:spa_x_preferred":[
+        "Djelida"
+    ],
+    "name:vie_x_preferred":[
+        "Djelida"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u5229\u9054"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1260124743,
-    "wof:lastmodified":1537504313,
+    "wof:lastmodified":1564196554,
     "wof:name":"Djelida",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

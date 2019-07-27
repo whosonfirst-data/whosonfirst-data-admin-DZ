@@ -25,10 +25,46 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u0627\u0646\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u0648\u0627\u0646\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0648\u0627\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "El Aouana"
+    ],
+    "name:ita_x_preferred":[
+        "El Aouana"
+    ],
+    "name:kab_x_preferred":[
+        "L\u025bewwana"
+    ],
+    "name:msa_x_preferred":[
+        "El Aouana"
+    ],
+    "name:por_x_preferred":[
+        "El Aouana"
+    ],
+    "name:ron_x_preferred":[
+        "El Aouana"
+    ],
+    "name:spa_x_preferred":[
+        "El Aouana"
+    ],
     "name:und_x_variant":[
         "Cavallo El Aouana",
         "Cavallo",
         "El Aouana"
+    ],
+    "name:vie_x_preferred":[
+        "El Aouana"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u74e6\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1309774343,
-    "wof:lastmodified":1537620203,
+    "wof:lastmodified":1564196744,
     "wof:name":"El Aouana",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

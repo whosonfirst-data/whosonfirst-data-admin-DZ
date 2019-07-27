@@ -25,8 +25,38 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u0644\u0648\u0643\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Tamlouka"
+    ],
+    "name:fra_x_preferred":[
+        "Tamlouka"
+    ],
+    "name:ita_x_preferred":[
+        "Tamlouka"
+    ],
+    "name:kab_x_preferred":[
+        "Tamluka"
+    ],
+    "name:msa_x_preferred":[
+        "Tamlouka"
+    ],
+    "name:por_x_preferred":[
+        "Tamlouka"
+    ],
+    "name:ron_x_preferred":[
+        "Tamlouka"
+    ],
+    "name:spa_x_preferred":[
+        "Tamlouka"
+    ],
     "name:und_x_variant":[
         "Montcalm",
+        "Tamlouka"
+    ],
+    "name:vie_x_preferred":[
         "Tamlouka"
     ],
     "src:geom":"geonames",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1259639741,
-    "wof:lastmodified":1537620104,
+    "wof:lastmodified":1564196946,
     "wof:name":"Tamlouka",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

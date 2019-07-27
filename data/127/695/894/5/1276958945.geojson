@@ -25,8 +25,44 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0627\u0645\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "El Hamma"
+    ],
+    "name:ceb_x_preferred":[
+        "El Hamma"
+    ],
+    "name:cym_x_preferred":[
+        "El Hamma"
+    ],
+    "name:deu_x_preferred":[
+        "El Hamma"
+    ],
+    "name:fra_x_preferred":[
+        "El Hamma"
+    ],
+    "name:hun_x_preferred":[
+        "El Hamma"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud568\ub9c8"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Hamma"
+    ],
+    "name:por_x_preferred":[
+        "El Hamma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0425\u0430\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "El Hammam",
+        "El Hamma"
+    ],
+    "name:vie_x_preferred":[
         "El Hamma"
     ],
     "src:geom":"geonames",
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":1276958945,
-    "wof:lastmodified":1537620200,
+    "wof:lastmodified":1564196297,
     "wof:name":"El Hamma",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

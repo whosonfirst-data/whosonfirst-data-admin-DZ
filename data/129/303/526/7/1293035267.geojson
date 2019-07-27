@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Haoud El Hamra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1293035267,
-    "wof:lastmodified":1537504289,
+    "wof:lastmodified":1564196161,
     "wof:name":"Haoud el Hamra",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

@@ -28,8 +28,41 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0644\u0628\u0627\u0644\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0628\u0644\u0628\u0627\u0644\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0644\u0628\u0627\u0644\u0629"
+    ],
+    "name:fin_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:fra_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:ita_x_preferred":[
+        "Tabelbala"
+    ],
     "name:msa_x_preferred":[
         "Tabalbala"
+    ],
+    "name:por_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:ron_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:spa_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:vie_x_preferred":[
+        "Tabelbala"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62dc\u52d2\u5df4\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1327176863,
-    "wof:lastmodified":1537620107,
+    "wof:lastmodified":1564195920,
     "wof:name":"Tabelbala",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

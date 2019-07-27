@@ -25,8 +25,38 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0628\u0633\u0627\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0628\u0633\u0627\u0645"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0628\u0633\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Ouled Bessem"
+    ],
+    "name:ita_x_preferred":[
+        "Ouled Bessem"
+    ],
+    "name:msa_x_preferred":[
+        "Ouled Bessem"
+    ],
+    "name:por_x_preferred":[
+        "Ouled Bessem"
+    ],
+    "name:ron_x_preferred":[
+        "Ouled Bessem"
+    ],
+    "name:spa_x_preferred":[
+        "Ouled Bessem"
+    ],
     "name:und_x_variant":[
         "Li\u00e9bert",
+        "Ouled Bessem"
+    ],
+    "name:vie_x_preferred":[
         "Ouled Bessem"
     ],
     "src:geom":"geonames",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1259717807,
-    "wof:lastmodified":1537620125,
+    "wof:lastmodified":1564196967,
     "wof:name":"Ouled Bessem",
     "wof:parent_id":85670805,
     "wof:placetype":"locality",

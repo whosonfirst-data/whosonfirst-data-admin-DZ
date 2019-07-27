@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Mansourah"
+    ],
+    "name:ita_x_preferred":[
+        "Mansoura"
+    ],
+    "name:msa_x_preferred":[
+        "Mansourah"
+    ],
+    "name:por_x_preferred":[
+        "Mansourah"
+    ],
+    "name:ron_x_preferred":[
+        "Mansourah"
+    ],
+    "name:spa_x_preferred":[
+        "Mansourah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Mansourah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1243451103,
-    "wof:lastmodified":1537504313,
+    "wof:lastmodified":1564196920,
     "wof:name":"Mansourah",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

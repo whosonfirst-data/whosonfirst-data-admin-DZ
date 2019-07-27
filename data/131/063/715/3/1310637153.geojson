@@ -28,10 +28,34 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u0640\u064a\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0644\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Khelil"
+    ],
+    "name:ita_x_preferred":[
+        "Khelil"
+    ],
+    "name:msa_x_preferred":[
+        "Khelil"
+    ],
+    "name:por_x_preferred":[
+        "Khelil"
+    ],
+    "name:ron_x_preferred":[
+        "Khelil"
+    ],
+    "name:spa_x_preferred":[
+        "Khelil"
+    ],
     "name:und_x_variant":[
         "Davoust",
         "Krelil",
         "Davout",
+        "Khelil"
+    ],
+    "name:vie_x_preferred":[
         "Khelil"
     ],
     "src:geom":"geonames",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1310637153,
-    "wof:lastmodified":1537620178,
+    "wof:lastmodified":1564196637,
     "wof:name":"Khelil",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

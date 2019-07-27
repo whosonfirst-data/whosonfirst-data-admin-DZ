@@ -25,6 +25,15 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Achira"
+    ],
+    "name:pol_x_preferred":[
+        "Achira"
+    ],
+    "name:spa_x_preferred":[
+        "Achira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1276180273,
-    "wof:lastmodified":1536983335,
+    "wof:lastmodified":1564196265,
     "wof:name":"Achira",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

@@ -25,6 +25,42 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062d\u062c\u0627\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u062d\u062c\u0627\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062d\u062c\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:ita_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:kab_x_preferred":[
+        "Bu\u1e25e\u01e7\u01e7ar"
+    ],
+    "name:msa_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:por_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:ron_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:vie_x_preferred":[
+        "Bouhadjar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u54c8\u5091\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1344254591,
-    "wof:lastmodified":1537089518,
+    "wof:lastmodified":1564195972,
     "wof:name":"Bouhadjar",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

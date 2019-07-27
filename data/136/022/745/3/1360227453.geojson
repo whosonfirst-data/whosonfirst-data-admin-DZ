@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u064a\u062e\u0644\u0641"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u06cc \u06cc\u062e\u0644\u0641"
+    ],
     "name:eng_x_preferred":[
         "B\u00e9ni Ikhlef"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc \u06cc\u062e\u0644\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Beni Ikhlef"
+    ],
+    "name:ita_x_preferred":[
+        "Beni Ikhlef"
     ],
     "name:kab_x_preferred":[
         "At Ixlef"
@@ -37,9 +49,24 @@
     "name:msa_x_preferred":[
         "B\u00e9ni Ikhlef"
     ],
+    "name:por_x_preferred":[
+        "B\u00e9ni Ikhlef"
+    ],
+    "name:ron_x_preferred":[
+        "Beni Ikhlef"
+    ],
+    "name:spa_x_preferred":[
+        "Beni Ikhlef"
+    ],
     "name:und_x_variant":[
         "Ikrlef",
         "Beni Ikhlef"
+    ],
+    "name:vie_x_preferred":[
+        "Beni Ikhlef"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5c3c\u4f0a\u5e0c\u840a\u592b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1360227453,
-    "wof:lastmodified":1537620244,
+    "wof:lastmodified":1564196705,
     "wof:name":"Beni Ikhlef",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

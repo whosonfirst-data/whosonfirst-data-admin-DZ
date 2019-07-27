@@ -25,6 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0639\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0648\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Aoun"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Aoun"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Aoun"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Aoun"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Aoun"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Aoun"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Aoun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1343297999,
-    "wof:lastmodified":1537504270,
+    "wof:lastmodified":1564196051,
     "wof:name":"Sidi Aoun",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

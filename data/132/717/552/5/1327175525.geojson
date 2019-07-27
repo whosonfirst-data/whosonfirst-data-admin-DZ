@@ -25,6 +25,33 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0643\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ferkane"
+    ],
+    "name:ita_x_preferred":[
+        "Ferkane"
+    ],
+    "name:msa_x_preferred":[
+        "Ferkane"
+    ],
+    "name:por_x_preferred":[
+        "Ferkane"
+    ],
+    "name:ron_x_preferred":[
+        "Ferkane"
+    ],
+    "name:spa_x_preferred":[
+        "Ferkane"
+    ],
+    "name:vie_x_preferred":[
+        "Ferkane"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u723e\u574e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1327175525,
-    "wof:lastmodified":1537504291,
+    "wof:lastmodified":1564195922,
     "wof:name":"Ferkane",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

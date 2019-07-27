@@ -25,10 +25,49 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0628\u0648\u062c\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0628\u0648\u062c\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u0648\u062c\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Zeboudja"
+    ],
+    "name:ita_x_preferred":[
+        "Zeboudja"
+    ],
+    "name:kab_x_preferred":[
+        "\u1e92ebbuja"
+    ],
+    "name:msa_x_preferred":[
+        "Zeboudja"
+    ],
+    "name:por_x_preferred":[
+        "Zeboudja"
+    ],
+    "name:ron_x_preferred":[
+        "Zeboudja"
+    ],
+    "name:spa_x_preferred":[
+        "Zeboudja"
+    ],
     "name:und_x_variant":[
         "Hanoteau",
         "Timezratine",
         "Zeboudja"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0648\u062c\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Zeboudja"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bb0\u5e03\u8cc8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1209846697,
-    "wof:lastmodified":1537620091,
+    "wof:lastmodified":1564196404,
     "wof:name":"Zeboudja",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

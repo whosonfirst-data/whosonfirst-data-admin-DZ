@@ -25,6 +25,21 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u062f\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0645\u062f\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Tamda"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u062f\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Tamda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +49,7 @@
         "gn:id":2573213
     },
     "wof:country":"DZ",
-    "wof:geomhash":"40764f2b3a618e1195017c7c22ac515d",
+    "wof:geomhash":"d8314b6d0d0e5842ed5cd1b5f527989c",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209149675,
-    "wof:lastmodified":1536296240,
+    "wof:lastmodified":1564196432,
     "wof:name":"Tamda",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.6626299999999998,
+    1.66263,
     36.3532,
-    1.6626299999999998,
+    1.66263,
     36.3532
 ],
   "geometry": {"coordinates":[1.66263,36.3532],"type":"Point"}

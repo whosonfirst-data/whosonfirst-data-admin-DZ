@@ -25,6 +25,24 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0644\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "El Alia"
+    ],
+    "name:ceb_x_preferred":[
+        "Al \u2018\u0100liyah"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u0391\u03bb\u03af\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "El Alia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u043b\u044c\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1344119399,
-    "wof:lastmodified":1536791069,
+    "wof:lastmodified":1564196043,
     "wof:name":"El Alia",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "El Menabha"
+    ],
     "name:und_x_variant":[
         "Menabba",
         "El Menabba",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309857227,
-    "wof:lastmodified":1537620195,
+    "wof:lastmodified":1564196756,
     "wof:name":"El Menabha",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

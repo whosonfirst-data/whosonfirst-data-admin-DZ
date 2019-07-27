@@ -31,11 +31,23 @@
     "name:ara_x_variant":[
         "\u063a\u0644\u064a\u0632\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u063a\u0644\u06cc\u0632\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Relizane"
+    ],
+    "name:ces_x_preferred":[
+        "Rel\u00edz\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Relizane"
     ],
     "name:eng_x_preferred":[
         "Relizane"
+    ],
+    "name:epo_x_preferred":[
+        "Relizan"
     ],
     "name:fas_x_preferred":[
         "\u063a\u0644\u06cc\u0632\u0627\u0646"
@@ -46,8 +58,32 @@
     "name:ind_x_preferred":[
         "Relizane"
     ],
+    "name:ita_x_preferred":[
+        "Relizane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30ea\u30b6\u30f3\u30cc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub810\ub9ac\uc794"
+    ],
+    "name:lit_x_preferred":[
+        "Relizanas"
+    ],
+    "name:msa_x_preferred":[
+        "Relizane"
+    ],
+    "name:nld_x_preferred":[
+        "Relizane"
+    ],
+    "name:pnb_x_preferred":[
+        "\u063a\u0644\u06cc\u0632\u0627\u0646"
+    ],
     "name:pol_x_preferred":[
         "Prowincja Relizane"
+    ],
+    "name:pol_x_variant":[
+        "Ghulajzan"
     ],
     "name:por_x_preferred":[
         "Relizane"
@@ -55,10 +91,34 @@
     "name:ron_x_preferred":[
         "Relizane"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0437\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Relizane"
+    ],
+    "name:swe_x_preferred":[
+        "Relizane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043b\u0456\u0437\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Ighil Izane",
         "Relizan",
         "Relizane"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0644\u06cc\u0632\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Relizane"
+    ],
+    "name:war_x_preferred":[
+        "Relizane"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5229\u8d5e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +143,7 @@
         }
     ],
     "wof:id":1343989319,
-    "wof:lastmodified":1537620118,
+    "wof:lastmodified":1564195949,
     "wof:name":"Relizane",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

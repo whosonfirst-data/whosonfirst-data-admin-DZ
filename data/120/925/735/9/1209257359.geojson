@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u062a\u0631\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0645\u062a\u0631\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u062a\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tamtert"
+    ],
+    "name:ita_x_preferred":[
+        "Tamtert"
+    ],
+    "name:msa_x_preferred":[
+        "Tamtert"
+    ],
+    "name:por_x_preferred":[
+        "Tamtert"
+    ],
+    "name:ron_x_preferred":[
+        "Tamtert"
+    ],
+    "name:spa_x_preferred":[
+        "Tamtert"
+    ],
+    "name:vie_x_preferred":[
+        "Tamtert"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u59c6\u6cf0\u723e\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -43,7 +76,7 @@
         }
     ],
     "wof:id":1209257359,
-    "wof:lastmodified":1537504267,
+    "wof:lastmodified":1564196428,
     "wof:name":"Tamtert",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0632\u0648\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0632\u0648\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0437\u0443"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0632\u0648\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Benzouh"
+    ],
+    "name:ita_x_preferred":[
+        "Benzouh"
+    ],
+    "name:msa_x_preferred":[
+        "Benzouh"
+    ],
+    "name:por_x_preferred":[
+        "Benzouh"
+    ],
+    "name:ron_x_preferred":[
+        "Benzouh"
+    ],
+    "name:spa_x_preferred":[
+        "Benzouh"
+    ],
+    "name:vie_x_preferred":[
+        "Benzouh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1226598799,
-    "wof:lastmodified":1537504303,
+    "wof:lastmodified":1564197068,
     "wof:name":"Benzouh",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

@@ -25,9 +25,51 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u0648\u063a\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0646\u0648\u063a\u06cc\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0646\u0648\u063a\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:ita_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:kab_x_preferred":[
+        "Fennu\u0263il"
+    ],
+    "name:msa_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:por_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:ron_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:spa_x_preferred":[
+        "Fenoughil"
+    ],
     "name:und_x_variant":[
         "Fenourhil",
         "Fenoughil"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0646\u0648\u063a\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Fenoughil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u52aa\u5409\u52d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +92,7 @@
         }
     ],
     "wof:id":1193196775,
-    "wof:lastmodified":1537620192,
+    "wof:lastmodified":1564196544,
     "wof:name":"Fenoughil",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

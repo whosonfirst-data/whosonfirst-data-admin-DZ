@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0627\u0632 \u0627\u0644\u0635\u0641\u0627\u0621"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u062c\u0627\u0632 \u0635\u0641\u0627\u0621"
+    ],
+    "name:deu_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062c\u0627\u0632 \u0635\u0641\u0627\u0621"
+    ],
+    "name:fra_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:ita_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:msa_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:por_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:ron_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:spa_x_preferred":[
+        "Medjez Sfa"
+    ],
+    "name:vie_x_preferred":[
+        "Medjez Sfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1192974621,
-    "wof:lastmodified":1537504279,
+    "wof:lastmodified":1564196526,
     "wof:name":"Medjez Sfa",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

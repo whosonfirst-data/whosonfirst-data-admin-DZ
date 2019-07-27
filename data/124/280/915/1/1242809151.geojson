@@ -25,6 +25,24 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Xorfa"
+    ],
+    "name:ceb_x_preferred":[
+        "Chorfa"
+    ],
+    "name:fra_x_preferred":[
+        "Chorfa"
+    ],
+    "name:ita_x_preferred":[
+        "Chorfa"
+    ],
+    "name:ron_x_preferred":[
+        "Chorfa"
+    ],
+    "name:swe_x_preferred":[
+        "Chorfa"
+    ],
     "name:und_x_variant":[
         "Boka\u2019et ech Chorfa",
         "Chorfa"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1242809151,
-    "wof:lastmodified":1537620240,
+    "wof:lastmodified":1564196822,
     "wof:name":"Chorfa",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0631\u0627\u0628\u062d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0631\u0627\u0628\u062d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f \u0631\u0627\u0628\u062d"
+    ],
+    "name:fra_x_preferred":[
+        "Ouled Rabah"
+    ],
+    "name:ita_x_preferred":[
+        "Ouled Rabah"
+    ],
+    "name:msa_x_preferred":[
+        "Ouled Rabah"
+    ],
+    "name:por_x_preferred":[
+        "Ouled Rabah"
+    ],
+    "name:ron_x_preferred":[
+        "Ouled Rabah"
+    ],
+    "name:spa_x_preferred":[
+        "Ouled Rabah"
+    ],
+    "name:vie_x_preferred":[
+        "Ouled Rabah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1344254721,
-    "wof:lastmodified":1537504273,
+    "wof:lastmodified":1564195972,
     "wof:name":"Ouled Rabah",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

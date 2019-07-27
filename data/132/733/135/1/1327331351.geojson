@@ -25,6 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0644\u0627\u0644\u0629 \u0627\u0644\u0639\u0630\u0627\u0648\u0631\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0644\u0627\u0644\u0647 \u0639\u0630\u0627\u0648\u0631\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u0627\u0644\u0647 \u0639\u0630\u0627\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Chellalat El Adhaoura"
+    ],
+    "name:ita_x_preferred":[
+        "Chellalet El Adhaoura"
+    ],
+    "name:kab_x_preferred":[
+        "Cellalet Le\u025bdawra"
+    ],
+    "name:msa_x_preferred":[
+        "Chellalat El Adhaoura"
+    ],
+    "name:por_x_preferred":[
+        "Challalat El Adhaoura"
+    ],
+    "name:ron_x_preferred":[
+        "Chellalat El Adhaoura"
+    ],
+    "name:spa_x_preferred":[
+        "Chellalat El Adhaoura"
+    ],
     "name:und_x_variant":[
         "Maginot",
         "A\u00efn Chellala",
@@ -34,6 +64,12 @@
         "Chellala-des-Adaouras",
         "Challalat El Adhaoura",
         "Chellalat el Adhaouara"
+    ],
+    "name:vie_x_preferred":[
+        "Challalat El Adhaoura"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u62c9\u840a\u963f\u5fb7\u8c6a\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +93,7 @@
         }
     ],
     "wof:id":1327331351,
-    "wof:lastmodified":1537620229,
+    "wof:lastmodified":1564195876,
     "wof:name":"Chellalat el Adhaouara",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

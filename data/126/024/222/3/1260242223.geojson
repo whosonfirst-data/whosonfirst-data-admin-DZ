@@ -25,10 +25,46 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0627\u063a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0644\u0627\u063a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0627\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Telagh"
+    ],
+    "name:ita_x_preferred":[
+        "Telagh"
+    ],
+    "name:kab_x_preferred":[
+        "Tala\u0263"
+    ],
+    "name:msa_x_preferred":[
+        "Telagh"
+    ],
+    "name:pol_x_preferred":[
+        "Talagh"
+    ],
+    "name:por_x_preferred":[
+        "Telagh"
+    ],
+    "name:ron_x_preferred":[
+        "Telagh"
+    ],
+    "name:spa_x_preferred":[
+        "Telagh"
+    ],
     "name:und_x_variant":[
         "Le Telagh",
         "T\u00e9larh",
         "T\u00e9lagh"
+    ],
+    "name:vie_x_preferred":[
+        "Telagh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1260242223,
-    "wof:lastmodified":1537620100,
+    "wof:lastmodified":1564196547,
     "wof:name":"Telagh",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

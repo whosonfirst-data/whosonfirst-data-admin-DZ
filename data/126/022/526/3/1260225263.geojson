@@ -25,8 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0628\u0648\u0634"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0628\u0648\u0634"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0628\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Birbouche"
+    ],
+    "name:ita_x_preferred":[
+        "Barbouche"
+    ],
+    "name:msa_x_preferred":[
+        "Barbouche"
+    ],
+    "name:por_x_preferred":[
+        "Barbouche"
+    ],
+    "name:ron_x_preferred":[
+        "Birbouche"
+    ],
+    "name:spa_x_preferred":[
+        "Birbouche"
+    ],
     "name:und_x_variant":[
         "Beni Rached"
+    ],
+    "name:vie_x_preferred":[
+        "Barbouche"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5e03\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1260225263,
-    "wof:lastmodified":1537620244,
+    "wof:lastmodified":1564196557,
     "wof:name":"Barbouche",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u062c"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u062c"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "El Bordj"
+    ],
+    "name:ita_x_preferred":[
+        "El Bordj"
+    ],
+    "name:kab_x_preferred":[
+        "Lburj"
+    ],
+    "name:msa_x_preferred":[
+        "El Bordj"
+    ],
+    "name:por_x_preferred":[
+        "El Bordj"
+    ],
+    "name:ron_x_preferred":[
+        "El Bordj"
+    ],
+    "name:spa_x_preferred":[
+        "El Bordj"
+    ],
+    "name:vie_x_preferred":[
+        "El Bordj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1344214099,
-    "wof:lastmodified":1537504294,
+    "wof:lastmodified":1564196042,
     "wof:name":"El Bordj",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

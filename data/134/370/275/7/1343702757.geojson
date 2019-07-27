@@ -25,6 +25,48 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0642\u0631\u0648\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0623\u0648\u0642\u0631\u0648\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Aougrout"
+    ],
+    "name:fas_x_preferred":[
+        "\u0623\u0648\u0642\u0631\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Aougrout"
+    ],
+    "name:ita_x_preferred":[
+        "Aougrout"
+    ],
+    "name:kab_x_preferred":[
+        "Ugrut"
+    ],
+    "name:msa_x_preferred":[
+        "Aougrout"
+    ],
+    "name:por_x_preferred":[
+        "Aougrout"
+    ],
+    "name:ron_x_preferred":[
+        "Aougrout"
+    ],
+    "name:spa_x_preferred":[
+        "Aougrout"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0642\u0631\u0648\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Aougrout"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u683c\u9b6f\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +89,7 @@
         }
     ],
     "wof:id":1343702757,
-    "wof:lastmodified":1537504305,
+    "wof:lastmodified":1564195996,
     "wof:name":"Aougrout",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0641\u0644\u0627\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0641\u0644\u0627\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0641\u0644\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Leflaye"
+    ],
+    "name:ita_x_preferred":[
+        "Leflaye"
+    ],
+    "name:kab_x_preferred":[
+        "Leflay"
+    ],
+    "name:msa_x_preferred":[
+        "El-Flaye"
+    ],
+    "name:por_x_preferred":[
+        "El-Flaye"
+    ],
+    "name:ron_x_preferred":[
+        "Leflaye"
+    ],
+    "name:spa_x_preferred":[
+        "Leflaye"
+    ],
     "name:und_x_variant":[
         "El Flaye",
         "El Felaye"
+    ],
+    "name:vie_x_preferred":[
+        "El-Flaye"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u5f17\u62c9\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1192981781,
-    "wof:lastmodified":1537620202,
+    "wof:lastmodified":1564196525,
     "wof:name":"El Felaye",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

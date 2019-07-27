@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3322,36.21754,3.3322,36.21754",
     "geom:latitude":36.21754,
     "geom:longitude":3.3322,
@@ -12,6 +13,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0645\u062d\u0645\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0627\u0645\u062d\u0645\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0627\u0645\u062d\u0645\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi M'Hamed"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi M'Hamed"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi M\u1e25emmed"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi M'Hamed"
+    ],
+    "name:por_x_preferred":[
+        "Sidi M'Hamed"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi M'Hamed"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi M'Hamed"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0627\u0645\u062d\u0645\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi M'Hamed"
+    ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2480139,
@@ -55,7 +92,7 @@
         }
     ],
     "wof:id":421185107,
-    "wof:lastmodified":1531858563,
+    "wof:lastmodified":1564196797,
     "wof:name":"Sidi M'Hamed",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

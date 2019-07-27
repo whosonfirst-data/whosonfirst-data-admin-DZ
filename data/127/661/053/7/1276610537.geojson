@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u064a\u0637\u0646\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0637\u0646\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "El Guettana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0637\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "El Guettana"
+    ],
+    "name:ita_x_preferred":[
+        "El Guettana"
+    ],
+    "name:msa_x_preferred":[
+        "Guittena"
+    ],
+    "name:por_x_preferred":[
+        "Guittena"
+    ],
+    "name:ron_x_preferred":[
+        "El Guettana"
+    ],
+    "name:spa_x_preferred":[
+        "El Guettana"
+    ],
+    "name:swe_x_preferred":[
+        "El Guettana"
+    ],
     "name:und_x_variant":[
         "Guittana",
         "Guettena"
+    ],
+    "name:vie_x_preferred":[
+        "El Guettana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1276610537,
-    "wof:lastmodified":1537620276,
+    "wof:lastmodified":1564196294,
     "wof:name":"El Guettana",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

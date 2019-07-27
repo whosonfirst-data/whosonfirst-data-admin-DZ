@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0631\u0627\u0634\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0631\u0627\u0634\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0631\u0627\u0634\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Rached"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Rached"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Raced"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Rached"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Rached"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Rached"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Rached"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Rached"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1293917221,
-    "wof:lastmodified":1536664792,
+    "wof:lastmodified":1564196086,
     "wof:name":"Sidi Rached",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

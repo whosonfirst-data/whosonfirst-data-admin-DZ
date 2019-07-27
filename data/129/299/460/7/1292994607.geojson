@@ -25,8 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u064a \u0644\u0639\u0631\u0628\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u06cc \u0644\u0639\u0631\u0628\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u06cc \u0644\u0639\u0631\u0628\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Moulay Larbi"
+    ],
+    "name:ita_x_preferred":[
+        "Moulay Larbi"
+    ],
+    "name:kab_x_preferred":[
+        "Mulay L\u025berbi"
+    ],
+    "name:msa_x_preferred":[
+        "Moulay Larbi"
+    ],
+    "name:por_x_preferred":[
+        "Moulay Larbi"
+    ],
+    "name:ron_x_preferred":[
+        "Moulay Larbi"
+    ],
+    "name:spa_x_preferred":[
+        "Moulay Larbi"
+    ],
     "name:und_x_variant":[
         "Wagram",
+        "Moulay Larbi"
+    ],
+    "name:vie_x_preferred":[
         "Moulay Larbi"
     ],
     "src:geom":"geonames",
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1292994607,
-    "wof:lastmodified":1537620137,
+    "wof:lastmodified":1564196192,
     "wof:name":"Moulay Larbi",
     "wof:parent_id":85670797,
     "wof:placetype":"locality",

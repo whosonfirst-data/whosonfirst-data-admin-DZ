@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.63333,35.7,-0.63333,35.7",
     "geom:latitude":35.7,
     "geom:longitude":-0.63333,
@@ -39,6 +40,9 @@
     "name:lit_x_preferred":[
         "Miramaras"
     ],
+    "name:nds_x_preferred":[
+        "Miramar"
+    ],
     "name:nld_x_preferred":[
         "Miramar"
     ],
@@ -53,6 +57,9 @@
     ],
     "name:spa_x_preferred":[
         "Miramar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043c\u0430\u0440"
     ],
     "name:swe_x_preferred":[
         "Miramar"
@@ -103,7 +110,7 @@
         }
     ],
     "wof:id":421188409,
-    "wof:lastmodified":1531858620,
+    "wof:lastmodified":1564196790,
     "wof:name":"Miramar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
