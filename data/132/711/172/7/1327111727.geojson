@@ -25,6 +25,18 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Braham"
+    ],
+    "name:fra_x_preferred":[
+        "Braham"
+    ],
+    "name:ita_x_preferred":[
+        "Braham"
+    ],
+    "name:nds_x_preferred":[
+        "Braham"
+    ],
     "name:und_x_variant":[
         "Bra\u00e2me",
         "Braham"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1327111727,
-    "wof:lastmodified":1537620231,
+    "wof:lastmodified":1564195928,
     "wof:name":"Braham",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

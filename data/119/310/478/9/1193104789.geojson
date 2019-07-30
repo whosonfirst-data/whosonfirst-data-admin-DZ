@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Tad\u017cmut"
+    ],
     "name:und_x_variant":[
         "Tadjemout",
         "Tadjmout"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1193104789,
-    "wof:lastmodified":1537620106,
+    "wof:lastmodified":1564196540,
     "wof:name":"Tadjmout",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

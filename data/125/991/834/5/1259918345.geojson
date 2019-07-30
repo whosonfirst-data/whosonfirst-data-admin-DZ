@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0633\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0633\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0633\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Issers"
+    ],
+    "name:kab_x_preferred":[
+        "Yesser"
+    ],
+    "name:msa_x_preferred":[
+        "Issers"
+    ],
+    "name:por_x_preferred":[
+        "Issers"
+    ],
+    "name:ron_x_preferred":[
+        "Issers"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0441\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Issers"
+    ],
     "name:und_x_variant":[
         "Ies Issers",
         "Les Issers"
+    ],
+    "name:vie_x_preferred":[
+        "Issers"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u585e\u723e\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1259918345,
-    "wof:lastmodified":1537620174,
+    "wof:lastmodified":1564196938,
     "wof:name":"Les Issers",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

@@ -25,8 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0642\u0627\u062f\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0642\u0627\u062f\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0642\u0627\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Kada"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Kada"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Qada"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Kada"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Kada"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Kada"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Kada"
+    ],
     "name:und_x_variant":[
         "Cacherou",
+        "Sidi Kada"
+    ],
+    "name:vie_x_preferred":[
         "Sidi Kada"
     ],
     "src:geom":"geonames",
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1259349989,
-    "wof:lastmodified":1537620111,
+    "wof:lastmodified":1564196989,
     "wof:name":"Sidi Kada",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

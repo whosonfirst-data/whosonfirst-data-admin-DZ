@@ -25,6 +25,30 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u062a\u0629 \u0633\u064a\u062f\u064a \u0633\u0639\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0644\u062a\u0647 \u0633\u06cc\u062f\u06cc \u0633\u0639\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u062a\u0647 \u0633\u06cc\u062f\u06cc \u0633\u0639\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Gueltat Sidi Saad"
+    ],
+    "name:ita_x_preferred":[
+        "Gueltat Sidi Saad"
+    ],
+    "name:msa_x_preferred":[
+        "Gueltat Sidi Saad"
+    ],
+    "name:por_x_preferred":[
+        "Gueltat Sidi Saad"
+    ],
+    "name:ron_x_preferred":[
+        "Gueltat Sidi Saad"
+    ],
     "name:und_x_variant":[
         "Bordj de Gueltet Sidi Saad",
         "Guelta",
@@ -32,6 +56,15 @@
         "Gueltet Sidi Saad",
         "Guella Sidi Saad",
         "Gueltat Sidi Saad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u062a\u06c1 \u0633\u06cc\u062f\u06cc \u0633\u0639\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Gueltat Sidi Saad"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u52d2\u63d0\u7279\u897f\u8fea\u85a9\u963f\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1343717247,
-    "wof:lastmodified":1537620190,
+    "wof:lastmodified":1564196002,
     "wof:name":"Gueltat Sidi Saad",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

@@ -29,7 +29,37 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0645\u0642\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0645\u0642\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0645\u0642\u0631"
+    ],
     "name:fra_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:ita_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:msa_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:por_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:ron_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:spa_x_preferred":[
+        "Boumaguer"
+    ],
+    "name:swe_x_preferred":[
+        "Boumagueur"
+    ],
+    "name:vie_x_preferred":[
         "Boumagueur"
     ],
     "src:geom":"geonames",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1343673385,
-    "wof:lastmodified":1537504300,
+    "wof:lastmodified":1564196030,
     "wof:name":"Boumagueur",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

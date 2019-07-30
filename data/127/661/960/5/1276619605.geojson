@@ -28,7 +28,31 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0639\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0639\u0647"
+    ],
     "name:eng_x_preferred":[
+        "Mena\u00e2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0639\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Menaa"
+    ],
+    "name:ita_x_preferred":[
+        "Mena\u00e2"
+    ],
+    "name:msa_x_preferred":[
+        "Menaa"
+    ],
+    "name:por_x_preferred":[
+        "Mena\u00e2"
+    ],
+    "name:ron_x_preferred":[
+        "Menaa"
+    ],
+    "name:vie_x_preferred":[
         "Mena\u00e2"
     ],
     "src:geom":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1276619605,
-    "wof:lastmodified":1537620140,
+    "wof:lastmodified":1564196295,
     "wof:name":"Menaa",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

@@ -25,6 +25,93 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "El Oued"
+    ],
+    "name:ceb_x_preferred":[
+        "El Oued"
+    ],
+    "name:deu_x_preferred":[
+        "El Oued"
+    ],
+    "name:epo_x_preferred":[
+        "El Ued"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "El Oued"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d5\u05d0\u05d3"
+    ],
+    "name:ind_x_preferred":[
+        "El Oued"
+    ],
+    "name:ita_x_preferred":[
+        "El Oued"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30a6\u30a7\u30c3\u30c9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04d8\u043b-\u0423\u0435\u0434"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc6b0\uc5d0\ub4dc"
+    ],
+    "name:lit_x_preferred":[
+        "Uedas"
+    ],
+    "name:msa_x_preferred":[
+        "El Oued"
+    ],
+    "name:nld_x_preferred":[
+        "El Oued"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Wadi"
+    ],
+    "name:por_x_preferred":[
+        "Uede"
+    ],
+    "name:ron_x_preferred":[
+        "El Oued"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "El Oued"
+    ],
+    "name:sna_x_preferred":[
+        "El Oued"
+    ],
+    "name:spa_x_preferred":[
+        "El Oued"
+    ],
+    "name:swe_x_preferred":[
+        "El Oued"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0423\u0435\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "El Oued"
+    ],
+    "name:war_x_preferred":[
+        "El Oued"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -42,7 +129,7 @@
         }
     ],
     "wof:id":1209460151,
-    "wof:lastmodified":1536286407,
+    "wof:lastmodified":1564196409,
     "wof:name":"El Oued",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

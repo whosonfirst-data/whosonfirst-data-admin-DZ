@@ -25,6 +25,54 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u0632\u0631\u0639"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0440\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Izra\u2019"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0631\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Izra"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0566\u0580\u0561\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d6\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Izra'"
+    ],
+    "name:nno_x_preferred":[
+        "Izra"
+    ],
+    "name:pol_x_preferred":[
+        "Izra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Izra"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130zra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0632\u0631\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5179\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +94,7 @@
         }
     ],
     "wof:id":1310535715,
-    "wof:lastmodified":1536872317,
+    "wof:lastmodified":1564196627,
     "wof:name":"Izra",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

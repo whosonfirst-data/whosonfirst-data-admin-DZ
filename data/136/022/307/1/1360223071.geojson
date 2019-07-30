@@ -31,16 +31,37 @@
     "name:eng_x_preferred":[
         "Si-Mustapha"
     ],
+    "name:fra_x_preferred":[
+        "Si Mustapha"
+    ],
+    "name:ita_x_preferred":[
+        "Si Mustapha"
+    ],
     "name:kab_x_preferred":[
         "Ssi Mes\u1e6dafa"
     ],
     "name:msa_x_preferred":[
         "Si-Mustapha"
     ],
+    "name:por_x_preferred":[
+        "Si-Mustapha"
+    ],
+    "name:ron_x_preferred":[
+        "Si Mustapha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u041c\u0443\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Si Mustapha"
+    ],
     "name:und_x_variant":[
         "F\u00e9lix-Faure",
         "Si Mustapha",
         "Blad Guitoun"
+    ],
+    "name:vie_x_preferred":[
+        "Si Mustapha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1360223071,
-    "wof:lastmodified":1537620109,
+    "wof:lastmodified":1564196703,
     "wof:name":"Si Mustapha",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

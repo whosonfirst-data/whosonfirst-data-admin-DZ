@@ -25,12 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u063a\u0631\u0627\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u063a\u0631\u0627\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u063a\u0631\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Moghrar"
+    ],
+    "name:ita_x_preferred":[
+        "Moghrar"
+    ],
+    "name:kab_x_preferred":[
+        "Megrar"
+    ],
+    "name:msa_x_preferred":[
+        "Moghrar"
+    ],
+    "name:por_x_preferred":[
+        "Moghrar"
+    ],
+    "name:ron_x_preferred":[
+        "Moghrar"
+    ],
+    "name:spa_x_preferred":[
+        "Moghrar"
+    ],
     "name:und_x_variant":[
         "Mograr Foukania",
         "Moghar-Foukani",
         "Morhar Foukani",
         "Mograr Foukani",
         "Morhar",
+        "Moghrar"
+    ],
+    "name:vie_x_preferred":[
         "Moghrar"
     ],
     "src:geom":"geonames",
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1259620003,
-    "wof:lastmodified":1537620138,
+    "wof:lastmodified":1564196942,
     "wof:name":"Moghrar",
     "wof:parent_id":85670707,
     "wof:placetype":"locality",

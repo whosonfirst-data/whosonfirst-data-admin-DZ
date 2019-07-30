@@ -25,8 +25,68 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:dan_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:epo_x_preferred":[
+        "Tinas"
+    ],
+    "name:eus_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:kab_x_preferred":[
+        "Tnes"
+    ],
+    "name:kor_x_preferred":[
+        "\ud14c\ub124\uc2a4"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:por_x_preferred":[
+        "Ten\u00e9s"
+    ],
+    "name:ron_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043d\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00e9n\u00e8s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043d\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Tenez",
+        "T\u00e9n\u00e8s"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0646\u0633"
+    ],
+    "name:vie_x_preferred":[
         "T\u00e9n\u00e8s"
     ],
     "src:geom":"geonames",
@@ -51,7 +111,7 @@
         }
     ],
     "wof:id":1309840639,
-    "wof:lastmodified":1537620099,
+    "wof:lastmodified":1564196748,
     "wof:name":"Tenes",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

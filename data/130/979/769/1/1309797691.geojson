@@ -25,6 +25,42 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u0627\u0628\u0631\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0628\u0627\u0628\u0631\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0627\u0628\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Djebabra"
+    ],
+    "name:ita_x_preferred":[
+        "Djebabra"
+    ],
+    "name:kab_x_preferred":[
+        "\u01e6babra"
+    ],
+    "name:msa_x_preferred":[
+        "Djebabra"
+    ],
+    "name:por_x_preferred":[
+        "Djebabra"
+    ],
+    "name:ron_x_preferred":[
+        "Djebabra"
+    ],
+    "name:spa_x_preferred":[
+        "Djebabra"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0627\u0628\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Djebabra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +83,7 @@
         }
     ],
     "wof:id":1309797691,
-    "wof:lastmodified":1537504310,
+    "wof:lastmodified":1564196751,
     "wof:name":"Djebabra",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

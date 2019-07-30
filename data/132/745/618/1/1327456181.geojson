@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0627\u064a\u0632\u064a\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0627\u06cc\u0632\u06cc\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0627\u06cc\u0632\u06cc\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Baizid"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Baizid"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Baizid"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Baizid"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Baizid"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Baizid"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0627\u06cc\u0632\u06cc\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Baizid"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1327456181,
-    "wof:lastmodified":1537504313,
+    "wof:lastmodified":1564195926,
     "wof:name":"Sidi Baizid",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

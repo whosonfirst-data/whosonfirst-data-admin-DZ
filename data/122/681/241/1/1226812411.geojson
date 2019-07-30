@@ -25,6 +25,9 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahfouda"
+    ],
     "name:und_x_variant":[
         "Mahafouda",
         "Maffouda",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226812411,
-    "wof:lastmodified":1537620174,
+    "wof:lastmodified":1564197017,
     "wof:name":"Mahfouda",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

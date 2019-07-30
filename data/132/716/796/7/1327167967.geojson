@@ -25,8 +25,38 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u0644\u0645\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0633\u0644\u0645\u0648\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u0644\u0645\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Messelmoun"
+    ],
+    "name:ita_x_preferred":[
+        "Messelmoun"
+    ],
+    "name:msa_x_preferred":[
+        "Messelmoun"
+    ],
+    "name:por_x_preferred":[
+        "Messelmoun"
+    ],
+    "name:ron_x_preferred":[
+        "Messelmoun"
+    ],
+    "name:spa_x_preferred":[
+        "Messelmoun"
+    ],
     "name:und_x_variant":[
         "Messlmo\u00fbn"
+    ],
+    "name:vie_x_preferred":[
+        "Messelmoun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1327167967,
-    "wof:lastmodified":1537620139,
+    "wof:lastmodified":1564195930,
     "wof:name":"Messelmoun",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

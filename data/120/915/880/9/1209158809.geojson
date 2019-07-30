@@ -25,11 +25,44 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0628\u0631\u0642\u0634"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0628\u0631\u0642\u0634"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0628\u0631\u0642\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Oued Berkeche"
+    ],
+    "name:ita_x_preferred":[
+        "Oued Berkeche"
+    ],
+    "name:msa_x_preferred":[
+        "Oued Berkeche"
+    ],
+    "name:por_x_preferred":[
+        "Oued Berkeche"
+    ],
+    "name:ron_x_preferred":[
+        "Oued Berkeche"
+    ],
+    "name:spa_x_preferred":[
+        "Oued Berkeche"
+    ],
     "name:und_x_variant":[
         "B\u00e8rk\u00e8che",
         "Oued Berkeches",
         "Gaston Doumergue",
         "Oued Berkeche"
+    ],
+    "name:vie_x_preferred":[
+        "Oued Berkeche"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u8fea\u62dc\u723e\u51f1\u820d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1209158809,
-    "wof:lastmodified":1537620134,
+    "wof:lastmodified":1564196412,
     "wof:name":"Oued Berkeche",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

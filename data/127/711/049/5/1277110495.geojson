@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0628\u0631\u0642\u0646\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0628\u0631\u0642\u0646\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0631\u0642\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tiberguent"
+    ],
+    "name:ita_x_preferred":[
+        "Tiberguent"
+    ],
+    "name:kab_x_preferred":[
+        "Tibergent"
+    ],
+    "name:msa_x_preferred":[
+        "Tiberguent"
+    ],
+    "name:por_x_preferred":[
+        "Tiberguent"
+    ],
+    "name:ron_x_preferred":[
+        "Tiberguent"
+    ],
+    "name:spa_x_preferred":[
+        "Tiberguent"
+    ],
+    "name:vie_x_preferred":[
+        "Tiberguent"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1277110495,
-    "wof:lastmodified":1537504266,
+    "wof:lastmodified":1564196369,
     "wof:name":"Tiberguent",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

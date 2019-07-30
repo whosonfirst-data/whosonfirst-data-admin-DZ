@@ -25,8 +25,38 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0639\u0628"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0644\u0639\u0628"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0639\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Melaab"
+    ],
+    "name:ita_x_preferred":[
+        "Melaab"
+    ],
+    "name:msa_x_preferred":[
+        "Melaab"
+    ],
+    "name:por_x_preferred":[
+        "Melaab"
+    ],
+    "name:ron_x_preferred":[
+        "Melaab"
+    ],
+    "name:spa_x_preferred":[
+        "Melaab"
+    ],
     "name:und_x_variant":[
         "El Melaab",
+        "Melaab"
+    ],
+    "name:vie_x_preferred":[
         "Melaab"
     ],
     "src:geom":"geonames",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1343293363,
-    "wof:lastmodified":1537620141,
+    "wof:lastmodified":1564196051,
     "wof:name":"Melaab",
     "wof:parent_id":85670805,
     "wof:placetype":"locality",

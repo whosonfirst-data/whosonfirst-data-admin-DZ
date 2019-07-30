@@ -25,9 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0645\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u063a\u0645\u0631\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0645\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "El Ghomri"
+    ],
+    "name:ita_x_preferred":[
+        "El Ghomri"
+    ],
+    "name:msa_x_preferred":[
+        "El Ghomri"
+    ],
+    "name:por_x_preferred":[
+        "El Ghomri"
+    ],
+    "name:ron_x_preferred":[
+        "El Ghomri"
+    ],
+    "name:spa_x_preferred":[
+        "El Ghomri"
+    ],
     "name:und_x_variant":[
         "Er Romri",
         "Nouvion",
+        "El Ghomri"
+    ],
+    "name:vie_x_preferred":[
         "El Ghomri"
     ],
     "src:geom":"geonames",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1292992313,
-    "wof:lastmodified":1537620201,
+    "wof:lastmodified":1564196192,
     "wof:name":"El Ghomri",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

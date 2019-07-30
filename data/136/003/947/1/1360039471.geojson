@@ -28,23 +28,68 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0628\u0633\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u0431\u0435\u0441\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Tebessa"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u00e9bessa"
+    ],
     "name:deu_x_preferred":[
         "Tebessa"
     ],
     "name:eng_x_preferred":[
         "T\u00e9bessa"
     ],
+    "name:epo_x_preferred":[
+        "Tebesa"
+    ],
+    "name:eus_x_preferred":[
+        "T\u00e9bessa"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0628\u0633\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0628\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "T\u00e9bessa"
     ],
+    "name:hun_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:ind_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30d9\u30c3\u30b5"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u0431\u0435\u0441\u0441\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
+    "name:kaz_x_variant":[
+        "\u0422\u0435\u0431\u0435\u0441\u0441\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud14c\ubca0\uc0ac"
+    ],
     "name:lit_x_preferred":[
         "Tebesa"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00e9bessa"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06cc\u0628\u0627\u0632\u06c1"
@@ -55,8 +100,14 @@
     "name:por_x_preferred":[
         "Tebessa"
     ],
+    "name:por_x_variant":[
+        "T\u00e9bessa"
+    ],
     "name:ron_x_preferred":[
         "Tebessa"
+    ],
+    "name:ron_x_variant":[
+        "T\u00e9bessa"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0431\u0435\u0441\u0441\u0430"
@@ -64,8 +115,23 @@
     "name:spa_x_preferred":[
         "T\u00e9bessa"
     ],
+    "name:swe_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0431\u0435\u0441\u0441\u0430"
+    ],
     "name:und_x_variant":[
         "Theveste",
+        "T\u00e9bessa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0628\u0633\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e9bessa"
+    ],
+    "name:war_x_preferred":[
         "T\u00e9bessa"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +161,7 @@
         }
     ],
     "wof:id":1360039471,
-    "wof:lastmodified":1537620101,
+    "wof:lastmodified":1564196729,
     "wof:name":"Tebessa",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

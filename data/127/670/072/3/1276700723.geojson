@@ -25,10 +25,46 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0645\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0645\u0631\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0645\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ouamri"
+    ],
+    "name:ita_x_preferred":[
+        "Ouamri"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190wamreyya"
+    ],
+    "name:msa_x_preferred":[
+        "Ouamri"
+    ],
+    "name:por_x_preferred":[
+        "Ouamri"
+    ],
+    "name:ron_x_preferred":[
+        "Ouamri"
+    ],
+    "name:spa_x_preferred":[
+        "Ouamri"
+    ],
     "name:und_x_variant":[
         "Bor\u00e9ly-la-Sapie",
         "Ouamria",
         "Ouamri"
+    ],
+    "name:vie_x_preferred":[
+        "Ouamri"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u59c6\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1276700723,
-    "wof:lastmodified":1537620135,
+    "wof:lastmodified":1564196335,
     "wof:name":"Ouamri",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

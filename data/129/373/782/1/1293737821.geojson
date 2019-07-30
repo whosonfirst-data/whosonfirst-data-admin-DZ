@@ -25,6 +25,48 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u0646\u0637\u064a\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0645\u0646\u0637\u06cc\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Tamentit"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0646\u0637\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tamantit"
+    ],
+    "name:ita_x_preferred":[
+        "Tamantit"
+    ],
+    "name:kab_x_preferred":[
+        "Taman\u1e6dit"
+    ],
+    "name:msa_x_preferred":[
+        "Tamantit"
+    ],
+    "name:por_x_preferred":[
+        "Tamentit"
+    ],
+    "name:ron_x_preferred":[
+        "Tamantit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0435\u043d\u0442\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Tamantit"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0645\u0646\u0637\u06cc\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Tamantit"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +89,7 @@
         }
     ],
     "wof:id":1293737821,
-    "wof:lastmodified":1537504268,
+    "wof:lastmodified":1564196206,
     "wof:name":"Tamentit",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

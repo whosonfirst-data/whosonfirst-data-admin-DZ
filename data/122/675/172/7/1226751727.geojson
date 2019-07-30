@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0627\u0644\u064a\u062a\u0648\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0644\u06cc\u062a\u0648\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u06cc\u062a\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Les Eucalyptus"
+    ],
+    "name:ita_x_preferred":[
+        "Les Eucalyptus"
+    ],
+    "name:kab_x_preferred":[
+        "Kalitus"
+    ],
+    "name:msa_x_preferred":[
+        "Les Eucalyptus"
+    ],
+    "name:por_x_preferred":[
+        "Les Eucalyptus"
+    ],
+    "name:ron_x_preferred":[
+        "Les Eucalyptus"
+    ],
+    "name:spa_x_preferred":[
+        "Les Eucalyptus"
+    ],
     "name:und_x_variant":[
         "Les Eucalyptus",
         "Oued Smar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06a9\u0627\u0644\u06cc\u062a\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Les Eucalyptus"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1226751727,
-    "wof:lastmodified":1537620133,
+    "wof:lastmodified":1564197016,
     "wof:name":"Oued Smar",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

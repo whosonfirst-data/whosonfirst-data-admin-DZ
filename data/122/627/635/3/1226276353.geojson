@@ -25,10 +25,46 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0637\u0648\u0628"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Oum Toub"
+    ],
+    "name:ita_x_preferred":[
+        "Oum Toub"
+    ],
+    "name:kab_x_preferred":[
+        "Um \u1e6c\u1e6dub"
+    ],
+    "name:msa_x_preferred":[
+        "Oum Toub"
+    ],
+    "name:por_x_preferred":[
+        "Oum Toub"
+    ],
+    "name:ron_x_preferred":[
+        "Oum Toub"
+    ],
+    "name:spa_x_preferred":[
+        "Oum Toub"
+    ],
     "name:und_x_variant":[
         "Souk el Metoub",
         "Oum Toub",
         "Oumm To\u00fbb"
+    ],
+    "name:vie_x_preferred":[
+        "Oum Toub"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u5716\u535c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1226276353,
-    "wof:lastmodified":1537620121,
+    "wof:lastmodified":1564197038,
     "wof:name":"Oumm Toub",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

@@ -25,12 +25,48 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0633\u064a \u0627\u0644\u063a\u0644\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u0633\u06cc \u063a\u0644\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0633\u06cc \u063a\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Hassi El Ghella"
+    ],
+    "name:ita_x_preferred":[
+        "Hassi El Ghella"
+    ],
+    "name:kab_x_preferred":[
+        "\u1e24asi L\u0263ella"
+    ],
+    "name:msa_x_preferred":[
+        "Hassi El Ghella"
+    ],
+    "name:por_x_preferred":[
+        "Hassi El Ghella"
+    ],
+    "name:ron_x_preferred":[
+        "Hassi El Ghella"
+    ],
+    "name:spa_x_preferred":[
+        "Hassi El Ghella"
+    ],
     "name:und_x_variant":[
         "Er Rahel",
         "Massi-el-Ghella",
         "El Rahel",
         "Hassi el Rhella",
         "Hassi el Ghella"
+    ],
+    "name:vie_x_preferred":[
+        "Hassi El Ghella"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u897f\u84cb\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1326883303,
-    "wof:lastmodified":1537620185,
+    "wof:lastmodified":1564195830,
     "wof:name":"Hassi el Ghella",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

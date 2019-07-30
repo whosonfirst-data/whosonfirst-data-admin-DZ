@@ -25,9 +25,54 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062f\u0644\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u062f\u0644\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0644\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Idles"
+    ],
+    "name:fra_x_preferred":[
+        "Idles"
+    ],
+    "name:ita_x_preferred":[
+        "Idles"
+    ],
+    "name:kab_x_preferred":[
+        "Idelles"
+    ],
+    "name:msa_x_preferred":[
+        "Idl\u00e8s"
+    ],
+    "name:pol_x_preferred":[
+        "Idalas"
+    ],
+    "name:por_x_preferred":[
+        "Idl\u00e8s"
+    ],
+    "name:ron_x_preferred":[
+        "Idles"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0434\u043b\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Idles"
+    ],
     "name:und_x_variant":[
         "Arrem Ideles",
         "Idel\u00e8s"
+    ],
+    "name:vie_x_preferred":[
+        "Idles"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5fb7\u840a\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +96,7 @@
         }
     ],
     "wof:id":1310238679,
-    "wof:lastmodified":1537620183,
+    "wof:lastmodified":1564196602,
     "wof:name":"Ideles",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

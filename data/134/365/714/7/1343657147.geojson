@@ -25,6 +25,24 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Xorfa"
+    ],
+    "name:ceb_x_preferred":[
+        "Chorfa"
+    ],
+    "name:fra_x_preferred":[
+        "Chorfa"
+    ],
+    "name:ita_x_preferred":[
+        "Chorfa"
+    ],
+    "name:ron_x_preferred":[
+        "Chorfa"
+    ],
+    "name:swe_x_preferred":[
+        "Chorfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1343657147,
-    "wof:lastmodified":1536959802,
+    "wof:lastmodified":1564195946,
     "wof:name":"Chorfa",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

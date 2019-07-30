@@ -25,10 +25,43 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062c\u0631\u0627\u0631\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u062c\u0631\u0627\u0631\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062c\u0631\u0627\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Sedjerara"
+    ],
+    "name:ita_x_preferred":[
+        "Sedjerara"
+    ],
+    "name:kab_x_preferred":[
+        "Sejrara"
+    ],
+    "name:msa_x_preferred":[
+        "Sedjerara"
+    ],
+    "name:por_x_preferred":[
+        "Sedjerara"
+    ],
+    "name:ron_x_preferred":[
+        "Sedjerara"
+    ],
+    "name:spa_x_preferred":[
+        "Sedjerara"
+    ],
     "name:und_x_variant":[
         "Douar Sedjerara",
         "Douar Sedjr\u00e2ra",
         "Douar Sedjrara",
+        "Sedjerara"
+    ],
+    "name:vie_x_preferred":[
         "Sedjerara"
     ],
     "src:geom":"geonames",
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1293426769,
-    "wof:lastmodified":1537620207,
+    "wof:lastmodified":1564196201,
     "wof:name":"Douar Sedjrara",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0627\u0644\u0635\u0627\u0641\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0635\u0627\u0641\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0635\u0627\u0641\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Safi"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u85a9\u83f2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -43,7 +76,7 @@
         }
     ],
     "wof:id":1209254879,
-    "wof:lastmodified":1537504269,
+    "wof:lastmodified":1564196429,
     "wof:name":"Sidi Safi",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

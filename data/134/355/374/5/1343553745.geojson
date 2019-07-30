@@ -25,9 +25,36 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0627\u0631\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "El Omaria"
+    ],
+    "name:ita_x_preferred":[
+        "El Omaria"
+    ],
+    "name:msa_x_preferred":[
+        "El Omaria"
+    ],
+    "name:por_x_preferred":[
+        "El Omaria"
+    ],
+    "name:ron_x_preferred":[
+        "El Omaria"
+    ],
+    "name:spa_x_preferred":[
+        "El Omaria"
+    ],
     "name:und_x_variant":[
         "Champlain",
         "El Omaria"
+    ],
+    "name:vie_x_preferred":[
+        "El Omaria"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u9081\u91cc\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1343553745,
-    "wof:lastmodified":1537620195,
+    "wof:lastmodified":1564195965,
     "wof:name":"El Omaria",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

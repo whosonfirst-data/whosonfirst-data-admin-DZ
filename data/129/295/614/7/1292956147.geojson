@@ -25,6 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0644\u064a\u0644\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u062a\u0644\u06cc\u0644\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Metlili Chaamba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0644\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Metlili"
+    ],
+    "name:ita_x_preferred":[
+        "Metlili"
+    ],
+    "name:msa_x_preferred":[
+        "Metlili"
+    ],
+    "name:por_x_preferred":[
+        "Metlili"
+    ],
+    "name:ron_x_preferred":[
+        "Metlili"
+    ],
+    "name:spa_x_preferred":[
+        "Metlili"
+    ],
+    "name:swe_x_preferred":[
+        "Metlili Chaamba"
+    ],
+    "name:vie_x_preferred":[
+        "Metlili"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u7279\u5229\u5229"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1292956147,
-    "wof:lastmodified":1537053777,
+    "wof:lastmodified":1564196113,
     "wof:name":"Metlili",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

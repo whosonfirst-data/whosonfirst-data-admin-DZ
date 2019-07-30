@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0626\u0631 \u062a\u0648\u062a\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0440\u0442\u0443\u0442\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Birtouta"
+    ],
+    "name:ita_x_preferred":[
+        "Birtouta"
+    ],
+    "name:kab_x_preferred":[
+        "Birtuta"
+    ],
+    "name:msa_x_preferred":[
+        "Birtouta"
+    ],
+    "name:por_x_preferred":[
+        "Birtouta"
+    ],
+    "name:ron_x_preferred":[
+        "Birtouta"
+    ],
+    "name:spa_x_preferred":[
+        "Birtouta"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u062a\u0648\u062a\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Birtouta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1326761293,
-    "wof:lastmodified":1537504302,
+    "wof:lastmodified":1564195879,
     "wof:name":"Birtouta",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

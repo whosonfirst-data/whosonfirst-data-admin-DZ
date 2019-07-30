@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0632\u064a\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0632\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0632\u06cc\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Ziane"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u6fdf\u5b89"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1327488347,
-    "wof:lastmodified":1537094626,
+    "wof:lastmodified":1564195870,
     "wof:name":"Sidi Ziane",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

@@ -28,8 +28,32 @@
     "name:ara_x_preferred":[
         "\u0646\u0642\u0627\u0648\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0642\u0627\u0648\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0642\u0627\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "N\u2019Gaous"
+    ],
+    "name:fra_x_variant":[
+        "N'Gaous"
+    ],
+    "name:ita_x_preferred":[
+        "N'Gaous"
+    ],
+    "name:msa_x_preferred":[
+        "N'Gaous"
+    ],
+    "name:por_x_preferred":[
+        "N'Gaous"
+    ],
+    "name:ron_x_preferred":[
+        "N'Gaous"
+    ],
+    "name:vie_x_preferred":[
+        "N'Gaous"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1242982535,
-    "wof:lastmodified":1537504277,
+    "wof:lastmodified":1564196898,
     "wof:name":"N'Gaous",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

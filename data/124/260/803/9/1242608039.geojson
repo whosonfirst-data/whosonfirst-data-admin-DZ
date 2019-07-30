@@ -25,6 +25,27 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slatna"
+    ],
+    "name:hrv_x_preferred":[
+        "Slatna"
+    ],
+    "name:nld_x_preferred":[
+        "Slatna"
+    ],
+    "name:pol_x_preferred":[
+        "Slatna"
+    ],
+    "name:ron_x_preferred":[
+        "Slatna"
+    ],
+    "name:slv_x_preferred":[
+        "Slatna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1242608039,
-    "wof:lastmodified":1537019083,
+    "wof:lastmodified":1564196844,
     "wof:name":"Slatna",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

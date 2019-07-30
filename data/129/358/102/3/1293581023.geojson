@@ -25,11 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u0627\u0647\u0631\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0637\u0648\u0627\u0647\u0631\u06cc\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u0627\u0647\u0631\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Touahria"
+    ],
+    "name:ita_x_preferred":[
+        "Touahria"
+    ],
+    "name:msa_x_preferred":[
+        "Touahria"
+    ],
+    "name:por_x_preferred":[
+        "Touahria"
+    ],
+    "name:ron_x_preferred":[
+        "Touahria"
+    ],
+    "name:spa_x_preferred":[
+        "Touahria"
+    ],
     "name:und_x_variant":[
         "Bled Touaria",
         "Bled Touria",
         "Touahria",
         "Blad Touaria"
+    ],
+    "name:vie_x_preferred":[
+        "Touahria"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1293581023,
-    "wof:lastmodified":1537620241,
+    "wof:lastmodified":1564196174,
     "wof:name":"Touahria",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

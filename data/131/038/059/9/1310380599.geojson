@@ -25,8 +25,38 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0644\u0627\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Ourlal"
+    ],
+    "name:ita_x_preferred":[
+        "Ourlal"
+    ],
+    "name:msa_x_preferred":[
+        "Ourlala"
+    ],
+    "name:por_x_preferred":[
+        "Ourlala"
+    ],
+    "name:ron_x_preferred":[
+        "Ourlal"
+    ],
+    "name:spa_x_preferred":[
+        "Ourlala"
+    ],
     "name:und_x_variant":[
         "Ourellal",
+        "Ourlal"
+    ],
+    "name:vie_x_preferred":[
         "Ourlal"
     ],
     "src:geom":"geonames",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1310380599,
-    "wof:lastmodified":1537620121,
+    "wof:lastmodified":1564196628,
     "wof:name":"Ourlal",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0641\u0627\u0637\u064a\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0641\u0627\u0637\u06cc\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0641\u0627\u0637\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Boufatis"
+    ],
+    "name:ita_x_preferred":[
+        "Boufatis"
+    ],
+    "name:kab_x_preferred":[
+        "Bufatis"
+    ],
+    "name:msa_x_preferred":[
+        "Boufatis"
+    ],
+    "name:por_x_preferred":[
+        "Boufatis"
+    ],
+    "name:ron_x_preferred":[
+        "Boufatis"
+    ],
+    "name:spa_x_preferred":[
+        "Boufatis"
+    ],
     "name:und_x_variant":[
         "Saint-Louis",
         "Boufatis"
+    ],
+    "name:vie_x_preferred":[
+        "Boufatis"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6cd5\u63d0\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1242567401,
-    "wof:lastmodified":1537620235,
+    "wof:lastmodified":1564196849,
     "wof:name":"Boufatis",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

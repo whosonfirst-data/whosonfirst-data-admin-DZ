@@ -25,8 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u062c\u0646\u0627\u0646\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u062c\u0646\u0627\u0646\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062c\u0646\u0627\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tadjenanet"
+    ],
+    "name:ita_x_preferred":[
+        "Tadjenanet"
+    ],
+    "name:kab_x_preferred":[
+        "Tajnant"
+    ],
+    "name:msa_x_preferred":[
+        "Tadjenanet"
+    ],
+    "name:por_x_preferred":[
+        "Tadjenanet"
+    ],
+    "name:ron_x_preferred":[
+        "Tadjenanet"
+    ],
+    "name:spa_x_preferred":[
+        "Tadjenanet"
+    ],
     "name:und_x_variant":[
         "Saint-Donat",
+        "Tadjenanet"
+    ],
+    "name:vie_x_preferred":[
         "Tadjenanet"
     ],
     "src:geom":"geonames",
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1209751867,
-    "wof:lastmodified":1537620106,
+    "wof:lastmodified":1564196493,
     "wof:name":"Tadjenanet",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

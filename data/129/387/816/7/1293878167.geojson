@@ -25,9 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u0627\u0646\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0647\u0627\u0646\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0647\u0627\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Zahana"
+    ],
+    "name:ita_x_preferred":[
+        "Zahana"
+    ],
+    "name:kab_x_preferred":[
+        "Zahana"
+    ],
+    "name:msa_x_preferred":[
+        "Zahana"
+    ],
+    "name:por_x_preferred":[
+        "Zahana"
+    ],
+    "name:ron_x_preferred":[
+        "Zahana"
+    ],
+    "name:spa_x_preferred":[
+        "Zahana"
+    ],
     "name:und_x_variant":[
         "Saint-Lucien",
         "Zahna",
+        "Zahana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0630\u06c1\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
         "Zahana"
     ],
     "src:geom":"geonames",
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1293878167,
-    "wof:lastmodified":1537620092,
+    "wof:lastmodified":1564196206,
     "wof:name":"Zahana",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

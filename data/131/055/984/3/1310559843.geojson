@@ -25,11 +25,44 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0639\u0627\u0637\u064a \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0639\u0627\u0637\u06cc \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:deu_x_preferred":[
+        "Bouati Mahmoud"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0639\u0627\u0637\u06cc \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Bouati Mahmoud"
+    ],
+    "name:ita_x_preferred":[
+        "Bouati Mahmoud"
+    ],
+    "name:msa_x_preferred":[
+        "Bouati Mahmoud"
+    ],
+    "name:por_x_preferred":[
+        "Bouati Mahmoud"
+    ],
+    "name:ron_x_preferred":[
+        "Bouati Mahmoud"
+    ],
+    "name:spa_x_preferred":[
+        "Bouati Mahmoud"
+    ],
     "name:und_x_variant":[
         "Galli\u00e9ni",
         "Bou-Aci",
         "Hennchir Sa\u00efd",
         "Enchir Sa\u00efd",
+        "Bouati Mahmoud"
+    ],
+    "name:vie_x_preferred":[
         "Bouati Mahmoud"
     ],
     "src:geom":"geonames",
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1310559843,
-    "wof:lastmodified":1537620236,
+    "wof:lastmodified":1564196635,
     "wof:name":"Bouati Mahmoud",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

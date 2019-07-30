@@ -25,9 +25,42 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0632\u0648\u064a\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0646 \u0632\u0648\u06cc\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0632\u0648\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Zouit"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Zouit"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Zwit"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Zouit"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Zouit"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Zouit"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn Zouit"
+    ],
     "name:und_x_variant":[
         "Zouit",
         "\u2019A\u00efn Zo\u00fb\u00eeT"
+    ],
+    "name:vie_x_preferred":[
+        "A\u00efn Zouit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1259911261,
-    "wof:lastmodified":1537620252,
+    "wof:lastmodified":1564196938,
     "wof:name":"'Ain ZouiT",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

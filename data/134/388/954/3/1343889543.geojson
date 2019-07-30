@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u062f\u064a \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0627\u0646"
+    ],
     "name:fra_x_historical":[
         "Pointe Rouge",
         "La Pointe Rouge"
@@ -36,10 +45,35 @@
         "Pointe Rouge"
     ],
     "name:fra_x_variant":[
-        "La Pointe Rouge"
+        "La Pointe Rouge",
+        "Sidi Abderrahmane"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Abderrahmane"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi \u0190ebderre\u1e25man"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Abderrahmane"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Abderrahmane"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Abderrahmane"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Abderrahmane"
     ],
     "name:und_x_variant":[
         "Souk Elbakar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Abderrahmane"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +96,7 @@
         }
     ],
     "wof:id":1343889543,
-    "wof:lastmodified":1537620108,
+    "wof:lastmodified":1564196074,
     "wof:name":"Sidi Abderrahmane",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

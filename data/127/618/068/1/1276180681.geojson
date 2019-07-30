@@ -25,8 +25,44 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062e\u064a\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u062e\u06cc\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Belkheir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062e\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Belkheir"
+    ],
+    "name:ita_x_preferred":[
+        "Belkheir"
+    ],
+    "name:kab_x_preferred":[
+        "Belxir"
+    ],
+    "name:msa_x_preferred":[
+        "Belkheir"
+    ],
+    "name:por_x_preferred":[
+        "Belkheir"
+    ],
+    "name:ron_x_preferred":[
+        "Belkheir"
+    ],
+    "name:spa_x_preferred":[
+        "Belkheir"
+    ],
     "name:und_x_variant":[
         "Mill\u00e9simo",
+        "Belkheir"
+    ],
+    "name:vie_x_preferred":[
         "Belkheir"
     ],
     "src:geom":"geonames",
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1276180681,
-    "wof:lastmodified":1537620246,
+    "wof:lastmodified":1564196265,
     "wof:name":"Belkheir",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

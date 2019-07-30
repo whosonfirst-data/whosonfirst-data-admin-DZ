@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0627\u0644\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0628\u0627\u0644\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0627\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Djebala"
+    ],
+    "name:ita_x_preferred":[
+        "Djebala"
+    ],
+    "name:msa_x_preferred":[
+        "Djebala"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cabala"
+    ],
+    "name:por_x_preferred":[
+        "Djebala"
+    ],
+    "name:ron_x_preferred":[
+        "Djebala"
+    ],
+    "name:spa_x_preferred":[
+        "Djebala"
+    ],
+    "name:vie_x_preferred":[
+        "Djebala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1293557897,
-    "wof:lastmodified":1537504298,
+    "wof:lastmodified":1564196106,
     "wof:name":"Djebala",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

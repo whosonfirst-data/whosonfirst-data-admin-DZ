@@ -25,8 +25,23 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zeria"
+    ],
+    "name:fra_x_preferred":[
+        "Zeria"
+    ],
+    "name:spa_x_preferred":[
+        "Zeria"
+    ],
+    "name:swe_x_preferred":[
+        "Zeria"
+    ],
     "name:und_x_variant":[
         "Douar Zeria",
+        "Zeria"
+    ],
+    "name:war_x_preferred":[
         "Zeria"
     ],
     "src:geom":"geonames",
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226533871,
-    "wof:lastmodified":1537620205,
+    "wof:lastmodified":1564197140,
     "wof:name":"Zeria",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

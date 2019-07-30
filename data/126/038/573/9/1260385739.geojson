@@ -26,9 +26,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u0627\u062c"
+    ],
+    "name:azb_x_preferred":[
+        "\u062d\u062c\u0627\u062c"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u062c\u0627\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Hadjadj"
+    ],
+    "name:kab_x_preferred":[
+        "L\u1e25e\u01e7\u01e7a\u01e7"
+    ],
+    "name:msa_x_preferred":[
+        "Hadjadj"
+    ],
+    "name:por_x_preferred":[
+        "Hadjadj"
+    ],
+    "name:ron_x_preferred":[
+        "Hadjadj"
+    ],
+    "name:spa_x_preferred":[
+        "Hadjadj"
+    ],
     "name:und_x_variant":[
         "Bosquet",
         "Hadjedj",
+        "Hadjadj"
+    ],
+    "name:vie_x_preferred":[
         "Hadjadj"
     ],
     "src:geom":"geonames",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1260385739,
-    "wof:lastmodified":1537620188,
+    "wof:lastmodified":1564196561,
     "wof:name":"Hadjadj",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

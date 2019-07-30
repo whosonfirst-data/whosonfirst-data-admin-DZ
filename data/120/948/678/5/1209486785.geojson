@@ -25,8 +25,41 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0648\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u062d\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u062d\u0648\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Rahouia"
+    ],
+    "name:ita_x_preferred":[
+        "Rahouia"
+    ],
+    "name:kab_x_preferred":[
+        "Re\u1e25weyya"
+    ],
+    "name:msa_x_preferred":[
+        "Rahouia"
+    ],
+    "name:por_x_preferred":[
+        "Rahouia"
+    ],
+    "name:ron_x_preferred":[
+        "Rahouia"
+    ],
+    "name:spa_x_preferred":[
+        "Rahouia"
+    ],
     "name:und_x_variant":[
         "Montgolfier",
+        "Rahouia"
+    ],
+    "name:vie_x_preferred":[
         "Rahouia"
     ],
     "src:geom":"geonames",
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1209486785,
-    "wof:lastmodified":1537620120,
+    "wof:lastmodified":1564196400,
     "wof:name":"Rahouia",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

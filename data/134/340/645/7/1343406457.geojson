@@ -25,6 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u062a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Tit"
+    ],
+    "name:ita_x_preferred":[
+        "Tit"
+    ],
+    "name:kab_x_preferred":[
+        "Ti\u1e6d"
+    ],
+    "name:por_x_preferred":[
+        "Tit"
+    ],
+    "name:ron_x_preferred":[
+        "Tit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Tit"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u062a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1343406457,
-    "wof:lastmodified":1537504265,
+    "wof:lastmodified":1564196008,
     "wof:name":"Tit",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

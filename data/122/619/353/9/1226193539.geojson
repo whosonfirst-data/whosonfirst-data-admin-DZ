@@ -25,8 +25,44 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u062c\u0644\u0627\u0628\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u062c\u0644\u0627\u0628\u06cc\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u062c\u0644\u0627\u0628\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tidjelabine"
+    ],
+    "name:ita_x_preferred":[
+        "Tidjelabine"
+    ],
+    "name:kab_x_preferred":[
+        "Tijelabin"
+    ],
+    "name:msa_x_preferred":[
+        "Tidjelabine"
+    ],
+    "name:por_x_preferred":[
+        "Tidjelabine"
+    ],
+    "name:ron_x_preferred":[
+        "Tidjelabine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0434\u0436\u0435\u043b\u0430\u0431\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Tidjelabine"
+    ],
     "name:und_x_variant":[
         "Bellefontaine",
+        "Tidjelabine"
+    ],
+    "name:vie_x_preferred":[
         "Tidjelabine"
     ],
     "src:geom":"geonames",
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1226193539,
-    "wof:lastmodified":1537620098,
+    "wof:lastmodified":1564197027,
     "wof:name":"Tidjelabine",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

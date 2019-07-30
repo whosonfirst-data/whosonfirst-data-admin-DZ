@@ -25,9 +25,39 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0635\u0628\u0627\u062d\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0635\u0631 \u0635\u0628\u0627\u062d\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0631 \u0635\u0628\u0627\u062d\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ksar Sbahi"
+    ],
+    "name:ita_x_preferred":[
+        "Ksar Sbahi"
+    ],
+    "name:msa_x_preferred":[
+        "Ksar Sbahi"
+    ],
+    "name:por_x_preferred":[
+        "Ksar Sbahi"
+    ],
+    "name:ron_x_preferred":[
+        "Ksar Sbahi"
+    ],
     "name:und_x_variant":[
         "Ksar Sbehi",
         "Ksar Sbahi"
+    ],
+    "name:vie_x_preferred":[
+        "Ksar Sbahi"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5df4\u5e0c\u5821"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1277020753,
-    "wof:lastmodified":1537620177,
+    "wof:lastmodified":1564196310,
     "wof:name":"Ksar Sbahi",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

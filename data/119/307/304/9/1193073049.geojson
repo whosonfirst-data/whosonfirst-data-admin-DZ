@@ -25,6 +25,45 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0627\u0631\u0641\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0637\u0627\u0631\u0641\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Metarfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0637\u0627\u0631\u0641\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Metarfa"
+    ],
+    "name:ita_x_preferred":[
+        "Metarfa"
+    ],
+    "name:msa_x_preferred":[
+        "Metarfa"
+    ],
+    "name:por_x_preferred":[
+        "Metarfa"
+    ],
+    "name:ron_x_preferred":[
+        "Metarfa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0442\u0430\u0440\u0444\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Metarfa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0637\u0627\u0631\u0641\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Metarfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +86,7 @@
         }
     ],
     "wof:id":1193073049,
-    "wof:lastmodified":1537504278,
+    "wof:lastmodified":1564196503,
     "wof:name":"Metarfa",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

@@ -25,8 +25,35 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0628\u0648\u064a\u062d\u064a\u0649"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
+    "name:msa_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
+    "name:ron_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
     "name:und_x_variant":[
         "Ouled Yahia"
+    ],
+    "name:vie_x_preferred":[
+        "A\u00efn Bouyahia"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u5e03\u4e9e\u5e0c\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1360038829,
-    "wof:lastmodified":1537620122,
+    "wof:lastmodified":1564196730,
     "wof:name":"Ain Bouyahia",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

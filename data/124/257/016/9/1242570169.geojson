@@ -25,6 +25,12 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sidi Moussa"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Moussa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1242570169,
-    "wof:lastmodified":1537071308,
+    "wof:lastmodified":1564196834,
     "wof:name":"Sidi Moussa",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",
