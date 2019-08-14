@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OG"
+    ],
     "lbl:latitude":30.569146,
     "lbl:longitude":5.820301,
     "mps:latitude":30.569146,
@@ -363,9 +366,6 @@
         }
     ],
     "wof:id":85670759,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -374,7 +374,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571507,
+    "wof:lastmodified":1565673062,
     "wof:name":"Ouargla",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":36.215554,
     "lbl:longitude":6.150822,
     "mps:latitude":36.215554,
@@ -329,9 +332,6 @@
         }
     ],
     "wof:id":85670867,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -340,7 +340,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571494,
+    "wof:lastmodified":1565673061,
     "wof:name":"Mila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

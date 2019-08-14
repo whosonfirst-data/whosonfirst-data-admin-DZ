@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BT"
+    ],
     "lbl:latitude":35.547538,
     "lbl:longitude":6.11858,
     "mps:latitude":35.547538,
@@ -327,9 +330,6 @@
         }
     ],
     "wof:id":85670851,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -338,7 +338,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571494,
+    "wof:lastmodified":1565673061,
     "wof:name":"Batna",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TM"
+    ],
     "lbl:latitude":23.842982,
     "lbl:longitude":4.571427,
     "mps:latitude":23.842982,
@@ -323,9 +326,6 @@
         }
     ],
     "wof:id":85670735,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -334,7 +334,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571508,
+    "wof:lastmodified":1565673062,
     "wof:name":"Tamanghasset",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

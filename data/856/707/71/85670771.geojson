@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TP"
+    ],
     "lbl:latitude":36.525159,
     "lbl:longitude":2.322532,
     "mps:latitude":36.525159,
@@ -324,9 +327,6 @@
         }
     ],
     "wof:id":85670771,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -335,7 +335,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571522,
+    "wof:lastmodified":1565673062,
     "wof:name":"Tipaza",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

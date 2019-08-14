@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MG"
+    ],
     "lbl:latitude":35.932418,
     "lbl:longitude":0.267007,
     "mps:latitude":35.932418,
@@ -309,9 +312,6 @@
         }
     ],
     "wof:id":85670787,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -320,7 +320,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571511,
+    "wof:lastmodified":1565673062,
     "wof:name":"Mostaganem",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

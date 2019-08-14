@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":36.359556,
     "lbl:longitude":6.67328,
     "mps:latitude":36.359556,
@@ -350,9 +353,6 @@
         }
     ],
     "wof:id":85670855,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -361,7 +361,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571503,
+    "wof:lastmodified":1565673061,
     "wof:name":"Constantine",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

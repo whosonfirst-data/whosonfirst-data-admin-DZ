@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OR"
+    ],
     "lbl:latitude":35.584827,
     "lbl:longitude":-0.590937,
     "mps:latitude":35.584827,
@@ -325,9 +328,6 @@
         }
     ],
     "wof:id":85670689,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -336,7 +336,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571489,
+    "wof:lastmodified":1565673060,
     "wof:name":"Oran",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

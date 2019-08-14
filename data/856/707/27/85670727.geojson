@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":36.755883,
     "lbl:longitude":6.773771,
     "mps:latitude":36.755883,
@@ -304,9 +307,6 @@
         }
     ],
     "wof:id":85670727,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -315,7 +315,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571509,
+    "wof:lastmodified":1565673062,
     "wof:name":"Skikda",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

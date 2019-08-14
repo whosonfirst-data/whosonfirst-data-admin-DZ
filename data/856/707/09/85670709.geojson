@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TN"
+    ],
     "lbl:latitude":27.815237,
     "lbl:longitude":-6.720636,
     "mps:latitude":27.815237,
@@ -381,9 +384,6 @@
         }
     ],
     "wof:id":85670709,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -392,7 +392,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571514,
+    "wof:lastmodified":1565673062,
     "wof:name":"Tindouf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

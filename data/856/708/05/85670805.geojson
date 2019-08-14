@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TS"
+    ],
     "lbl:latitude":35.73352,
     "lbl:longitude":1.747235,
     "mps:latitude":35.73352,
@@ -338,9 +341,6 @@
         }
     ],
     "wof:id":85670805,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -349,7 +349,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571496,
+    "wof:lastmodified":1565673061,
     "wof:name":"Tissemsilt",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

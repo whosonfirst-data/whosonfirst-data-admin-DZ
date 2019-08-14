@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":36.087292,
     "lbl:longitude":4.779661,
     "mps:latitude":36.087292,
@@ -320,9 +323,6 @@
         }
     ],
     "wof:id":85670809,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -331,7 +331,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571500,
+    "wof:lastmodified":1565673061,
     "wof:name":"Bordj Bou Arr\u00e9ridj",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

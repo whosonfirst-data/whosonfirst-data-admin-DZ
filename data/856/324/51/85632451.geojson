@@ -15,6 +15,9 @@
     "itu:country_code":[
         "213"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DZ"
+    ],
     "lbl:latitude":27.89689,
     "lbl:longitude":3.379277,
     "mps:latitude":27.89689,
@@ -1089,9 +1092,6 @@
         }
     ],
     "wof:id":85632451,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -1100,7 +1100,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571529,
+    "wof:lastmodified":1565673063,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

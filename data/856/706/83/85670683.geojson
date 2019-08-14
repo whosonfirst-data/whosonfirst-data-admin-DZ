@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":35.263694,
     "lbl:longitude":-1.036268,
     "mps:latitude":35.263694,
@@ -330,9 +333,6 @@
         }
     ],
     "wof:id":85670683,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -341,7 +341,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571491,
+    "wof:lastmodified":1565673060,
     "wof:name":"A\u00efn T\u00e9mouchent",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":36.700062,
     "lbl:longitude":3.110408,
     "mps:latitude":36.700062,
@@ -288,9 +291,6 @@
         }
     ],
     "wof:id":85670761,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -299,7 +299,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571506,
+    "wof:lastmodified":1565673061,
     "wof:name":"Alger",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

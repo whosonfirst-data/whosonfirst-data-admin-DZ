@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":34.978843,
     "lbl:longitude":1.499568,
     "mps:latitude":34.978843,
@@ -354,9 +357,6 @@
         }
     ],
     "wof:id":85670801,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -365,7 +365,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571502,
+    "wof:lastmodified":1565673061,
     "wof:name":"Tiaret",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

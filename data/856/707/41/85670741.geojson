@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EB"
+    ],
     "lbl:latitude":32.47718,
     "lbl:longitude":1.105006,
     "mps:latitude":32.47718,
@@ -342,9 +345,6 @@
         }
     ],
     "wof:id":85670741,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -353,7 +353,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571518,
+    "wof:lastmodified":1565673062,
     "wof:name":"El Bayadh",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

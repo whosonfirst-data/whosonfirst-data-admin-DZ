@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":36.191121,
     "lbl:longitude":8.032228,
     "mps:latitude":36.191121,
@@ -360,9 +363,6 @@
         }
     ],
     "wof:id":85670875,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -371,7 +371,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571499,
+    "wof:lastmodified":1565673061,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

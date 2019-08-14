@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":36.837758,
     "lbl:longitude":7.526045,
     "mps:latitude":36.837758,
@@ -411,9 +414,6 @@
         }
     ],
     "wof:id":85670713,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -422,7 +422,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563571524,
+    "wof:lastmodified":1565673063,
     "wof:name":"Annaba",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
