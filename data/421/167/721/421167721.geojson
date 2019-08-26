@@ -10,8 +10,12 @@
     "geom:latitude":36.41205,
     "geom:longitude":6.59603,
     "iso:country":"DZ",
+    "lbl:bbox":"6.57603,36.39205,6.61603,36.43205",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u062d\u0627\u0645\u0629 \u0628\u0648\u0632\u064a\u0627\u0646"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Hamma Bouziane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Le Hamma-Plaisance"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2494610,
         "gp:id":1254928,
-        "qs:id":140182,
+        "qs_pg:id":140182,
         "wd:id":"Q3126488"
     },
     "wof:country":"DZ",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421167721,
-    "wof:lastmodified":1563572233,
+    "wof:lastmodified":1566583485,
     "wof:name":"Hamma Bouziane",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

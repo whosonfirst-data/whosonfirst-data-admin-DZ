@@ -11,10 +11,14 @@
     "geom:longitude":6.50135,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":28968,
+    "gn:population":28968,
     "iso:country":"DZ",
+    "lbl:bbox":"6.48135,36.2474,6.52135,36.2874",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0633\u0645\u0627\u0631\u0629"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "A\u00efn Smara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u00efne Smara"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2507926,
         "gp:id":1252859,
-        "qs:id":278740,
+        "qs_pg:id":278740,
         "wd:id":"Q2876376",
         "wk:page":"A\u00efn Smara"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890432339,
-    "wof:lastmodified":1563572335,
+    "wof:lastmodified":1566583516,
     "wof:name":"A\u00efn Smara",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

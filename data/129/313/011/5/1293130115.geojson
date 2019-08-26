@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.95779,36.47906,5.99779,36.51906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293130115,
-    "wof:lastmodified":1536805230,
+    "wof:lastmodified":1566582997,
     "wof:name":"Kef Haied",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

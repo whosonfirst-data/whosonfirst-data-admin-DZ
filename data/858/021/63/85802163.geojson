@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1093553.029528,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.051515,36.775367,3.051515,36.775367",
     "geom:latitude":36.775367,
     "geom:longitude":3.051515,
     "iso:country":"DZ",
+    "lbl:bbox":"3.046515,36.770367,3.056515,36.780367",
     "lbl:latitude":36.775367,
     "lbl:longitude":3.051515,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.774167,
     "mps:longitude":3.047698,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Les Tagarins"
-    ],
-    "name:unk_x_variant":[
         "Les Tagarins"
     ],
     "qs:gn_adm0_cc":"DZ",
@@ -56,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -81,7 +80,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862141,
+    "wof:lastmodified":1566582934,
     "wof:name":"Les Tagarins",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

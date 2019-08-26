@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.56308,35.51878,0.60308,35.55878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Souimia",
         "Douar Souimia",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209142481,
-    "wof:lastmodified":1537620108,
+    "wof:lastmodified":1566583229,
     "wof:name":"Douar Soualmia",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

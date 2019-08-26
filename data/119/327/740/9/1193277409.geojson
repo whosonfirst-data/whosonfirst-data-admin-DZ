@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.2202,35.14263,6.2602,35.18263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u063a\u0627\u0646\u0645\u064a\u0646"
     ],
@@ -56,7 +60,6 @@
         "Tighanimine"
     ],
     "name:und_x_variant":[
-        "Tighanimine",
         "Tirhanimine"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1193277409,
-    "wof:lastmodified":1564196532,
+    "wof:lastmodified":1566583299,
     "wof:name":"Tirhanimine",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

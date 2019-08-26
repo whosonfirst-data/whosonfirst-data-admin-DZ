@@ -10,8 +10,11 @@
     "geom:latitude":36.75409,
     "geom:longitude":3.05699,
     "iso:country":"DZ",
+    "lbl:bbox":"3.05199,36.74909,3.06199,36.75909",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Mustafa"
@@ -247,7 +250,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u0442\u0430\u0444\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mustapha Inf\u00e9rieur"
     ],
     "name:urd_x_preferred":[
@@ -306,7 +309,7 @@
     "wof:concordances":{
         "gn:id":2486610,
         "gp:id":1256516,
-        "qs:id":1167964,
+        "qs_pg:id":1167964,
         "wd:id":"Q4308518"
     },
     "wof:country":"DZ",
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":421192365,
-    "wof:lastmodified":1563572223,
+    "wof:lastmodified":1566583481,
     "wof:name":"Mustapha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.34746,35.48277,2.38746,35.52277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276527283,
-    "wof:lastmodified":1537015464,
+    "wof:lastmodified":1566583155,
     "wof:name":"Djemlet el Assa",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

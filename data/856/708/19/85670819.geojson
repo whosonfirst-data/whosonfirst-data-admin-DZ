@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.506234,
     "lbl:longitude":3.007466,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.506234,
     "mps:longitude":3.007466,
     "mz:hierarchy_label":1,
@@ -266,9 +267,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wilaya de Blida"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u06cc\u062f\u06c1"
     ],
@@ -357,9 +355,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"1,541",
     "statoids:area_mi":"595",
     "statoids:as_of_date":"2008-04-16",
@@ -388,7 +386,7 @@
         "gp:id":2344592,
         "hasc:id":"DZ.BL",
         "iso:id":"DZ-09",
-        "qs:id":1134890,
+        "qs_pg:id":1134890,
         "unlc:id":"DZ-09",
         "wd:id":"Q233637"
     },
@@ -410,11 +408,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673061,
+    "wof:lastmodified":1566582917,
     "wof:name":"Blida",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1002937,
     "wof:population_rank":12,

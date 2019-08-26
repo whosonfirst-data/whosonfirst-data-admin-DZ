@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.038835,36.770792,3.038835,36.770792",
     "geom:latitude":36.770792,
     "geom:longitude":3.038835,
     "iso:country":"DZ",
+    "lbl:bbox":"3.033835,36.765792,3.043835,36.775792",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22528469,
-        "qs:id":257511
+        "qs_pg:id":257511
     },
     "wof:country":"DZ",
     "wof:created":1459010214,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421205167,
-    "wof:lastmodified":1531858854,
+    "wof:lastmodified":1566583487,
     "wof:name":"La Perlier",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

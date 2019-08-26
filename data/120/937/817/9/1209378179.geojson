@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.37408,36.61905,5.41408,36.65905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2503412
     },
     "wof:country":"DZ",
-    "wof:geomhash":"858fb25ec872ec0b2611090acbb620c9",
+    "wof:geomhash":"42d88b9a250c7b1eaa70d32930bfd78a",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209378179,
-    "wof:lastmodified":1536288876,
+    "wof:lastmodified":1566583196,
     "wof:name":"Bou Beker",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.3940800000000015,
+    5.39408,
     36.63905,
-    5.3940800000000015,
+    5.39408,
     36.63905
 ],
   "geometry": {"coordinates":[5.39408,36.63905],"type":"Point"}

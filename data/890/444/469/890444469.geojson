@@ -11,8 +11,11 @@
     "geom:longitude":0.15171,
     "gn:country":"DZ",
     "gn:fcode":"PPLA",
-    "gn:pop":127497,
+    "gn:population":127497,
     "iso:country":"DZ",
+    "lbl:bbox":"0.13171,34.81034,0.17171,34.85034",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -270,7 +273,7 @@
     "wof:concordances":{
         "gn:id":2482572,
         "gp:id":1257184,
-        "qs:id":1035921,
+        "qs_pg:id":1035921,
         "wd:id":"Q401452",
         "wk:page":"Sa\u00efda, Algeria"
     },
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":890444469,
-    "wof:lastmodified":1563572326,
+    "wof:lastmodified":1566583512,
     "wof:name":"Sa\u00efda",
     "wof:parent_id":85670797,
     "wof:placetype":"locality",

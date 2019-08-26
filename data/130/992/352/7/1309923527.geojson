@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.28472,36.77083,3.32472,36.81083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn-Chrob",
         "\u2019A\u00efn-Chorb",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309923527,
-    "wof:lastmodified":1537620107,
+    "wof:lastmodified":1566583468,
     "wof:name":"Surcouf",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

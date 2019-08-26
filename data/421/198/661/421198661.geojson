@@ -10,8 +10,12 @@
     "geom:latitude":36.54722,
     "geom:longitude":4.68611,
     "iso:country":"DZ",
+    "lbl:bbox":"4.66611,36.52722,4.70611,36.56722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0635\u062f\u0648\u0642"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2482159,
         "gp:id":1257225,
-        "qs:id":428695,
+        "qs_pg:id":428695,
         "wd:id":"Q2223541",
         "wk:page":"Seddouk"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421198661,
-    "wof:lastmodified":1563572264,
+    "wof:lastmodified":1566583494,
     "wof:name":"Seddouk",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

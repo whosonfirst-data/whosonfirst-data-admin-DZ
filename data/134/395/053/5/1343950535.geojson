@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.44278,35.71173,2.48278,35.75173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343950535,
-    "wof:lastmodified":1537032952,
+    "wof:lastmodified":1566582859,
     "wof:name":"El Gouizette",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

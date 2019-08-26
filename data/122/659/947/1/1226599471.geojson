@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-0.31603,35.43143,-0.27603,35.47143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Djenane Haouroua",
         "Djenane el Hou\u00e2ouna"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226599471,
-    "wof:lastmodified":1537620224,
+    "wof:lastmodified":1566583707,
     "wof:name":"Djenane el Houaouna",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

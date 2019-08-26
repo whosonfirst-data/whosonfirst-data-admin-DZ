@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.21575,36.08794,2.25575,36.12794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moula Diar el Ma\u00efz",
         "Moul Diar el Ma\u00efz"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326683319,
-    "wof:lastmodified":1537620137,
+    "wof:lastmodified":1566582725,
     "wof:name":"Moula Diar el Maiz",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.60708,35.46318,6.64708,35.50318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn Touffana",
         "A\u00efn Douffana",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293212279,
-    "wof:lastmodified":1537620093,
+    "wof:lastmodified":1566583052,
     "wof:name":"Touffana",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.02496,29.52082,0.06496,29.56082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Touenza",
         "Taouenza",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327387991,
-    "wof:lastmodified":1537620103,
+    "wof:lastmodified":1566582694,
     "wof:name":"Taouennza",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

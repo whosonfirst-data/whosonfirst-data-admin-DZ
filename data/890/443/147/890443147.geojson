@@ -11,10 +11,14 @@
     "geom:longitude":0.71261,
     "gn:country":"DZ",
     "gn:fcode":"PPLF",
-    "gn:pop":40,
+    "gn:population":40,
     "iso:country":"DZ",
+    "lbl:bbox":"0.69261,35.68112,0.73261,35.72112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"A\u00efn Sidi Harrat",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7115823,
         "gp:id":1257118,
-        "qs:id":656668
+        "qs_pg:id":656668
     },
     "wof:country":"DZ",
     "wof:created":1469052403,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890443147,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566583514,
     "wof:name":"A\u00efn Sidi Harrat",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.50641,35.77586,7.54641,35.81586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechta Bir el Mennten",
         "Mechta Bir el Menntene"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360145903,
-    "wof:lastmodified":1537620168,
+    "wof:lastmodified":1566583418,
     "wof:name":"Mechta Bir el Menntene",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

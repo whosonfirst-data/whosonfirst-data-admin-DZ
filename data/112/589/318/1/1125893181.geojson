@@ -9,17 +9,20 @@
     "geom:bbox":"-0.30178,35.80389,-0.30178,35.80389",
     "geom:latitude":35.80389,
     "geom:longitude":-0.30178,
-    "gn:gn_country":"DZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":37241,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
     "gn:population":37241,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.32178,35.78389,-0.28178,35.82389",
     "lbl:latitude":35.80389,
     "lbl:longitude":-0.30178,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Damesme"
     ],
     "qs_pg:aaroncc":"DZ",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":1036066,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125893181,
-    "wof:lastmodified":1509398921,
+    "wof:lastmodified":1566583520,
     "wof:name":"A\u00efn el Bya",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

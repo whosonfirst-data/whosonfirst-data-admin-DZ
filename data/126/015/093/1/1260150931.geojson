@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.75112,34.70017,-1.71112,34.74017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0645\u0628\u0627\u0631\u0643"
     ],
@@ -53,8 +57,7 @@
         "Sidi Embarek"
     ],
     "name:und_x_variant":[
-        "Sidi Mbarek",
-        "Sidi Embarek"
+        "Sidi Mbarek"
     ],
     "name:vie_x_preferred":[
         "Sidi Embarek"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1260150931,
-    "wof:lastmodified":1564196552,
+    "wof:lastmodified":1566583311,
     "wof:name":"Sidi Embarek",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

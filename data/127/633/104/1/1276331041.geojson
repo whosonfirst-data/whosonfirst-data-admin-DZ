@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.25381,35.70089,0.29381,35.74089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276331041,
-    "wof:lastmodified":1536782119,
+    "wof:lastmodified":1566583094,
     "wof:name":"Douar el Athmania",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

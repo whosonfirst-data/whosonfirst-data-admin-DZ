@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.208051,
     "lbl:longitude":3.857482,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.208051,
     "mps:longitude":3.857482,
     "mz:hierarchy_label":1,
@@ -184,7 +185,7 @@
         "Bouira"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0baf\u0bcd\u0bb0\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bc6\u0baf\u0bcd\u0bb0\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c2f\u0c3f\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -204,7 +205,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0457\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilaya de Bouira"
     ],
     "name:urd_x_preferred":[
@@ -289,9 +290,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"4,517",
     "statoids:area_mi":"1,744",
     "statoids:as_of_date":"2008-04-16",
@@ -319,7 +320,7 @@
         "gp:id":2344593,
         "hasc:id":"DZ.BU",
         "iso:id":"DZ-10",
-        "qs:id":1134883,
+        "qs_pg:id":1134883,
         "unlc:id":"DZ-10",
         "wd:id":"Q233655"
     },
@@ -341,11 +342,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673061,
+    "wof:lastmodified":1566582920,
     "wof:name":"Bouira",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":695583,
     "wof:population_rank":11,

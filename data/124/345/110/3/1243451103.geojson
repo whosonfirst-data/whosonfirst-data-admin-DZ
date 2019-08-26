@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.21184,35.823,0.25184,35.863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0635\u0648\u0631\u0629"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243451103,
-    "wof:lastmodified":1564196920,
+    "wof:lastmodified":1566583606,
     "wof:name":"Mansourah",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

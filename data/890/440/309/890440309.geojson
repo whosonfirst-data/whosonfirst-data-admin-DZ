@@ -11,8 +11,11 @@
     "geom:longitude":0.1714,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":32974,
+    "gn:population":32974,
     "iso:country":"DZ",
+    "lbl:bbox":"0.1514,26.69576,0.1914,26.73576",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Reggane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaouiet Reggane"
     ],
     "name:urd_x_preferred":[
@@ -198,7 +201,7 @@
     "wof:concordances":{
         "gn:id":2483761,
         "gp:id":1257110,
-        "qs:id":278710,
+        "qs_pg:id":278710,
         "wd:id":"Q582905",
         "wk:page":"Reggane"
     },
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890440309,
-    "wof:lastmodified":1563572304,
+    "wof:lastmodified":1566583506,
     "wof:name":"Reggane",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":34.72224,
     "geom:longitude":5.37845,
     "iso:country":"DZ",
+    "lbl:bbox":"5.35845,34.70224,5.39845,34.74224",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0637\u0648\u0644\u0642\u0629"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2475612,
         "gp:id":1257903,
-        "qs:id":1035911,
+        "qs_pg:id":1035911,
         "wd:id":"Q2280394",
         "wk:page":"Tolga, Algeria"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421168191,
-    "wof:lastmodified":1563572221,
+    "wof:lastmodified":1566583480,
     "wof:name":"Tolga",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.37587,36.39188,3.41587,36.43188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dechret el Chaab",
         "Dechret ech Chaab"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293382541,
-    "wof:lastmodified":1537620226,
+    "wof:lastmodified":1566582938,
     "wof:name":"Dechret ech Chaab",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

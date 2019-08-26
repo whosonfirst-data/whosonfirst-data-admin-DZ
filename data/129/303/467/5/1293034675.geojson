@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.70075,36.65943,6.74075,36.69943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0645\u0632\u063a\u064a\u0634"
     ],
@@ -57,8 +61,7 @@
     ],
     "name:und_x_variant":[
         "Sidi Mezrich",
-        "Sidi Mesrich",
-        "Sidi Mezghiche"
+        "Sidi Mesrich"
     ],
     "name:vie_x_preferred":[
         "Sidi Mezghiche"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1293034675,
-    "wof:lastmodified":1564196163,
+    "wof:lastmodified":1566583009,
     "wof:name":"Sidi Mezghiche",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

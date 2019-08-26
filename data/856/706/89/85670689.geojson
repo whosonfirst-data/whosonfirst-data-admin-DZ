@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.584827,
     "lbl:longitude":-0.590937,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.584827,
     "mps:longitude":-0.590937,
     "mz:hierarchy_label":1,
@@ -202,7 +203,7 @@
     "name:ukr_x_variant":[
         "\u0432\u0456\u043b\u0430\u0454\u0442 \u041e\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departement d\u2019Oran"
     ],
     "name:urd_x_preferred":[
@@ -287,9 +288,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"2,114",
     "statoids:area_mi":"816",
     "statoids:as_of_date":"2008-04-16",
@@ -314,7 +315,7 @@
         "gp:id":2344584,
         "hasc:id":"DZ.OR",
         "iso:id":"DZ-31",
-        "qs:id":221715,
+        "qs_pg:id":221715,
         "unlc:id":"DZ-31",
         "wd:id":"Q231331"
     },
@@ -336,11 +337,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673060,
+    "wof:lastmodified":1566582913,
     "wof:name":"Oran",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1454078,
     "wof:population_rank":12,

@@ -11,10 +11,14 @@
     "geom:longitude":0.72939,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"DZ",
+    "lbl:bbox":"0.70939,35.69049,0.74939,35.73049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Zaouia Benameur",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7115826,
         "gp:id":1257118,
-        "qs:id":656671
+        "qs_pg:id":656671
     },
     "wof:country":"DZ",
     "wof:created":1469052404,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890443153,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566583513,
     "wof:name":"Zaouia Benameur",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

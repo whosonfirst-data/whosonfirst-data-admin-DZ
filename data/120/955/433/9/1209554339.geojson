@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.74045,36.86007,7.78045,36.90007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jouannonville",
         "Joannonville"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209554339,
-    "wof:lastmodified":1537620181,
+    "wof:lastmodified":1566583204,
     "wof:name":"Joannonville",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.40701,36.11821,3.44701,36.15821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0627\u0628"
     ],
@@ -56,7 +60,6 @@
         "Masquerey",
         "Sour Djouab",
         "Masqueray",
-        "Djouab",
         "Masqnerey",
         "Nacereddine"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1210038439,
-    "wof:lastmodified":1564196498,
+    "wof:lastmodified":1566583276,
     "wof:name":"Djouab",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

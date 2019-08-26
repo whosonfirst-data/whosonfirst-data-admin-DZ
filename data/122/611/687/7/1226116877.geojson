@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.02449,36.46679,3.06449,36.50679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0645\u0627\u0645 \u0645\u0644\u0648\u0627\u0646"
     ],
@@ -58,8 +62,7 @@
     "name:und_x_variant":[
         "Melouan",
         "Hamman Melouane",
-        "Hammam-M\u00e9louan",
-        "Hammam Melouane"
+        "Hammam-M\u00e9louan"
     ],
     "name:urd_x_preferred":[
         "\u062d\u0645\u0627\u0645 \u0645\u0644\u0648\u0627\u0646"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1226116877,
-    "wof:lastmodified":1564197050,
+    "wof:lastmodified":1566583695,
     "wof:name":"Hammam Melouane",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

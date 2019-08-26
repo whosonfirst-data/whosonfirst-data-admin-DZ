@@ -10,8 +10,12 @@
     "geom:latitude":36.73829,
     "geom:longitude":3.28079,
     "iso:country":"DZ",
+    "lbl:bbox":"3.26079,36.71829,3.30079,36.75829",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u064a\u0628\u0629"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2482908,
         "gp:id":56558418,
-        "qs:id":1035948,
+        "qs_pg:id":1035948,
         "wd:id":"Q2215980",
         "wk:page":"Rou\u00efba"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421194227,
-    "wof:lastmodified":1563572228,
+    "wof:lastmodified":1566583484,
     "wof:name":"Rouiba",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.29187,35.98246,1.33187,36.02246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Brahemia",
         "Brahmia"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243007265,
-    "wof:lastmodified":1537620231,
+    "wof:lastmodified":1566583525,
     "wof:name":"Brahmia",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

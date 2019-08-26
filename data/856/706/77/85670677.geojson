@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":25.570477,
     "lbl:longitude":-1.297394,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.570477,
     "mps:longitude":-1.297394,
     "mz:hierarchy_label":1,
@@ -230,7 +231,7 @@
         "Adrar"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b9f\u0bcd\u0bb0\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0b9f\u0bcd\u0bb0\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c21\u0c4d\u0c30\u0c3e\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -250,7 +251,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0440\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilaya d\u2019Adrar"
     ],
     "name:urd_x_preferred":[
@@ -344,9 +345,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"464,900",
     "statoids:area_mi":"179,500",
     "statoids:as_of_date":"2008-04-16",
@@ -372,7 +373,7 @@
         "gp:id":2344604,
         "hasc:id":"DZ.AR",
         "iso:id":"DZ-01",
-        "qs:id":890532,
+        "qs_pg:id":890532,
         "unlc:id":"DZ-01",
         "wd:id":"Q188166"
     },
@@ -394,11 +395,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673060,
+    "wof:lastmodified":1566582914,
     "wof:name":"Adrar",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":399714,
     "wof:population_rank":10,

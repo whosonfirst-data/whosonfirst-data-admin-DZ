@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.999439,
     "lbl:longitude":7.820008,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.999439,
     "mps:longitude":7.820008,
     "mz:hierarchy_label":1,
@@ -172,7 +173,7 @@
         "T\u00e9bessa"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc7\u0baa\u0bbf\u0b8e\u0bb8\u0bcd\u0bb8\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bc7\u0baa\u0bbf\u0b8e\u0bb8\u0bcd\u0bb8\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c2c\u0c46\u0c38\u0c4d\u0c38\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -191,9 +192,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0431\u0435\u0441\u0441\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Wilaya de T\u00e9bessa"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0628\u0633\u06c1"
@@ -277,9 +275,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"13,878",
     "statoids:area_mi":"5,358",
     "statoids:as_of_date":"2008-04-16",
@@ -304,7 +302,7 @@
         "gp:id":2344603,
         "hasc:id":"DZ.TB",
         "iso:id":"DZ-12",
-        "qs:id":988718,
+        "qs_pg:id":988718,
         "unlc:id":"DZ-12",
         "wd:id":"Q267224",
         "wk:page":"T\u00e9bessa Province"
@@ -327,11 +325,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673061,
+    "wof:lastmodified":1566582919,
     "wof:name":"T\u00e9bessa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":648703,
     "wof:population_rank":11,

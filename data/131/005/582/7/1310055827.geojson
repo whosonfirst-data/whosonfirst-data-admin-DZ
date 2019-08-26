@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-0.81851,35.05104,-0.77851,35.09104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0645\u0637\u0627\u0631"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1310055827,
-    "wof:lastmodified":1564196686,
+    "wof:lastmodified":1566583407,
     "wof:name":"Lamtar",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

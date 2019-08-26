@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.02243,36.52577,2.06243,36.56577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310333939,
-    "wof:lastmodified":1536667119,
+    "wof:lastmodified":1566583404,
     "wof:name":"El Keriat",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

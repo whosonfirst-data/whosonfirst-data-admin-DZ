@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.12343,36.16811,1.16343,36.20811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343389631,
-    "wof:lastmodified":1536847476,
+    "wof:lastmodified":1566582800,
     "wof:name":"El Meliani",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

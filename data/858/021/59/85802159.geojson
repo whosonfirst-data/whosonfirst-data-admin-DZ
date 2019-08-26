@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13781553.975395,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.08648,35.934983,0.08648,35.934983",
     "geom:latitude":35.934983,
     "geom:longitude":0.08648,
     "iso:country":"DZ",
+    "lbl:bbox":"0.08148,35.929983,0.09148,35.939983",
     "lbl:latitude":35.934983,
     "lbl:longitude":0.08648,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.932879,
     "mps:longitude":0.080363,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:slv_x_preferred":[
         "Mus\u00e9e national de la Marine"
     ],
-    "name:unk_x_variant":[
-        "La Marine"
-    ],
     "name:vie_x_preferred":[
         "Mus\u00e9e national de la Marine"
     ],
@@ -86,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2491077,
         "gp:id":1255266,
-        "qs:id":1167959,
         "qs_pg:id":1167959
     },
     "wof:country":"DZ",
@@ -114,7 +112,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862140,
+    "wof:lastmodified":1566582932,
     "wof:name":"La Marine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

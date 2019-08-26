@@ -11,10 +11,14 @@
     "geom:longitude":3.67319,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":29461,
+    "gn:population":29461,
     "iso:country":"DZ",
+    "lbl:bbox":"3.65319,36.27333,3.69319,36.31333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0628\u0633\u0627\u0645"
     ],
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":2508268,
         "gp:id":1252728,
-        "qs:id":574936,
+        "qs_pg:id":574936,
         "wd:id":"Q2876271",
         "wk:page":"A\u00efn Bessem District"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890442519,
-    "wof:lastmodified":1563572331,
+    "wof:lastmodified":1566583515,
     "wof:name":"A\u00efn Bessem",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

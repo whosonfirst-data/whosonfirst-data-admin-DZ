@@ -11,10 +11,14 @@
     "geom:longitude":8.44333,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":35449,
+    "gn:population":35449,
     "iso:country":"DZ",
+    "lbl:bbox":"8.42333,36.87556,8.46333,36.91556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0644\u0629"
     ],
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":2497988,
         "gp:id":1255260,
-        "qs:id":278719,
+        "qs_pg:id":278719,
         "wd:id":"Q3050005",
         "wk:page":"El Kala"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890420423,
-    "wof:lastmodified":1563572330,
+    "wof:lastmodified":1566583515,
     "wof:name":"El Kala",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

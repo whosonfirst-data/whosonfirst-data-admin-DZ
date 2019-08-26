@@ -10,10 +10,14 @@
     "geom:latitude":36.380478,
     "geom:longitude":3.90001,
     "iso:country":"DZ",
+    "lbl:bbox":"3.88000972354,36.3604783315,3.92000972354,36.4004783315",
     "lbl:latitude":36.380478,
     "lbl:longitude":3.90001,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648\u064a\u0631\u0629"
     ],
@@ -206,7 +210,7 @@
         }
     ],
     "wof:id":1141908245,
-    "wof:lastmodified":1563572709,
+    "wof:lastmodified":1566583776,
     "wof:name":"Bouira",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

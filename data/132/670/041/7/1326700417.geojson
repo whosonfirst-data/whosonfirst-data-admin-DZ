@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.48374,34.97042,-1.44374,35.01042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caf\u00e9 Maure",
         "Ez Zen\u00e2ta"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326700417,
-    "wof:lastmodified":1537620192,
+    "wof:lastmodified":1566582757,
     "wof:name":"Ez Zenata",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

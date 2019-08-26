@@ -10,8 +10,12 @@
     "geom:latitude":36.89306,
     "geom:longitude":4.42,
     "iso:country":"DZ",
+    "lbl:bbox":"4.4,36.87306,4.44,36.91306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0632\u0641\u0648\u0646"
@@ -52,7 +56,7 @@
     "name:spa_x_preferred":[
         "Azeffoun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port Guedon"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":2506034,
         "gp:id":1467679,
-        "qs:id":910618,
+        "qs_pg:id":910618,
         "wd:id":"Q209443",
         "wk:page":"Azeffoun"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421182417,
-    "wof:lastmodified":1563572296,
+    "wof:lastmodified":1566583503,
     "wof:name":"Azeffoun",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

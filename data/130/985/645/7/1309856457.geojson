@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.4288,35.88833,7.4688,35.92833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Baran\u00efa",
         "Mechta Barania"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309856457,
-    "wof:lastmodified":1537620169,
+    "wof:lastmodified":1566583460,
     "wof:name":"Mechta Barania",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

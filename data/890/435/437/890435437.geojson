@@ -11,10 +11,14 @@
     "geom:longitude":0.54839,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":39283,
+    "gn:population":39283,
     "iso:country":"DZ",
+    "lbl:bbox":"0.52839,32.873,0.56839,32.913",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0628\u064a\u0636 \u0633\u064a\u062f\u064a \u0627\u0644\u0634\u064a\u062e"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "El Abiodh Sidi Cheikh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sidi Cheikh"
     ],
     "name:urd_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":2498775,
         "gp:id":1254354,
-        "qs:id":1036007,
+        "qs_pg:id":1036007,
         "wd:id":"Q3049673",
         "wk:page":"El Abiodh Sidi Cheikh"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890435437,
-    "wof:lastmodified":1563572342,
+    "wof:lastmodified":1566583518,
     "wof:name":"El Abiodh Sidi Cheikh",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",

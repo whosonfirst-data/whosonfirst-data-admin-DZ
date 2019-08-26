@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.16776,35.56116,-1.12776,35.60116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plage de Bou-Zadjar",
         "Plage de Bou-Zadjer",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209046719,
-    "wof:lastmodified":1537620231,
+    "wof:lastmodified":1566583243,
     "wof:name":"Bou Zadjar",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

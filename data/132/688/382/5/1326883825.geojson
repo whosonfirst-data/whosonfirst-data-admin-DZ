@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.12777,36.17208,2.16777,36.21208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326883825,
-    "wof:lastmodified":1536974157,
+    "wof:lastmodified":1566582702,
     "wof:name":"Kouesmia",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

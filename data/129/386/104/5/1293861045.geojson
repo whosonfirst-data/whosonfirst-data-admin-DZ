@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.11146,36.45055,5.15146,36.49055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tala Yfaeen",
         "Tala Yfassene"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293861045,
-    "wof:lastmodified":1537620104,
+    "wof:lastmodified":1566583057,
     "wof:name":"Tala Yfassene",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

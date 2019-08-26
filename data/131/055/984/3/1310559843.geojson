@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.30694,36.57083,7.34694,36.61083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0639\u0627\u0637\u064a \u0645\u062d\u0645\u0648\u062f"
     ],
@@ -59,8 +63,7 @@
         "Galli\u00e9ni",
         "Bou-Aci",
         "Hennchir Sa\u00efd",
-        "Enchir Sa\u00efd",
-        "Bouati Mahmoud"
+        "Enchir Sa\u00efd"
     ],
     "name:vie_x_preferred":[
         "Bouati Mahmoud"
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1310559843,
-    "wof:lastmodified":1564196635,
+    "wof:lastmodified":1566583369,
     "wof:name":"Bouati Mahmoud",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

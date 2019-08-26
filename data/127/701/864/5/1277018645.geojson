@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.02418,35.74682,5.06418,35.78682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1277018645,
-    "wof:lastmodified":1536853958,
+    "wof:lastmodified":1566583066,
     "wof:name":"Mechta Bou Marsoum",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

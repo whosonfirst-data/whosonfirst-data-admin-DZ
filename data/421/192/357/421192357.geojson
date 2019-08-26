@@ -5,14 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.65,35.68333,-0.65,35.68333",
     "geom:latitude":35.68333,
     "geom:longitude":-0.65,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.655,35.67833,-0.645,35.68833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mediouni"
     ],
     "qs:gn_country":"DZ",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2488805,
         "gp:id":1256352,
-        "qs:id":1167961
+        "qs_pg:id":1167961
     },
     "wof:country":"DZ",
     "wof:created":1459009734,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421192357,
-    "wof:lastmodified":1531858680,
+    "wof:lastmodified":1566583482,
     "wof:name":"Medioni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

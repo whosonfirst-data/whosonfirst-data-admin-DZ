@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.14309,36.83191,4.18309,36.87191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09a8\u09b8\u09be"
     ],
@@ -44,8 +48,7 @@
         "Tensa"
     ],
     "name:und_x_variant":[
-        "Tennsa",
-        "Tensa"
+        "Tennsa"
     ],
     "name:vie_x_preferred":[
         "Tensa"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1259850559,
-    "wof:lastmodified":1564196969,
+    "wof:lastmodified":1566583640,
     "wof:name":"Tensa",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

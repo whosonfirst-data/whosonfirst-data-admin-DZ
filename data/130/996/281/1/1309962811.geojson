@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.47563,35.44691,0.51563,35.48691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Abd el Kader Ouled Barhdad",
         "Abd el Kader Ouled Barhdad"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309962811,
-    "wof:lastmodified":1537620223,
+    "wof:lastmodified":1566583449,
     "wof:name":"Abd el Kader Ouled Barhdad",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

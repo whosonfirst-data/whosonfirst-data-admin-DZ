@@ -10,8 +10,12 @@
     "geom:latitude":34.84146,
     "geom:longitude":4.16383,
     "iso:country":"DZ",
+    "lbl:bbox":"4.14383,34.82146,4.18383,34.86146",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0645\u0644\u062d"
@@ -52,7 +56,7 @@
     "name:spa_x_preferred":[
         "A\u00efn El Melh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u00efne Melah"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2508130,
         "gp:id":1252781,
-        "qs:id":140250,
+        "qs_pg:id":140250,
         "wd:id":"Q1649756"
     },
     "wof:country":"DZ",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421167729,
-    "wof:lastmodified":1563572234,
+    "wof:lastmodified":1566583485,
     "wof:name":"'Ain el Melh",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

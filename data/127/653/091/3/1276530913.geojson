@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.97959,34.98259,-1.93959,35.02259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Akache",
         "Douar Akache"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276530913,
-    "wof:lastmodified":1537620223,
+    "wof:lastmodified":1566583171,
     "wof:name":"Douar Akache",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

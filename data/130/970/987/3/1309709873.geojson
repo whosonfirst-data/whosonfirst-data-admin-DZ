@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.84212,36.16362,2.88212,36.20362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Melouare",
         "El Melouane",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309709873,
-    "wof:lastmodified":1537620196,
+    "wof:lastmodified":1566583458,
     "wof:name":"El Melouane",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.86653,35.67177,0.90653,35.71177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Djla\u00eflia",
         "Douar el Guela\u00eflia"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276265935,
-    "wof:lastmodified":1537620269,
+    "wof:lastmodified":1566583080,
     "wof:name":"Douar Djlailia",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

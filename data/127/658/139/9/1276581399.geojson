@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.40069,35.98396,1.44069,36.02396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276581399,
-    "wof:lastmodified":1536944517,
+    "wof:lastmodified":1566583106,
     "wof:name":"Ouled el Agha",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

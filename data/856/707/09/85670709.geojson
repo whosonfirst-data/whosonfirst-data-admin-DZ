@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":27.815237,
     "lbl:longitude":-6.720636,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.815237,
     "mps:longitude":-6.720636,
     "mz:hierarchy_label":1,
@@ -251,7 +252,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043d\u0434\u0443\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilaya de Tindouf"
     ],
     "name:urd_x_preferred":[
@@ -342,9 +343,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"159,000",
     "statoids:area_mi":"61,400",
     "statoids:as_of_date":"2008-04-16",
@@ -370,7 +371,7 @@
         "gp:id":2344624,
         "hasc:id":"DZ.TN",
         "iso:id":"DZ-37",
-        "qs:id":1134900,
+        "qs_pg:id":1134900,
         "unlc:id":"DZ-37",
         "wd:id":"Q231151"
     },
@@ -392,11 +393,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673062,
+    "wof:lastmodified":1566582924,
     "wof:name":"Tindouf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":49149,
     "wof:population_rank":7,

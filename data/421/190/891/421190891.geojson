@@ -10,8 +10,11 @@
     "geom:latitude":36.79459,
     "geom:longitude":3.00853,
     "iso:country":"DZ",
+    "lbl:bbox":"3.00353,36.78959,3.01353,36.79959",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Tribu"
@@ -45,7 +48,7 @@
     "wof:concordances":{
         "gn:id":2490992,
         "gp:id":1255276,
-        "qs:id":58776,
+        "qs_pg:id":58776,
         "wd:id":"Q16939217"
     },
     "wof:country":"DZ",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421190891,
-    "wof:lastmodified":1563572273,
+    "wof:lastmodified":1566583498,
     "wof:name":"La Tribu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

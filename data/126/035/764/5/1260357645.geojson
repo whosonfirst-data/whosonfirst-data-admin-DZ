@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.39667,36.63,6.43667,36.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Msid el Foukania",
         "Mechta Msid el Foukania"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260357645,
-    "wof:lastmodified":1537620159,
+    "wof:lastmodified":1566583342,
     "wof:name":"Mechta Msid el Foukania",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

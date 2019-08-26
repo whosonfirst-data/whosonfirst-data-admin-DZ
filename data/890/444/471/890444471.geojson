@@ -11,10 +11,14 @@
     "geom:longitude":4.98785,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":64476,
+    "gn:population":64476,
     "iso:country":"DZ",
+    "lbl:bbox":"4.96785,34.367,5.00785,34.407",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u062e\u0627\u0644\u062f"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Sidi Khaled"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sidi Kraled"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2480368,
         "gp:id":1253465,
-        "qs:id":1035930,
+        "qs_pg:id":1035930,
         "wd:id":"Q2215511",
         "wk:page":"Sidi Khaled"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890444471,
-    "wof:lastmodified":1563572319,
+    "wof:lastmodified":1566583511,
     "wof:name":"Sidi Khaled",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

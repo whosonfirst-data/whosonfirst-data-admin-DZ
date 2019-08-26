@@ -10,8 +10,12 @@
     "geom:latitude":36.74413,
     "geom:longitude":3.90045,
     "iso:country":"DZ",
+    "lbl:bbox":"3.88045,36.72413,3.92045,36.76413",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u062f\u0645\u0627\u064a\u062a"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Tadma\u00eft"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Camp du Mar\u00e9chal"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2478831,
         "gp:id":1257494,
-        "qs:id":1296177,
+        "qs_pg:id":1296177,
         "wd:id":"Q3513734",
         "wk:page":"Tadma\u00eft"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421196695,
-    "wof:lastmodified":1563572267,
+    "wof:lastmodified":1566583496,
     "wof:name":"Tadmait",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

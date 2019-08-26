@@ -11,8 +11,11 @@
     "geom:longitude":8.46667,
     "gn:country":"DZ",
     "gn:fcode":"PPLA",
-    "gn:pop":6629,
+    "gn:population":6629,
     "iso:country":"DZ",
+    "lbl:bbox":"8.44667,26.46333,8.48667,26.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -94,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043b\u0456\u0437\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort de Polignac"
     ],
     "name:urd_x_preferred":[
@@ -216,7 +219,7 @@
     "wof:concordances":{
         "gn:id":2493456,
         "gp:id":90874511,
-        "qs:id":1035984,
+        "qs_pg:id":1035984,
         "wd:id":"Q640740",
         "wk:page":"Illizi"
     },
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":890444487,
-    "wof:lastmodified":1563572324,
+    "wof:lastmodified":1566583512,
     "wof:name":"Illizi",
     "wof:parent_id":85670731,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.03601,36.84778,4.07601,36.88778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243596623,
-    "wof:lastmodified":1537082888,
+    "wof:lastmodified":1566583569,
     "wof:name":"Iguer Gueres",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

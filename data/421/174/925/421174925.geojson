@@ -10,8 +10,12 @@
     "geom:latitude":36.80277,
     "geom:longitude":2.92185,
     "iso:country":"DZ",
+    "lbl:bbox":"2.90185,36.78277,2.94185,36.82277",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0628\u0646\u064a\u0627\u0646"
@@ -35,7 +39,7 @@
     "name:ron_x_preferred":[
         "A\u00efn Benian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castiglione"
     ],
     "qs:gn_country":"DZ",
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":2508275,
         "gp:id":1252726,
-        "qs:id":910471
+        "qs_pg:id":910471
     },
     "wof:country":"DZ",
     "wof:created":1459009048,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421174925,
-    "wof:lastmodified":1505340622,
+    "wof:lastmodified":1566583488,
     "wof:name":"'Ain Benian",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

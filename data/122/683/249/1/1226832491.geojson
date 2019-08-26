@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.62746,36.5889,4.66746,36.6289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u064a\u0628\u0627\u0646"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1226832491,
-    "wof:lastmodified":1564197119,
+    "wof:lastmodified":1566583746,
     "wof:name":"Tibane",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

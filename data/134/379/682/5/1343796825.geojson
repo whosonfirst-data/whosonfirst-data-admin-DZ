@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.10762,36.3688,1.14762,36.4088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oulad Abd el Aziz"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343796825,
-    "wof:lastmodified":1537620132,
+    "wof:lastmodified":1566582840,
     "wof:name":"Ouled Abdelaziz",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

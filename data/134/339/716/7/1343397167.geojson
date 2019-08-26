@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"8.38669,25.38803,8.42669,25.42803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Iherir"
     ],
@@ -32,8 +36,7 @@
         "Iherir"
     ],
     "name:und_x_variant":[
-        "Iherir Foukani",
-        "Iherir"
+        "Iherir Foukani"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u6d77\u91cc\u723e"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343397167,
-    "wof:lastmodified":1564195957,
+    "wof:lastmodified":1566582814,
     "wof:name":"Iherir",
     "wof:parent_id":85670731,
     "wof:placetype":"locality",

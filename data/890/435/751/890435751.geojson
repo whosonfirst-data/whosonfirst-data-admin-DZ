@@ -11,10 +11,14 @@
     "geom:longitude":3.63333,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":50117,
+    "gn:population":50117,
     "iso:country":"DZ",
+    "lbl:bbox":"3.61333,32.24667,3.65333,32.28667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u062a\u0644\u064a\u0644\u064a"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Metlili Chaamba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Metlili-les Chaamba"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":2487620,
         "gp:id":1256440,
-        "qs:id":1035969,
+        "qs_pg:id":1035969,
         "wd:id":"Q3307398"
     },
     "wof:country":"DZ",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890435751,
-    "wof:lastmodified":1563572344,
+    "wof:lastmodified":1566583518,
     "wof:name":"Metlili Chaamba",
     "wof:parent_id":85670749,
     "wof:placetype":"locality",

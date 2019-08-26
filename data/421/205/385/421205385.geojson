@@ -10,8 +10,12 @@
     "geom:latitude":36.46293,
     "geom:longitude":2.73873,
     "iso:country":"DZ",
+    "lbl:bbox":"2.71873,36.44293,2.75873,36.48293",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0641\u0629"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Chiffa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Chiffa"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2501323,
         "gp:id":1253839,
-        "qs:id":262969,
+        "qs_pg:id":262969,
         "wd:id":"Q2963503",
         "wk:page":"Chiffa"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421205385,
-    "wof:lastmodified":1563572239,
+    "wof:lastmodified":1566583487,
     "wof:name":"Chiffa",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":25.279993,
     "geom:longitude":3.749993,
     "iso:country":"DZ",
+    "lbl:bbox":"3.72999304059,25.259993102,3.76999304059,25.299993102",
     "lbl:latitude":25.279993,
     "lbl:longitude":3.749993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0631\u0627\u0643"
     ],
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":1141909127,
-    "wof:lastmodified":1563572699,
+    "wof:lastmodified":1566583774,
     "wof:name":"Arak",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":36.57412,
     "geom:longitude":2.91214,
     "iso:country":"DZ",
+    "lbl:bbox":"2.89214,36.55412,2.93214,36.59412",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0641\u0627\u0631\u064a\u0643"
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2503181,
         "gp:id":1253707,
-        "qs:id":1036032,
+        "qs_pg:id":1036032,
         "wd:id":"Q2344308",
         "wk:page":"Boufarik"
     },
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":421185647,
-    "wof:lastmodified":1563572302,
+    "wof:lastmodified":1566583506,
     "wof:name":"Boufarik",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

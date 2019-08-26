@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.20652,36.21323,1.24652,36.25323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boukaat La\u00efda",
         "Boka\u2019et \u2019\u00cfa\u00efda"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310441195,
-    "wof:lastmodified":1537620276,
+    "wof:lastmodified":1566583383,
     "wof:name":"Boukaat Laida",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.12558,35.97377,2.16558,36.01377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0627\u0631\u0642 \u0628\u0646 \u0632\u064a\u0627\u062f"
     ],
@@ -50,8 +54,7 @@
         "Marbot",
         "Tarik Ibn Ziyad",
         "Tarik Ibn Zayad",
-        "Tarik Ibn Zyad",
-        "Tarik Ibn Ziad"
+        "Tarik Ibn Zyad"
     ],
     "name:vie_x_preferred":[
         "Tarik Ibn Ziad"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1193222849,
-    "wof:lastmodified":1564196517,
+    "wof:lastmodified":1566583289,
     "wof:name":"Tarik Ibn Ziad",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

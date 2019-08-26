@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-0.48185,35.22201,-0.44185,35.26201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Abid",
         "Douar el Abid"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243132737,
-    "wof:lastmodified":1537620219,
+    "wof:lastmodified":1566583564,
     "wof:name":"Douar el Abid",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

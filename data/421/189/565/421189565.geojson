@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.07808,36.765291,5.07808,36.765291",
     "geom:latitude":36.765291,
     "geom:longitude":5.07808,
     "iso:country":"DZ",
+    "lbl:bbox":"5.05808,36.745291,5.09808,36.785291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1253248,
-        "qs:id":1114434
+        "qs_pg:id":1114434
     },
     "wof:country":"DZ",
     "wof:created":1459009629,
-    "wof:geomhash":"c3de6b5d255b3bdbe3a92839afb61f16",
+    "wof:geomhash":"bc93d73d9d3b914140fd6a3365d2f52a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421189565,
-    "wof:lastmodified":1466635869,
+    "wof:lastmodified":1566583492,
     "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0628\u062c\u0627\u064a\u0629",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

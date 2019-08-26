@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.21876,36.79224,6.25876,36.83224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni Mahbouha",
         "Beni Mahbouba",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260037877,
-    "wof:lastmodified":1537620168,
+    "wof:lastmodified":1566583338,
     "wof:name":"Mechta Beni Mahboub",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.75,36.9,7.75,36.9",
     "geom:latitude":36.9,
     "geom:longitude":7.75,
     "iso:country":"DZ",
+    "lbl:bbox":"7.745,36.895,7.755,36.905",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2501175,
         "gp:id":1253857,
-        "qs:id":907735
+        "qs_pg:id":907735
     },
     "wof:country":"DZ",
     "wof:created":1459010049,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421201019,
-    "wof:lastmodified":1531858783,
+    "wof:lastmodified":1566583500,
     "wof:name":"Cit\u00e9 Auzas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

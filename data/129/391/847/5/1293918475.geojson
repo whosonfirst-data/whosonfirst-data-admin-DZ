@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.04067,36.07713,1.08067,36.11713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar B\u2019 Kha\u00eftia",
         "El Ma\u00eftia"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293918475,
-    "wof:lastmodified":1537620197,
+    "wof:lastmodified":1566582942,
     "wof:name":"Douar B' Khaitia",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

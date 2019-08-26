@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2388029.511957,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.02948,36.750288,3.02948,36.750288",
     "geom:latitude":36.750288,
     "geom:longitude":3.02948,
     "gn:id":"",
     "iso:country":"DZ",
+    "lbl:bbox":"3.02448,36.745288,3.03448,36.755288",
     "lbl:latitude":36.750288,
     "lbl:longitude":3.02948,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.75004,
     "mps:longitude":3.028076,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Alger Palais du Peuple"
-    ],
-    "name:unk_x_variant":[
         "Alger Palais du Peuple"
     ],
     "qs:gn_adm0_cc":"DZ",
@@ -57,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15000633,
-        "qs:id":430822,
         "qs_pg:id":430822
     },
     "wof:country":"DZ",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531870379,
+    "wof:lastmodified":1566582931,
     "wof:name":"Alger Palais du Peuple",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

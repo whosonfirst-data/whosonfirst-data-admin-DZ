@@ -10,8 +10,10 @@
     "geom:latitude":36.766506,
     "geom:longitude":3.055006,
     "iso:country":"DZ",
+    "lbl:bbox":"3.050006,36.761506,3.060006,36.771506",
     "lbl:latitude":36.766506,
     "lbl:longitude":3.055006,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.766391,
     "mps:longitude":3.062049,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:fas_x_preferred":[
         "\u0622\u0642\u0627"
     ],
-    "name:unk_x_variant":[
-        "Agha"
-    ],
     "qs:gn_adm0_cc":"DZ",
     "qs:gn_id":0,
     "qs:gn_local":2507480,
@@ -73,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191573,
@@ -99,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1564196079,
+    "wof:lastmodified":1566582935,
     "wof:name":"Agha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

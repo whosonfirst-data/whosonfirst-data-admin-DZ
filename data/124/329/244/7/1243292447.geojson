@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.48949,36.95852,7.52949,36.99852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pointe de Garde de l\u2019Ouider",
         "El Ou\u00eed\u00eer"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243292447,
-    "wof:lastmodified":1537620194,
+    "wof:lastmodified":1566583603,
     "wof:name":"El Ouidir",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

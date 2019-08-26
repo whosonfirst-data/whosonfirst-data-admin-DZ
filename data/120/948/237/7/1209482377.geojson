@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.33778,35.36972,0.37778,35.40972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2579172
     },
     "wof:country":"DZ",
-    "wof:geomhash":"7cbf44f1050c15073c617a51a4c4aef2",
+    "wof:geomhash":"e0367915b24ab1eb6aa12312e6cb8bce",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209482377,
-    "wof:lastmodified":1536285742,
+    "wof:lastmodified":1566583205,
     "wof:name":"Douar Ouled Sidi Snoussi",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.35778000000000004,
+    0.35778,
     35.38972000000001,
-    0.35778000000000004,
+    0.35778,
     35.38972000000001
 ],
   "geometry": {"coordinates":[0.35778,35.38972000000001],"type":"Point"}

@@ -10,8 +10,11 @@
     "geom:latitude":35.69228,
     "geom:longitude":-0.60956,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.61456,35.68728,-0.60456,35.69728",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Saint-Eug\u00e8ne"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u0415\u0436\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Village Saint Eug\u00e8ne"
     ],
     "qs:gn_country":"DZ",
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2482513,
         "gp:id":1257188,
-        "qs:id":1018259
+        "qs_pg:id":1018259
     },
     "wof:country":"DZ",
     "wof:created":1459009432,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421185103,
-    "wof:lastmodified":1564196796,
+    "wof:lastmodified":1566583504,
     "wof:name":"Saint-Eug\u00e8ne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

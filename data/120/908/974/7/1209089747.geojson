@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.89798,36.56015,3.93798,36.60015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2474628
     },
     "wof:country":"DZ",
-    "wof:geomhash":"3f7dae217f837a5140490d42c9b434e7",
+    "wof:geomhash":"edcc53e19fde713b435a96115f9125e7",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209089747,
-    "wof:lastmodified":1536298072,
+    "wof:lastmodified":1566583195,
     "wof:name":"Zemouchene",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.917980000000001,
+    3.91798,
     36.58015,
-    3.917980000000001,
+    3.91798,
     36.58015
 ],
   "geometry": {"coordinates":[3.91798,36.58015],"type":"Point"}

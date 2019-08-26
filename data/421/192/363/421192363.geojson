@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.81667,36.48333,2.81667,36.48333",
     "geom:latitude":36.48333,
     "geom:longitude":2.81667,
     "iso:country":"DZ",
+    "lbl:bbox":"2.81167,36.47833,2.82167,36.48833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2490853,
         "gp:id":1255333,
-        "qs:id":1167963
+        "qs_pg:id":1167963
     },
     "wof:country":"DZ",
     "wof:created":1459009734,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421192363,
-    "wof:lastmodified":1531858681,
+    "wof:lastmodified":1566583482,
     "wof:name":"Les Orangeries",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

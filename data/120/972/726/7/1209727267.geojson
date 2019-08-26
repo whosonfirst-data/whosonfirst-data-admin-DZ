@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.03525,35.60071,6.07525,35.64071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtet Tigarniz\u00eene",
         "Mechtat Tiguernizine"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209727267,
-    "wof:lastmodified":1537620141,
+    "wof:lastmodified":1566583273,
     "wof:name":"Mechtat Tiguernizine",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

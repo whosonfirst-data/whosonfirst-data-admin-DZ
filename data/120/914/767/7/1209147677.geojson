@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.69873,29.62314,-1.65873,29.66314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Guerzim"
     ],
     "name:und_x_variant":[
-        "Guerzime",
-        "Guerzim"
+        "Guerzime"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209147677,
-    "wof:lastmodified":1564196432,
+    "wof:lastmodified":1566583229,
     "wof:name":"Guerzim",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

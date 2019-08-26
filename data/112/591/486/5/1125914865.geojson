@@ -9,15 +9,18 @@
     "geom:bbox":"1.49612,35.18568,1.49612,35.18568",
     "geom:latitude":35.18568,
     "geom:longitude":1.49612,
-    "gn:gn_country":"DZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":68654,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
     "gn:population":68654,
     "iso:country":"DZ",
+    "lbl:bbox":"1.47612,35.16568,1.51612,35.20568",
     "lbl:latitude":35.18568,
     "lbl:longitude":1.49612,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0642\u0631"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Sougueur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nador"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "qs_pg:qs_id":1035927,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125914865,
-    "wof:lastmodified":1563572358,
+    "wof:lastmodified":1566583521,
     "wof:name":"Sougueur",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

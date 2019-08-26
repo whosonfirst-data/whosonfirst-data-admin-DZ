@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.45913,27.17678,2.49913,27.21678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0635\u0627\u0644\u062d"
     ],
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1310538435,
-    "wof:lastmodified":1564196624,
+    "wof:lastmodified":1566583363,
     "wof:name":"In Salah",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.28524,33.77559,2.32524,33.81559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0645\u0627\u0636\u064a"
     ],
@@ -50,7 +54,6 @@
         "A\u00efn Madhi"
     ],
     "name:und_x_variant":[
-        "A\u00efn Madhi",
         "A\u00efne Mahdi",
         "\u2019A\u00efn Mahdi"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1293644605,
-    "wof:lastmodified":1564196110,
+    "wof:lastmodified":1566582964,
     "wof:name":"'Ain Mahdi",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

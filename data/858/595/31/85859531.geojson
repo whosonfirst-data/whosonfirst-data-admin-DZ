@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7509676.292841,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.042856,36.799183,3.042856,36.799183",
     "geom:latitude":36.799183,
     "geom:longitude":3.042856,
     "gn:id":"",
     "iso:country":"DZ",
+    "lbl:bbox":"3.037856,36.794183,3.047856,36.804183",
     "lbl:latitude":36.799183,
     "lbl:longitude":3.042856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.804346,
     "mps:longitude":3.041708,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Bologuine Ibnou Ziri"
-    ],
-    "name:unk_x_variant":[
         "Bologuine Ibnou Ziri"
     ],
     "qs:gn_adm0_cc":"DZ",
@@ -57,7 +56,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15015584,
-        "qs:id":1251442,
         "qs_pg:id":1251442
     },
     "wof:country":"DZ",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531870385,
+    "wof:lastmodified":1566582931,
     "wof:name":"Bologuine Ibnou Ziri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

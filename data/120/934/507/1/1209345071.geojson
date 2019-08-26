@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.08254,36.86744,7.12254,36.90744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2503435
     },
     "wof:country":"DZ",
-    "wof:geomhash":"024905f1446f4265d8a1680951a32233",
+    "wof:geomhash":"f15bad98bae74f73c9e11a9b6e1f3b8f",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209345071,
-    "wof:lastmodified":1536289939,
+    "wof:lastmodified":1566583251,
     "wof:name":"Bou Aziz",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.1025399999999985,
+    7.10254,
     36.88744000000001,
-    7.1025399999999985,
+    7.10254,
     36.88744000000001
 ],
   "geometry": {"coordinates":[7.10254,36.88744000000001],"type":"Point"}

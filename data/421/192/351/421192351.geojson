@@ -10,8 +10,12 @@
     "geom:latitude":36.42912,
     "geom:longitude":2.88059,
     "iso:country":"DZ",
+    "lbl:bbox":"2.86059,36.40912,2.90059,36.44912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u064a\u0639\u0629"
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":2501190,
         "gp:id":1253853,
-        "qs:id":1167955,
+        "qs_pg:id":1167955,
         "wd:id":"Q959927",
         "wk:page":"Chr\u00e9a"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421192351,
-    "wof:lastmodified":1563572225,
+    "wof:lastmodified":1566583482,
     "wof:name":"Chrea",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

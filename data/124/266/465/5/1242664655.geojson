@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.82351,36.29258,5.86351,36.33258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Marjet Ben Charia",
         "Mechta Marjet Ben Charia"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242664655,
-    "wof:lastmodified":1537620160,
+    "wof:lastmodified":1566583547,
     "wof:name":"Mechta Marjet Ben Charia",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

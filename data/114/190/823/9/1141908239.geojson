@@ -10,10 +10,14 @@
     "geom:latitude":35.400409,
     "geom:longitude":0.140033,
     "iso:country":"DZ",
+    "lbl:bbox":"0.120032509979,35.3804089549,0.160032509979,35.4204089549",
     "lbl:latitude":35.400409,
     "lbl:longitude":0.140033,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u0633\u0643\u0631"
     ],
@@ -284,7 +288,7 @@
         }
     ],
     "wof:id":1141908239,
-    "wof:lastmodified":1563572704,
+    "wof:lastmodified":1566583775,
     "wof:name":"Mascara",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.17348,36.07957,7.21348,36.11957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat A\u00efne Zenaga",
         "Mechta \u2019A\u00efn Zenaga"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310559829,
-    "wof:lastmodified":1537620170,
+    "wof:lastmodified":1566583370,
     "wof:name":"Mechta 'Ain Zenaga",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

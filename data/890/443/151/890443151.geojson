@@ -11,10 +11,14 @@
     "geom:longitude":0.72334,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":80,
+    "gn:population":80,
     "iso:country":"DZ",
+    "lbl:bbox":"0.70334,35.68697,0.74334,35.72697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0622\u0628\u0627\u0628\u0633\u0627"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":7115825,
         "gp:id":1257118,
-        "qs:id":656670,
+        "qs_pg:id":656670,
         "wk:page":"Ababsa"
     },
     "wof:country":"DZ",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890443151,
-    "wof:lastmodified":1564196799,
+    "wof:lastmodified":1566583513,
     "wof:name":"Ababsa",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

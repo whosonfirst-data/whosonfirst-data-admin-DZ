@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.94155,36.00751,4.98155,36.04751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn Tassera",
         "Tassera"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276156821,
-    "wof:lastmodified":1537620101,
+    "wof:lastmodified":1566583143,
     "wof:name":"Tassera",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

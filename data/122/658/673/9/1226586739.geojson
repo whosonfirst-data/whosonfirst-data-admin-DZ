@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.52131,29.45966,-1.48131,29.49966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Zaouia el Kbira"
     ],
     "name:und_x_variant":[
-        "Zaou\u00efa el Kebira",
-        "Zaouia el Kbira"
+        "Zaou\u00efa el Kebira"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226586739,
-    "wof:lastmodified":1564197061,
+    "wof:lastmodified":1566583702,
     "wof:name":"Zaouia el Kbira",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

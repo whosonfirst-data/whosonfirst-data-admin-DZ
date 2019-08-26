@@ -11,10 +11,14 @@
     "geom:longitude":-0.62397,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":68084,
+    "gn:population":68084,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.64397,35.62779,-0.60397,35.66779",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0646\u064a\u0629"
     ],
@@ -66,7 +70,7 @@
     "name:swe_x_preferred":[
         "Es S\u00e9nia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La S\u00e9nia"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":2497060,
         "gp:id":1254746,
-        "qs:id":140186,
+        "qs_pg:id":140186,
         "wd:id":"Q649874",
         "wk:page":"Es S\u00e9nia"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890434651,
-    "wof:lastmodified":1563572331,
+    "wof:lastmodified":1566583515,
     "wof:name":"Es Senia",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

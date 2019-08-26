@@ -11,10 +11,14 @@
     "geom:longitude":6.08695,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":31711,
+    "gn:population":31711,
     "iso:country":"DZ",
+    "lbl:bbox":"6.06695,33.17195,6.10695,33.21195",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0631\u064a\u0646\u060c\u0648\u0631\u0642\u0644\u0629"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Megarine"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meggarine"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2488716,
         "gp:id":56558414,
-        "qs:id":1035973,
+        "qs_pg:id":1035973,
         "wd:id":"Q2384877",
         "wk:page":"Megarine"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890435759,
-    "wof:lastmodified":1563572347,
+    "wof:lastmodified":1566583519,
     "wof:name":"Megarine",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

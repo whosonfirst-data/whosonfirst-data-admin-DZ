@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.99145,36.03359,1.03145,36.07359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276366219,
-    "wof:lastmodified":1536734723,
+    "wof:lastmodified":1566583174,
     "wof:name":"El Khabaia",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

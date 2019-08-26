@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.77693,33.46529,6.81693,33.50529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0645\u0627\u0631"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1327270493,
-    "wof:lastmodified":1564195937,
+    "wof:lastmodified":1566582795,
     "wof:name":"Guemar",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

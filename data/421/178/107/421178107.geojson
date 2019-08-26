@@ -10,8 +10,11 @@
     "geom:latitude":35.7,
     "geom:longitude":-0.65,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.655,35.695,-0.645,35.705",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u062c\u064a\u0646 \u0623\u062a\u064a\u0627\u0646"
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Eug\u00e8ne \u00c9tienne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c9tienne"
     ],
     "qs:gn_country":"DZ",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":2496954,
         "gp:id":1254758,
-        "qs:id":41319,
+        "qs_pg:id":41319,
         "wd:id":"Q2612305"
     },
     "wof:country":"DZ",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421178107,
-    "wof:lastmodified":1563572290,
+    "wof:lastmodified":1566583502,
     "wof:name":"Eug\u00e8ne \u00c9tienne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

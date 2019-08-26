@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.46105,34.96013,3.50105,35.00013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn Rouss",
         "A\u00efne Rouss el Akrat",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226805693,
-    "wof:lastmodified":1537620254,
+    "wof:lastmodified":1566583685,
     "wof:name":"'Ain Rous el Akrat",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

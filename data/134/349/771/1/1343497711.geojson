@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.71393,35.26643,6.75393,35.30643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062d\u0645\u0627\u0645\u0629"
     ],
@@ -53,8 +57,7 @@
         "Bouhmama"
     ],
     "name:und_x_variant":[
-        "Bouhamama",
-        "Bouhmama"
+        "Bouhamama"
     ],
     "name:vie_x_preferred":[
         "Bouhmama"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1343497711,
-    "wof:lastmodified":1564196006,
+    "wof:lastmodified":1566582852,
     "wof:name":"Bouhmama",
     "wof:parent_id":85670861,
     "wof:placetype":"locality",

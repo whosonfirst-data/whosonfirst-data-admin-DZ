@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.74467,36.89498,7.74467,36.89498",
     "geom:latitude":36.89498,
     "geom:longitude":7.74467,
     "iso:country":"DZ",
+    "lbl:bbox":"7.73967,36.88998,7.74967,36.89998",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2493848,
         "gp:id":1255009,
-        "qs:id":1018256
+        "qs_pg:id":1018256
     },
     "wof:country":"DZ",
     "wof:created":1459009432,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421185097,
-    "wof:lastmodified":1531858560,
+    "wof:lastmodified":1566583505,
     "wof:name":"Hippone",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

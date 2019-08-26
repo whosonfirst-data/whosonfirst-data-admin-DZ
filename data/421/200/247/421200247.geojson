@@ -10,8 +10,12 @@
     "geom:latitude":36.58839,
     "geom:longitude":3.77445,
     "iso:country":"DZ",
+    "lbl:bbox":"3.75445,36.56839,3.79445,36.60839",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u064a\u0632\u064a \u063a\u0646\u064a\u0641"
@@ -58,9 +62,6 @@
     "name:swe_x_preferred":[
         "Tizi Gheniff"
     ],
-    "name:unk_x_variant":[
-        "Tizi Ghenif"
-    ],
     "name:vie_x_preferred":[
         "Tizi-Ghenif"
     ],
@@ -100,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2475764,
         "gp:id":1257869,
-        "qs:id":1296197,
+        "qs_pg:id":1296197,
         "wd:id":"Q3529984",
         "wk:page":"Tizi Ghenif"
     },
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421200247,
-    "wof:lastmodified":1563572278,
+    "wof:lastmodified":1566583499,
     "wof:name":"Tizi Gheniff",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

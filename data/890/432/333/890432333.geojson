@@ -11,10 +11,14 @@
     "geom:longitude":2.91085,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":80573,
+    "gn:population":80573,
     "iso:country":"DZ",
+    "lbl:bbox":"2.89085,36.11516,2.93085,36.15516",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u0648\u0627\u0642\u064a\u0629"
     ],
@@ -69,7 +73,7 @@
     "name:swe_x_preferred":[
         "Berrouaghia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berrouarhia"
     ],
     "name:vie_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":2504099,
         "gp:id":1253417,
-        "qs:id":278734,
+        "qs_pg:id":278734,
         "wd:id":"Q2214965",
         "wk:page":"Berrouaghia"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890432333,
-    "wof:lastmodified":1563572337,
+    "wof:lastmodified":1566583516,
     "wof:name":"Berrouaghia",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

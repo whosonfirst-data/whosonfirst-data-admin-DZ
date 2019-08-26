@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.79472,36.19944,3.83472,36.23944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Souharia",
         "Mechta Souharia"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309779991,
-    "wof:lastmodified":1537620152,
+    "wof:lastmodified":1566583452,
     "wof:name":"Mechta Souharia",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

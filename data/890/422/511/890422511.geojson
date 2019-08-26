@@ -11,10 +11,14 @@
     "geom:longitude":5.99306,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":52882,
+    "gn:population":52882,
     "iso:country":"DZ",
+    "lbl:bbox":"5.97306,33.51388,6.01306,33.55388",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Djamaa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Djama"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2500282,
         "gp:id":1253966,
-        "qs:id":574751,
+        "qs_pg:id":574751,
         "wd:id":"Q3032751",
         "wk:page":"Djamaa"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890422511,
-    "wof:lastmodified":1563572307,
+    "wof:lastmodified":1566583507,
     "wof:name":"Djamaa",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

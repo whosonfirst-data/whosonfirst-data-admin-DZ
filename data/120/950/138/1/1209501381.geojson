@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.97149,35.37028,1.01149,35.41028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Oulad Ameur",
         "Douar Ouled Amar",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209501381,
-    "wof:lastmodified":1537620131,
+    "wof:lastmodified":1566583231,
     "wof:name":"Douar Ouled Amar",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

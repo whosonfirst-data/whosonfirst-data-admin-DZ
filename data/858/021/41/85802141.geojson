@@ -10,8 +10,10 @@
     "geom:latitude":36.734201,
     "geom:longitude":3.154596,
     "iso:country":"DZ",
+    "lbl:bbox":"3.149596,36.729201,3.159596,36.739201",
     "lbl:latitude":36.734201,
     "lbl:longitude":3.154596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.723524,
     "mps:longitude":3.146845,
     "mz:hierarchy_label":0,
@@ -82,10 +84,6 @@
     "name:spa_x_preferred":[
         "El Harrach"
     ],
-    "name:unk_x_variant":[
-        "Maison Carr\u00e9e",
-        "El Harrach"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062d\u0631\u0627\u0634"
     ],
@@ -123,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191573,
@@ -134,7 +132,6 @@
     "wof:concordances":{
         "gn:id":2498056,
         "gp:id":1254544,
-        "qs:id":41318,
         "qs_pg:id":41318,
         "wd:id":"Q1021018",
         "wk:page":"El Harrach"
@@ -154,7 +151,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563571535,
+    "wof:lastmodified":1566582934,
     "wof:name":"El Harrach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

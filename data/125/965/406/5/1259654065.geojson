@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.23962,34.90308,-1.19962,34.94308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oum el Allou",
         "Oum el \u2019Alou"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259654065,
-    "wof:lastmodified":1537620122,
+    "wof:lastmodified":1566583617,
     "wof:name":"Oum el 'Alou",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

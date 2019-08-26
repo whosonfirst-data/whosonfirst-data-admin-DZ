@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5140692.099256,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.07321,36.747165,3.07321,36.747165",
     "geom:latitude":36.747165,
     "geom:longitude":3.07321,
     "iso:country":"DZ",
+    "lbl:bbox":"3.06821,36.742165,3.07821,36.752165",
     "lbl:latitude":36.747165,
     "lbl:longitude":3.07321,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.744141,
     "mps:longitude":3.07395,
     "mz:hierarchy_label":0,
@@ -29,9 +31,8 @@
     "name:ara_x_variant":[
         "El Anassers"
     ],
-    "name:unk_x_variant":[
-        "Ruisseau",
-        "El Anasser"
+    "name:und_x_variant":[
+        "Ruisseau"
     ],
     "qs:gn_adm0_cc":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -61,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -71,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2498700,
         "gp:id":1254380,
-        "qs:id":1117307,
         "qs_pg:id":1117307
     },
     "wof:country":"DZ",
@@ -89,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862136,
+    "wof:lastmodified":1566582934,
     "wof:name":"El Anasser",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

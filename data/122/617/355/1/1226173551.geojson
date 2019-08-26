@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.2725,35.34806,7.3125,35.38806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechta Ouled Belk Assem Bou Soltane",
         "Mechta Ouled Belkassem Ben Soltane"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226173551,
-    "wof:lastmodified":1537620157,
+    "wof:lastmodified":1566583678,
     "wof:name":"Mechta Ouled Belkassem Ben Soltane",
     "wof:parent_id":85670861,
     "wof:placetype":"locality",

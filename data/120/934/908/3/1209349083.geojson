@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.76079,36.27163,4.80079,36.31163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2504645
     },
     "wof:country":"DZ",
-    "wof:geomhash":"a2b03096874779deb6e967cd17b7c924",
+    "wof:geomhash":"d84fd987216004deb87ac75c0b171bf4",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209349083,
-    "wof:lastmodified":1536289808,
+    "wof:lastmodified":1566583250,
     "wof:name":"Beni Lalem",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.7807900000000005,
+    4.78079,
     36.29163,
-    4.7807900000000005,
+    4.78079,
     36.29163
 ],
   "geometry": {"coordinates":[4.78079,36.29163],"type":"Point"}

@@ -11,10 +11,14 @@
     "geom:longitude":4.06273,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":34515,
+    "gn:population":34515,
     "iso:country":"DZ",
+    "lbl:bbox":"4.04273,36.76567,4.08273,36.80567",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0648\u062f\u0629"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Makouda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Macouda"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2490297,
         "gp:id":1257825,
-        "qs:id":1035979,
+        "qs_pg:id":1035979,
         "wd:id":"Q3280947",
         "wk:page":"Makouda"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890437139,
-    "wof:lastmodified":1563572315,
+    "wof:lastmodified":1566583509,
     "wof:name":"Makouda",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

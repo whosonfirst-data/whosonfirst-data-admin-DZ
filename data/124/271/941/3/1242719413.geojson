@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.82708,35.49853,7.86708,35.53853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechta Deba\u00efb el Alfa",
         "Mechtat Deba\u00efb el Alfa"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242719413,
-    "wof:lastmodified":1537620151,
+    "wof:lastmodified":1566583589,
     "wof:name":"Mechtat Debaib el Alfa",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

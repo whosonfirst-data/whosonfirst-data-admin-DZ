@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.22539,35.46047,0.26539,35.50047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0641\u0627\u0631\u0633"
     ],
@@ -53,8 +57,7 @@
         "A\u00efne Fares",
         "\u2019A\u00efn Fares",
         "A\u00efne Faress",
-        "Ain Fares",
-        "A\u00efn Fares"
+        "Ain Fares"
     ],
     "name:vie_x_preferred":[
         "A\u00efn Fares"
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1209772533,
-    "wof:lastmodified":1564196402,
+    "wof:lastmodified":1566583207,
     "wof:name":"Ain Fares",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

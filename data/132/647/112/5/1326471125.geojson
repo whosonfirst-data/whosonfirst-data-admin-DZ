@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.47112,36.12124,2.51112,36.16124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326471125,
-    "wof:lastmodified":1537069006,
+    "wof:lastmodified":1566582752,
     "wof:name":"Ben Atala",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

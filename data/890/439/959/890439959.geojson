@@ -11,8 +11,11 @@
     "geom:longitude":6.61472,
     "gn:country":"DZ",
     "gn:fcode":"PPLA",
-    "gn:pop":450097,
+    "gn:population":450097,
     "iso:country":"DZ",
+    "lbl:bbox":"6.59472,36.345,6.63472,36.385",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -345,7 +348,7 @@
     "wof:concordances":{
         "gn:id":2501152,
         "gp:id":1253867,
-        "qs:id":278721,
+        "qs_pg:id":278721,
         "wd:id":"Q187346",
         "wk:page":"Constantine"
     },
@@ -361,7 +364,7 @@
         }
     ],
     "wof:id":890439959,
-    "wof:lastmodified":1563572309,
+    "wof:lastmodified":1566583508,
     "wof:name":"Constantine",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

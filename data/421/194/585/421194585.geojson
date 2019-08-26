@@ -10,8 +10,12 @@
     "geom:latitude":36.57722,
     "geom:longitude":3.00917,
     "iso:country":"DZ",
+    "lbl:bbox":"2.98917,36.55722,3.02917,36.59722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0628\u0644\u064a"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2501680,
         "gp:id":1253793,
-        "qs:id":1296050,
+        "qs_pg:id":1296050,
         "wd:id":"Q1649700",
         "wk:page":"Ch\u00e9bli"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421194585,
-    "wof:lastmodified":1563572230,
+    "wof:lastmodified":1566583484,
     "wof:name":"Chebli",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

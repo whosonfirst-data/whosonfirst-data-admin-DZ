@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.91989,36.01512,2.95989,36.05512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Ouled H\u2019Da\u00efm",
         "Derouat"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259902207,
-    "wof:lastmodified":1537620225,
+    "wof:lastmodified":1566583625,
     "wof:name":"Douar Ouled H'Daim",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

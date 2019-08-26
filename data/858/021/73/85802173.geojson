@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":997860.327724,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.034973,36.785091,3.034973,36.785091",
     "geom:latitude":36.785091,
     "geom:longitude":3.034973,
     "iso:country":"DZ",
+    "lbl:bbox":"3.029973,36.780091,3.039973,36.790091",
     "lbl:latitude":36.785091,
     "lbl:longitude":3.034973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.787145,
     "mps:longitude":3.031081,
     "mz:hierarchy_label":0,
@@ -29,10 +31,6 @@
     "name:ara_x_variant":[
         "Cite Climat de France",
         "Climat de France"
-    ],
-    "name:unk_x_variant":[
-        "Climat de France",
-        "Oued Korine"
     ],
     "qs:gn_adm0_cc":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -62,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -72,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2485604,
         "gp:id":1256602,
-        "qs:id":1024228,
         "qs_pg:id":1024228
     },
     "wof:country":"DZ",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862143,
+    "wof:lastmodified":1566582933,
     "wof:name":"Oued Korine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

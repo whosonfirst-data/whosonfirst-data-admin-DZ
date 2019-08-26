@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.95074,35.0465,0.99074,35.0865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243334949,
-    "wof:lastmodified":1536966190,
+    "wof:lastmodified":1566583581,
     "wof:name":"El Maaizia",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

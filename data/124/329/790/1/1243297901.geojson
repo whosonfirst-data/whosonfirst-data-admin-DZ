@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.28354,35.9838,1.32354,36.0238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0632\u0631\u0632\u0631"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243297901,
-    "wof:lastmodified":1564196915,
+    "wof:lastmodified":1566583602,
     "wof:name":"Zarzar",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

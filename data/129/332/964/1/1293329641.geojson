@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.03018,31.71844,6.07018,31.75844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293329641,
-    "wof:lastmodified":1537013832,
+    "wof:lastmodified":1566583010,
     "wof:name":"Maison Verte",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

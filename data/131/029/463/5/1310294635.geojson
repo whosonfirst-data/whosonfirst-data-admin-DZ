@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-0.59389,35.58879,-0.55389,35.62879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0645\u0629"
     ],
@@ -57,8 +61,7 @@
     ],
     "name:und_x_variant":[
         "Le Figuier",
-        "Valmy",
-        "El Kerma"
+        "Valmy"
     ],
     "name:vie_x_preferred":[
         "El Kerma"
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1310294635,
-    "wof:lastmodified":1564196652,
+    "wof:lastmodified":1566583382,
     "wof:name":"El Kerma",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",
