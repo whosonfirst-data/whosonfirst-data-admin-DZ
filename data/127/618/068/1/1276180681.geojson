@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.45508,36.44182,7.49508,36.48182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062e\u064a\u0631"
     ],
@@ -59,8 +63,7 @@
         "Belkheir"
     ],
     "name:und_x_variant":[
-        "Mill\u00e9simo",
-        "Belkheir"
+        "Mill\u00e9simo"
     ],
     "name:vie_x_preferred":[
         "Belkheir"
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1276180681,
-    "wof:lastmodified":1564196265,
+    "wof:lastmodified":1566583089,
     "wof:name":"Belkheir",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

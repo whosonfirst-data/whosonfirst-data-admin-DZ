@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.31722,36.35683,1.35722,36.39683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1309937339,
-    "wof:lastmodified":1536741434,
+    "wof:lastmodified":1566583469,
     "wof:name":"Douar Chehaid",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

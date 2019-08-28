@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.72007,35.7081,7.76007,35.7481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1292951577,
-    "wof:lastmodified":1537060041,
+    "wof:lastmodified":1566582966,
     "wof:name":"Chabane",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

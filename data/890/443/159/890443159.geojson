@@ -11,11 +11,14 @@
     "geom:longitude":0.75205,
     "gn:country":"DZ",
     "gn:fcode":"MT",
-    "gn:pop":40,
+    "gn:population":40,
     "iso:country":"DZ",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Kouba Cheikh Menouer",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7115830,
         "gp:id":1257118,
-        "qs:id":656674
+        "qs_pg:id":656674
     },
     "wof:country":"DZ",
     "wof:created":1469052404,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890443159,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566583513,
     "wof:name":"Kouba Cheikh Menouer",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

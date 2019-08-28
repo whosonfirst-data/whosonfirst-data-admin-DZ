@@ -9,15 +9,18 @@
     "geom:bbox":"3.22475,34.3438,3.22475,34.3438",
     "geom:latitude":34.3438,
     "geom:longitude":3.22475,
-    "gn:gn_country":"DZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":31916,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
     "gn:population":31916,
     "iso:country":"DZ",
+    "lbl:bbox":"3.20475,34.3238,3.24475,34.3638",
     "lbl:latitude":34.3438,
     "lbl:longitude":3.22475,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0627\u0628\u0644"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "'A\u00efn el Bell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fontaine des Chameaux"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":1036068,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125893209,
-    "wof:lastmodified":1563572352,
+    "wof:lastmodified":1566583520,
     "wof:name":"\u2019A\u00efn el Bell",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

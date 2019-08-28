@@ -10,8 +10,12 @@
     "geom:latitude":36.63888,
     "geom:longitude":2.76845,
     "iso:country":"DZ",
+    "lbl:bbox":"2.74845,36.61888,2.78845,36.65888",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u064a\u0639\u0629"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2491578,
         "gp:id":1255216,
-        "qs:id":944549,
+        "qs_pg:id":944549,
         "wd:id":"Q3198497",
         "wk:page":"Kol\u00e9a"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421168053,
-    "wof:lastmodified":1563572220,
+    "wof:lastmodified":1566583480,
     "wof:name":"Kolea",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

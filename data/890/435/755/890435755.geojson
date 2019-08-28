@@ -11,11 +11,15 @@
     "geom:longitude":4.18665,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":25701,
+    "gn:population":25701,
     "iso:country":"DZ",
+    "lbl:bbox":"4.16665,35.95999,4.20665,35.99999",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Souk el Tleta"
     ],
     "qs:name":"Melouza",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":2488202,
         "gp:id":1253506,
-        "qs:id":1035971
+        "qs_pg:id":1035971
     },
     "wof:country":"DZ",
     "wof:created":1469052080,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890435755,
-    "wof:lastmodified":1505343549,
+    "wof:lastmodified":1566583517,
     "wof:name":"Melouza",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

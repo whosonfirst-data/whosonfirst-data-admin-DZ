@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.52961,36.20756,0.56961,36.24756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Dadas",
         "Dadas"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344053805,
-    "wof:lastmodified":1537620228,
+    "wof:lastmodified":1566582891,
     "wof:name":"Dadas",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

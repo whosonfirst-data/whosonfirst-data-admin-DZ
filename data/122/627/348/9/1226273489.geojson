@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.69861,36.0525,7.73861,36.0925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226273489,
-    "wof:lastmodified":1536893435,
+    "wof:lastmodified":1566583690,
     "wof:name":"Kebarit",
     "wof:parent_id":85670875,
     "wof:placetype":"locality",

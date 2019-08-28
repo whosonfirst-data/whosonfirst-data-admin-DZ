@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.835361,
     "lbl:longitude":7.140366,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.835361,
     "mps:longitude":7.140366,
     "mz:hierarchy_label":1,
@@ -177,7 +178,7 @@
         "Oum El Bouaghi"
     ],
     "name:tam_x_preferred":[
-        "\u0b93\u0bae\u0bcd   \u0b8e\u0bb2\u0bcd  \u0baa\u0bcc\u0b85\u0b83\u0bb9\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b93\u0bae\u0bcd  \u0b8e\u0bb2\u0bcd \u0baa\u0bcc\u0b85\u0b83\u0bb9\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c35\u0c2e\u0c4d \u0c0e\u0c32\u0c4d \u0c2c\u0c4a\u0c35\u0c3e\u0c18\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -197,7 +198,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043c-\u0435\u043b\u044c-\u0411\u0443\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilaya d\u2019Oum el Bouaghi"
     ],
     "name:urd_x_preferred":[
@@ -282,9 +283,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"7,638",
     "statoids:area_mi":"2,949",
     "statoids:as_of_date":"2008-04-16",
@@ -309,7 +310,7 @@
         "gp:id":2344600,
         "hasc:id":"DZ.OB",
         "iso:id":"DZ-04",
-        "qs:id":257791,
+        "qs_pg:id":257791,
         "unlc:id":"DZ-04",
         "wd:id":"Q235705",
         "wk:page":"Oum El Bouaghi Province"
@@ -332,11 +333,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673061,
+    "wof:lastmodified":1566582920,
     "wof:name":"Oum el Bouaghi",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":621612,
     "wof:population_rank":11,

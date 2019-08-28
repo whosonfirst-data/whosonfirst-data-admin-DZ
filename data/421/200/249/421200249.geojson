@@ -10,8 +10,12 @@
     "geom:latitude":36.65393,
     "geom:longitude":3.98143,
     "iso:country":"DZ",
+    "lbl:bbox":"3.96143,36.63393,4.00143,36.67393",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0645\u062a\u064a\u0646"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2475921,
         "gp:id":1257847,
-        "qs:id":1296199,
+        "qs_pg:id":1296199,
         "wd:id":"Q3529393",
         "wk:page":"Tirmitine"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421200249,
-    "wof:lastmodified":1563572279,
+    "wof:lastmodified":1566583499,
     "wof:name":"Tirmitine",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

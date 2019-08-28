@@ -11,10 +11,14 @@
     "geom:longitude":2.69007,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":22411,
+    "gn:population":22411,
     "iso:country":"DZ",
+    "lbl:bbox":"2.67007,36.62262,2.71007,36.66262",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648 \u0625\u0633\u0645\u0627\u0639\u064a\u0644"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Bou Isma\u00efl"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castiglione"
     ],
     "name:vie_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2502939,
         "gp:id":1257836,
-        "qs:id":1036028,
+        "qs_pg:id":1036028,
         "wd:id":"Q1438489",
         "wk:page":"Bou Isma\u00efl"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890437155,
-    "wof:lastmodified":1563572314,
+    "wof:lastmodified":1566583509,
     "wof:name":"Bou Isma\u00efl",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

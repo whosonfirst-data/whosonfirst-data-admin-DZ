@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.87531,35.91293,5.91531,35.95293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Oum Ladjoul"
     ],
@@ -35,8 +39,7 @@
         "Oum Ladjoul"
     ],
     "name:und_x_variant":[
-        "Pierre Curie",
-        "Oum Ladjoul"
+        "Pierre Curie"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1309993015,
-    "wof:lastmodified":1564196742,
+    "wof:lastmodified":1566583452,
     "wof:name":"Oum Ladjoul",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

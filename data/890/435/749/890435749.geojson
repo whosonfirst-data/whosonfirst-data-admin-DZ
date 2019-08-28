@@ -11,10 +11,14 @@
     "geom:longitude":6.26444,
     "gn:country":"DZ",
     "gn:fcode":"PPLA",
-    "gn:pop":68831,
+    "gn:population":68831,
     "iso:country":"DZ",
+    "lbl:bbox":"6.24444,36.43028,6.28444,36.47028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0629"
     ],
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":2487452,
         "gp:id":1256454,
-        "qs:id":1035968,
+        "qs_pg:id":1035968,
         "wd:id":"Q335676",
         "wk:page":"Mila"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":890435749,
-    "wof:lastmodified":1563572344,
+    "wof:lastmodified":1566583518,
     "wof:name":"Mila",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

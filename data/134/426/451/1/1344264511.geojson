@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.69889,35.69671,5.73889,35.73671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1344264511,
-    "wof:lastmodified":1537075151,
+    "wof:lastmodified":1566582884,
     "wof:name":"Mechta Bouikhelidjene",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

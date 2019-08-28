@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.20683,35.85418,0.24683,35.89418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293022019,
-    "wof:lastmodified":1536961071,
+    "wof:lastmodified":1566583028,
     "wof:name":"Douar Ouled Chikh",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":0.23098,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":49237,
+    "gn:population":49237,
     "iso:country":"DZ",
+    "lbl:bbox":"0.21098,29.24388,0.25098,29.28388",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "Timimoun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Timmoun"
     ],
     "name:urd_x_preferred":[
@@ -204,10 +207,12 @@
     "wof:concordances":{
         "gn:id":2476403,
         "gp:id":1257815,
-        "qs:id":1035905,
-        "qs_pg:id":1114611,
+        "qs_pg:id":1035905,
         "wd:id":"Q1021173",
         "wk:page":"Timimoun"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114611
     },
     "wof:country":"DZ",
     "wof:created":1469052131,
@@ -221,7 +226,7 @@
         }
     ],
     "wof:id":890436901,
-    "wof:lastmodified":1563572317,
+    "wof:lastmodified":1566583510,
     "wof:name":"Timimoun",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

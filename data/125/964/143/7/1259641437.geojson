@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.84067,36.56508,5.88067,36.60508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat el Mahad",
         "El Maad"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259641437,
-    "wof:lastmodified":1537620197,
+    "wof:lastmodified":1566583626,
     "wof:name":"El Maad",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

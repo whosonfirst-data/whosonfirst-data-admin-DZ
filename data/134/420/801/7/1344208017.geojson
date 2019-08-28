@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.37389,35.59528,7.41389,35.63528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtet Safel Metirchou el Outani",
         "Mechta Safel Metirchou el Outani",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344208017,
-    "wof:lastmodified":1537620146,
+    "wof:lastmodified":1566582888,
     "wof:name":"Mechtat Safel Metirchou el Outani",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

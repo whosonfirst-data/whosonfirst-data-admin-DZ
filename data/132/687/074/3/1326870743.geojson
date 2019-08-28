@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.41851,36.35524,2.45851,36.39524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326870743,
-    "wof:lastmodified":1536992472,
+    "wof:lastmodified":1566582708,
     "wof:name":"Le Pont de l'Oued Djer",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

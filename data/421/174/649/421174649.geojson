@@ -12,6 +12,8 @@
     "iso:country":"DZ",
     "lbl:latitude":36.74395,
     "lbl:longitude":3.083627,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -473,9 +475,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
-    "name:unk_x_variant":[
-        "Algier"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0634\u06c1\u0631"
     ],
@@ -650,7 +649,7 @@
         "gn:id":2507480,
         "gp:id":1253079,
         "loc:id":"n79058668",
-        "qs:id":892295,
+        "qs_pg:id":892295,
         "wd:id":"Q3561",
         "wk:page":"Algiers"
     },
@@ -666,7 +665,7 @@
         }
     ],
     "wof:id":421174649,
-    "wof:lastmodified":1563572244,
+    "wof:lastmodified":1566583489,
     "wof:name":"Algiers",
     "wof:parent_id":85670761,
     "wof:placetype":"locality",

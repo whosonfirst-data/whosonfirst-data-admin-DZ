@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.07176,35.53828,1.11176,35.57828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Ouled Hadj Kaddour",
         "Ouled el Hadj Kaddour"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343937183,
-    "wof:lastmodified":1537620124,
+    "wof:lastmodified":1566582877,
     "wof:name":"Ouled el Hadj Kaddour",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

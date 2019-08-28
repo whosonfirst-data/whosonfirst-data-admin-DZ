@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.22051,
     "lbl:longitude":4.790589,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.22051,
     "mps:longitude":4.790589,
     "mz:hierarchy_label":1,
@@ -199,9 +200,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0441\u043a\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wilaya de Biskra"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0633\u06a9\u0631\u06c1"
     ],
@@ -284,9 +282,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"21,671",
     "statoids:area_mi":"8,367",
     "statoids:as_of_date":"2008-04-16",
@@ -311,7 +309,7 @@
         "gp:id":2344591,
         "hasc:id":"DZ.BS",
         "iso:id":"DZ-07",
-        "qs:id":1134887,
+        "qs_pg:id":1134887,
         "unlc:id":"DZ-07",
         "wd:id":"Q458402"
     },
@@ -333,11 +331,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673061,
+    "wof:lastmodified":1566582916,
     "wof:name":"Biskra",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":721356,
     "wof:population_rank":11,

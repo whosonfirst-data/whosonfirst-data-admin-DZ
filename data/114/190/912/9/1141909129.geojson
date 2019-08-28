@@ -10,10 +10,14 @@
     "geom:latitude":30.566621,
     "geom:longitude":2.883328,
     "iso:country":"DZ",
+    "lbl:bbox":"2.86332759463,30.5466213165,2.90332759463,30.5866213165",
     "lbl:latitude":30.566621,
     "lbl:longitude":2.883328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u064a\u0639\u0629"
     ],
@@ -185,7 +189,7 @@
     "wof:concordances":{
         "gn:id":2498305,
         "gp:id":1254470,
-        "qs:id":140190,
+        "qs_pg:id":140190,
         "wd:id":"Q1324185",
         "wk:page":"El Gol\u00e9a"
     },
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1141909129,
-    "wof:lastmodified":1563572699,
+    "wof:lastmodified":1566583774,
     "wof:name":"El Golea",
     "wof:parent_id":85670749,
     "wof:placetype":"locality",

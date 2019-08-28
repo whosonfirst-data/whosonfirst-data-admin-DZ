@@ -11,10 +11,14 @@
     "geom:longitude":3.69474,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":19522,
+    "gn:population":19522,
     "iso:country":"DZ",
+    "lbl:bbox":"3.67474,36.61709,3.71474,36.65709",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628\u0629 \u0627\u0644\u0639\u0627\u0645\u0631"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Chabet el Ameur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chabet -el -Ameuro"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2501873,
         "gp:id":1253782,
-        "qs:id":1036015,
+        "qs_pg:id":1036015,
         "wd:id":"Q37926868",
         "wk:page":"Chabet el Ameur"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890437153,
-    "wof:lastmodified":1563572313,
+    "wof:lastmodified":1566583509,
     "wof:name":"Chabet el Ameur",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":36.79068,
     "geom:longitude":3.24952,
     "iso:country":"DZ",
+    "lbl:bbox":"3.22952,36.77068,3.26952,36.81068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0631\u062c \u0627\u0644\u0628\u062d\u0631\u064a"
@@ -52,7 +56,7 @@
     "name:spa_x_preferred":[
         "Bordj El Bahri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matifou"
     ],
     "name:urd_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":2503669,
         "gp:id":1253526,
-        "qs:id":1318413,
+        "qs_pg:id":1318413,
         "wd:id":"Q2215503",
         "wk:page":"Bordj El Bahri"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421172707,
-    "wof:lastmodified":1563572256,
+    "wof:lastmodified":1566583493,
     "wof:name":"Bordj el Bahri",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

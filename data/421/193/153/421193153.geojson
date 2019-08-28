@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.75,36.9,7.75,36.9",
     "geom:latitude":36.9,
     "geom:longitude":7.75,
     "iso:country":"DZ",
+    "lbl:bbox":"7.745,36.895,7.755,36.905",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2474968,
         "gp:id":1257966,
-        "qs:id":469255
+        "qs_pg:id":469255
     },
     "wof:country":"DZ",
     "wof:created":1459009762,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421193153,
-    "wof:lastmodified":1531858709,
+    "wof:lastmodified":1566583484,
     "wof:name":"Zaffrania",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

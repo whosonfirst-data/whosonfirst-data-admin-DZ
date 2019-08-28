@@ -10,8 +10,12 @@
     "geom:latitude":33.27966,
     "geom:longitude":6.90984,
     "iso:country":"DZ",
+    "lbl:bbox":"6.88984,33.25966,6.92984,33.29966",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0628\u0627\u062d"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2483000,
         "gp:id":1257151,
-        "qs:id":944558,
+        "qs_pg:id":944558,
         "wd:id":"Q2364827",
         "wk:page":"Robbah"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421182753,
-    "wof:lastmodified":1563572294,
+    "wof:lastmodified":1566583503,
     "wof:name":"Robbah",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

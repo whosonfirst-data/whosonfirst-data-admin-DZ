@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.45031,34.9682,-1.41031,35.0082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar el Hala\u00efba",
         "El Hala\u00efba"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276530871,
-    "wof:lastmodified":1537620200,
+    "wof:lastmodified":1566583171,
     "wof:name":"El Halaiba",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

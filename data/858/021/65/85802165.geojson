@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7159713.606215,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.83697,36.487356,2.83697,36.487356",
     "geom:latitude":36.487356,
     "geom:longitude":2.83697,
     "iso:country":"DZ",
+    "lbl:bbox":"2.83197,36.482356,2.84197,36.492356",
     "lbl:latitude":36.487356,
     "lbl:longitude":2.83697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.489312,
     "mps:longitude":2.838352,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ara_x_preferred":[
-        "Montpensier"
-    ],
-    "name:unk_x_variant":[
         "Montpensier"
     ],
     "qs:gn_adm0_cc":"DZ",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -66,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2487193,
         "gp:id":1256482,
-        "qs:id":1167965,
         "qs_pg:id":1167965
     },
     "wof:country":"DZ",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862141,
+    "wof:lastmodified":1566582934,
     "wof:name":"Montpensier",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.89807,35.76162,4.93807,35.80162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2496985
     },
     "wof:country":"DZ",
-    "wof:geomhash":"002f5cb09f3ad2c98b5b822a489f9cbf",
+    "wof:geomhash":"c408ca612404f21ee0be1dd3d202fc10",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209562817,
-    "wof:lastmodified":1536283333,
+    "wof:lastmodified":1566583247,
     "wof:name":"Et Tolba",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.918069999999998,
+    4.91807,
     35.78162000000001,
-    4.918069999999998,
+    4.91807,
     35.78162000000001
 ],
   "geometry": {"coordinates":[4.91807,35.78162000000001],"type":"Point"}

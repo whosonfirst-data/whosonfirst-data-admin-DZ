@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.4261,
     "lbl:longitude":7.363312,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.4261,
     "mps:longitude":7.363312,
     "mz:hierarchy_label":1,
@@ -204,7 +205,7 @@
         "Guelma"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd\u0bae\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd\u0bae\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c35\u0c46\u0c32\u0c4d\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -223,9 +224,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043b\u044c\u043c\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Wilaya de Guelma"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0627\u0644\u0645\u06c1"
@@ -315,9 +313,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"3,911",
     "statoids:area_mi":"1,510",
     "statoids:as_of_date":"2008-04-16",
@@ -343,7 +341,7 @@
         "gp:id":2344595,
         "hasc:id":"DZ.GL",
         "iso:id":"DZ-24",
-        "qs:id":1134889,
+        "qs_pg:id":1134889,
         "unlc:id":"DZ-24",
         "wd:id":"Q235727"
     },
@@ -365,11 +363,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673060,
+    "wof:lastmodified":1566582915,
     "wof:name":"Guelma",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":482430,
     "wof:population_rank":10,

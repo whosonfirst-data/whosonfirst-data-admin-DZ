@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.18444,36.10139,2.22444,36.14139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c \u0627\u0644\u0623\u0645\u064a\u0631 \u062e\u0627\u0644\u062f"
     ],
@@ -56,8 +60,7 @@
     "name:und_x_variant":[
         "Pont du Ca\u00efd",
         "G\u00e9n\u00e9ral Gouraud",
-        "Pont du Ka\u00efd",
-        "Bordj Emir Khaled"
+        "Pont du Ka\u00efd"
     ],
     "name:vie_x_preferred":[
         "Bordj Emir Khaled"
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1193081669,
-    "wof:lastmodified":1564196508,
+    "wof:lastmodified":1566583282,
     "wof:name":"Bordj Emir Khaled",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

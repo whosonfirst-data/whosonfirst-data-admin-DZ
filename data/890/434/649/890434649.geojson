@@ -11,10 +11,14 @@
     "geom:longitude":1.04945,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":63319,
+    "gn:population":63319,
     "iso:country":"DZ",
+    "lbl:bbox":"1.02945,35.04544,1.06945,35.08544",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0646\u062f\u0629"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2496232,
         "gp:id":1254828,
-        "qs:id":140184,
+        "qs_pg:id":140184,
         "wd:id":"Q2215495",
         "wk:page":"Frenda"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890434649,
-    "wof:lastmodified":1563572333,
+    "wof:lastmodified":1566583516,
     "wof:name":"Frenda",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

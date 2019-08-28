@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.208,35.81491,0.248,35.85491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hameau de Blad Touaria sous For\u00eat",
         "Hameau de Bled Touaria-sous-For\u00eat",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260077063,
-    "wof:lastmodified":1537620187,
+    "wof:lastmodified":1566583318,
     "wof:name":"Hassi Redhouane",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

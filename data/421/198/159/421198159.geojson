@@ -10,8 +10,11 @@
     "geom:latitude":35.68229,
     "geom:longitude":-0.61292,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.61792,35.67729,-0.60792,35.68729",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Victor Hugo"
@@ -573,7 +576,7 @@
     "wof:concordances":{
         "gn:id":2475093,
         "gp:id":1257939,
-        "qs:id":1189705,
+        "qs_pg:id":1189705,
         "wd:id":"Q535"
     },
     "wof:country":"DZ",
@@ -589,7 +592,7 @@
         }
     ],
     "wof:id":421198159,
-    "wof:lastmodified":1563572262,
+    "wof:lastmodified":1566583494,
     "wof:name":"Victor Hugo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

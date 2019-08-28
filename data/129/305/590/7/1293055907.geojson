@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.24894,35.53119,0.28894,35.57119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Mohammed Ben Djilah",
         "Mohammed Ben Djilah"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293055907,
-    "wof:lastmodified":1537620213,
+    "wof:lastmodified":1566583027,
     "wof:name":"Mohammed Ben Djilah",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.96356,36.13094,3.00356,36.17094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ben Alouach"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226745179,
-    "wof:lastmodified":1537620246,
+    "wof:lastmodified":1566583686,
     "wof:name":"Douar Ben Alouache",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

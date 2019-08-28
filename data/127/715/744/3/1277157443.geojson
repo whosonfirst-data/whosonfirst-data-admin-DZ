@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.15153,36.4135,5.19153,36.4535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guemehouch",
         "Guemchouch"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277157443,
-    "wof:lastmodified":1537620189,
+    "wof:lastmodified":1566583124,
     "wof:name":"Guemchouch",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

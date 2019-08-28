@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.61,35.51806,0.65,35.55806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226278817,
-    "wof:lastmodified":1536885417,
+    "wof:lastmodified":1566583689,
     "wof:name":"Douar Bekria",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

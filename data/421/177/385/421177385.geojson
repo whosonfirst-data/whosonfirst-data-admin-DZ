@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.046259,36.754466,3.046259,36.754466",
     "geom:latitude":36.754466,
     "geom:longitude":3.046259,
     "iso:country":"DZ",
+    "lbl:bbox":"3.041259,36.749466,3.051259,36.759466",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22528471,
-        "qs:id":415252
+        "qs_pg:id":415252
     },
     "wof:country":"DZ",
     "wof:created":1459009143,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421177385,
-    "wof:lastmodified":1531858433,
+    "wof:lastmodified":1566583500,
     "wof:name":"Cite Mahiedine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

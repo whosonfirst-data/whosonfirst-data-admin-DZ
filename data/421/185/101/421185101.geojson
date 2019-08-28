@@ -10,8 +10,11 @@
     "geom:latitude":35.93433,
     "geom:longitude":0.09366,
     "iso:country":"DZ",
+    "lbl:bbox":"0.08866,35.92933,0.09866,35.93933",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0637\u0645\u0648\u0631"
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Matemore"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matamore"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2490056,
         "gp:id":1255429,
-        "qs:id":1018258,
+        "qs_pg:id":1018258,
         "wd:id":"Q3298418"
     },
     "wof:country":"DZ",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421185101,
-    "wof:lastmodified":1563572301,
+    "wof:lastmodified":1566583505,
     "wof:name":"Matemore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

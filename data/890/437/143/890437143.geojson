@@ -11,10 +11,14 @@
     "geom:longitude":1.25538,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":167955,
+    "gn:population":167955,
     "iso:country":"DZ",
+    "lbl:bbox":"1.23538,36.17591,1.27538,36.21591",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0637\u064a\u0629"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Ech Chettia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ech Ch\u00e9tia"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2498954,
         "gp:id":1254330,
-        "qs:id":1036010,
+        "qs_pg:id":1036010,
         "wd:id":"Q2962891"
     },
     "wof:country":"DZ",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890437143,
-    "wof:lastmodified":1563572313,
+    "wof:lastmodified":1566583509,
     "wof:name":"Ech Chettia",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

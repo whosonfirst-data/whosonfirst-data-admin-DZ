@@ -10,8 +10,12 @@
     "geom:latitude":34.89638,
     "geom:longitude":3.48543,
     "iso:country":"DZ",
+    "lbl:bbox":"3.46543,34.87638,3.50543,34.91638",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631 \u0627\u0644\u0634\u064a\u0648\u062e"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Dar Chioukh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Diar el Chioukh"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2500904,
         "gp:id":1253891,
-        "qs:id":1296063,
+        "qs_pg:id":1296063,
         "wd:id":"Q3015935",
         "wk:page":"Dar Chioukh"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421196681,
-    "wof:lastmodified":1563572266,
+    "wof:lastmodified":1566583495,
     "wof:name":"Dar Chioukh",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

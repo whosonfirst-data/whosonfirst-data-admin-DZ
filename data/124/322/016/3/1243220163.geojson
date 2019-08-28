@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.24633,34.41109,3.28633,34.45109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ksar Tihnemeret",
         "Ksar Tilmekmeret",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243220163,
-    "wof:lastmodified":1537620177,
+    "wof:lastmodified":1566583566,
     "wof:name":"Ksar Timekmert",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

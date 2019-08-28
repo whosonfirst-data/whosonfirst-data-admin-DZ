@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.547538,
     "lbl:longitude":6.11858,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.547538,
     "mps:longitude":6.11858,
     "mz:hierarchy_label":1,
@@ -41,7 +42,7 @@
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0430\u0442\u043d\u0430"
     ],
     "name:ben_x_preferred":[
-        "\u09ac\u09be\u099f\u09a8\u09be  \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+        "\u09ac\u09be\u099f\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bre_x_preferred":[
         "Batna"
@@ -203,7 +204,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departement de Batna"
     ],
     "name:urd_x_preferred":[
@@ -288,9 +289,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"12,028",
     "statoids:area_mi":"4,644",
     "statoids:as_of_date":"2008-04-16",
@@ -316,7 +317,7 @@
         "gp:id":2344580,
         "hasc:id":"DZ.BT",
         "iso:id":"DZ-05",
-        "qs:id":1134876,
+        "qs_pg:id":1134876,
         "unlc:id":"DZ-05",
         "wd:id":"Q215452"
     },
@@ -338,11 +339,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673061,
+    "wof:lastmodified":1566582915,
     "wof:name":"Batna",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1119791,
     "wof:population_rank":12,

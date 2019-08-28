@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.3054,35.83312,0.3454,35.87312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u0627\u0641\u0644\u064a\u0629"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1276648075,
-    "wof:lastmodified":1564196344,
+    "wof:lastmodified":1566583155,
     "wof:name":"Souaflia",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

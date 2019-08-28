@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"4.73513,36.7335,4.77513,36.7735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u062a \u0633\u0639\u064a\u062f"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226020723,
-    "wof:lastmodified":1564197055,
+    "wof:lastmodified":1566583698,
     "wof:name":"Ait Said",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

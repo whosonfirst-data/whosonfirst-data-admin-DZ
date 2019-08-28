@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.86695,36.71494,6.90695,36.75494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechta Koudiat er Rmel",
         "Mechtat Koudiat er Remel",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293231887,
-    "wof:lastmodified":1537620144,
+    "wof:lastmodified":1566582981,
     "wof:name":"Mechtet Koudiet Rmel",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

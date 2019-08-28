@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.80317,35.48559,0.84317,35.52559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2475331
     },
     "wof:country":"DZ",
-    "wof:geomhash":"ffe0c0de26ba38905ba6f3cc58874ec3",
+    "wof:geomhash":"c677df5614b980a03a1f6bd6cee0a8d3",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209445601,
-    "wof:lastmodified":1536286828,
+    "wof:lastmodified":1566583267,
     "wof:name":"Toumiat",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.8231700000000001,
+    0.82317,
     35.50559000000001,
-    0.8231700000000001,
+    0.82317,
     35.50559000000001
 ],
   "geometry": {"coordinates":[0.82317,35.50559000000001],"type":"Point"}

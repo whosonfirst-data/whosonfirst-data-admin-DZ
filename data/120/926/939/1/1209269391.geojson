@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.65115,35.33763,0.69115,35.37763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Sidi el Mehdi"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209269391,
-    "wof:lastmodified":1537620274,
+    "wof:lastmodified":1566583263,
     "wof:name":"Ouled Sidi el Mehdi",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

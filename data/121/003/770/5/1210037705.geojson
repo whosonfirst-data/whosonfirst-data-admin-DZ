@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.11795,35.83538,0.15795,35.87538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1210037705,
-    "wof:lastmodified":1536385748,
+    "wof:lastmodified":1566583276,
     "wof:name":"Douar Ouled Abbas",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

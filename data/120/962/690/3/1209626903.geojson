@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.54222,34.92391,6.58222,34.96391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632451
@@ -34,7 +38,7 @@
         "gn:id":2475901
     },
     "wof:country":"DZ",
-    "wof:geomhash":"bf084145c2e5e0861da359266bf566a2",
+    "wof:geomhash":"98be3eb223f2f1d18a78f2b9635757dd",
     "wof:hierarchy":[
         {
             "country_id":85632451,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209626903,
-    "wof:lastmodified":1536281326,
+    "wof:lastmodified":1566583190,
     "wof:name":"Tisdeine",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     6.56222,
-    34.943909999999995,
+    34.94391,
     6.56222,
-    34.943909999999995
+    34.94391
 ],
   "geometry": {"coordinates":[6.56222,34.94391],"type":"Point"}
 }

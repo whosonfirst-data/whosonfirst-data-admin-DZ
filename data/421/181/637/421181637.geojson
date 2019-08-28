@@ -10,8 +10,11 @@
     "geom:latitude":36.70945,
     "geom:longitude":3.10118,
     "iso:country":"DZ",
+    "lbl:bbox":"3.09618,36.70445,3.10618,36.71445",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Montagne"
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2491072,
         "gp:id":1255268,
-        "qs:id":496836
+        "qs_pg:id":496836
     },
     "wof:country":"DZ",
     "wof:created":1459009302,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421181637,
-    "wof:lastmodified":1564196791,
+    "wof:lastmodified":1566583493,
     "wof:name":"La Montagne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

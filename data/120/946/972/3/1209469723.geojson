@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.3314,35.51935,0.3714,35.55935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Kaddour ben Amrane"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209469723,
-    "wof:lastmodified":1537620268,
+    "wof:lastmodified":1566583214,
     "wof:name":"Douar el Mouelek",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

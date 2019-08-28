@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.55212,35.40184,3.59212,35.44184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0623\u0641\u0642\u0647"
     ],
@@ -50,9 +54,6 @@
         "A\u00efn Feka"
     ],
     "name:spa_x_preferred":[
-        "A\u00efn Feka"
-    ],
-    "name:und_x_variant":[
         "A\u00efn Feka"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1292957239,
-    "wof:lastmodified":1564196113,
+    "wof:lastmodified":1566582967,
     "wof:name":"Ain Feka",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

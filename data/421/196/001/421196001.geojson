@@ -10,8 +10,12 @@
     "geom:latitude":36.19112,
     "geom:longitude":5.41373,
     "iso:country":"DZ",
+    "lbl:bbox":"5.39373,36.17112,5.43373,36.21112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "S\u00e9tif"
@@ -187,9 +191,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0442\u0456\u0444"
     ],
-    "name:unk_x_variant":[
-        "S\u00e9tif"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0637\u06cc\u0641"
     ],
@@ -230,7 +231,7 @@
     "wof:concordances":{
         "gn:id":2481700,
         "gp:id":1257253,
-        "qs:id":1035934,
+        "qs_pg:id":1035934,
         "wd:id":"Q244004",
         "wk:page":"S\u00e9tif"
     },
@@ -246,7 +247,7 @@
         }
     ],
     "wof:id":421196001,
-    "wof:lastmodified":1563572268,
+    "wof:lastmodified":1566583496,
     "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0633\u0637\u064a\u0641",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

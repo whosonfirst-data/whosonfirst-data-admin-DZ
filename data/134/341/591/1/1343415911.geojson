@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.60874,35.34198,0.64874,35.38198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Oulad Sidi el Hadj"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343415911,
-    "wof:lastmodified":1537620275,
+    "wof:lastmodified":1566582843,
     "wof:name":"Ouled Sidi el Hadj",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"8.3,36.57028,8.34,36.61028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechta Oulja",
         "Mechta Ouldja"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209951339,
-    "wof:lastmodified":1537620275,
+    "wof:lastmodified":1566583234,
     "wof:name":"Mechta Ouldja",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

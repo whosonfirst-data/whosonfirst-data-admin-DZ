@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.53225,36.43174,6.57225,36.47174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Chabet Medboua Fougania",
         "Mechta Chabet Medboua Fougania",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259807837,
-    "wof:lastmodified":1537620166,
+    "wof:lastmodified":1566583660,
     "wof:name":"Mechta Chabet Medbouh el Foukania",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

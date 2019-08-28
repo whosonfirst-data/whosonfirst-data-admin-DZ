@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10018822.910858,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.828506,36.46989,2.828506,36.46989",
     "geom:latitude":36.46989,
     "geom:longitude":2.828506,
     "iso:country":"DZ",
+    "lbl:bbox":"2.823506,36.46489,2.833506,36.47489",
     "lbl:latitude":36.46989,
     "lbl:longitude":2.828506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.468072,
     "mps:longitude":2.826815,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:ara_x_variant":[
         "Dilida"
-    ],
-    "name:unk_x_variant":[
-        "Oulad Soltane"
     ],
     "qs:gn_adm0_cc":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -69,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2485112,
         "gp:id":1256828,
-        "qs:id":267947,
         "qs_pg:id":267947
     },
     "wof:country":"DZ",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862143,
+    "wof:lastmodified":1566582934,
     "wof:name":"Oulad Soltane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

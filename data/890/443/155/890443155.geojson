@@ -11,10 +11,14 @@
     "geom:longitude":0.73055,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"DZ",
+    "lbl:bbox":"0.71055,35.6885,0.75055,35.7285",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Rouachdia",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7115827,
         "gp:id":1257118,
-        "qs:id":656672
+        "qs_pg:id":656672
     },
     "wof:country":"DZ",
     "wof:created":1469052404,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890443155,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566583514,
     "wof:name":"Rouachdia",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

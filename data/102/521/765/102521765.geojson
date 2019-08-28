@@ -12,6 +12,7 @@
     "iso:country":"DZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "A\u00efn Oussera Airport"
     ],
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":102521765,
-    "wof:lastmodified":1563571356,
+    "wof:lastmodified":1566582798,
     "wof:name":"Ain Oussera Airport",
     "wof:parent_id":85670833,
     "wof:placetype":"campus",

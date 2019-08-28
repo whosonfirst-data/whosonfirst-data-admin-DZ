@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.65252,36.68546,5.69252,36.72546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Ben Azli",
         "Bou \u2019Asli"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360253287,
-    "wof:lastmodified":1537620236,
+    "wof:lastmodified":1566583423,
     "wof:name":"Bou 'Asli",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

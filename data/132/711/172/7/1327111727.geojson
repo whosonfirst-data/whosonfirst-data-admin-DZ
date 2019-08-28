@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.15807,36.36158,5.19807,36.40158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Braham"
     ],
@@ -38,8 +42,7 @@
         "Braham"
     ],
     "name:und_x_variant":[
-        "Bra\u00e2me",
-        "Braham"
+        "Bra\u00e2me"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327111727,
-    "wof:lastmodified":1564195928,
+    "wof:lastmodified":1566582786,
     "wof:name":"Braham",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.10525,35.58298,6.14525,35.62298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dechret Msarat",
         "Mechtet Msar\u00e2",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276664937,
-    "wof:lastmodified":1537620143,
+    "wof:lastmodified":1566583114,
     "wof:name":"Msarat",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

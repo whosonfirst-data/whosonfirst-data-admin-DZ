@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.89357,34.63615,5.93357,34.67615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nebka"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1326695777,
-    "wof:lastmodified":1564195841,
+    "wof:lastmodified":1566582712,
     "wof:name":"Nebka",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

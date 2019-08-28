@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.27226,36.84013,7.31226,36.88013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni du Caid Lakhdar",
         "Bordj du Ca\u00efd Lakdar",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276157749,
-    "wof:lastmodified":1537620238,
+    "wof:lastmodified":1566583144,
     "wof:name":"Bordj du Caid Lakhdar",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

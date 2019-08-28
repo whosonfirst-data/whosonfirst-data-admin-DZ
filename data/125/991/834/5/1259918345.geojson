@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.64719,36.70218,3.68719,36.74218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0633\u0631"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1259918345,
-    "wof:lastmodified":1564196938,
+    "wof:lastmodified":1566583619,
     "wof:name":"Les Issers",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

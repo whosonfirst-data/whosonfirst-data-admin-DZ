@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.29513,35.89048,0.33513,35.93048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar M\u2019khatria",
         "Douar Oulad Chebezrah"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276465191,
-    "wof:lastmodified":1537620273,
+    "wof:lastmodified":1566583145,
     "wof:name":"Douar M'khatria",
     "wof:parent_id":85670787,
     "wof:placetype":"locality",

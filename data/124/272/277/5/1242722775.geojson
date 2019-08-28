@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.27667,36.22889,2.31667,36.26889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0633\u0644\u0637\u0627\u0646"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1242722775,
-    "wof:lastmodified":1564196828,
+    "wof:lastmodified":1566583541,
     "wof:name":"Ain Soltane",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

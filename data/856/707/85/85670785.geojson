@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.38975,
     "lbl:longitude":0.094542,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.38975,
     "mps:longitude":0.094542,
     "mz:hierarchy_label":1,
@@ -254,7 +255,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0430\u0441\u043a\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wilaya de Mascara"
     ],
     "name:urd_x_preferred":[
@@ -342,9 +343,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"5,962",
     "statoids:area_mi":"2,302",
     "statoids:as_of_date":"2008-04-16",
@@ -370,7 +371,7 @@
         "gp:id":2344598,
         "hasc:id":"DZ.MC",
         "iso:id":"DZ-29",
-        "qs:id":264448,
+        "qs_pg:id":264448,
         "unlc:id":"DZ-29",
         "wd:id":"Q236776"
     },
@@ -392,11 +393,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673062,
+    "wof:lastmodified":1566582926,
     "wof:name":"Mascara",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":784073,
     "wof:population_rank":11,

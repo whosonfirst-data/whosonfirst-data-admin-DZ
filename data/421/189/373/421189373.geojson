@@ -10,8 +10,12 @@
     "geom:latitude":36.49349,
     "geom:longitude":5.27802,
     "iso:country":"DZ",
+    "lbl:bbox":"5.25802,36.47349,5.29802,36.51349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0631\u0627\u0637\u0629"
@@ -55,7 +59,7 @@
     "name:spa_x_preferred":[
         "Kherrata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kerrato"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":2491776,
         "gp:id":1255211,
-        "qs:id":44237,
+        "qs_pg:id":44237,
         "wd:id":"Q2215859",
         "wk:page":"Kherrata"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421189373,
-    "wof:lastmodified":1563572254,
+    "wof:lastmodified":1566583492,
     "wof:name":"Kherrata",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

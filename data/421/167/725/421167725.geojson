@@ -10,8 +10,12 @@
     "geom:latitude":36.71333,
     "geom:longitude":3.2125,
     "iso:country":"DZ",
+    "lbl:bbox":"3.1925,36.69333,3.2325,36.73333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Dar el Be\u00efda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maison Blanche"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":2500889,
         "gp:id":1253894,
-        "qs:id":140228,
+        "qs_pg:id":140228,
         "wd:id":"Q59419",
         "wk:page":"Dar El Be\u00efda"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421167725,
-    "wof:lastmodified":1563572231,
+    "wof:lastmodified":1566583484,
     "wof:name":"Dar el Beida",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

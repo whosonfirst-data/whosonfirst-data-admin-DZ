@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.26991,36.35899,1.30991,36.39899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0645\u0648\u0631\u0629"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1242811477,
-    "wof:lastmodified":1564196833,
+    "wof:lastmodified":1566583544,
     "wof:name":"Zemmoura",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

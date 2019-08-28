@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.01976,36.62147,5.05976,36.66147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mannzekouane",
         "Manzekouane"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193254179,
-    "wof:lastmodified":1537620173,
+    "wof:lastmodified":1566583289,
     "wof:name":"Manzekouane",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.2628,36.11853,6.3028,36.15853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Bir Bercache",
         "Mechta Bir Berkach"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293329353,
-    "wof:lastmodified":1537620168,
+    "wof:lastmodified":1566583012,
     "wof:name":"Mechta Bir Berkach",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

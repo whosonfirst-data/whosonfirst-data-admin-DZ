@@ -11,10 +11,14 @@
     "geom:longitude":0.75437,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":4000,
+    "gn:population":4000,
     "iso:country":"DZ",
+    "lbl:bbox":"0.73437,35.69652,0.77437,35.73652",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Smala",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7115828,
         "gp:id":1257118,
-        "qs:id":656676
+        "qs_pg:id":656676
     },
     "wof:country":"DZ",
     "wof:created":1469052404,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890443165,
-    "wof:lastmodified":1505343592,
+    "wof:lastmodified":1566583513,
     "wof:name":"Smala",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

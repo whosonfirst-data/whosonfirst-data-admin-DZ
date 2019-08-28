@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.50505,36.86344,7.54505,36.90344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abd Allah Jemel",
         "Abd Allah Djemel"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226688923,
-    "wof:lastmodified":1537620262,
+    "wof:lastmodified":1566583710,
     "wof:name":"Abd Allah Djemel",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":36.67176,
     "geom:longitude":4.19176,
     "iso:country":"DZ",
+    "lbl:bbox":"4.17176,36.65176,4.21176,36.69176",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u064a\u0632\u064a \u0631\u0627\u0634\u062f"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2475740,
         "gp:id":1257879,
-        "qs:id":140148,
+        "qs_pg:id":140148,
         "wd:id":"Q3529993",
         "wk:page":"Tizi Rached"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421167711,
-    "wof:lastmodified":1563572233,
+    "wof:lastmodified":1566583485,
     "wof:name":"Tizi Rached",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.24198,34.76451,-1.20198,34.80451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Oulad Bou Hamida",
         "Ouled\u2019Ben Hamida",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326700483,
-    "wof:lastmodified":1537620125,
+    "wof:lastmodified":1566582757,
     "wof:name":"Ouled Bou Hamida",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

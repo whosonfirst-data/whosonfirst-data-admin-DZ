@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.63163,36.33533,1.67163,36.37533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u0631"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1193072651,
-    "wof:lastmodified":1564196504,
+    "wof:lastmodified":1566583280,
     "wof:name":"El Ksar",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.97603,36.77605,6.01603,36.81605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Afouzar",
         "Mechta Afouz\u00e2r"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326986035,
-    "wof:lastmodified":1537620171,
+    "wof:lastmodified":1566582772,
     "wof:name":"Mechta Afouzar",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

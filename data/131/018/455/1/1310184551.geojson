@@ -23,8 +23,12 @@
     "gn:population":178915,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.29699,35.35103,1.33699,35.39103",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0627\u0631\u062a"
     ],
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1310184551,
-    "wof:lastmodified":1564196649,
+    "wof:lastmodified":1566583380,
     "wof:name":"Tiaret",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

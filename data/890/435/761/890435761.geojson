@@ -11,10 +11,14 @@
     "geom:longitude":3.22248,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":59990,
+    "gn:population":59990,
     "iso:country":"DZ",
+    "lbl:bbox":"3.20248,36.6004,3.24248,36.6404",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0641\u062a\u0627\u062d"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Meftah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rivet"
     ],
     "name:urd_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":2488722,
         "gp:id":1256362,
-        "qs:id":1035974,
+        "qs_pg:id":1035974,
         "wd:id":"Q2215400",
         "wk:page":"Meftah"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890435761,
-    "wof:lastmodified":1563572346,
+    "wof:lastmodified":1566583519,
     "wof:name":"Meftah",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

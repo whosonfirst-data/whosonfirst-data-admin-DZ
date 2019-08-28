@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.17747,36.22228,1.21747,36.26228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ech Chna\u00eff\u00eeya"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243209077,
-    "wof:lastmodified":1537620276,
+    "wof:lastmodified":1566583599,
     "wof:name":"Ech Chnaifiya",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

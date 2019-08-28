@@ -10,10 +10,14 @@
     "geom:latitude":36.29038,
     "geom:longitude":7.949995,
     "iso:country":"DZ",
+    "lbl:bbox":"7.92999507511,36.2703804718,7.96999507511,36.3103804718",
     "lbl:latitude":36.29038,
     "lbl:longitude":7.949995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0642 \u0623\u0647\u0631\u0627\u0633"
     ],
@@ -290,7 +294,7 @@
         }
     ],
     "wof:id":1141908249,
-    "wof:lastmodified":1563572707,
+    "wof:lastmodified":1566583776,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85670875,
     "wof:placetype":"locality",

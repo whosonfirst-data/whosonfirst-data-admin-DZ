@@ -10,8 +10,12 @@
     "geom:latitude":36.67942,
     "geom:longitude":4.8555,
     "iso:country":"DZ",
+    "lbl:bbox":"4.8355,36.65942,4.8755,36.69942",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u0631"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2497796,
         "gp:id":1254616,
-        "qs:id":278717,
+        "qs_pg:id":278717,
         "wd:id":"Q1649095",
         "wk:page":"El-Kseur"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421178269,
-    "wof:lastmodified":1563572290,
+    "wof:lastmodified":1566583502,
     "wof:name":"El Kseur",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

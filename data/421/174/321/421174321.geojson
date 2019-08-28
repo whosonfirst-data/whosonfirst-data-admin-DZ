@@ -10,8 +10,12 @@
     "geom:latitude":36.74871,
     "geom:longitude":3.19248,
     "iso:country":"DZ",
+    "lbl:bbox":"3.17248,36.72871,3.21248,36.76871",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c \u0627\u0644\u0643\u064a\u0641\u0627\u0646"
@@ -79,7 +83,7 @@
     "name:swe_x_preferred":[
         "Bordj el Kiffan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort de l\u2019Eau"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":2503661,
         "gp:id":1255316,
-        "qs:id":780024,
+        "qs_pg:id":780024,
         "wd:id":"Q1184993",
         "wk:page":"Bordj El Kiffan"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":421174321,
-    "wof:lastmodified":1563572246,
+    "wof:lastmodified":1566583489,
     "wof:name":"Bordj el Kiffan",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

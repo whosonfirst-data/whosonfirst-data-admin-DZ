@@ -10,8 +10,12 @@
     "geom:latitude":35.74381,
     "geom:longitude":-0.7693,
     "iso:country":"DZ",
+    "lbl:bbox":"-0.7893,35.72381,-0.7493,35.76381",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u062a\u0631\u0643"
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "Ayn el T\u00fcrk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u00efn-et-Turk"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":2508119,
         "gp:id":56123361,
-        "qs:id":1036063,
+        "qs_pg:id":1036063,
         "wd:id":"Q740498",
         "wk:page":"A\u00efn El Turk"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421185653,
-    "wof:lastmodified":1563572304,
+    "wof:lastmodified":1566583506,
     "wof:name":"Ain Turk",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

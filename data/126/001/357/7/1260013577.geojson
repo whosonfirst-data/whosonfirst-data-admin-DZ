@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.10741,36.25216,1.14741,36.29216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn Soltane",
         "Bou Reguida"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260013577,
-    "wof:lastmodified":1537620232,
+    "wof:lastmodified":1566583324,
     "wof:name":"Ain Soltane",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

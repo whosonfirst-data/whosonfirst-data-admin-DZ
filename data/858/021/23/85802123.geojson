@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18837376.741325,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.07497,36.762936,5.07497,36.762936",
     "geom:latitude":36.762936,
     "geom:longitude":5.07497,
     "iso:country":"DZ",
+    "lbl:bbox":"5.06997,36.757936,5.07997,36.767936",
     "lbl:latitude":36.762936,
     "lbl:longitude":5.07497,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.764634,
     "mps:longitude":5.07623,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Camp Inferieur"
     ],
     "name:ara_x_preferred":[
-        "Camp Inf\u00e9rieur"
-    ],
-    "name:unk_x_variant":[
         "Camp Inf\u00e9rieur"
     ],
     "qs:gn_adm0_cc":"DZ",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191573,
         85632451,
@@ -69,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2501956,
         "gp:id":1253773,
-        "qs:id":1167954,
         "qs_pg:id":1167954
     },
     "wof:country":"DZ",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862135,
+    "wof:lastmodified":1566582935,
     "wof:name":"Camp Inf\u00e9rieur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

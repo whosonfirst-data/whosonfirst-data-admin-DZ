@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.34238,36.31469,7.38238,36.35469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293842141,
-    "wof:lastmodified":1536773699,
+    "wof:lastmodified":1566582978,
     "wof:name":"Mechtat el Marga",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

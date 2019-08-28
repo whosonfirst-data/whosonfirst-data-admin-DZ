@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.9397,35.98393,1.9797,36.02393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Orma"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209568809,
-    "wof:lastmodified":1537620194,
+    "wof:lastmodified":1566583247,
     "wof:name":"Douar Sidi Saad",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

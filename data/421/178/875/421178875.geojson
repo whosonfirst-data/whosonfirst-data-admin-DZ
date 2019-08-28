@@ -10,8 +10,12 @@
     "geom:latitude":35.45139,
     "geom:longitude":2.90583,
     "iso:country":"DZ",
+    "lbl:bbox":"2.88583,35.43139,2.92583,35.47139",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0648\u0633\u0627\u0631\u0629"
@@ -113,7 +117,7 @@
         "A\u00efn Oussera"
     ],
     "name:tam_x_preferred":[
-        "\u0b86\u0baf\u0bbf\u0ba9\u0bcd  \u0b92\u0bb8\u0bcd\u0b9a\u0bc7\u0bb0\u0bbe"
+        "\u0b86\u0baf\u0bbf\u0ba9\u0bcd \u0b92\u0bb8\u0bcd\u0b9a\u0bc7\u0bb0\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c10\u0c28\u0c4d \u0c13\u0c38\u0c47\u0c30\u0c3e"
@@ -127,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043d-\u0423\u0441\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Oussera"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":2507972,
         "gp:id":1252981,
-        "qs:id":140236,
+        "qs_pg:id":140236,
         "wd:id":"Q651497",
         "wk:page":"A\u00efn Oussera"
     },
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":421178875,
-    "wof:lastmodified":1563572287,
+    "wof:lastmodified":1566583501,
     "wof:name":"Ain Oussera",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

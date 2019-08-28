@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.30185,35.83881,1.34185,35.87881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechta Ouled Defeltene",
         "Ouled Defeltene"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226277665,
-    "wof:lastmodified":1537620125,
+    "wof:lastmodified":1566583691,
     "wof:name":"Ouled Defeltene",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

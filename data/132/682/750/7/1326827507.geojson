@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"2.75833,36.31333,2.79833,36.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326827507,
-    "wof:lastmodified":1537053328,
+    "wof:lastmodified":1566582748,
     "wof:name":"Er Rmila",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

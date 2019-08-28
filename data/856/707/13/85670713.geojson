@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.837758,
     "lbl:longitude":7.526045,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.837758,
     "mps:longitude":7.526045,
     "mz:hierarchy_label":1,
@@ -258,7 +259,7 @@
         "Annaba"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0ba9\u0bcd\u0ba9\u0baa\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0ba9\u0bcd\u0ba9\u0baa\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c28\u0c4d\u0c28\u0c3e\u0c2c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -278,7 +279,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u043d\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de B\u00f4ne"
     ],
     "name:urd_x_preferred":[
@@ -372,9 +373,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"1,412",
     "statoids:area_mi":"545",
     "statoids:as_of_date":"2008-04-16",
@@ -400,7 +401,7 @@
         "gp:id":2344607,
         "hasc:id":"DZ.AN",
         "iso:id":"DZ-23",
-        "qs:id":362602,
+        "qs_pg:id":362602,
         "unlc:id":"DZ-23",
         "wd:id":"Q213944"
     },
@@ -422,11 +423,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673063,
+    "wof:lastmodified":1566582927,
     "wof:name":"Annaba",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":609499,
     "wof:population_rank":11,

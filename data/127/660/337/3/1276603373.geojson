@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-0.43768,35.36258,-0.39768,35.40258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouled Sidi Ali",
         "Douar Ouled Sidi Ali"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276603373,
-    "wof:lastmodified":1537620208,
+    "wof:lastmodified":1566583102,
     "wof:name":"Douar Ouled Sidi Ali",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

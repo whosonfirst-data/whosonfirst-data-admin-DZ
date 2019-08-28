@@ -10,8 +10,12 @@
     "geom:latitude":36.68178,
     "geom:longitude":4.26378,
     "iso:country":"DZ",
+    "lbl:bbox":"4.24378,36.66178,4.28378,36.70178",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0642\u0644\u0639"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2488500,
         "gp:id":1256378,
-        "qs:id":944562,
+        "qs_pg:id":944562,
         "wd:id":"Q1649145",
         "wk:page":"Mekla"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421182755,
-    "wof:lastmodified":1563572294,
+    "wof:lastmodified":1566583503,
     "wof:name":"Mekla",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

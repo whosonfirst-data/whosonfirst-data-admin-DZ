@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.26904,36.22509,3.30904,36.26509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293586809,
-    "wof:lastmodified":1536643270,
+    "wof:lastmodified":1566583018,
     "wof:name":"Merabtine",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

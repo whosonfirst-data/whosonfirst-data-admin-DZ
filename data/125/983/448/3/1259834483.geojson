@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-0.10953,35.54267,-0.06953,35.58267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0647\u0646\u064a"
     ],
@@ -53,7 +57,6 @@
         "Bou Henni"
     ],
     "name:und_x_variant":[
-        "Bou Henni",
         "Jean-Mermoz"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1259834483,
-    "wof:lastmodified":1564196954,
+    "wof:lastmodified":1566583630,
     "wof:name":"Jean-Mermoz",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

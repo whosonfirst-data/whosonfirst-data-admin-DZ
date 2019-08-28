@@ -10,8 +10,12 @@
     "geom:latitude":36.79334,
     "geom:longitude":3.290405,
     "iso:country":"DZ",
+    "lbl:bbox":"3.270405,36.77334,3.310405,36.81334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0637\u0627\u064a\u0629"
@@ -92,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1252862,
-        "qs:id":1114415,
+        "qs_pg:id":1114415,
         "wd:id":"Q2876387"
     },
     "wof:country":"DZ",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421189561,
-    "wof:lastmodified":1563572252,
+    "wof:lastmodified":1566583491,
     "wof:name":"'Ain Taya",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

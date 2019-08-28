@@ -10,8 +10,12 @@
     "geom:latitude":36.16277,
     "geom:longitude":0.97037,
     "iso:country":"DZ",
+    "lbl:bbox":"0.95037,36.14277,0.99037,36.18277",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
@@ -55,7 +59,7 @@
     "name:ron_x_preferred":[
         "A\u00efn Merane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rabelais"
     ],
     "name:urd_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":2508010,
         "gp:id":1252830,
-        "qs:id":1296011,
+        "qs_pg:id":1296011,
         "wd:id":"Q374598"
     },
     "wof:country":"DZ",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421196675,
-    "wof:lastmodified":1563572265,
+    "wof:lastmodified":1566583495,
     "wof:name":"'Ain Merane",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

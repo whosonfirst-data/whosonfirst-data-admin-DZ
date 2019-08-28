@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"-1.76652,29.77489,-1.72652,29.81489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
-        "El Be\u00efda"
-    ],
-    "name:und_x_variant":[
         "El Be\u00efda"
     ],
     "src:geom":"geonames",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1243405781,
-    "wof:lastmodified":1564196861,
+    "wof:lastmodified":1566583564,
     "wof:name":"El Beida",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

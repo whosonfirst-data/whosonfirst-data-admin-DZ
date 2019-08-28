@@ -9,15 +9,18 @@
     "geom:bbox":"1.19616,36.41657,1.19616,36.41657",
     "geom:latitude":36.41657,
     "geom:longitude":1.19616,
-    "gn:gn_country":"DZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24022,
+    "gn:country":"DZ",
+    "gn:fcode":"PPL",
     "gn:population":24022,
     "iso:country":"DZ",
+    "lbl:bbox":"1.17616,36.39657,1.21616,36.43657",
     "lbl:latitude":36.41657,
     "lbl:longitude":1.19616,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u0623\u0628\u0648 \u0627\u0644\u062d\u0633\u0646"
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Abou el Hassan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beni Madoun"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":574937,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1126012051,
-    "wof:lastmodified":1563572362,
+    "wof:lastmodified":1566583522,
     "wof:name":"Abou el Hassan",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

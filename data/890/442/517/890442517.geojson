@@ -11,10 +11,14 @@
     "geom:longitude":3.1585,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":11989,
+    "gn:population":11989,
     "iso:country":"DZ",
+    "lbl:bbox":"3.1385,35.87123,3.1785,35.91123",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0628\u0648\u0633\u064a\u0641"
     ],
@@ -51,7 +55,7 @@
     "name:spa_x_preferred":[
         "A\u00efn Boucif"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bordj A\u00efn Boucif"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2508262,
         "gp:id":1252731,
-        "qs:id":574935,
+        "qs_pg:id":574935,
         "wd:id":"Q1702800",
         "wk:page":"A\u00efn Boucif"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890442517,
-    "wof:lastmodified":1563572331,
+    "wof:lastmodified":1566583515,
     "wof:name":"\u2019A\u00efn Boucif",
     "wof:parent_id":85670837,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.62459,36.30307,7.66459,36.34307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hammon N\u2019Bails",
         "Hammam N\u2019Ba\u00efls",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326598519,
-    "wof:lastmodified":1537620187,
+    "wof:lastmodified":1566582720,
     "wof:name":"Hammam M'Bails",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

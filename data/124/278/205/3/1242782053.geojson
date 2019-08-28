@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"3.21753,36.77802,3.25753,36.81802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0646\u0641\u0648\u0633\u062a"
     ],
@@ -41,8 +45,7 @@
         "Tamentfust"
     ],
     "name:und_x_variant":[
-        "Tamenfoust",
-        "Tamentfoust"
+        "Tamenfoust"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1242782053,
-    "wof:lastmodified":1564196892,
+    "wof:lastmodified":1566583587,
     "wof:name":"Tamentfoust",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.75,36.91667,7.75,36.91667",
     "geom:latitude":36.91667,
     "geom:longitude":7.75,
     "iso:country":"DZ",
+    "lbl:bbox":"7.745,36.91167,7.755,36.92167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2484023,
         "gp:id":1257087,
-        "qs:id":1301112
+        "qs_pg:id":1301112
     },
     "wof:country":"DZ",
     "wof:created":1459009902,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421197087,
-    "wof:lastmodified":1531858749,
+    "wof:lastmodified":1566583498,
     "wof:name":"Ramass\u00e9s",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":117000,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"7.12333,35.41583,7.16333,35.45583",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u0646\u0634\u0644\u0629"
     ],
@@ -95,8 +99,7 @@
         "\u0425\u0435\u043d\u0448\u0435\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Krenchela",
-        "Khenchela"
+        "Krenchela"
     ],
     "name:urd_x_preferred":[
         "\u062e\u0646\u0634\u0644\u06c1"
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1310537379,
-    "wof:lastmodified":1564196623,
+    "wof:lastmodified":1566583363,
     "wof:name":"Khenchela",
     "wof:parent_id":85670861,
     "wof:placetype":"locality",

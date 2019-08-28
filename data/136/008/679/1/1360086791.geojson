@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"5.66846,35.26156,5.70846,35.30156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dechra Sedjef et Tine",
         "Sedjef et Tine"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360086791,
-    "wof:lastmodified":1537620115,
+    "wof:lastmodified":1566583428,
     "wof:name":"Sedjef et Tine",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

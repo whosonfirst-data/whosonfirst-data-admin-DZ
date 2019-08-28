@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.35262,35.60938,6.39262,35.64938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0630\u0631"
     ],
@@ -50,8 +54,7 @@
         "El Madher"
     ],
     "name:und_x_variant":[
-        "El Mahder",
-        "El Madher"
+        "El Mahder"
     ],
     "name:vie_x_preferred":[
         "El Madher"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1260194595,
-    "wof:lastmodified":1564196584,
+    "wof:lastmodified":1566583336,
     "wof:name":"El Madher",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

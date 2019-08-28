@@ -10,8 +10,12 @@
     "geom:latitude":33.56391,
     "geom:longitude":6.70326,
     "iso:country":"DZ",
+    "lbl:bbox":"6.68326,33.54391,6.72326,33.58391",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0642\u064a\u0628\u0629"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2483746,
         "gp:id":1257114,
-        "qs:id":262979,
+        "qs_pg:id":262979,
         "wd:id":"Q3325064",
         "wk:page":"Reguiba"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421205395,
-    "wof:lastmodified":1563572239,
+    "wof:lastmodified":1566583488,
     "wof:name":"Reguiba",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

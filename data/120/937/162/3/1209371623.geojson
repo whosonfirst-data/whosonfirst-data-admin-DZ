@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"0.23761,35.44012,0.27761,35.48012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar el Mera\u00efnia",
         "Douar M\u2019ra\u00efnia",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209371623,
-    "wof:lastmodified":1537620217,
+    "wof:lastmodified":1566583196,
     "wof:name":"Douar M'rainia",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

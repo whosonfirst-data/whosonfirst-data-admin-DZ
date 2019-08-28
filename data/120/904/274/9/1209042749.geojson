@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.13202,36.06622,1.17202,36.10622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouled Ben-et Tahar",
         "Boukaat Ouled Tahar",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209042749,
-    "wof:lastmodified":1537620239,
+    "wof:lastmodified":1566583242,
     "wof:name":"Boukaat Ouled Tahar",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

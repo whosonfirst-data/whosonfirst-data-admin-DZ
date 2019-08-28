@@ -11,10 +11,14 @@
     "geom:longitude":6.69528,
     "gn:country":"DZ",
     "gn:fcode":"PPL",
-    "gn:pop":32497,
+    "gn:population":32497,
     "iso:country":"DZ",
+    "lbl:bbox":"6.67528,35.90472,6.71528,35.94472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0643\u0631\u0634\u0629"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "A\u00efn Kercha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u00efne Kercha"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2508059,
         "gp:id":1257019,
-        "qs:id":278742,
+        "qs_pg:id":278742,
         "wd:id":"Q593739",
         "wk:page":"A\u00efn Kercha"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890432341,
-    "wof:lastmodified":1563572336,
+    "wof:lastmodified":1566583516,
     "wof:name":"A\u00efn Kercha",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

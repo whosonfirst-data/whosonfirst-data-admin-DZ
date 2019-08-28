@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.36713,35.92866,6.40713,35.96866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechtat Ragouba",
         "Mechta Ragouba"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327085035,
-    "wof:lastmodified":1537620155,
+    "wof:lastmodified":1566582686,
     "wof:name":"Mechta Ragouba",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

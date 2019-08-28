@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"6.10203,36.12003,6.14203,36.16003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Coulmiers"
     ],
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1310532095,
-    "wof:lastmodified":1564196625,
+    "wof:lastmodified":1566583364,
     "wof:name":"Coulmiers",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

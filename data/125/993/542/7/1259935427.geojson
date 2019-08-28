@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Algiers",
     "iso:country":"DZ",
+    "lbl:bbox":"1.8874,34.01547,1.9274,34.05547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259935427,
-    "wof:lastmodified":1536704803,
+    "wof:lastmodified":1566583651,
     "wof:name":"Sidi Djelloul",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

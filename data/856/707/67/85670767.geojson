@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.685665,
     "lbl:longitude":4.223371,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.685665,
     "mps:longitude":4.223371,
     "mz:hierarchy_label":1,
@@ -216,7 +217,7 @@
         "Tizi Ouzou"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbf\u0b9c\u0bbf  \u0b92\u0b89\u0bb8\u0bcd\u0bb5\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bbf\u0b9c\u0bbf \u0b92\u0b89\u0bb8\u0bcd\u0bb5\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3f\u0c1c\u0c3f \u0c14\u0c1c\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -236,7 +237,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0437\u0456-\u0423\u0437\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de Grande Kabylie"
     ],
     "name:urd_x_preferred":[
@@ -327,9 +328,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-16",
+    "src:population_date":"2008-04-16",
     "statoids:area_km":"2,993",
     "statoids:area_mi":"1,156",
     "statoids:as_of_date":"2008-04-16",
@@ -355,7 +356,7 @@
         "gp:id":2344588,
         "hasc:id":"DZ.TO",
         "iso:id":"DZ-15",
-        "qs:id":399885,
+        "qs_pg:id":399885,
         "unlc:id":"DZ-15",
         "wd:id":"Q233645"
     },
@@ -377,11 +378,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565673062,
+    "wof:lastmodified":1566582921,
     "wof:name":"Tizi Ouzou",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1127607,
     "wof:population_rank":12,

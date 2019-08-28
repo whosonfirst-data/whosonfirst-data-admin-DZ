@@ -11,10 +11,14 @@
     "geom:longitude":0.83496,
     "gn:country":"DZ",
     "gn:fcode":"PPLL",
-    "gn:pop":4930,
+    "gn:population":4930,
     "iso:country":"DZ",
+    "lbl:bbox":"0.81496,34.84375,0.85496,34.88375",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u064a\u0644\u0629 \u0627\u0644\u0631\u0635\u0641\u0627\u0621"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":7838650,
         "gp:id":1257760,
-        "qs:id":741022,
+        "qs_pg:id":741022,
         "wd:id":"Q1649054",
         "wk:page":"Djebilet Rosfa"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890414789,
-    "wof:lastmodified":1563572308,
+    "wof:lastmodified":1566583508,
     "wof:name":"Djebilet Rosfa",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",
