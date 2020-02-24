@@ -278,6 +278,9 @@
     },
     "wof:country":"DZ",
     "wof:created":1469052264,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f2da1af3d52dc0e6ac28e9f52e901968",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890440141,
-    "wof:lastmodified":1566583507,
+    "wof:lastmodified":1582348644,
     "wof:name":"Touggourt",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

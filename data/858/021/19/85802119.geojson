@@ -137,6 +137,10 @@
         "wk:page":"Bab El Oued"
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b6a24bb0db8947f2396e7f24ddaf33d",
     "wof:hierarchy":[
         {
@@ -151,7 +155,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582934,
+    "wof:lastmodified":1582348637,
     "wof:name":"Bab el Oued",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

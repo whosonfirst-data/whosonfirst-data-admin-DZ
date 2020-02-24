@@ -66,6 +66,9 @@
         "gp:id":1255339
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"827314a499cf3c41e3cb75dcb306f98d",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582934,
+    "wof:lastmodified":1582348637,
     "wof:name":"Les Tagarins",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

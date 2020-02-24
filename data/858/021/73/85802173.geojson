@@ -73,6 +73,10 @@
         "qs_pg:id":1024228
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"207de0a3776bbe5ce8687bea33902d71",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582933,
+    "wof:lastmodified":1582348637,
     "wof:name":"Oued Korine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

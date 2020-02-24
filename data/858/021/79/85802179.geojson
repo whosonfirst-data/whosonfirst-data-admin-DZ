@@ -71,6 +71,10 @@
         "qs_pg:id":267947
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bcb39684b0a3c5c24e15d8057a910eda",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582934,
+    "wof:lastmodified":1582348637,
     "wof:name":"Oulad Soltane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

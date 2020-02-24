@@ -174,6 +174,10 @@
         "wd:id":"Q89468"
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac8c23eb40bb7358cc7ff226e3ca3f7e",
     "wof:hierarchy":[
         {
@@ -188,7 +192,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582934,
+    "wof:lastmodified":1582348637,
     "wof:name":"Kasbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

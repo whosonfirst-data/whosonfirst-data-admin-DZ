@@ -66,6 +66,9 @@
         "gp:id":22528470
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73b7413b627e25fab1480cbc2d0cec56",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582932,
+    "wof:lastmodified":1582348637,
     "wof:name":"Les Trembles",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

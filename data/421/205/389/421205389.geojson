@@ -217,6 +217,9 @@
     },
     "wof:country":"DZ",
     "wof:created":1459010223,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"5f92ab08f1c563b06d31de3186954a66",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":421205389,
-    "wof:lastmodified":1566583488,
+    "wof:lastmodified":1582348644,
     "wof:name":"Hassi Messaoud",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",
