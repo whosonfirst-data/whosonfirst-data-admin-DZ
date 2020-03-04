@@ -67,6 +67,10 @@
         "qs_pg:id":1251442
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4ae32834e03ad60310503bece2215c3",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582931,
+    "wof:lastmodified":1582348637,
     "wof:name":"Bologuine Ibnou Ziri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

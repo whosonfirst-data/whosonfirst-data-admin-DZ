@@ -137,6 +137,10 @@
         "wk:page":"El Harrach"
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9df19be4654123a42454a5b3bd5e844",
     "wof:hierarchy":[
         {
@@ -151,7 +155,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582934,
+    "wof:lastmodified":1582348638,
     "wof:name":"El Harrach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

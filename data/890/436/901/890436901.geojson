@@ -216,6 +216,9 @@
     },
     "wof:country":"DZ",
     "wof:created":1469052131,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06f062ef64ae34a63ec03b779b702fb5",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":890436901,
-    "wof:lastmodified":1566583510,
+    "wof:lastmodified":1582348644,
     "wof:name":"Timimoun",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

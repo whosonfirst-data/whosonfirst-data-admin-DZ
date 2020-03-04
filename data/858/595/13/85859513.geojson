@@ -68,6 +68,10 @@
         "qs_pg:id":236205
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cabe7aa76ab7f8ea467dccfd29ac496a",
     "wof:hierarchy":[
         {
@@ -82,7 +86,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582932,
+    "wof:lastmodified":1582348637,
     "wof:name":"Alger Port Said",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

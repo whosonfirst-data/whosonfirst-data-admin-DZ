@@ -66,6 +66,9 @@
         "gp:id":1253859
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7fdcb017b3c55922fc2b94f933cb4958",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582933,
+    "wof:lastmodified":1582348637,
     "wof:name":"Cit\u00e9 Chancel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

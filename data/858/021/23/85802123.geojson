@@ -71,6 +71,10 @@
         "qs_pg:id":1167954
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"988c3b56052e330c77a3df01060f0b14",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582935,
+    "wof:lastmodified":1582348638,
     "wof:name":"Camp Inf\u00e9rieur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

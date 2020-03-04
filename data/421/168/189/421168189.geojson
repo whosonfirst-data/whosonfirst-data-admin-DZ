@@ -193,6 +193,9 @@
     },
     "wof:country":"DZ",
     "wof:created":1459008757,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"99f41b8c6ae435e06bffaac6b23caa43",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421168189,
-    "wof:lastmodified":1566583480,
+    "wof:lastmodified":1582348644,
     "wof:name":"Zeribet el Oued",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

@@ -655,6 +655,9 @@
     },
     "wof:country":"DZ",
     "wof:created":1459009039,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"418f156e07e8e93fd82eaa22d93d148a",
     "wof:hierarchy":[
         {
@@ -665,7 +668,7 @@
         }
     ],
     "wof:id":421174649,
-    "wof:lastmodified":1566583489,
+    "wof:lastmodified":1582348644,
     "wof:name":"Algiers",
     "wof:parent_id":85670761,
     "wof:placetype":"locality",

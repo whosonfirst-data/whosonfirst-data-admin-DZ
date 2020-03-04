@@ -121,6 +121,9 @@
         "wd:id":"Q660003"
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0414bbba6c3089b0579fb68bb2d0da5c",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582935,
+    "wof:lastmodified":1582348638,
     "wof:name":"Husse\u00efn Dey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

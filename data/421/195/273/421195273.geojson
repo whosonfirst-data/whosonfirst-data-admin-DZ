@@ -203,6 +203,9 @@
     },
     "wof:country":"DZ",
     "wof:created":1459009838,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"97dd6902d77b17b3ab53556bd770cec3",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421195273,
-    "wof:lastmodified":1561791091,
+    "wof:lastmodified":1582348644,
     "wof:name":"El Golea",
     "wof:parent_id":85670749,
     "wof:placetype":"locality",

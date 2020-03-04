@@ -1083,6 +1083,10 @@
     },
     "wof:country":"DZ",
     "wof:country_alpha3":"DZA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"85a2b7533679533d458d8a9412070589",
     "wof:hierarchy":[
         {
@@ -1099,7 +1103,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566582928,
+    "wof:lastmodified":1583228753,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

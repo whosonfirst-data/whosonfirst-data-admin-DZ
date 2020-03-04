@@ -84,6 +84,9 @@
         "gp:id":1257067
     },
     "wof:country":"DZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59b746a38747d9be47acd9bfdf6d74c2",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566582935,
+    "wof:lastmodified":1582348638,
     "wof:name":"Agha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
