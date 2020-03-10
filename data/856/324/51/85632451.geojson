@@ -1059,9 +1059,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Algeria",
-        "digitalenvoy:country_code":[
-            12
-        ],
+        "digitalenvoy:country_code":12,
         "fb:id":"en.algeria",
         "fifa:id":"ALG",
         "fips:code":"AG",
@@ -1106,7 +1104,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583529122,
+    "wof:lastmodified":1583797327,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
