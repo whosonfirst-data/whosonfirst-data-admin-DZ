@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":213.004449,
-    "geom:area_square_m":2315832079376.849121,
+    "geom:area_square_m":2315832083168.70459,
     "geom:bbox":"-8.66667,18.968147,11.999999,37.088749",
     "geom:latitude":28.150344,
     "geom:longitude":2.675699,
@@ -69,6 +69,12 @@
     "name:arg_x_preferred":[
         "Alcheria"
     ],
+    "name:arq_x_preferred":[
+        "\u062c\u064e\u0632\u0627\u064a\u064e\u0631"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u062c\u0627\u0632\u0627\u0626\u064a\u0631"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0627\u064a\u0631"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:bam_x_variant":[
         "Aljeri"
+    ],
+    "name:ban_x_preferred":[
+        "Aljazair"
     ],
     "name:bar_x_preferred":[
         "Algerien"
@@ -187,11 +196,20 @@
     "name:crh_x_preferred":[
         "Cezair"
     ],
+    "name:csb_x_preferred":[
+        "Algieri\u00f4"
+    ],
     "name:cym_x_preferred":[
         "Algeria"
     ],
     "name:dan_x_preferred":[
         "Algeriet"
+    ],
+    "name:deu_at_x_preferred":[
+        "Algerien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Algerien"
     ],
     "name:deu_x_preferred":[
         "Algerien"
@@ -219,6 +237,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b3\u03b5\u03c1\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Algeria"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Algeria"
     ],
     "name:eng_x_preferred":[
         "Algeria"
@@ -290,6 +314,9 @@
     ],
     "name:gag_x_preferred":[
         "Aljir"
+    ],
+    "name:gcr_x_preferred":[
+        "Lalj\u00e9ri"
     ],
     "name:gla_x_preferred":[
         "Aildiria"
@@ -567,6 +594,9 @@
     "name:mon_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
+    "name:mri_x_preferred":[
+        "Aratiria"
+    ],
     "name:mrj_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
@@ -675,6 +705,9 @@
     "name:pol_x_preferred":[
         "Algieria"
     ],
+    "name:por_br_x_preferred":[
+        "Arg\u00e9lia"
+    ],
     "name:por_x_preferred":[
         "Arg\u00e9lia"
     ],
@@ -772,6 +805,12 @@
     "name:srd_x_preferred":[
         "Alger\u00eca"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0410\u043b\u0436\u0438\u0440"
+    ],
+    "name:srp_el_x_preferred":[
+        "Al\u017eir"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
@@ -795,6 +834,9 @@
     ],
     "name:szl_x_preferred":[
         "Algeryjo"
+    ],
+    "name:szy_x_preferred":[
+        "Algeria"
     ],
     "name:tah_x_preferred":[
         "Areteria"
@@ -936,8 +978,26 @@
     "name:zha_x_preferred":[
         "Algeria"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u5c14\u53ca\u5229\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u963f\u723e\u53ca\u5229\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Algeria"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u963f\u723e\u53ca\u5229\u4e9e"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u963f\u5c14\u53ca\u5229\u4e9a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u963f\u5c14\u53ca\u5229\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u723e\u53ca\u5229\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u53ca\u5229\u4e9a"
@@ -1104,7 +1164,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583797327,
+    "wof:lastmodified":1587428938,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
