@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Blida Province"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421189567,
-    "wof:lastmodified":1566583491,
-    "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "wof:lastmodified":1601068401,
+    "wof:name":"Blida Province",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
