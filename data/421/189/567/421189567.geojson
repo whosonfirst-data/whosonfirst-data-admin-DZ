@@ -10,6 +10,12 @@
     "geom:latitude":36.480499,
     "geom:longitude":2.829566,
     "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Blida Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:bbox":"2.809566,36.460499,2.849566,36.500499",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -21,6 +27,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0628\u0644\u064a\u062f\u0629"
     ],
     "name:eng_x_preferred":[
+        "Blida"
+    ],
+    "name:eng_x_variant":[
         "Blida Province"
     ],
     "qs:gn_country":null,
@@ -64,8 +73,8 @@
         }
     ],
     "wof:id":421189567,
-    "wof:lastmodified":1601068401,
-    "wof:name":"Blida Province",
+    "wof:lastmodified":1601337573,
+    "wof:name":"Blida",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",

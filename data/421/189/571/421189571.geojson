@@ -10,6 +10,12 @@
     "geom:latitude":36.065543,
     "geom:longitude":4.817504,
     "iso:country":"DZ",
+    "label:eng_x_preferred_longname":[
+        "Bordj Bou Arreidj Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:bbox":"4.797504,36.045543,4.837504,36.085543",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -21,6 +27,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c"
     ],
     "name:eng_x_preferred":[
+        "Bordj Bou Arreidj"
+    ],
+    "name:eng_x_variant":[
         "Bordj Bou Arreidj Province"
     ],
     "qs:gn_country":null,
@@ -64,8 +73,8 @@
         }
     ],
     "wof:id":421189571,
-    "wof:lastmodified":1601068401,
-    "wof:name":"Bordj Bou Arreidj Province",
+    "wof:lastmodified":1601337573,
+    "wof:name":"Bordj Bou Arreidj",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
