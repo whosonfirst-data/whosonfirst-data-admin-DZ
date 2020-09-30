@@ -10,12 +10,6 @@
     "geom:latitude":36.765291,
     "geom:longitude":5.07808,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Bejaia Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"5.05808,36.745291,5.09808,36.785291",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189565,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423087,
     "wof:name":"Bejaia",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

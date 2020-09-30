@@ -10,12 +10,6 @@
     "geom:latitude":36.827424,
     "geom:longitude":5.768852,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Jijel Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"5.748852,36.807424,5.788852,36.847424",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189577,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423089,
     "wof:name":"Jijel",
     "wof:parent_id":85670723,
     "wof:placetype":"locality",

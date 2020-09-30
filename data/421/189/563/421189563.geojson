@@ -6,16 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.7579575,36.9044695,7.7579575,36.9044695",
+    "geom:bbox":"7.757957,36.904469,7.757957,36.904469",
     "geom:latitude":36.904469,
     "geom:longitude":7.757957,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Annaba Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"7.7379575,36.8844695,7.7779575,36.9244695",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -63,7 +57,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1459009628,
-    "wof:geomhash":"9cdea6caac48328491a5d227706e83c4",
+    "wof:geomhash":"e33d773b937fc0e63a4b46104c8e7efb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189563,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423086,
     "wof:name":"Annaba",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",
@@ -83,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.7579575,
-    36.9044695,
-    7.7579575,
-    36.9044695
+    7.757957,
+    36.904469,
+    7.757957,
+    36.904469
 ],
-  "geometry": {"coordinates":[7.7579575,36.9044695],"type":"Point"}
+  "geometry": {"coordinates":[7.757957,36.904469],"type":"Point"}
 }

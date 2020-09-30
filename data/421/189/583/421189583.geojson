@@ -10,12 +10,6 @@
     "geom:latitude":36.587276,
     "geom:longitude":2.446583,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Tipaza Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"2.426583,36.567276,2.466583,36.607276",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189583,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423093,
     "wof:name":"Tipaza",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

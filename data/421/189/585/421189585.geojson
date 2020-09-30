@@ -10,12 +10,6 @@
     "geom:latitude":36.721342,
     "geom:longitude":4.045801,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Tizi Ouzou Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"4.025801,36.701342,4.065801,36.741342",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189585,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423093,
     "wof:name":"Tizi Ouzou",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

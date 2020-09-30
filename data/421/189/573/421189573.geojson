@@ -10,12 +10,6 @@
     "geom:latitude":36.364321,
     "geom:longitude":6.609449,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Constanine Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"6.589449,36.344321,6.629449,36.384321",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189573,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423088,
     "wof:name":"Constanine",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

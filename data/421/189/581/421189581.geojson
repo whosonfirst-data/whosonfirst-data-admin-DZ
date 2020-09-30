@@ -10,12 +10,6 @@
     "geom:latitude":22.78969,
     "geom:longitude":5.524406,
     "iso:country":"DZ",
-    "label:eng_x_preferred_longname":[
-        "Tamanrasset Province"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "province"
-    ],
     "lbl:bbox":"5.504406,22.76969,5.544406,22.80969",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":421189581,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423093,
     "wof:name":"Tamanrasset",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",
