@@ -668,7 +668,9 @@
         85670761
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632451,
+    "wof:capital_of":[
+        85632451
+    ],
     "wof:concordances":{
         "gn:id":2507480,
         "gp:id":1253079,
@@ -692,7 +694,7 @@
         }
     ],
     "wof:id":421174649,
-    "wof:lastmodified":1587428939,
+    "wof:lastmodified":1607390875,
     "wof:name":"Algiers",
     "wof:parent_id":85670761,
     "wof:placetype":"locality",
