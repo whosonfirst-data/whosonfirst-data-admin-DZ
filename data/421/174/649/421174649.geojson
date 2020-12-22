@@ -29,6 +29,9 @@
         "\u12a0\u120d\u1300\u122d\u1235"
     ],
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
     ],
     "name:arc_x_preferred":[
@@ -675,6 +678,7 @@
         "gn:id":2507480,
         "gp:id":1253079,
         "loc:id":"n79058668",
+        "ne:id":1159151471,
         "qs_pg:id":892295,
         "wd:id":"Q3561",
         "wk:page":"Algiers"
@@ -694,7 +698,7 @@
         }
     ],
     "wof:id":421174649,
-    "wof:lastmodified":1608675984,
+    "wof:lastmodified":1608677551,
     "wof:megacity":1,
     "wof:name":"Algiers",
     "wof:parent_id":85670761,
