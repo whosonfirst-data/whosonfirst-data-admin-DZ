@@ -10,7 +10,6 @@
     "geom:latitude":35.672767,
     "geom:longitude":-0.607882,
     "iso:country":"DZ",
-    "lbl:bbox":"-0.66167,35.67111,-0.62167,35.71111",
     "lbl:latitude":35.701346,
     "lbl:longitude":-0.646243,
     "lbl:max_zoom":13.0,
@@ -445,7 +444,7 @@
         }
     ],
     "wof:id":421170449,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610153996,
     "wof:megacity":1,
     "wof:name":"\u0648\u0644\u0627\u064a\u0629 \u0648\u0647\u0631\u0627\u0646",
     "wof:parent_id":85670689,
