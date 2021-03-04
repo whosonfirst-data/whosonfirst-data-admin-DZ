@@ -29,7 +29,7 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:ara_latn_x_variant":[
+    "name:ara_latn_x_preferred":[
         "Bechar"
     ],
     "name:ara_x_preferred":[
@@ -338,7 +338,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614888781,
+    "wof:lastmodified":1614888966,
     "wof:name":"B\u00e9char",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
