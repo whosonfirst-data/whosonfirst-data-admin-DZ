@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "A\u00efn Oussera Airport"
     ],
+    "name:eng_x_variant":[
+        "DAAQ"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Ain Oussera"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102521765,
-    "wof:lastmodified":1566582798,
+    "wof:lastmodified":1631750771,
     "wof:name":"Ain Oussera Airport",
     "wof:parent_id":85670833,
     "wof:placetype":"campus",

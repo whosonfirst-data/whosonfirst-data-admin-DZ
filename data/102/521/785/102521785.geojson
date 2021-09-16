@@ -22,6 +22,10 @@
     "name:eng_x_preferred":[
         "M\u00e9cheria Airport"
     ],
+    "name:eng_x_variant":[
+        "MZW",
+        "DAAY"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport de M\u00e9chria"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102521785,
-    "wof:lastmodified":1566582799,
+    "wof:lastmodified":1631750771,
     "wof:name":"Mecheria Airport",
     "wof:parent_id":85670707,
     "wof:placetype":"campus",
