@@ -92,8 +92,14 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0a9c\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05d2'\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u091c\u0947\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Jijel"
     ],
     "name:ina_x_preferred":[
         "Provincia Jijel"
@@ -362,7 +368,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501717,
     "wof:name":"Jijel",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

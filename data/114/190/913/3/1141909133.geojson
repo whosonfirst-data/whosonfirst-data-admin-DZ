@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"3.25002355817,34.6799878123,3.25002355817,34.6799878123",
+    "geom:bbox":"3.250024,34.679988,3.250024,34.679988",
     "geom:latitude":34.679988,
     "geom:longitude":3.250024,
     "iso:country":"DZ",
@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0ab2\u0acd\u0aab\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05dc\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0947\u0932\u092b\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Djelfa"
     ],
     "name:ind_x_preferred":[
         "Djelfa"
@@ -272,7 +278,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131031,
-    "wof:geomhash":"9a03ef96a312aeb7e69e837653e3264a",
+    "wof:geomhash":"395adebd5a25a4509b813aaaa357362f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -282,7 +288,7 @@
         }
     ],
     "wof:id":1141909133,
-    "wof:lastmodified":1566583775,
+    "wof:lastmodified":1636501726,
     "wof:name":"Djelfa",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",
@@ -292,10 +298,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.25002355816872,
-    34.67998781232967,
-    3.25002355816872,
-    34.67998781232967
+    3.250024,
+    34.679988,
+    3.250024,
+    34.679988
 ],
-  "geometry": {"coordinates":[3.25002355816872,34.67998781232967],"type":"Point"}
+  "geometry": {"coordinates":[3.250024,34.679988],"type":"Point"}
 }

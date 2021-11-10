@@ -65,6 +65,12 @@
     "name:fra_x_variant":[
         "Tizi Ouzou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d6\u05d9 \u05d0\u05d5\u05d6\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Tizi Ouzou"
+    ],
     "name:ind_x_preferred":[
         "Tizi Ouzou"
     ],
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1277156047,
-    "wof:lastmodified":1566583123,
+    "wof:lastmodified":1636501718,
     "wof:name":"Tizi Ouzou",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

@@ -222,6 +222,9 @@
         "\u0e2d\u0e34\u0e25\u0e25\u0e34\u0e0b\u0e35"
     ],
     "name:tur_x_preferred":[
+        "Illizi"
+    ],
+    "name:tur_x_variant":[
         "\u0130lizi Vilayeti"
     ],
     "name:ukr_x_preferred":[
@@ -368,7 +371,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501716,
     "wof:name":"Illizi",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

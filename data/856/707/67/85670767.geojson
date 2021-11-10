@@ -107,8 +107,14 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0ac0\u0a9d\u0ac0 \u0a93\u0a9d\u0acb\u0a89\u0a82 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d6\u05d9 \u05d0\u05d5\u05d6\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093f\u091c\u093c\u093f \u0913\u0909\u091c\u093c\u094b\u0909 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Tizi Ouzou"
     ],
     "name:ind_x_preferred":[
         "Tizi Ouzou"
@@ -380,7 +386,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1636501715,
     "wof:name":"Tizi Ouzou",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

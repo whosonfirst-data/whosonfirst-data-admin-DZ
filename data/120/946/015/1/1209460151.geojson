@@ -51,7 +51,13 @@
         "El Oued"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d0\u05d0\u05d5\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05dc-\u05d5\u05d0\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "El-Oued"
     ],
     "name:ind_x_preferred":[
         "El Oued"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1209460151,
-    "wof:lastmodified":1566583213,
+    "wof:lastmodified":1636501718,
     "wof:name":"El Oued",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",

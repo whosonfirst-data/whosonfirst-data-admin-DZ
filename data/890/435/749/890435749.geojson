@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Mila"
     ],
+    "name:hun_x_preferred":[
+        "Mila"
+    ],
     "name:ind_x_preferred":[
         "Mila"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890435749,
-    "wof:lastmodified":1566583518,
+    "wof:lastmodified":1636501723,
     "wof:name":"Mila",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

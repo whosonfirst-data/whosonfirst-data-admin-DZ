@@ -107,6 +107,9 @@
         "\u0915\u093e\u0902\u0938\u094d\u091f\u0948\u0902\u091f\u093e\u0907\u0928"
     ],
     "name:hun_x_preferred":[
+        "Constantine"
+    ],
+    "name:hun_x_variant":[
         "Kaszent\u00edna"
     ],
     "name:hye_x_preferred":[
@@ -364,7 +367,7 @@
         }
     ],
     "wof:id":890439959,
-    "wof:lastmodified":1566583508,
+    "wof:lastmodified":1636501722,
     "wof:name":"Constantine",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

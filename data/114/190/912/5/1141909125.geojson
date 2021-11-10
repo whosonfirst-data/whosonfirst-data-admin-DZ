@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.14778202456,27.6741880483,-8.14778202456,27.6741880483",
+    "geom:bbox":"-8.147782,27.674188,-8.147782,27.674188",
     "geom:latitude":27.674188,
     "geom:longitude":-8.147782,
     "iso:country":"DZ",
@@ -23,6 +23,9 @@
     ],
     "name:ast_x_preferred":[
         "Tinduf"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09bf\u09a8\u09cd\u09a6\u09cb\u0989\u09ab"
     ],
     "name:cat_x_preferred":[
         "Tindouf"
@@ -68,6 +71,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05e0\u05d3\u05d5\u05e3"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093f\u0902\u0921\u0942\u092b\u093c"
     ],
     "name:hun_x_preferred":[
         "Tindouf"
@@ -251,7 +257,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131029,
-    "wof:geomhash":"29656263ff31031bf1f7530ac3a5fad9",
+    "wof:geomhash":"5f2630a52c5fdeec8d121cd471e1a732",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":1141909125,
-    "wof:lastmodified":1566583775,
+    "wof:lastmodified":1636501725,
     "wof:name":"Tindouf",
     "wof:parent_id":85670709,
     "wof:placetype":"locality",
@@ -271,10 +277,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.14778202455909,
-    27.67418804830419,
-    -8.14778202455909,
-    27.67418804830419
+    -8.147782,
+    27.674188,
+    -8.147782,
+    27.674188
 ],
-  "geometry": {"coordinates":[-8.14778202455909,27.67418804830419],"type":"Point"}
+  "geometry": {"coordinates":[-8.147782,27.674188],"type":"Point"}
 }

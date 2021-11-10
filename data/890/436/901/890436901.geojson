@@ -25,6 +25,9 @@
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0645\u06cc\u0645\u0648\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09bf\u09ae\u09bf\u09ae\u09cb\u0989\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Timimoun"
     ],
@@ -46,6 +49,18 @@
     "name:fra_x_preferred":[
         "Timimoun"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05de\u05d9\u05de\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093f\u092e\u0940\u092e\u0942\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Timimoun"
+    ],
+    "name:ind_x_preferred":[
+        "Timimoun"
+    ],
     "name:ita_x_preferred":[
         "Timimoun"
     ],
@@ -54,6 +69,9 @@
     ],
     "name:kab_x_preferred":[
         "Timimun"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\ubbf8\ubb38"
     ],
     "name:lit_x_preferred":[
         "Timimunas"
@@ -84,6 +102,12 @@
     ],
     "name:swe_x_preferred":[
         "Timimoun"
+    ],
+    "name:tur_x_preferred":[
+        "Timimoun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043c\u0456\u043c\u0443\u043d"
     ],
     "name:und_x_variant":[
         "Timmoun"
@@ -229,7 +253,7 @@
         }
     ],
     "wof:id":890436901,
-    "wof:lastmodified":1582348644,
+    "wof:lastmodified":1636501722,
     "wof:name":"Timimoun",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

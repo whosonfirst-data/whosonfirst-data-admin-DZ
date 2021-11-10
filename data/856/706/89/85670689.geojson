@@ -95,8 +95,14 @@
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac7\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Oran"
     ],
     "name:ina_x_preferred":[
         "Provincia Oran"
@@ -340,7 +346,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807359,
+    "wof:lastmodified":1636501712,
     "wof:name":"Oran",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

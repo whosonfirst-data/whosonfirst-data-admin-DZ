@@ -35,6 +35,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0644\u06a9\u0627\u0641"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u0995\u09c7\u09ab"
+    ],
     "name:cat_x_preferred":[
         "El Kef"
     ],
@@ -59,8 +62,14 @@
     "name:fra_x_preferred":[
         "Le Kef"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0915\u0947\u092b\u093c"
+    ],
     "name:hun_x_preferred":[
         "Kef"
+    ],
+    "name:ind_x_preferred":[
+        "El Kef"
     ],
     "name:ita_x_preferred":[
         "Le Kef"
@@ -104,6 +113,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u06a9\u0627\u0641"
     ],
+    "name:vie_x_preferred":[
+        "El Kef"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u592b"
     ],
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1293630339,
-    "wof:lastmodified":1566582962,
+    "wof:lastmodified":1636501718,
     "wof:name":"El Kef",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

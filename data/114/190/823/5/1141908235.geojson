@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"1.3199604885,36.1704136343,1.3199604885,36.1704136343",
+    "geom:bbox":"1.31996,36.170414,1.31996,36.170414",
     "geom:latitude":36.170414,
     "geom:longitude":1.31996,
     "iso:country":"DZ",
@@ -71,6 +71,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0936\u094d\u0932\u0947\u092b"
+    ],
+    "name:hun_x_preferred":[
+        "Chlef"
     ],
     "name:ind_x_preferred":[
         "Chlef"
@@ -278,7 +281,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130856,
-    "wof:geomhash":"ddc8b7e9d11b9e551311f346930905b7",
+    "wof:geomhash":"9d86866ffd4d0b295f7368ec0f28952c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":1141908235,
-    "wof:lastmodified":1566583775,
+    "wof:lastmodified":1636501726,
     "wof:name":"Chlef",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",
@@ -298,10 +301,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.31996048849948,
-    36.1704136342758,
-    1.31996048849948,
-    36.1704136342758
+    1.31996,
+    36.170414,
+    1.31996,
+    36.170414
 ],
-  "geometry": {"coordinates":[1.31996048849948,36.1704136342758],"type":"Point"}
+  "geometry": {"coordinates":[1.31996,36.170414],"type":"Point"}
 }

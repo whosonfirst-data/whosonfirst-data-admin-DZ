@@ -102,6 +102,9 @@
         "\u0938\u0942\u0915 \u0905\u0939\u094d\u0930\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hun_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:hun_x_variant":[
         "Sz\u00fak Ahr\u00e1sz"
     ],
     "name:ind_x_preferred":[
@@ -374,7 +377,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807360,
+    "wof:lastmodified":1636501713,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

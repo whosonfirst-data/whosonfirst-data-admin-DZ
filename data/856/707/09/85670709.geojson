@@ -120,7 +120,13 @@
         "\u05de\u05d7\u05d5\u05d6 \u05d8\u05d9\u05e0\u05d3\u05d5\u05e3"
     ],
     "name:hin_x_preferred":[
+        "\u091f\u093f\u0902\u0921\u0942\u092b\u093c"
+    ],
+    "name:hin_x_variant":[
         "\u091f\u093f\u0928\u094d\u0921\u094b\u0909\u092b \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Tindouf"
     ],
     "name:ind_x_preferred":[
         "Tindouf"
@@ -395,7 +401,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501716,
     "wof:name":"Tindouf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

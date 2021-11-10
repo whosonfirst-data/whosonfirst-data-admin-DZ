@@ -99,10 +99,16 @@
         "\u0a8f\u0ab2 \u0a93\u0aaf\u0aa1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d0\u05d0\u05d5\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05dc-\u05d5\u05d0\u05d3"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0932 \u0911\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "El-Oued"
     ],
     "name:ind_x_preferred":[
         "Provinsi El Oued"
@@ -377,7 +383,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1636501715,
     "wof:name":"El Oued",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

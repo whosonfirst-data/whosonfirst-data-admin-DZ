@@ -26,6 +26,12 @@
     "name:eng_x_variant":[
         "El Oued Province"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d0\u05d0\u05d5\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "El-Oued"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":421174259,
-    "wof:lastmodified":1601423088,
+    "wof:lastmodified":1636501719,
     "wof:name":"El Oued",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

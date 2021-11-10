@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"5.5228047268,22.7850032745,5.5228047268,22.7850032745",
+    "geom:bbox":"5.522805,22.785003,5.522805,22.785003",
     "geom:latitude":22.785003,
     "geom:longitude":5.522805,
     "gn:country":"DZ",
@@ -29,6 +29,9 @@
     ],
     "name:azb_x_preferred":[
         "\u062a\u0645\u0646\u0631\u0627\u0633\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09ae\u09be\u09a8\u09cd\u09b0\u09be\u09b8\u09c7\u099f"
     ],
     "name:bre_x_preferred":[
         "Tamanghasset"
@@ -80,6 +83,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05d0\u05de\u05d0\u05e0\u05e8\u05d0\u05e1\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u092e\u093e\u0928\u0930\u093e\u0938\u0947\u091f"
     ],
     "name:hun_x_preferred":[
         "Tamanrasset"
@@ -286,7 +292,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131073,
-    "wof:geomhash":"79ce4ca665deac90d8d53821e21d4d73",
+    "wof:geomhash":"6dee67611d092037516f072a6323fdd8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -296,7 +302,7 @@
         }
     ],
     "wof:id":1141909397,
-    "wof:lastmodified":1566583772,
+    "wof:lastmodified":1636501724,
     "wof:name":"Tamanrasset",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",
@@ -310,10 +316,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.52280472679752,
-    22.78500327452156,
-    5.52280472679752,
-    22.78500327452156
+    5.522805,
+    22.785003,
+    5.522805,
+    22.785003
 ],
-  "geometry": {"coordinates":[5.52280472679752,22.78500327452156],"type":"Point"}
+  "geometry": {"coordinates":[5.522805,22.785003],"type":"Point"}
 }

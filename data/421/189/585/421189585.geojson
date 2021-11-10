@@ -26,6 +26,12 @@
     "name:eng_x_variant":[
         "Tizi Ouzou Province"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d6\u05d9 \u05d0\u05d5\u05d6\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Tizi Ouzou"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":421189585,
-    "wof:lastmodified":1601423093,
+    "wof:lastmodified":1636501720,
     "wof:name":"Tizi Ouzou",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

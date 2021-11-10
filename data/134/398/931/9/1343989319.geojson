@@ -59,6 +59,12 @@
     "name:fra_x_preferred":[
         "Relizane"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05dc\u05d9\u05d6\u05d0\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Relizane"
+    ],
     "name:ind_x_preferred":[
         "Relizane"
     ],
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1343989319,
-    "wof:lastmodified":1566582807,
+    "wof:lastmodified":1636501711,
     "wof:name":"Relizane",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

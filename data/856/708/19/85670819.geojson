@@ -116,8 +116,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0abf\u0aa1\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0932\u093f\u0921\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Blida"
     ],
     "name:ina_x_preferred":[
         "Provincia Blida"
@@ -410,7 +416,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807360,
+    "wof:lastmodified":1636501713,
     "wof:name":"Blida",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

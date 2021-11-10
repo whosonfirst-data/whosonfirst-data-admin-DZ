@@ -92,8 +92,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab2\u0abe\u0a88\u0a9c\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05dc\u05d9\u05d6\u05d0\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u0947\u0932\u093f\u091c\u093c\u0947\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Relizane"
     ],
     "name:ina_x_preferred":[
         "Provincia Relizane"
@@ -362,7 +368,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501716,
     "wof:name":"Relizane",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -68,10 +68,16 @@
         "\u0ab2\u0a98\u0ac1\u0a85\u0a9f"
     ],
     "name:heb_x_preferred":[
+        "\u05dc\u05d2'\u05d5\u05d0\u05d8"
+    ],
+    "name:heb_x_variant":[
         "\u05dc\u05d0\u05d2\u05d5\u05d5\u05d0\u05d8"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0917\u0939\u094b\u0909\u0905\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Laghouat"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u0563\u0578\u0582\u0561\u057f"
@@ -292,7 +298,7 @@
         }
     ],
     "wof:id":890444485,
-    "wof:lastmodified":1566583511,
+    "wof:lastmodified":1636501722,
     "wof:name":"Laghouat",
     "wof:parent_id":85670753,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.94999507511,36.2903804718,7.94999507511,36.2903804718",
+    "geom:bbox":"7.949995,36.29038,7.949995,36.29038",
     "geom:latitude":36.29038,
     "geom:longitude":7.949995,
     "iso:country":"DZ",
@@ -70,6 +70,9 @@
         "\u0938\u0942\u0915 \u0905\u0939\u094d\u0930\u093e\u0938"
     ],
     "name:hun_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:hun_x_variant":[
         "Sz\u00fak Ahr\u00e1sz"
     ],
     "name:hye_x_preferred":[
@@ -284,7 +287,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130859,
-    "wof:geomhash":"6721f3ae3c04abcec0497bbbd7cf0385",
+    "wof:geomhash":"8d10f7aa31a0e2d2e2cbfe06b520081d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":1141908249,
-    "wof:lastmodified":1566583776,
+    "wof:lastmodified":1636501726,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85670875,
     "wof:placetype":"locality",
@@ -304,10 +307,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.94999507511466,
-    36.29038047184133,
-    7.94999507511466,
-    36.29038047184133
+    7.949995,
+    36.29038,
+    7.949995,
+    36.29038
 ],
-  "geometry": {"coordinates":[7.94999507511466,36.29038047184133],"type":"Point"}
+  "geometry": {"coordinates":[7.949995,36.29038],"type":"Point"}
 }

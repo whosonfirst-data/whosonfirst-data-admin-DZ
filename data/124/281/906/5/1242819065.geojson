@@ -68,6 +68,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05de\u05d0\u05e8\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Smara"
+    ],
     "name:ita_x_preferred":[
         "Smara"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1242819065,
-    "wof:lastmodified":1566583543,
+    "wof:lastmodified":1636501723,
     "wof:name":"Smara",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

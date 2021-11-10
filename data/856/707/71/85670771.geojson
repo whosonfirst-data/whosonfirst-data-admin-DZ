@@ -94,6 +94,9 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0abf\u0aaa\u0abe\u0ab8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e4\u05d0\u05d6\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u093f\u092a\u091c\u093c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -334,7 +337,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501717,
     "wof:name":"Tipaza",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

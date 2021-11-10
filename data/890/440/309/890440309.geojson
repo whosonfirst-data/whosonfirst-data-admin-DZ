@@ -25,6 +25,9 @@
     "name:azb_x_preferred":[
         "\u0631\u0642\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u0997\u0997\u09be\u09a8\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Reggane"
     ],
@@ -49,11 +52,29 @@
     "name:glg_x_preferred":[
         "Reggane"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d2\u05d0\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u091c\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Reggane"
+    ],
+    "name:ind_x_preferred":[
+        "Reggane"
+    ],
     "name:ita_x_preferred":[
         "Reggane"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c3\u30ac\u30fc\u30cc"
+    ],
     "name:kab_x_preferred":[
         "Reggan"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uac00\ub124"
     ],
     "name:msa_x_preferred":[
         "Reggane"
@@ -65,6 +86,9 @@
         "Reggane"
     ],
     "name:nob_x_preferred":[
+        "Reggane"
+    ],
+    "name:pol_x_preferred":[
         "Reggane"
     ],
     "name:por_x_preferred":[
@@ -80,6 +104,9 @@
         "Reggane"
     ],
     "name:swe_x_preferred":[
+        "Reggane"
+    ],
+    "name:tur_x_preferred":[
         "Reggane"
     ],
     "name:und_x_variant":[
@@ -217,7 +244,7 @@
         }
     ],
     "wof:id":890440309,
-    "wof:lastmodified":1566583506,
+    "wof:lastmodified":1636501721,
     "wof:name":"Reggane",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

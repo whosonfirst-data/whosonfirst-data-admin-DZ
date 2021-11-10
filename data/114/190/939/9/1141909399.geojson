@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"3.6699979234,32.4899922882,3.6699979234,32.4899922882",
+    "geom:bbox":"3.669998,32.489992,3.669998,32.489992",
     "geom:latitude":32.489992,
     "geom:longitude":3.669998,
     "iso:country":"DZ",
@@ -74,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0918\u0930\u0926\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ghardaia"
     ],
     "name:ind_x_preferred":[
         "Gharda\u00efa"
@@ -281,7 +284,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131073,
-    "wof:geomhash":"cee6d28e68c3e86534b97e1931eaff73",
+    "wof:geomhash":"5e1c53e7495657593086d61ee14691e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":1141909399,
-    "wof:lastmodified":1566583772,
+    "wof:lastmodified":1636501724,
     "wof:name":"Ghardaia",
     "wof:parent_id":85670749,
     "wof:placetype":"locality",
@@ -301,10 +304,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.66999792340482,
-    32.48999228823232,
-    3.66999792340482,
-    32.48999228823232
+    3.669998,
+    32.489992,
+    3.669998,
+    32.489992
 ],
-  "geometry": {"coordinates":[3.66999792340482,32.48999228823232],"type":"Point"}
+  "geometry": {"coordinates":[3.669998,32.489992],"type":"Point"}
 }

@@ -84,6 +84,9 @@
         "\u0aae\u0acb\u0ab8\u0acd\u0a9f\u0a97\u0ac7\u0aa8\u0aae"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05d8\u05d9\u05d9\u05e8\u05d5\u05e1"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d5\u05e1\u05ea\u05d2\u05d0\u05e0\u05dd"
     ],
     "name:hin_x_preferred":[
@@ -323,7 +326,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1636501715,
     "wof:name":"Mostaganem",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

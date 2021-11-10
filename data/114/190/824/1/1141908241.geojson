@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"1.3199604885,35.3804360138,1.3199604885,35.3804360138",
+    "geom:bbox":"1.31996,35.380436,1.31996,35.380436",
     "geom:latitude":35.380436,
     "geom:longitude":1.31996,
     "iso:country":"DZ",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Tiarat"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
     "ne:ADM0_A3":"DZA",
@@ -123,7 +126,7 @@
     "wof:concordances":{},
     "wof:country":"DZ",
     "wof:created":1499130857,
-    "wof:geomhash":"8df7063d5a3308a62912092fcf02de24",
+    "wof:geomhash":"385d9b129e035ef5c9f118f9765fe9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1141908241,
-    "wof:lastmodified":1566583776,
+    "wof:lastmodified":1636501726,
     "wof:name":"Tiarat",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",
@@ -143,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.31996048849948,
-    35.38043601382992,
-    1.31996048849948,
-    35.38043601382992
+    1.31996,
+    35.380436,
+    1.31996,
+    35.380436
 ],
-  "geometry": {"coordinates":[1.31996048849948,35.38043601382992],"type":"Point"}
+  "geometry": {"coordinates":[1.31996,35.380436],"type":"Point"}
 }

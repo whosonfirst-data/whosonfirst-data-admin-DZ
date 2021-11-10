@@ -114,6 +114,9 @@
         "Tlemcen"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05de\u05e1\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05ea\u05dc\u05de\u05e1\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
@@ -416,7 +419,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807359,
+    "wof:lastmodified":1636501712,
     "wof:name":"Tlemcen",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -95,8 +95,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab8\u0acd\u0a95\u0acd\u0ab0\u0acd\u0ab0\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e1\u05e7\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093f\u0938\u094d\u0915\u094d\u0930\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Biskra"
     ],
     "name:ina_x_preferred":[
         "Provincia Biskra"
@@ -334,7 +340,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807360,
+    "wof:lastmodified":1636501713,
     "wof:name":"Biskra",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

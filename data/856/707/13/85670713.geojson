@@ -128,6 +128,9 @@
     "name:hbs_x_preferred":[
         "Annaba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d0\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0928\u094d\u0928\u093e\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -425,7 +428,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501718,
     "wof:name":"Annaba",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

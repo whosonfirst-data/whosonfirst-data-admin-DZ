@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043b\u0436\u044b\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u099c\u09c7\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
@@ -75,8 +78,14 @@
     "name:glg_x_preferred":[
         "Provincia de Alxer"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d2\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0932\u094d\u091c\u0940\u092f\u0930\u094d\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Alg\u00edr"
     ],
     "name:ind_x_preferred":[
         "Provinsi Aljir"
@@ -303,7 +312,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1636501714,
     "wof:name":"Alger",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

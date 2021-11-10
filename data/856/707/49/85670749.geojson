@@ -103,6 +103,9 @@
     "name:hin_x_preferred":[
         "\u0918\u0930\u094d\u0921\u0948 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Ghardaia"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Ghardaia"
     ],
@@ -325,7 +328,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501717,
     "wof:name":"Ghardaia",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

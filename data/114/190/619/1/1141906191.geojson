@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.54500058388,35.700003096,4.54500058388,35.700003096",
+    "geom:bbox":"4.545001,35.700003,4.545001,35.700003",
     "geom:latitude":35.700003,
     "geom:longitude":4.545001,
     "iso:country":"DZ",
@@ -65,6 +65,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0938\u0940\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "M'sila"
     ],
     "name:ind_x_preferred":[
         "M'Sila"
@@ -272,7 +275,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130554,
-    "wof:geomhash":"353c7e76df980e477b0ceacdadbf7752",
+    "wof:geomhash":"ac81e1601787bd2f7a2606aa40c45eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":1141906191,
-    "wof:lastmodified":1566583773,
+    "wof:lastmodified":1636501725,
     "wof:name":"M'sila",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",
@@ -292,10 +295,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.54500058387941,
-    35.70000309604808,
-    4.54500058387941,
-    35.70000309604808
+    4.545001,
+    35.700003,
+    4.545001,
+    35.700003
 ],
-  "geometry": {"coordinates":[4.54500058387941,35.70000309604808],"type":"Point"}
+  "geometry": {"coordinates":[4.545001,35.700003],"type":"Point"}
 }

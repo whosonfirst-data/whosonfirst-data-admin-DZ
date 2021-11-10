@@ -50,6 +50,12 @@
     "name:fra_x_preferred":[
         "Bouira"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bouira"
+    ],
     "name:ita_x_preferred":[
         "Bouira"
     ],
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1226216581,
-    "wof:lastmodified":1566583681,
+    "wof:lastmodified":1636501724,
     "wof:name":"Bouira",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

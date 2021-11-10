@@ -104,8 +104,14 @@
     "name:hbs_x_preferred":[
         "Tiaret"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d0\u05e8\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u093f\u0905\u0930\u0947\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Tiaret"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tiaret"
@@ -368,7 +374,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1636501714,
     "wof:name":"Tiaret",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

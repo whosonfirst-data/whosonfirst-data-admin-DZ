@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"3.74999304059,25.279993102,3.74999304059,25.279993102",
+    "geom:bbox":"3.749993,25.279993,3.749993,25.279993",
     "geom:latitude":25.279993,
     "geom:longitude":3.749993,
     "iso:country":"DZ",
@@ -24,6 +24,15 @@
     "name:azb_x_preferred":[
         "\u0627\u0631\u06a9"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u0995"
+    ],
+    "name:deu_x_preferred":[
+        "Arak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Arak"
     ],
@@ -33,8 +42,62 @@
     "name:fra_x_preferred":[
         "Arak"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Arak"
+    ],
+    "name:ind_x_preferred":[
+        "Arak"
+    ],
+    "name:ita_x_preferred":[
+        "Arak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30c3\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub77c\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Arak"
+    ],
+    "name:pol_x_preferred":[
+        "Arak"
+    ],
     "name:por_x_preferred":[
         "Arak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0443\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Arak"
+    ],
+    "name:swe_x_preferred":[
+        "Arak"
+    ],
+    "name:tur_x_preferred":[
+        "Arak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Arak"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u62c9\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u62c9\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -143,7 +206,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131029,
-    "wof:geomhash":"f40c83e6ad03ca49b4990643e4db8074",
+    "wof:geomhash":"401f1e208c0b1648078ce272430f2bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +216,7 @@
         }
     ],
     "wof:id":1141909127,
-    "wof:lastmodified":1566583774,
+    "wof:lastmodified":1636501725,
     "wof:name":"Arak",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",
@@ -163,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.74999304059264,
-    25.27999310200562,
-    3.74999304059264,
-    25.27999310200562
+    3.749993,
+    25.279993,
+    3.749993,
+    25.279993
 ],
-  "geometry": {"coordinates":[3.74999304059264,25.27999310200562],"type":"Point"}
+  "geometry": {"coordinates":[3.749993,25.279993],"type":"Point"}
 }

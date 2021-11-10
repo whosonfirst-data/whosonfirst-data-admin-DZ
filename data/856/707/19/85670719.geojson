@@ -95,6 +95,9 @@
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a9f\u0abe\u0ab0\u0acd\u0aab \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d8\u05e8\u05e3"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0932 \u0924\u0930\u0947\u092b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -355,7 +358,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1636501716,
     "wof:name":"El Tarf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

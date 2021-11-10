@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"2.8299975165,36.4203466991,2.8299975165,36.4203466991",
+    "geom:bbox":"2.829998,36.420347,2.829998,36.420347",
     "geom:latitude":36.420347,
     "geom:longitude":2.829998,
     "iso:country":"DZ",
@@ -86,6 +86,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0932\u093f\u0926\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Blida"
     ],
     "name:hye_x_preferred":[
         "\u0532\u056c\u056b\u0564\u0561"
@@ -308,7 +311,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130858,
-    "wof:geomhash":"9322226b40b7b3cbe56426f45ca659fd",
+    "wof:geomhash":"b3b94f0b99e0b01eca64fa2b8f17e56b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":1141908243,
-    "wof:lastmodified":1566583776,
+    "wof:lastmodified":1636501727,
     "wof:name":"Blida",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",
@@ -328,10 +331,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.82999751650044,
-    36.42034669905536,
-    2.82999751650044,
-    36.42034669905536
+    2.829998,
+    36.420347,
+    2.829998,
+    36.420347
 ],
-  "geometry": {"coordinates":[2.82999751650044,36.42034669905536],"type":"Point"}
+  "geometry": {"coordinates":[2.829998,36.420347],"type":"Point"}
 }

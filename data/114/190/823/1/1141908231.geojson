@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.85998408878,33.3704036652,6.85998408878,33.3704036652",
+    "geom:bbox":"6.859984,33.370404,6.859984,33.370404",
     "geom:latitude":33.370404,
     "geom:longitude":6.859984,
     "iso:country":"DZ",
@@ -61,10 +61,16 @@
         "\u0a8f\u0ab2 \u0a93\u0aaf\u0aa1"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d0\u05d0\u05d5\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05dc-\u05d5\u05d0\u05d3"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0932 \u0915\u0948\u0926"
+    ],
+    "name:hun_x_preferred":[
+        "El-Oued"
     ],
     "name:ind_x_preferred":[
         "El Oued"
@@ -269,7 +275,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130855,
-    "wof:geomhash":"9e3bc55849c316353abcf4f28cbfa97d",
+    "wof:geomhash":"0801a98b0eb2db40f5a86a287ace39a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -279,7 +285,7 @@
         }
     ],
     "wof:id":1141908231,
-    "wof:lastmodified":1566583775,
+    "wof:lastmodified":1636501726,
     "wof:name":"El Oued",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",
@@ -289,10 +295,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.85998408878214,
-    33.37040366518903,
-    6.85998408878214,
-    33.37040366518903
+    6.859984,
+    33.370404,
+    6.859984,
+    33.370404
 ],
-  "geometry": {"coordinates":[6.85998408878214,33.37040366518903],"type":"Point"}
+  "geometry": {"coordinates":[6.859984,33.370404],"type":"Point"}
 }

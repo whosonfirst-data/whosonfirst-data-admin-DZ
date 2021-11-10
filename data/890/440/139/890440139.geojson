@@ -104,6 +104,9 @@
         "Annaba"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d0\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e2\u05e0\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
@@ -373,7 +376,7 @@
         }
     ],
     "wof:id":890440139,
-    "wof:lastmodified":1566583507,
+    "wof:lastmodified":1636501721,
     "wof:name":"Annaba",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

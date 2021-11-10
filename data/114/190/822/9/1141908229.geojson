@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"1.00995357118,33.6903582957,1.00995357118,33.6903582957",
+    "geom:bbox":"1.009954,33.690358,1.009954,33.690358",
     "geom:latitude":33.690358,
     "geom:longitude":1.009954,
     "iso:country":"DZ",
@@ -24,6 +24,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0644\u0628\u06cc\u0636"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09ac\u09be\u09df\u09be\u09a7"
+    ],
     "name:ceb_x_preferred":[
         "El Bayadh"
     ],
@@ -38,6 +41,15 @@
     ],
     "name:fra_x_preferred":[
         "El Bayadh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d1\u05d0\u05d9\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092c\u093e\u092f\u0925"
+    ],
+    "name:hun_x_preferred":[
+        "El-Bayadh"
     ],
     "name:ind_x_preferred":[
         "El Bayadh"
@@ -82,6 +94,9 @@
         "El Bayadh"
     ],
     "name:swe_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:tur_x_preferred":[
         "El Bayadh"
     ],
     "name:ukr_x_preferred":[
@@ -206,7 +221,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130855,
-    "wof:geomhash":"c3b2ab9a692ceb6f4daa75f49d5db0e2",
+    "wof:geomhash":"f12597f72251293177386f3db104b8d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -216,7 +231,7 @@
         }
     ],
     "wof:id":1141908229,
-    "wof:lastmodified":1566583777,
+    "wof:lastmodified":1636501727,
     "wof:name":"El Bayadh",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",
@@ -226,10 +241,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.00995357118052,
-    33.6903582957242,
-    1.00995357118052,
-    33.6903582957242
+    1.009954,
+    33.690358,
+    1.009954,
+    33.690358
 ],
-  "geometry": {"coordinates":[1.00995357118052,33.6903582957242],"type":"Point"}
+  "geometry": {"coordinates":[1.009954,33.690358],"type":"Point"}
 }

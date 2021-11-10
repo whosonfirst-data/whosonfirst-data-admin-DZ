@@ -210,6 +210,9 @@
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25 \u0e1a\u0e32\u0e2b\u0e22\u0e32\u0e14"
     ],
     "name:tur_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:tur_x_variant":[
         "El Beyaz Vilayeti"
     ],
     "name:ukr_x_preferred":[
@@ -356,7 +359,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1636501717,
     "wof:name":"El Bayadh",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

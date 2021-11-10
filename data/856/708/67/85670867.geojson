@@ -92,6 +92,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093f\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Mila"
+    ],
     "name:ina_x_preferred":[
         "Provincia Mila"
     ],
@@ -341,7 +344,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807360,
+    "wof:lastmodified":1636501713,
     "wof:name":"Mila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

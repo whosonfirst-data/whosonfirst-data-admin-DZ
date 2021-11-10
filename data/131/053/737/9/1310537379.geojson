@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Khenchela"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e0\u05e6'\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Khenchela"
+    ],
     "name:ita_x_preferred":[
         "Khenchela"
     ],
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1310537379,
-    "wof:lastmodified":1566583363,
+    "wof:lastmodified":1636501719,
     "wof:name":"Khenchela",
     "wof:parent_id":85670861,
     "wof:placetype":"locality",

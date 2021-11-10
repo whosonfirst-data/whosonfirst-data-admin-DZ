@@ -56,6 +56,12 @@
     "name:fra_x_preferred":[
         "Tiaret"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d0\u05e8\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Tiaret"
+    ],
     "name:ita_x_preferred":[
         "Tiaret"
     ],
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1310184551,
-    "wof:lastmodified":1566583380,
+    "wof:lastmodified":1636501719,
     "wof:name":"Tiaret",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",
