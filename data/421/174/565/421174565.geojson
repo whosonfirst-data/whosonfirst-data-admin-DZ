@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u062c \u0632\u0645\u0648\u0631\u0647"
     ],
     "name:ceb_x_preferred":[
         "Bordj Zemoura"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03c4\u03b6 \u0396\u03b5\u03bc\u03bf\u03c5\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Bordj Zemoura"
@@ -37,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Bordj Zemoura"
+    ],
+    "name:kab_x_preferred":[
+        "Bur\u01e7 Zemmura"
     ],
     "name:msa_x_preferred":[
         "Bordj Zemoura"
@@ -61,6 +70,9 @@
     ],
     "name:und_x_variant":[
         "Zemmoura"
+    ],
+    "name:uzb_x_preferred":[
+        "Bordj Zemoura"
     ],
     "name:vie_x_preferred":[
         "Bordj Zemoura"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421174565,
-    "wof:lastmodified":1566583488,
+    "wof:lastmodified":1690875516,
     "wof:name":"Bordj Zemoura",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

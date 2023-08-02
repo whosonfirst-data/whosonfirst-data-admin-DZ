@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0631\u064a\u0646\u060c\u0648\u0631\u0642\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0642\u0627\u0631\u064a\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0642\u0627\u0631\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259qarin"
     ],
     "name:ceb_x_preferred":[
         "Megarine"
@@ -39,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Megarine"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30ac\u30ea\u30fc\u30cc"
     ],
     "name:msa_x_preferred":[
         "Megarine"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":890435759,
-    "wof:lastmodified":1566583519,
+    "wof:lastmodified":1690875556,
     "wof:name":"Megarine",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

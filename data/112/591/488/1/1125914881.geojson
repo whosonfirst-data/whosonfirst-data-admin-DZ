@@ -28,11 +28,23 @@
     "name:ara_x_variant":[
         "\u0633\u064a\u062f\u064a \u0639\u0642\u0628\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0639\u0642\u0628\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Sidi-\u018fqb\u0259"
+    ],
     "name:cat_x_preferred":[
         "Sidi Okba"
     ],
     "name:ceb_x_preferred":[
         "Sidi Okba"
+    ],
+    "name:dan_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c4\u03af \u039f\u03ba\u03bc\u03c0\u03ac"
     ],
     "name:eng_x_preferred":[
         "Sidi Okba"
@@ -70,10 +82,16 @@
     "name:swe_x_preferred":[
         "Sidi Okba"
     ],
+    "name:tur_x_preferred":[
+        "Sidi Ukbe"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0639\u0642\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Sidi Okba"
+    ],
+    "name:zul_x_preferred":[
         "Sidi Okba"
     ],
     "qs_pg:aaroncc":"DZ",
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1125914881,
-    "wof:lastmodified":1566583521,
+    "wof:lastmodified":1690875562,
     "wof:name":"Sidi Okba",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

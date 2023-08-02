@@ -16,7 +16,70 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Tribu"
+    ],
+    "name:cat_x_preferred":[
+        "La Tribu"
+    ],
+    "name:dan_x_preferred":[
+        "La Tribu"
+    ],
+    "name:deu_x_preferred":[
+        "La Tribu"
+    ],
     "name:eng_x_preferred":[
+        "La Tribu"
+    ],
+    "name:eus_x_preferred":[
+        "La Tribu"
+    ],
+    "name:fin_x_preferred":[
+        "La Tribu"
+    ],
+    "name:fra_x_preferred":[
+        "La Tribu"
+    ],
+    "name:gle_x_preferred":[
+        "La Tribu"
+    ],
+    "name:hun_x_preferred":[
+        "La Tribu"
+    ],
+    "name:ita_x_preferred":[
+        "La Tribu"
+    ],
+    "name:nld_x_preferred":[
+        "La Tribu"
+    ],
+    "name:nno_x_preferred":[
+        "La Tribu"
+    ],
+    "name:nob_x_preferred":[
+        "La Tribu"
+    ],
+    "name:pol_x_preferred":[
+        "La Tribu"
+    ],
+    "name:por_x_preferred":[
+        "La Tribu"
+    ],
+    "name:ron_x_preferred":[
+        "La Tribu"
+    ],
+    "name:sme_x_preferred":[
+        "La Tribu"
+    ],
+    "name:spa_x_preferred":[
+        "La Tribu"
+    ],
+    "name:sqi_x_preferred":[
+        "La Tribu"
+    ],
+    "name:swe_x_preferred":[
+        "La Tribu"
+    ],
+    "name:tur_x_preferred":[
         "La Tribu"
     ],
     "qs:gn_country":"DZ",
@@ -64,7 +127,7 @@
         }
     ],
     "wof:id":421190891,
-    "wof:lastmodified":1566583498,
+    "wof:lastmodified":1690875527,
     "wof:name":"La Tribu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

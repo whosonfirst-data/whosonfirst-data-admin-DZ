@@ -65,6 +65,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03af\u03c3\u03ba\u03c1\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03af\u03c3\u03ba\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Biskra"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:fra_x_variant":[
         "Biskra"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Biskra"
     ],
     "name:glg_x_preferred":[
         "Provincia de Biskra"
@@ -218,8 +224,14 @@
     "name:war_x_preferred":[
         "Biskra"
     ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u65af\u514b\u62c9\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u6bd4\u65af\u514b\u62c9\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Biskra Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -340,7 +352,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501713,
+    "wof:lastmodified":1690875492,
     "wof:name":"Biskra",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

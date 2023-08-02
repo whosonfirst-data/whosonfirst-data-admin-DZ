@@ -36,7 +36,8 @@
         "\u063a\u0631\u062f\u0627\u064a\u0629"
     ],
     "name:ara_x_variant":[
-        "Ghardaia"
+        "Ghardaia",
+        "\u0648\u0644\u0627\u064a\u0629 \u063a\u0631\u062f\u0627\u064a\u0629"
     ],
     "name:azb_x_preferred":[
         "\u063a\u0631\u062f\u0627\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
@@ -62,14 +63,23 @@
     "name:ces_x_preferred":[
         "Ghard\u00e1ja"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Gharda\u00efa"
+    ],
     "name:dan_x_preferred":[
         "Gharda\u00efa Province"
     ],
     "name:deu_x_preferred":[
         "Ghardaia"
     ],
+    "name:deu_x_variant":[
+        "Wilaya Ghardaia"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03b1\u03c1\u03bd\u03c4\u03ac\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03b1\u03c1\u03bd\u03c4\u03ac\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ghardaia"
@@ -82,6 +92,9 @@
     "name:epo_x_preferred":[
         "Provinco Ghardaia"
     ],
+    "name:eus_x_preferred":[
+        "Ghardaiako probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u063a\u0631\u062f\u0627\u06cc\u0647"
     ],
@@ -93,6 +106,9 @@
     ],
     "name:fra_x_variant":[
         "Gharda\u00efa"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Gharda\u00efa"
     ],
     "name:glg_x_preferred":[
         "Provincia de Gharda\u00efa"
@@ -178,6 +194,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc8\u0baf\u0bc7  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc8\u0baf\u0bc7 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c3e\u0c30\u0c4d\u0c21\u0c3e\u0c2f\u0c3f\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -207,6 +226,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76d6\u5c14\u8fbe\u8036\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Gharda\u00efa Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -328,7 +350,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501717,
+    "wof:lastmodified":1690875501,
     "wof:name":"Ghardaia",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

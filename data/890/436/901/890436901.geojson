@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u064a\u0645\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0645\u064a\u0645\u0648\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0645\u06cc\u0645\u0648\u0646"
     ],
@@ -40,11 +43,17 @@
     "name:deu_x_preferred":[
         "Timimoun"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bc\u03b9\u03bc\u03bf\u03cd\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Timimoun"
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0645\u06cc\u0645\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Timimoun"
     ],
     "name:fra_x_preferred":[
         "Timimoun"
@@ -57,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Timimoun"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u056b\u0574\u056b\u0574\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Timimoun"
@@ -120,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u63d0\u7c73\u8499"
+    ],
+    "name:zul_x_preferred":[
+        "Timimoun"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -253,7 +268,7 @@
         }
     ],
     "wof:id":890436901,
-    "wof:lastmodified":1636501722,
+    "wof:lastmodified":1690875545,
     "wof:name":"Timimoun",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",

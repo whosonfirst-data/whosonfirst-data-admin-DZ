@@ -62,6 +62,9 @@
     "name:ces_x_preferred":[
         "Illizi"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Illizi"
+    ],
     "name:dan_x_preferred":[
         "Illizi Province"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03bb\u03bb\u03af\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0399\u03bb\u03b9\u03b6\u03af"
     ],
     "name:eng_x_preferred":[
         "Illizi"
@@ -83,6 +89,9 @@
     "name:epo_x_variant":[
         "Provinco Ilizi"
     ],
+    "name:eus_x_preferred":[
+        "Illiziko probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u06cc\u0632\u06cc"
     ],
@@ -94,6 +103,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya d'Illizi"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Illizi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Illizi"
@@ -251,6 +263,9 @@
     "name:zho_x_variant":[
         "\u4f0a\u5229\u6d4e\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Illizi Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -371,7 +386,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501716,
+    "wof:lastmodified":1690875499,
     "wof:name":"Illizi",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

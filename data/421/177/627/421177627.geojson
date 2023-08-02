@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
+    "name:ary_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:ast_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0627\u0644\u0628\u06cc\u0636\u0627\u0621"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fyn-B\u0259yda"
     ],
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a8 \u09ac\u09c7\u0987\u09a1\u09be"
@@ -32,8 +44,14 @@
     "name:dan_x_preferred":[
         "A\u00efn Be\u00efda"
     ],
+    "name:deu_x_preferred":[
+        "Ain Beida"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b9\u03bd \u039c\u03c0\u03b5\u0390\u03bd\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u0390\u03bd \u039c\u03c0\u03b5\u03ca\u03bd\u03c4\u03ac"
     ],
     "name:eng_x_preferred":[
         "A\u00efn Be\u00efda"
@@ -52,6 +70,9 @@
     ],
     "name:fra_x_preferred":[
         "A\u00efn B\u00e9\u00efda"
+    ],
+    "name:fra_x_variant":[
+        "A\u00efn Be\u00efda"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8 \u0aac\u0ac7\u0a88\u0aa1\u0abe"
@@ -122,11 +143,17 @@
     "name:spa_x_preferred":[
         "Ain Beida"
     ],
+    "name:swa_x_preferred":[
+        "A\u00efn Be\u00efda"
+    ],
     "name:swe_x_preferred":[
         "A\u00efn B\u00e9\u00efda"
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bcd\u0b9f\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0b86\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bcd\u0b9f\u0bbe "
     ],
     "name:tel_x_preferred":[
         "\u0c10\u0c28\u0c4d \u0c2c\u0c40\u0c21\u0c3e"
@@ -147,7 +174,8 @@
         "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627 \u060c \u0648\u0648\u0645 \u0627\u0644 \u0628\u0648\u0648\u0627\u06af\u06be\u06cc"
     ],
     "name:urd_x_variant":[
-        "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627"
+        "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627",
+        "\u0627\u00ef\u0646 \u0628\u06cc\u00ef\u062f\u0627 "
     ],
     "name:vie_x_preferred":[
         "Ain Beida"
@@ -157,6 +185,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u56e0\u8d1d\u8fbe"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00efn Be\u00efda"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -204,7 +235,7 @@
         }
     ],
     "wof:id":421177627,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1690875531,
     "wof:name":"Ain Beida",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

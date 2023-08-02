@@ -51,6 +51,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tamanghasset"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u043d\u0440\u0430\u0441\u0441\u0435\u0442"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Tamanghasset"
+    ],
     "name:dan_x_preferred":[
         "Tamanghasset Province"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bc\u03b1\u03b3\u03ba\u03b1\u03c3\u03c3\u03ad\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b1\u03bc\u03b1\u03bd\u03c1\u03b1\u03c3\u03c3\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tamanghasset"
@@ -89,6 +98,9 @@
     "name:fra_x_variant":[
         "Tamanrasset"
     ],
+    "name:gle_x_preferred":[
+        "C\u00faige Tamanrasset"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Tamanrasset"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:hun_x_preferred":[
         "Tamanghasset"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0574\u0561\u0576\u0580\u0561\u057d\u0565\u0569"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tamanghasset"
@@ -221,8 +236,14 @@
     "name:war_x_preferred":[
         "Tamanrasset"
     ],
+    "name:wuu_x_preferred":[
+        "\u5854\u66fc\u62c9\u585e\u7279\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5854\u66fc\u62c9\u585e\u7279\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Tamanrasset Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -342,7 +363,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501715,
+    "wof:lastmodified":1690875496,
     "wof:name":"Tamanghasset",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

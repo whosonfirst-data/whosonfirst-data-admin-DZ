@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u0645\u0631\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0639\u0645\u0631\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0639\u0645\u0631\u0627\u0646"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Sidi Amrane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c7\u30a3\u30fb\u30a2\u30e0\u30e9\u30cd"
     ],
     "name:msa_x_preferred":[
         "Sidi Amrane"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421196657,
-    "wof:lastmodified":1566583496,
+    "wof:lastmodified":1690875525,
     "wof:name":"Sidi Amrane",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

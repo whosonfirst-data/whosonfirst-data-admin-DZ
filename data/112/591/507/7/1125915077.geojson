@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0644\u0639\u0628\u062f\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0627\u0644\u0639\u0628\u062f\u0644\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0639\u0628\u062f\u0644\u06cc"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Sidi Abdelli"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi \u0190ebdelli"
     ],
     "name:msa_x_preferred":[
         "Sidi Abdelli"
@@ -70,7 +76,13 @@
     "name:und_x_variant":[
         "Les Abdellys"
     ],
+    "name:uzb_x_preferred":[
+        "Sidi Abdelli"
+    ],
     "name:vie_x_preferred":[
+        "Sidi Abdelli"
+    ],
+    "name:zul_x_preferred":[
         "Sidi Abdelli"
     ],
     "qs_pg:aaroncc":"DZ",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1125915077,
-    "wof:lastmodified":1566583521,
+    "wof:lastmodified":1690875561,
     "wof:name":"Sidi Abdelli",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

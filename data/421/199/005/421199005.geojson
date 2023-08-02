@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u0639\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0633\u0639\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0633\u0639\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259s\u0259d"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b8\u09b8\u09be\u09a6"
@@ -31,6 +37,9 @@
     ],
     "name:dan_x_preferred":[
         "Messa\u00e2d"
+    ],
+    "name:deu_x_preferred":[
+        "Messaad"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03c3\u03b1\u03ac\u03bd\u03c4"
@@ -64,6 +73,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30b7\u30e3\u30fc\u30aa\u30fc\u30c9"
+    ],
+    "name:kab_x_preferred":[
+        "Mes\u025bed"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc6\u0cb8\u0ccd\u0cb8\u0cbe\u0ca6\u0ccd"
@@ -109,6 +121,12 @@
     ],
     "name:spa_x_preferred":[
         "Messa\u00e2d"
+    ],
+    "name:spa_x_variant":[
+        "Messaad"
+    ],
+    "name:swa_x_preferred":[
+        "Messaad"
     ],
     "name:swe_x_preferred":[
         "Messaad"
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":421199005,
-    "wof:lastmodified":1566583499,
+    "wof:lastmodified":1690875528,
     "wof:name":"Messaad",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

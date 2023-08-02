@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0623\u0645\u0642\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0645\u0642\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0627\u0645\u0642\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130n-\u018fmg\u0259l"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09a8 \u0986\u09ae\u0997\u09c1\u09df\u09c7\u09b2"
@@ -54,6 +60,9 @@
     "name:ind_x_preferred":[
         "Bandar Udara In Guezzam"
     ],
+    "name:ind_x_variant":[
+        "In Amguel"
+    ],
     "name:ita_x_preferred":[
         "In Amguel"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang In Guezzam"
+    ],
+    "name:msa_x_variant":[
+        "In Amguel"
     ],
     "name:nan_x_preferred":[
         "In Amguel"
@@ -110,6 +122,9 @@
     ],
     "name:zho_x_preferred":[
         "\u56e0\u963f\u59c6\u84cb\u52d2"
+    ],
+    "name:zul_x_preferred":[
+        "In Amguel"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -228,7 +243,7 @@
         }
     ],
     "wof:id":1141908227,
-    "wof:lastmodified":1636501727,
+    "wof:lastmodified":1690875571,
     "wof:name":"In Amguel",
     "wof:parent_id":85670735,
     "wof:placetype":"locality",

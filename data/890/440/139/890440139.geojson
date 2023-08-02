@@ -28,11 +28,17 @@
     "name:arq_x_preferred":[
         "\u0639\u0646\u0627\u0628\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0646\u0627\u0628\u0647"
+    ],
     "name:ast_x_preferred":[
         "Annaba"
     ],
     "name:azb_x_preferred":[
         "\u0639\u0646\u0627\u0628\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fnnab\u0259"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09a8\u09be\u09ac\u09be"
@@ -94,8 +100,20 @@
     "name:fra_x_variant":[
         "Annaba"
     ],
+    "name:frr_x_preferred":[
+        "Annaba"
+    ],
+    "name:fry_x_preferred":[
+        "Annaba"
+    ],
+    "name:gle_x_preferred":[
+        "Annaba"
+    ],
     "name:glg_x_preferred":[
         "Annaba - \u0633\u064a\u0627\u062d\u0629"
+    ],
+    "name:glg_x_variant":[
+        "Annaba"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa8\u0acd\u0aa8\u0abe\u0aac\u0abe"
@@ -107,7 +125,8 @@
         "\u05d0\u05e0\u05d0\u05d1\u05d4"
     ],
     "name:heb_x_variant":[
-        "\u05e2\u05e0\u05d1\u05d4"
+        "\u05e2\u05e0\u05d1\u05d4",
+        "\u05e2\u05e0\u05d0\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0928\u094d\u0928\u093e\u092c\u093e"
@@ -120,6 +139,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u0576\u0561\u0562\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Annaba"
     ],
     "name:ind_x_preferred":[
         "Annaba"
@@ -135,6 +157,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0ca8\u0cbe\u0cac\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d0\u10d1\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043d\u043d\u0430\u0431\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
@@ -154,11 +179,17 @@
     "name:lit_x_preferred":[
         "Anaba"
     ],
+    "name:ltz_x_preferred":[
+        "Annaba"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u0928\u094d\u200d\u0928\u093e\u092c\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043d\u0430\u0431\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Annaba"
     ],
     "name:msa_x_preferred":[
         "Annaba"
@@ -177,6 +208,12 @@
     ],
     "name:oci_x_preferred":[
         "Annaba"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u0431\u00e6"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a70\u0a28\u0a3e\u0a2c\u0a3e"
     ],
     "name:pnb_x_preferred":[
         "\u0639\u0646\u0627\u0628\u06c1"
@@ -232,6 +269,9 @@
     "name:tur_x_preferred":[
         "Annaba"
     ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0646\u0646\u0627\u0628\u06d5"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u043d\u0430\u0431\u0430"
     ],
@@ -244,11 +284,23 @@
     "name:uzb_x_preferred":[
         "Annaba"
     ],
+    "name:uzb_x_variant":[
+        "Annoba"
+    ],
+    "name:vec_x_preferred":[
+        "Annaba"
+    ],
     "name:vie_x_preferred":[
         "Annaba"
     ],
     "name:war_x_preferred":[
         "Annaba"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u7eb3\u5df4"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u7d0d\u5df4"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u7eb3\u5df4"
@@ -376,7 +428,7 @@
         }
     ],
     "wof:id":890440139,
-    "wof:lastmodified":1636501721,
+    "wof:lastmodified":1690875540,
     "wof:name":"Annaba",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

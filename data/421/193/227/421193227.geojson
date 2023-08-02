@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0627\u0634\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0627\u0634\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0648\u0627\u0634\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Rouached"
     ],
     "name:eng_x_preferred":[
         "Rouached"
@@ -34,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Rouached"
+    ],
+    "name:kab_x_preferred":[
+        "Rrwaced"
     ],
     "name:msa_x_preferred":[
         "Rouached"
@@ -51,6 +60,9 @@
         "Rouached"
     ],
     "name:spa_x_preferred":[
+        "Rouached"
+    ],
+    "name:swe_x_preferred":[
         "Rouached"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":421193227,
-    "wof:lastmodified":1566583484,
+    "wof:lastmodified":1690875511,
     "wof:name":"Rouached",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:cym_x_preferred":[
         "Souk-Ahras"
     ],
+    "name:cym_x_variant":[
+        "Talaith Souk Ahras"
+    ],
     "name:dan_x_preferred":[
         "Souk Ahras Province"
     ],
@@ -68,6 +71,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03ba \u0391\u03c7\u03c1\u03ac\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03bf\u03c5\u03ba \u0391\u03c7\u03c1\u03ac\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Souk Ahras"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Suk Ahras"
+    ],
+    "name:eus_x_preferred":[
+        "Souk Ahrasko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0642 \u0627\u0647\u0631\u0627\u0633\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -91,6 +100,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Souk Ahras"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Souk Ahras"
     ],
     "name:glg_x_preferred":[
         "Provincia de Souk Ahras"
@@ -257,6 +269,9 @@
     "name:zho_x_variant":[
         "\u82cf\u683c\u827e\u8d6b\u62c9\u65af\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Souk Ahras Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -377,7 +392,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501713,
+    "wof:lastmodified":1690875493,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

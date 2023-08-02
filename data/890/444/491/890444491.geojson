@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0632\u064a\u0646\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0632\u064a\u0646\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Brezina"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u06cc\u0632\u06cc\u0646\u0647"
     ],
@@ -31,6 +37,9 @@
     "name:eng_x_preferred":[
         "Br\u00e9zina"
     ],
+    "name:eng_x_variant":[
+        "Brezina"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u06cc\u0632\u06cc\u0646\u0647"
     ],
@@ -39,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Brezina"
+    ],
+    "name:kab_x_preferred":[
+        "Brizina"
     ],
     "name:msa_x_preferred":[
         "Br\u00e9zina"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":890444491,
-    "wof:lastmodified":1566583512,
+    "wof:lastmodified":1690875548,
     "wof:name":"Brezina",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",

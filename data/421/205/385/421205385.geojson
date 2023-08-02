@@ -20,17 +20,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0641\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0641\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Chiffa"
     ],
     "name:eng_x_preferred":[
         "Chiffa"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u0641\u0647"
+    ],
     "name:fra_x_preferred":[
         "Chiffa"
     ],
     "name:ita_x_preferred":[
         "Chiffa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30d5\u30a1"
     ],
     "name:msa_x_preferred":[
         "Chiffa"
@@ -63,6 +72,9 @@
         "Chiffa"
     ],
     "name:zho_min_nan_x_preferred":[
+        "Chiffa"
+    ],
+    "name:zul_x_preferred":[
         "Chiffa"
     ],
     "qs:gn_country":"DZ",
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421205385,
-    "wof:lastmodified":1566583487,
+    "wof:lastmodified":1690875515,
     "wof:name":"Chiffa",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

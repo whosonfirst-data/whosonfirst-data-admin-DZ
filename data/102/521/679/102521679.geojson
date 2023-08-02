@@ -22,8 +22,14 @@
     "name:ast_x_preferred":[
         "Aeropuertu Internacional Mohamed Boudiaf"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Mohamed Boudiaf"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Constantine"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039c\u03bf\u03c7\u03ac\u03bc\u03b5\u03bd\u03c4 \u039c\u03c0\u03bf\u03c5\u03bd\u03c4\u03b9\u03ac\u03c6"
     ],
     "name:eng_x_preferred":[
         "Mohamed Boudiaf International Airport"
@@ -40,6 +46,9 @@
     ],
     "name:glg_x_preferred":[
         "Aeroporto Mohamed Boudiaf"
+    ],
+    "name:hun_x_preferred":[
+        "Kaszent\u00ednai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Mohamed Boudiaf"
@@ -70,6 +79,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043c\u0443\u04b3\u0430\u043c\u043c\u0430\u0434 \u0431\u0443\u0437\u0438\u043e\u0444"
+    ],
+    "name:tur_x_preferred":[
+        "Konstantin Muhammed Budiaf Havaliman\u0131"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Mohamed Boudiaf"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":102521679,
-    "wof:lastmodified":1566582799,
+    "wof:lastmodified":1690875488,
     "wof:name":"Ain El Bey Airport",
     "wof:parent_id":85670855,
     "wof:placetype":"campus",

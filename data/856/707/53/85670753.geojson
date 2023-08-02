@@ -56,6 +56,9 @@
     "name:ceb_x_preferred":[
         "Laghouat"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Laghouat"
+    ],
     "name:dan_x_preferred":[
         "Laghouat Province"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Laghouat"
@@ -94,6 +100,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Laghouat"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Laghouat"
     ],
     "name:glg_x_preferred":[
         "Provincia de Laghouat"
@@ -248,11 +257,17 @@
     "name:war_x_preferred":[
         "Laghouat"
     ],
+    "name:wuu_x_preferred":[
+        "\u827e\u683c\u74e6\u7279\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u827e\u683c\u74e6\u7279"
     ],
     "name:zho_x_variant":[
         "\u827e\u683c\u74e6\u7279\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Laghouat Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -374,7 +389,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501716,
+    "wof:lastmodified":1690875499,
     "wof:name":"Laghouat",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

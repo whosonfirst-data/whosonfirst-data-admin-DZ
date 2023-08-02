@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u064a\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u064a\u0639\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0644\u06cc\u0639\u0647"
     ],
@@ -62,6 +65,9 @@
     "name:ron_x_variant":[
         "Kolea"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0430"
+    ],
     "name:spa_x_preferred":[
         "Kol\u00e9a"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Kol\u00e9a"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u96f7\u963f"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421168053,
-    "wof:lastmodified":1566583480,
+    "wof:lastmodified":1690875507,
     "wof:name":"Kolea",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

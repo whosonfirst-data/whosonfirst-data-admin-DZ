@@ -23,8 +23,14 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0645\u0631\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0645\u0631\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "'A\u00efn Merane"
     ],
     "name:eng_x_preferred":[
         "Ain Merane"
@@ -44,6 +50,9 @@
     "name:ita_x_variant":[
         "A\u00efn Merane"
     ],
+    "name:kab_x_preferred":[
+        "\u0190in Merran"
+    ],
     "name:msa_x_preferred":[
         "Ain Merane"
     ],
@@ -59,6 +68,9 @@
     "name:ron_x_preferred":[
         "A\u00efn Merane"
     ],
+    "name:swe_x_preferred":[
+        "'A\u00efn Merane"
+    ],
     "name:und_x_variant":[
         "Rabelais"
     ],
@@ -73,6 +85,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u56e0\u9081\u862d"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00efn Merane"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":421196675,
-    "wof:lastmodified":1566583495,
+    "wof:lastmodified":1690875524,
     "wof:name":"'Ain Merane",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

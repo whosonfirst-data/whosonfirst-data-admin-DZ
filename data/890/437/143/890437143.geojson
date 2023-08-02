@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0637\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0637\u064a\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0637\u06cc\u0647"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Chettia"
+    ],
+    "name:kab_x_preferred":[
+        "Ce\u1e6d\u1e6deyya"
     ],
     "name:lit_x_preferred":[
         "\u0160etija"
@@ -58,11 +64,20 @@
     "name:ron_x_preferred":[
         "Chettia"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0442\u0442\u0438\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Chettia"
+    ],
+    "name:swa_x_preferred":[
         "Chettia"
     ],
     "name:swe_x_preferred":[
         "Ech Chettia"
+    ],
+    "name:tur_x_preferred":[
+        "Chettia"
     ],
     "name:und_x_variant":[
         "Ech Ch\u00e9tia"
@@ -71,6 +86,9 @@
         "\u0634\u0637\u06cc\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Chettia"
+    ],
+    "name:zul_x_preferred":[
         "Chettia"
     ],
     "qs:name":"Ech Chettia",
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":890437143,
-    "wof:lastmodified":1566583509,
+    "wof:lastmodified":1690875543,
     "wof:name":"Ech Chettia",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

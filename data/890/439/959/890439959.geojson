@@ -31,11 +31,17 @@
     "name:arz_x_preferred":[
         "\u0642\u0633\u0646\u0637\u064a\u0646\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Constantine"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0633\u0646\u0637\u06cc\u0646\u0647"
     ],
     "name:aze_x_preferred":[
         "Konstantin"
+    ],
+    "name:aze_x_variant":[
+        "Q\u00fcs\u0259ntin\u0259"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430"
@@ -54,6 +60,9 @@
     ],
     "name:ces_x_preferred":[
         "Constantine"
+    ],
+    "name:cos_x_preferred":[
+        "Costantina"
     ],
     "name:cym_x_preferred":[
         "Constantine"
@@ -91,6 +100,15 @@
     "name:fra_x_preferred":[
         "Constantine"
     ],
+    "name:frr_x_preferred":[
+        "Constantine"
+    ],
+    "name:fry_x_preferred":[
+        "Konstantine"
+    ],
+    "name:gle_x_preferred":[
+        "Constantine"
+    ],
     "name:glg_x_preferred":[
         "Constantina"
     ],
@@ -114,6 +132,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0576\u057d\u057f\u0561\u0576\u057f\u056b\u0576\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Constantine"
     ],
     "name:ind_x_preferred":[
         "Constantine"
@@ -145,6 +166,9 @@
     "name:lat_x_preferred":[
         "Cirta"
     ],
+    "name:lat_x_variant":[
+        "Constantina Algerii"
+    ],
     "name:lav_x_preferred":[
         "Konstantina"
     ],
@@ -174,6 +198,9 @@
     ],
     "name:oci_x_preferred":[
         "Constantina"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u0642\u0633\u0646\u0637\u06cc\u0646\u06c1"
@@ -208,8 +235,14 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Constantine"
+    ],
     "name:swe_x_preferred":[
         "Constantine"
+    ],
+    "name:szl_x_preferred":[
+        "K\u016fnstantyna"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd\u0b9f\u0bc8\u0ba9\u0bcd"
@@ -223,6 +256,9 @@
     "name:tur_x_preferred":[
         "Konstantin"
     ],
+    "name:uig_x_preferred":[
+        "\u0642\u06c7\u0633\u06d5\u0646\u062a\u0649\u0646\u06d5"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0456\u043d\u0430"
     ],
@@ -232,6 +268,12 @@
     "name:uzb_x_preferred":[
         "Konstantina"
     ],
+    "name:uzb_x_variant":[
+        "Qusantina"
+    ],
+    "name:vec_x_preferred":[
+        "Costantina"
+    ],
     "name:vie_x_preferred":[
         "Constantine"
     ],
@@ -239,6 +281,9 @@
         "Constantine"
     ],
     "name:wuu_x_preferred":[
+        "\u541b\u58eb\u5766\u4e01"
+    ],
+    "name:yue_x_preferred":[
         "\u541b\u58eb\u5766\u4e01"
     ],
     "name:zho_x_preferred":[
@@ -367,7 +412,7 @@
         }
     ],
     "wof:id":890439959,
-    "wof:lastmodified":1636501722,
+    "wof:lastmodified":1690875542,
     "wof:name":"Constantine",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

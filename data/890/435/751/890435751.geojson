@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062a\u0644\u064a\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062a\u0644\u064a\u0644\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u062a\u0644\u06cc\u0644\u06cc"
     ],
     "name:ceb_x_preferred":[
         "Metlili Chaamba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03bb\u03b9\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Metlili"
@@ -42,6 +48,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30c8\u30ea\u30ea"
+    ],
+    "name:kab_x_preferred":[
+        "Metlili"
     ],
     "name:msa_x_preferred":[
         "Metlili"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":890435751,
-    "wof:lastmodified":1566583518,
+    "wof:lastmodified":1690875556,
     "wof:name":"Metlili Chaamba",
     "wof:parent_id":85670749,
     "wof:placetype":"locality",

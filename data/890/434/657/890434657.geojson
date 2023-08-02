@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0639\u0648\u064a\u0646\u0627\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u064a\u0646\u0627\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0648\u06cc\u0646\u0627\u062a"
     ],
@@ -70,11 +73,20 @@
     "name:und_x_variant":[
         "Clairefontaine"
     ],
+    "name:uzb_x_preferred":[
+        "Al-Aouinet"
+    ],
     "name:vie_x_preferred":[
         "El-Aouinnet"
     ],
     "name:zho_x_preferred":[
         "\u5967\u4f0a\u5948\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u6b27\u97e6\u7eb3\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "El Aouinet"
     ],
     "qs:name":"El Aouinet",
     "qs:photos_9r":0,
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":890434657,
-    "wof:lastmodified":1566583515,
+    "wof:lastmodified":1690875551,
     "wof:name":"El Aouinet",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

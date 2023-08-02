@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u062d\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u064a\u062d\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0641\u0631\u06cc\u062d\u0647"
     ],
@@ -65,6 +68,9 @@
     "name:und_x_variant":[
         "Freda"
     ],
+    "name:uzb_x_preferred":[
+        "Freha"
+    ],
     "name:vie_x_preferred":[
         "Freha"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5f17\u96f7\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Freha"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421178867,
-    "wof:lastmodified":1566583502,
+    "wof:lastmodified":1690875534,
     "wof:name":"Freha",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

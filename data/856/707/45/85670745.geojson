@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Provincia d'El Oued"
     ],
+    "name:ast_x_variant":[
+        "provincia d'El Oued"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0648\u0627\u062f\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -59,6 +62,9 @@
     "name:ceb_x_preferred":[
         "El Oued"
     ],
+    "name:cym_x_preferred":[
+        "Talaith El Oued"
+    ],
     "name:dan_x_preferred":[
         "El Oued"
     ],
@@ -68,6 +74,9 @@
     "name:ell_x_preferred":[
         "\u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "El Oued"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco El Ued"
+    ],
+    "name:eus_x_preferred":[
+        "El Ouedeko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0627\u062f\u06cc\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -91,6 +103,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya d'El Oued"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige El Oued"
     ],
     "name:glg_x_preferred":[
         "Provincia de El Oued"
@@ -139,6 +154,9 @@
     ],
     "name:lad_x_preferred":[
         "Wilaya de El Wed"
+    ],
+    "name:lat_x_preferred":[
+        "Potamopolitana"
     ],
     "name:lav_x_preferred":[
         "V\u0101das vil\u0101ja"
@@ -259,6 +277,9 @@
     ],
     "name:zho_x_variant":[
         "\u74e6\u8fea\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "El Oued Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -383,7 +404,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501715,
+    "wof:lastmodified":1690875497,
     "wof:name":"El Oued",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0634\u0639\u0628\u0629 \u0627\u0644\u0639\u0627\u0645\u0631"
     ],
+    "name:aze_x_preferred":[
+        "\u015e\u0259\u0259ba \u0259l-\u018fmr"
+    ],
     "name:ceb_x_preferred":[
         "Chabet el Ameur"
     ],
     "name:eng_x_preferred":[
         "Chabet el Ameur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0639\u0628\u0647 \u0627\u0644\u0639\u0627\u0645\u0631"
     ],
     "name:fra_x_preferred":[
         "Chabet el Ameur"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":890437153,
-    "wof:lastmodified":1566583509,
+    "wof:lastmodified":1690875543,
     "wof:name":"Chabet el Ameur",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

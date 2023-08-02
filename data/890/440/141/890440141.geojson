@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0642\u0631\u062a"
     ],
+    "name:arq_x_preferred":[
+        "\u062a\u06a8\u0631\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0642\u0631\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Touggourt"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0642\u0648\u0631\u062a"
     ],
@@ -36,6 +45,9 @@
     ],
     "name:ceb_x_preferred":[
         "Touggourt"
+    ],
+    "name:ces_x_preferred":[
+        "Tukkurt"
     ],
     "name:dan_x_preferred":[
         "Touggourt"
@@ -56,7 +68,8 @@
         "\u062a\u0642\u0648\u0631\u062a\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
     "name:fas_x_variant":[
-        "\u062a\u0642\u0648\u0631\u062a"
+        "\u062a\u0642\u0648\u0631\u062a",
+        "\u062a\u0642\u0631\u062a"
     ],
     "name:fin_x_preferred":[
         "Touggourt"
@@ -84,6 +97,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30fc\u30b0\u30e9"
+    ],
+    "name:kab_x_preferred":[
+        "Tuggurt"
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0ccc\u0c97\u0ccd\u0cb5\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd"
@@ -121,6 +137,9 @@
     "name:por_x_preferred":[
         "Touggourt"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0648\u0642\u0631\u062a"
+    ],
     "name:ron_x_preferred":[
         "Touggourt"
     ],
@@ -132,6 +151,9 @@
     ],
     "name:spa_x_preferred":[
         "Touggourt"
+    ],
+    "name:spa_x_variant":[
+        "Tuggurt"
     ],
     "name:swe_x_preferred":[
         "Touggourt"
@@ -297,7 +319,7 @@
         }
     ],
     "wof:id":890440141,
-    "wof:lastmodified":1636501722,
+    "wof:lastmodified":1690875540,
     "wof:name":"Touggourt",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

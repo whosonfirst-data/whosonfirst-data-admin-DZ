@@ -53,6 +53,9 @@
     "name:ceb_x_preferred":[
         "Chlef"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Chlef"
+    ],
     "name:dan_x_preferred":[
         "Chlef Province"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bb\u03b5\u03c6"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03bb\u03b5\u03c6"
     ],
     "name:eng_x_preferred":[
         "Chlef"
@@ -88,6 +94,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Chlef"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Chlef"
     ],
     "name:glg_x_preferred":[
         "Provincia de Chlef"
@@ -245,11 +254,17 @@
     "name:war_x_preferred":[
         "Chlef"
     ],
+    "name:wuu_x_preferred":[
+        "\u8c22\u91cc\u592b\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u8c22\u91cc\u592b\u5e02"
     ],
     "name:zho_x_variant":[
         "\u8c22\u91cc\u592b\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Chlef Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -373,7 +388,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501716,
+    "wof:lastmodified":1690875498,
     "wof:name":"Chlef",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -22,10 +22,19 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0644\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "El Kala"
+    ],
     "name:cat_x_preferred":[
         "El Kala"
     ],
     "name:ceb_x_preferred":[
+        "El Kala"
+    ],
+    "name:dan_x_preferred":[
         "El Kala"
     ],
     "name:deu_x_preferred":[
@@ -48,11 +57,17 @@
         "Port de la Calle",
         "El Kala"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e7\u05d0\u05dc\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Al-K\u00e1la"
     ],
     "name:ita_x_preferred":[
         "El Kala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30ab\u30e9"
     ],
     "name:kab_x_preferred":[
         "Lqala"
@@ -83,6 +98,9 @@
     ],
     "name:swe_x_preferred":[
         "El Kala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0430\u043b\u0430"
     ],
     "name:vie_x_preferred":[
         "El Kala"
@@ -121,7 +139,7 @@
         }
     ],
     "wof:id":890420423,
-    "wof:lastmodified":1566583515,
+    "wof:lastmodified":1690875550,
     "wof:name":"El Kala",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

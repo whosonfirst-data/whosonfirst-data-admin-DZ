@@ -45,10 +45,14 @@
         "Basilique Notre-Dame d'Afrique"
     ],
     "name:fra_x_variant":[
-        "basilique Notre-Dame d'Afrique"
+        "basilique Notre-Dame d'Afrique",
+        "basilique Notre-Dame-d'Afrique"
     ],
     "name:hrv_x_preferred":[
         "Bazilika Majke Bo\u017eje Afri\u010dke u Al\u017eiru"
+    ],
+    "name:ind_x_preferred":[
+        "Basilika Bunda Maria dari Afrika"
     ],
     "name:ita_x_preferred":[
         "Basilica di Nostra Signora d'Africa"
@@ -70,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Notre Dame d'Afrique"
+    ],
+    "name:tur_x_preferred":[
+        "Afrika Meryem Ana Bazilikas\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u043e\u0440 \u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u043e\u0457 \u0411\u043e\u0433\u043e\u043c\u0430\u0442\u0435\u0440\u0456"
@@ -120,7 +127,7 @@
         }
     ],
     "wof:id":421172687,
-    "wof:lastmodified":1566583493,
+    "wof:lastmodified":1690875521,
     "wof:name":"Notre Dame D'afrique",
     "wof:parent_id":85670761,
     "wof:placetype":"locality",

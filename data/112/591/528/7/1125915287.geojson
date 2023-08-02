@@ -25,8 +25,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0634\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "B\u00e9char"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0634\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0259\u015far"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0448\u0430\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0995\u09b9\u09be\u09b0"
@@ -130,6 +142,9 @@
     "name:por_x_preferred":[
         "B\u00e9char"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0634\u0627\u0631"
+    ],
     "name:ron_x_preferred":[
         "Bechar"
     ],
@@ -153,6 +168,9 @@
     ],
     "name:sqi_x_preferred":[
         "Bechar"
+    ],
+    "name:swa_x_preferred":[
+        "B\u00e9char"
     ],
     "name:swe_x_preferred":[
         "B\u00e9char"
@@ -189,6 +207,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d1d\u6c99\u5c14"
+    ],
+    "name:zul_x_preferred":[
+        "B\u00e9char"
     ],
     "qs_pg:aaroncc":"DZ",
     "qs_pg:gn_country":"DZ",
@@ -227,7 +248,7 @@
         }
     ],
     "wof:id":1125915287,
-    "wof:lastmodified":1566583520,
+    "wof:lastmodified":1690875560,
     "wof:name":"B\u00e9char",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

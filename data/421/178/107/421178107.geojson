@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062c\u064a\u0646 \u0623\u062a\u064a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u062c\u064a\u0646 \u0627\u062a\u064a\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Eug\u00e8ne \u00c9tienne"
     ],
@@ -37,6 +40,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0698\u0646 \u0627\u062a\u06cc\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Eug\u00e8ne \u00c9tienne"
+    ],
     "name:fra_x_preferred":[
         "Eug\u00e8ne \u00c9tienne"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:ita_x_preferred":[
         "Eug\u00e8ne \u00c9tienne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b8\u30a7\u30fc\u30cc\u30fb\u30a8\u30c6\u30a3\u30a8\u30f3\u30cc"
     ],
     "name:lat_x_preferred":[
         "Eugenius \u00c9tienne"
@@ -73,7 +82,13 @@
     "name:nob_x_preferred":[
         "Eug\u00e8ne \u00c9tienne"
     ],
+    "name:pap_x_preferred":[
+        "Eug\u00e8ne \u00c9tienne"
+    ],
     "name:pol_x_preferred":[
+        "Eug\u00e8ne \u00c9tienne"
+    ],
+    "name:por_x_preferred":[
         "Eug\u00e8ne \u00c9tienne"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +105,9 @@
     ],
     "name:und_x_variant":[
         "\u00c9tienne"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c24\u91d1\u00b7\u827e\u8482\u5b89"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":421178107,
-    "wof:lastmodified":1566583502,
+    "wof:lastmodified":1690875534,
     "wof:name":"Eug\u00e8ne \u00c9tienne",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

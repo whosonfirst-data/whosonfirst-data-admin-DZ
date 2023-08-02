@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u064a\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u064a\u0639\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0631\u06cc\u0639\u0647"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Cheria"
+    ],
+    "name:kab_x_preferred":[
+        "Ccri\u025ba"
     ],
     "name:msa_x_preferred":[
         "Cheria"
@@ -61,11 +67,20 @@
     "name:spa_x_preferred":[
         "Cheria"
     ],
+    "name:swa_x_preferred":[
+        "Cheria"
+    ],
     "name:swe_x_preferred":[
         "Cheria"
     ],
+    "name:uzb_x_preferred":[
+        "Cheriya"
+    ],
     "name:zho_x_preferred":[
         "\u820d\u91cc\u8036"
+    ],
+    "name:zul_x_preferred":[
+        "Cheria"
     ],
     "qs:name":"Cheria",
     "qs:photos_9r":0,
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":890432329,
-    "wof:lastmodified":1566583517,
+    "wof:lastmodified":1690875553,
     "wof:name":"Cheria",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

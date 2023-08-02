@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0633\u0643\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0639\u0633\u0643\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Mascara"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0639\u0633\u06a9\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259sk\u0259r"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0441\u043a\u0430\u0440\u0430"
@@ -69,17 +78,26 @@
     "name:fra_x_preferred":[
         "Mascara"
     ],
+    "name:gle_x_preferred":[
+        "Mascara"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab8\u0acd\u0a95\u0ab0\u0abe"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e1\u05e8\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05e1\u05e7\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0938\u094d\u0915\u093e\u0930\u093e"
     ],
     "name:hun_x_preferred":[
         "Mascara"
+    ],
+    "name:hun_x_variant":[
+        "M\u00e1szkara"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u057d\u056f\u0561\u0580\u0561"
@@ -123,6 +141,9 @@
     "name:nob_x_preferred":[
         "Mascara"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0441\u043a\u0430\u0440\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Muaskar"
     ],
@@ -140,6 +161,9 @@
     ],
     "name:spa_x_preferred":[
         "Muaskar"
+    ],
+    "name:swa_x_preferred":[
+        "Mascara"
     ],
     "name:swe_x_preferred":[
         "Muaskar"
@@ -167,6 +191,9 @@
     ],
     "name:urd_x_variant":[
         "\u0645\u0639\u0633\u06a9\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Mascara"
     ],
     "name:vie_x_preferred":[
         "Mascara"
@@ -294,7 +321,7 @@
         }
     ],
     "wof:id":1141908239,
-    "wof:lastmodified":1636501726,
+    "wof:lastmodified":1690875569,
     "wof:name":"Mascara",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

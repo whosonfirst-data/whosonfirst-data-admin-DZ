@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062d\u062c\u0648\u0637"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u062c\u0648\u0637"
+    ],
     "name:azb_x_preferred":[
         "\u062d\u062c\u0648\u0637"
     ],
@@ -35,6 +38,9 @@
     "name:fra_x_preferred":[
         "Hadjout"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d2'\u05d5\u05d8"
+    ],
     "name:hun_x_preferred":[
         "Hadjout"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:kab_x_preferred":[
         "\u1e24ejju\u1e6d"
+    ],
+    "name:kab_x_variant":[
+        "\u1e24e\u01e7\u01e7u\u1e6d"
     ],
     "name:msa_x_preferred":[
         "Hadjout"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421185703,
-    "wof:lastmodified":1566583505,
+    "wof:lastmodified":1690875537,
     "wof:name":"Hadjout",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

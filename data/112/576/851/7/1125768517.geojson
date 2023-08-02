@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0628\u0633\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0628\u0633\u0628\u0633\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0628\u0633\u0628\u0633\u062a"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Tebesbest"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30d9\u30b9\u30d9\u30b9\u30c8"
     ],
     "name:msa_x_preferred":[
         "Tebesbest"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1125768517,
-    "wof:lastmodified":1566583522,
+    "wof:lastmodified":1690875563,
     "wof:name":"Tebesbest",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0639\u0628\u064a\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0639\u0628\u064a\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "'A\u00efn Abid"
+    ],
     "name:eng_x_preferred":[
         "A\u00efn Abid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0639\u0628\u06cc\u062f"
     ],
     "name:fra_x_preferred":[
         "A\u00efn Abid"
@@ -49,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "A\u00efn Abid"
+    ],
+    "name:swe_x_preferred":[
+        "'A\u00efn Abid"
     ],
     "name:und_x_variant":[
         "A\u00efne Abid"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421203675,
-    "wof:lastmodified":1566583486,
+    "wof:lastmodified":1690875514,
     "wof:name":"'Ain Abid",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

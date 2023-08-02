@@ -59,6 +59,9 @@
     "name:ceb_x_preferred":[
         "Khenchela"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Khenchela"
+    ],
     "name:dan_x_preferred":[
         "Khenchela"
     ],
@@ -68,6 +71,9 @@
     "name:ell_x_preferred":[
         "\u03a7\u03b5\u03bd\u03c3\u03ad\u03bb\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a7\u03b5\u03bd\u03c3\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Khenchela"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco \u0124en\u015dela"
+    ],
+    "name:eus_x_preferred":[
+        "Khenchelako probintzia"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0646\u0634\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -91,6 +100,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Khenchela"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Khenchela"
     ],
     "name:glg_x_preferred":[
         "Provincia de Khenchela"
@@ -242,6 +254,9 @@
     "name:urd_x_variant":[
         "\u0635\u0648\u0628\u06c1 \u062e\u0646\u0634\u0644\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Khenchela viloyati"
+    ],
     "name:vie_x_preferred":[
         "Khenchela"
     ],
@@ -253,6 +268,9 @@
     ],
     "name:zho_x_variant":[
         "\u6c49\u820d\u83b1\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Khenchela Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -376,7 +394,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501712,
+    "wof:lastmodified":1690875490,
     "wof:name":"Khenchela",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

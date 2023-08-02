@@ -50,6 +50,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Skikda"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Skikda"
+    ],
     "name:dan_x_preferred":[
         "Skikda Province"
     ],
@@ -59,6 +62,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03ba\u03af\u03ba\u03bd\u03c4\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03ba\u03b9\u03ba\u03bd\u03c4\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Skikda"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Skikda"
+    ],
+    "name:eus_x_preferred":[
+        "Skikdako probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u06a9\u06cc\u06a9\u062f\u0647"
@@ -79,6 +88,9 @@
     ],
     "name:fra_x_variant":[
         "Skikda"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Skikda"
     ],
     "name:glg_x_preferred":[
         "Provincia de Skikda"
@@ -203,6 +215,9 @@
     "name:zho_x_preferred":[
         "\u65af\u57fa\u514b\u8fbe\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Skikda Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -322,7 +337,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501715,
+    "wof:lastmodified":1690875497,
     "wof:name":"Skikda",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

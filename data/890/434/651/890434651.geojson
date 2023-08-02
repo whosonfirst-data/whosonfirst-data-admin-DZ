@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0646\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u0646\u064a\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646\u06cc\u0647"
     ],
@@ -31,11 +34,17 @@
     "name:eng_x_preferred":[
         "Es S\u00e9nia"
     ],
+    "name:eng_x_variant":[
+        "Es Senia"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
         "Es Senia"
+    ],
+    "name:fra_x_variant":[
+        "Es S\u00e9nia"
     ],
     "name:ita_x_preferred":[
         "Es Senia"
@@ -45,6 +54,9 @@
     ],
     "name:kab_x_preferred":[
         "Sanya"
+    ],
+    "name:kab_x_variant":[
+        "Ssanya"
     ],
     "name:msa_x_preferred":[
         "Es S\u00e9nia"
@@ -72,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "La S\u00e9nia"
+    ],
+    "name:uzb_x_preferred":[
+        "Es S\u00e9nia"
     ],
     "name:vie_x_preferred":[
         "Es Senia"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":890434651,
-    "wof:lastmodified":1566583515,
+    "wof:lastmodified":1690875550,
     "wof:name":"Es Senia",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

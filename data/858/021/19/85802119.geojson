@@ -33,11 +33,17 @@
         "Alger Bab El Oued",
         "Faubourg Bab el Oued"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0648\u0627\u062f\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0628 \u0648\u0627\u062f\u06cc"
     ],
     "name:cat_x_preferred":[
         "Bab El-Oued"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bc\u03c0 \u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Bab El Oued"
@@ -80,6 +86,12 @@
     ],
     "name:spa_x_preferred":[
         "Bab El Oued"
+    ],
+    "name:swe_x_preferred":[
+        "Bab El Oued"
+    ],
+    "name:tur_x_preferred":[
+        "Bab\u00fc'l-Vadi"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0628 \u0627\u0644\u0648\u0627\u062f\u06cc"
@@ -155,7 +167,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582348637,
+    "wof:lastmodified":1690875504,
     "wof:name":"Bab el Oued",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

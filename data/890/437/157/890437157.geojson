@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u064a\u0646\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u06cc\u0646\u0627\u0646"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Bou\u00efnian"
+    ],
+    "name:eng_x_variant":[
+        "Bouinan"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u06cc\u0646\u0627\u0646"
@@ -76,6 +82,9 @@
     "name:vie_x_preferred":[
         "Bouinan"
     ],
+    "name:zul_x_preferred":[
+        "Bouinan"
+    ],
     "qs:name":"Bouinan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890437157,
-    "wof:lastmodified":1566583508,
+    "wof:lastmodified":1690875542,
     "wof:name":"Bouinan",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

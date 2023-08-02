@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0647"
     ],
@@ -37,8 +40,14 @@
     "name:fra_x_preferred":[
         "Djamaa"
     ],
+    "name:hau_x_preferred":[
+        "Djamaa"
+    ],
     "name:ita_x_preferred":[
         "Djamaa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30de\u30fc"
     ],
     "name:msa_x_preferred":[
         "Djamaa"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890422511,
-    "wof:lastmodified":1566583507,
+    "wof:lastmodified":1690875541,
     "wof:name":"Djamaa",
     "wof:parent_id":85670745,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0642\u0627\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0642\u0627\u0639\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0642\u0627\u0639\u0647"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:kab_x_preferred":[
         "Buge\u025b\u025ba"
+    ],
+    "name:kab_x_variant":[
+        "Buga\u025ba"
     ],
     "name:nan_x_preferred":[
         "Bougaa"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421197481,
-    "wof:lastmodified":1566583498,
+    "wof:lastmodified":1690875528,
     "wof:name":"Bougaa",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

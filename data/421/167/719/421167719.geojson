@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u064a\u0633\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0633\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u06cc\u0633\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Y\u0259sr"
+    ],
+    "name:ceb_x_preferred":[
+        "Isser"
     ],
     "name:deu_x_preferred":[
         "Isser"
@@ -67,6 +76,9 @@
     ],
     "name:spa_x_preferred":[
         "Issers"
+    ],
+    "name:swe_x_preferred":[
+        "Isser"
     ],
     "name:und_x_variant":[
         "Isserville"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":421167719,
-    "wof:lastmodified":1566583485,
+    "wof:lastmodified":1690875512,
     "wof:name":"Isser",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

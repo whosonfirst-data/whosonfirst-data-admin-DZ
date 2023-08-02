@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062d\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u062d\u0627\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u062d\u0627\u0644"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Berrahal"
+    ],
+    "name:kab_x_preferred":[
+        "Berre\u1e25\u1e25al"
     ],
     "name:msa_x_preferred":[
         "Berrahal"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1126012045,
-    "wof:lastmodified":1566583522,
+    "wof:lastmodified":1690875563,
     "wof:name":"Berrahal",
     "wof:parent_id":85670713,
     "wof:placetype":"locality",

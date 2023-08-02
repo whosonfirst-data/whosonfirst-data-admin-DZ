@@ -38,6 +38,9 @@
     "name:ces_x_preferred":[
         "Kasba"
     ],
+    "name:dan_x_preferred":[
+        "Kasbah"
+    ],
     "name:deu_x_preferred":[
         "Kasbah"
     ],
@@ -68,8 +71,17 @@
     "name:hrv_x_preferred":[
         "Kazba"
     ],
+    "name:hsb_x_preferred":[
+        "kasbah"
+    ],
     "name:hun_x_preferred":[
         "Kasbah"
+    ],
+    "name:hun_x_variant":[
+        "kaszba"
+    ],
+    "name:ido_x_preferred":[
+        "Kasba"
     ],
     "name:ind_x_preferred":[
         "Kasbah"
@@ -77,8 +89,14 @@
     "name:ita_x_preferred":[
         "Qasba"
     ],
+    "name:ita_x_variant":[
+        "casba"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30b9\u30d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qasabah"
     ],
     "name:nld_x_preferred":[
         "Kasba"
@@ -113,10 +131,16 @@
     "name:slv_x_preferred":[
         "Kasbah"
     ],
+    "name:spa_x_preferred":[
+        "qasbah"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0437\u0431\u0430"
     ],
     "name:swe_x_preferred":[
+        "Kasbah"
+    ],
+    "name:tur_x_preferred":[
         "Kasbah"
     ],
     "name:ukr_x_preferred":[
@@ -192,7 +216,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582348637,
+    "wof:lastmodified":1690875504,
     "wof:name":"Kasbah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
     ],
+    "name:arq_x_preferred":[
+        "\u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fyn-T\u0259m\u00fc\u015f\u0259nt"
     ],
     "name:cat_x_preferred":[
         "A\u00efn T\u00e9mouchent"
@@ -34,14 +43,29 @@
     "name:eng_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
+    "name:eus_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
     ],
     "name:fra_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d8\u05de\u05d0\u05d5\u05e9\u05e0\u05d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0576 \u0539\u0565\u0574\u0578\u0582\u0577\u0565\u0576\u0569"
+    ],
     "name:ita_x_preferred":[
         "\u02bfAyn Tem\u016bshent"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30c6\u30a3\u30e0\u30b7\u30a7\u30f3\u30c8"
     ],
     "name:kab_x_preferred":[
         "\u0190in Timucent"
@@ -82,8 +106,14 @@
     "name:spa_x_preferred":[
         "A\u00efn T\u00e9mouchent"
     ],
+    "name:spa_x_variant":[
+        "A\u00edn Temushent"
+    ],
     "name:sqi_x_preferred":[
         "Ain Temouchent"
+    ],
+    "name:swa_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043d-\u0422\u0435\u043c\u0443\u0448\u0435\u043d\u0442"
@@ -93,6 +123,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u06cc\u0646 \u062a\u0645\u0648\u0634\u0646\u062a"
+    ],
+    "name:uzb_x_preferred":[
+        "A\u00efn T\u00e9mouchent"
     ],
     "name:vie_x_preferred":[
         "Ain Temouchent"
@@ -134,7 +167,7 @@
         }
     ],
     "wof:id":890432335,
-    "wof:lastmodified":1566583516,
+    "wof:lastmodified":1690875553,
     "wof:name":"\u2019A\u00efn Temouchent",
     "wof:parent_id":85670683,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0628\u0633\u0627\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0628\u0633\u0627\u0645"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0628\u0633\u0627\u0645"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "A\u00efn Bessem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30d9\u30bb\u30e0"
     ],
     "name:kab_x_preferred":[
         "\u0190in Bessam"
@@ -76,11 +82,17 @@
     "name:urd_x_preferred":[
         "\u0639\u06cc\u0646-\u0628\u0633\u0627\u0645"
     ],
+    "name:uzb_x_preferred":[
+        "Ayn Bessem"
+    ],
     "name:vie_x_preferred":[
         "Ain-Bessem"
     ],
     "name:zho_x_preferred":[
         "\u827e\u56e0\u8c9d\u585e\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00efn Bessem"
     ],
     "qs:name":"A\u00efn Bessem",
     "qs:photos_9r":0,
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":890442519,
-    "wof:lastmodified":1566583515,
+    "wof:lastmodified":1690875550,
     "wof:name":"A\u00efn Bessem",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:ceb_x_preferred":[
         "Djelfa"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Djelfa"
+    ],
     "name:dan_x_preferred":[
         "Djelfa Province"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03ad\u03bb\u03c6\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b6\u03b5\u03bb\u03c6\u03ac"
     ],
     "name:eng_x_preferred":[
         "Djelfa"
@@ -91,6 +97,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Djelfa"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Djelfa"
     ],
     "name:glg_x_preferred":[
         "Provincia de Djelfa"
@@ -251,6 +260,9 @@
     "name:zho_x_variant":[
         "\u6770\u52d2\u6cd5\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Djelfa Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -373,7 +385,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501713,
+    "wof:lastmodified":1690875491,
     "wof:name":"Djelfa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

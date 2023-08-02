@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0628\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u0628\u0644\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0628\u0644\u06cc"
     ],
@@ -68,6 +71,9 @@
     "name:vie_x_preferred":[
         "Chebli"
     ],
+    "name:zul_x_preferred":[
+        "Ch\u00e9bli"
+    ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2501680,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421194585,
-    "wof:lastmodified":1566583484,
+    "wof:lastmodified":1690875511,
     "wof:name":"Chebli",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

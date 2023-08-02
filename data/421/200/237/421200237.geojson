@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u062f\u0648\u0634 \u0645\u0631\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u062f\u0648\u0634 \u0645\u0631\u0627\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u06cc\u062f\u0648\u0634 \u0645\u0631\u0627\u062f"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421200237,
-    "wof:lastmodified":1566583500,
+    "wof:lastmodified":1690875530,
     "wof:name":"Didouche Mourad",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

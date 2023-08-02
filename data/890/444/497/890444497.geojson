@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0641\u0643\u0631\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0641\u0643\u0631\u0648\u0646"
+    ],
     "name:ceb_x_preferred":[
         "A\u00efn Fakroun"
     ],
@@ -40,6 +43,12 @@
     "name:kab_x_preferred":[
         "Tifkert"
     ],
+    "name:kab_x_variant":[
+        "Ifker"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778 \ud30c\ud06c\ub8ec"
+    ],
     "name:msa_x_preferred":[
         "A\u00efn Fakroun"
     ],
@@ -49,10 +58,16 @@
     "name:nld_x_preferred":[
         "A\u00efn Fakroun"
     ],
+    "name:pol_x_preferred":[
+        "Ajn Fakrun"
+    ],
     "name:por_x_preferred":[
         "A\u00efn Fakroun"
     ],
     "name:ron_x_preferred":[
+        "A\u00efn Fakroun"
+    ],
+    "name:swa_x_preferred":[
         "A\u00efn Fakroun"
     ],
     "name:swe_x_preferred":[
@@ -66,6 +81,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u56e0\u6cd5\u514b\u9686"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00efn Fakroun"
     ],
     "qs:name":"A\u00efn Fakroun",
     "qs:photos_9r":0,
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":890444497,
-    "wof:lastmodified":1566583511,
+    "wof:lastmodified":1690875547,
     "wof:name":"A\u00efn Fakroun",
     "wof:parent_id":85670871,
     "wof:placetype":"locality",

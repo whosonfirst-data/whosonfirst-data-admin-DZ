@@ -33,7 +33,8 @@
         "\u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c\u200e"
     ],
     "name:ara_x_variant":[
-        "Bordj Bou Arreridj"
+        "Bordj Bou Arreridj",
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648\u0639\u0631\u06cc\u0631\u06cc\u062c \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
@@ -59,6 +60,9 @@
     "name:ceb_x_preferred":[
         "Wilaya de Bordj Bou Arr\u00e9ridj"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Bordj Bou Arr\u00e9ridj"
+    ],
     "name:dan_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
     ],
@@ -68,6 +72,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c1\u03bd\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03bd\u03c4\u03b6"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u039c\u03c0\u03bf\u03c1\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03c4\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
     ],
@@ -76,6 +83,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Bor\u011d Bu Areri\u011d"
+    ],
+    "name:eus_x_preferred":[
+        "Bordj Bou Arreridjeko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u06cc\u0631\u06cc\u062c"
@@ -88,6 +98,9 @@
     ],
     "name:fra_x_variant":[
         "Bordj Bou Arreridj"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Bordj Bou Arr\u00e9ridj"
     ],
     "name:glg_x_preferred":[
         "Provincia de Bordj Bou Arr\u00e9ridj"
@@ -208,6 +221,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u963f\u62c9\u91cc\u5b63\u5821\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -330,7 +346,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807360,
+    "wof:lastmodified":1690875493,
     "wof:name":"Bordj Bou Arr\u00e9ridj",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

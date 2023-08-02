@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0642\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0642\u0631\u0647"
+    ],
     "name:cat_x_preferred":[
         "Bougara"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Buqara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ac\u30e9"
     ],
     "name:kab_x_preferred":[
         "Bugerra"
@@ -69,6 +75,9 @@
         "Bougara"
     ],
     "name:zho_min_nan_x_preferred":[
+        "Bougara"
+    ],
+    "name:zul_x_preferred":[
         "Bougara"
     ],
     "qs:gn_country":"DZ",
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421167727,
-    "wof:lastmodified":1566583485,
+    "wof:lastmodified":1690875513,
     "wof:name":"Bougara",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

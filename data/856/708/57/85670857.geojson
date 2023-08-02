@@ -38,6 +38,9 @@
     "name:azb_x_preferred":[
         "\u0642\u0627\u0644\u0645\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Qelma vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u0435\u043b\u044c\u043c\u0430"
     ],
@@ -56,6 +59,9 @@
     "name:ceb_x_preferred":[
         "Guelma"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Guelma"
+    ],
     "name:dan_x_preferred":[
         "Guelma Province"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03ad\u03bb\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03b5\u03bb\u03bc\u03ac"
     ],
     "name:eng_x_preferred":[
         "Guelma"
@@ -76,6 +85,9 @@
     ],
     "name:epo_x_variant":[
         "Provinco Gelma"
+    ],
+    "name:eus_x_preferred":[
+        "Guelmako probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0644\u0645\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -91,6 +103,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Guelma"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Guelma"
     ],
     "name:glg_x_preferred":[
         "Provincia de Guelma"
@@ -251,6 +266,9 @@
     "name:zho_x_variant":[
         "\u76d6\u52d2\u9a6c\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Guelma Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -371,7 +389,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501712,
+    "wof:lastmodified":1690875491,
     "wof:name":"Guelma",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

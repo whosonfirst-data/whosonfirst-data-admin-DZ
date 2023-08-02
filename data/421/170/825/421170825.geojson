@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0639\u0628\u0627\u0633\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0639\u0628\u0627\u0633\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0639\u0628\u0627\u0633\u0647"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421170825,
-    "wof:lastmodified":1566583500,
+    "wof:lastmodified":1690875531,
     "wof:name":"'Ain Abessa",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

@@ -20,10 +20,22 @@
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0627\u0644\u0648\u0627\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u0648\u0627\u062f\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0627\u0633 \u0648\u0627\u062f\u06cc"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00e2s el Oued"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c2 \u0395\u03bb \u039f\u03c5\u03ad\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
+        "Ras El Oued"
+    ],
+    "name:eus_x_preferred":[
         "Ras El Oued"
     ],
     "name:fas_x_preferred":[
@@ -59,8 +71,14 @@
     "name:spa_x_preferred":[
         "Ras El Oued"
     ],
+    "name:swe_x_preferred":[
+        "R\u00e2s el Oued"
+    ],
     "name:und_x_variant":[
         "Tocqueville"
+    ],
+    "name:uzb_x_preferred":[
+        "Ras El Oud"
     ],
     "name:vie_x_preferred":[
         "Ras El Oued"
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":421185621,
-    "wof:lastmodified":1566583505,
+    "wof:lastmodified":1690875537,
     "wof:name":"Ras El Oued",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

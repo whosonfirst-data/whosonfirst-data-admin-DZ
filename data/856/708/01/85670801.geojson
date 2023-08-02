@@ -56,6 +56,9 @@
     "name:ceb_x_preferred":[
         "Tiaret"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tiaret"
+    ],
     "name:dan_x_preferred":[
         "Tiaret Province"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03b1\u03c1\u03ad\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b9\u03b1\u03c1\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tiaret"
@@ -94,6 +100,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Tiaret"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Tiaret"
     ],
     "name:glg_x_preferred":[
         "Provincia de Tiaret"
@@ -245,11 +254,17 @@
     "name:war_x_preferred":[
         "Tiaret"
     ],
+    "name:wuu_x_preferred":[
+        "\u63d0\u4e9a\u96f7\u7279\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u63d0\u4e9a\u96f7\u7279"
     ],
     "name:zho_x_variant":[
         "\u63d0\u4e9a\u96f7\u7279\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Tiaret Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -374,7 +389,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501714,
+    "wof:lastmodified":1690875494,
     "wof:name":"Tiaret",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

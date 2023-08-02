@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u062e\u0631\u0627\u0637\u0629\u060c\u0628\u062c\u0627\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0631\u0627\u0637\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0631\u0627\u0637\u0647"
     ],
@@ -41,6 +44,9 @@
     "name:kab_x_preferred":[
         "Xerra\u1e6d\u1e6da"
     ],
+    "name:kab_x_variant":[
+        "Xerra\u1e6da"
+    ],
     "name:msa_x_preferred":[
         "Kherrata"
     ],
@@ -48,6 +54,9 @@
         "Kherrata"
     ],
     "name:nld_x_preferred":[
+        "Kherrata"
+    ],
+    "name:pol_x_preferred":[
         "Kherrata"
     ],
     "name:por_x_preferred":[
@@ -70,6 +79,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6d77\u62c9\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Kherrata"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421189373,
-    "wof:lastmodified":1566583492,
+    "wof:lastmodified":1690875520,
     "wof:name":"Kherrata",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

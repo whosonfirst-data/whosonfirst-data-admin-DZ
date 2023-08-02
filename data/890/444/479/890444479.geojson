@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0629"
     ],
+    "name:arq_x_preferred":[
+        "\u0648\u0631\u06a8\u0644\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Ouargla"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Uarqla"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0997\u09cd\u09b2\u09be"
@@ -46,11 +55,17 @@
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03ad\u03c1\u03b3\u03ba\u03bb\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03ac\u03c1\u03b3\u03ba\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ouargla"
     ],
     "name:epo_x_preferred":[
         "Uargla"
+    ],
+    "name:eus_x_preferred":[
+        "Ouargla"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -76,6 +91,9 @@
     "name:hun_x_preferred":[
         "Ouargla"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0561\u0580\u0563\u056c\u0561"
+    ],
     "name:ind_x_preferred":[
         "Ouargla"
     ],
@@ -84,6 +102,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30eb\u30b0\u30e9"
+    ],
+    "name:kab_x_preferred":[
+        "Wergla"
     ],
     "name:kan_x_preferred":[
         "\u0c93\u0cb0\u0ccd\u0c97\u0cbe\u0cb2\u0cbe"
@@ -137,6 +158,12 @@
         "\u0d96\u0dbb\u0dca\u0da2\u0dd2\u0d86"
     ],
     "name:spa_x_preferred":[
+        "Ouargla"
+    ],
+    "name:spa_x_variant":[
+        "Uargla"
+    ],
+    "name:swa_x_preferred":[
         "Ouargla"
     ],
     "name:swe_x_preferred":[
@@ -297,7 +324,7 @@
         }
     ],
     "wof:id":890444479,
-    "wof:lastmodified":1636501722,
+    "wof:lastmodified":1690875547,
     "wof:name":"Ouargla",
     "wof:parent_id":85670759,
     "wof:placetype":"locality",

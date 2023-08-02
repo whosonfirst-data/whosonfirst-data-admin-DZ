@@ -56,6 +56,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Batna"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Batna"
+    ],
     "name:dan_x_preferred":[
         "Batna"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03c4\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03ac\u03c4\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Batna"
@@ -89,6 +95,12 @@
     "name:fra_x_variant":[
         "Wilaya de Batna",
         "wilaya de Batna"
+    ],
+    "name:frr_x_preferred":[
+        "Batna"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Batna"
     ],
     "name:glg_x_preferred":[
         "Provincia de Batna"
@@ -116,6 +128,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c8\u30ca\u770c"
+    ],
+    "name:kab_x_preferred":[
+        "Batna"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0c9f\u0ccd\u0ca8\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
@@ -225,8 +240,14 @@
     "name:war_x_preferred":[
         "Batna"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u7279\u7eb3\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u7279\u7eb3\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Batna Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -348,7 +369,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501712,
+    "wof:lastmodified":1690875491,
     "wof:name":"Batna",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

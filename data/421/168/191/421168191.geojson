@@ -20,7 +20,16 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u0644\u0642\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0637\u0648\u0644\u0642\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Tolga"
+    ],
     "name:ceb_x_preferred":[
+        "Tolga"
+    ],
+    "name:deu_x_preferred":[
         "Tolga"
     ],
     "name:eng_x_preferred":[
@@ -66,6 +75,9 @@
         "Tolga"
     ],
     "name:zho_min_nan_x_preferred":[
+        "Tolga"
+    ],
+    "name:zul_x_preferred":[
         "Tolga"
     ],
     "qs:gn_country":"DZ",
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421168191,
-    "wof:lastmodified":1566583480,
+    "wof:lastmodified":1690875507,
     "wof:name":"Tolga",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

@@ -25,10 +25,22 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u0637\u0627\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0637\u0627\u064a\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0637\u0627\u06cc\u0647"
     ],
+    "name:cat_x_preferred":[
+        "A\u00efn Taia"
+    ],
     "name:ceb_x_preferred":[
+        "A\u00efn Taya"
+    ],
+    "name:dan_x_preferred":[
+        "A\u00efn Taya"
+    ],
+    "name:deu_x_preferred":[
         "A\u00efn Taya"
     ],
     "name:eng_x_preferred":[
@@ -42,6 +54,9 @@
     ],
     "name:ita_x_preferred":[
         "A\u00efn Taya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30bf\u30e4"
     ],
     "name:kab_x_preferred":[
         "\u0190in \u1e6caya"
@@ -67,6 +82,12 @@
     "name:swe_x_preferred":[
         "A\u00efn Taya"
     ],
+    "name:tur_x_preferred":[
+        "Ayn Taya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0422\u0430\u0439\u0430"
+    ],
     "name:und_x_variant":[
         "A\u00efne Taya"
     ],
@@ -75,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Ain Taya"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u5854\u4e9a"
     ],
     "qs:name":"A\u00efn Taya",
     "qs:photos_9r":0,
@@ -107,7 +131,7 @@
         }
     ],
     "wof:id":890432337,
-    "wof:lastmodified":1566583516,
+    "wof:lastmodified":1690875552,
     "wof:name":"A\u00efn Taya",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

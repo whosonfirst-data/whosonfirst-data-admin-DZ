@@ -25,10 +25,16 @@
     "name:ara_x_preferred":[
         "\u0622\u0631\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u0631\u064a\u0633"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u06cc\u0633"
     ],
     "name:bre_x_preferred":[
+        "Arris"
+    ],
+    "name:cat_x_preferred":[
         "Arris"
     ],
     "name:ceb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:nld_x_preferred":[
         "Arris"
     ],
+    "name:pol_x_preferred":[
+        "Arris"
+    ],
     "name:por_x_preferred":[
         "Arris"
     ],
@@ -71,6 +80,12 @@
         "Arris"
     ],
     "name:vie_x_preferred":[
+        "Arris"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u91cc\u65af"
+    ],
+    "name:zul_x_preferred":[
         "Arris"
     ],
     "qs_pg:aaroncc":"DZ",
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1125989819,
-    "wof:lastmodified":1566583522,
+    "wof:lastmodified":1690875563,
     "wof:name":"Arris",
     "wof:parent_id":85670851,
     "wof:placetype":"locality",

@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0632\u0641\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0632\u0641\u0648\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0632\u0641\u0648\u0646"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b6\u03b5\u03c6\u03bf\u03cd\u03bd"
     ],
     "name:eng_x_preferred":[
         "Azeffoun"
@@ -56,6 +62,9 @@
     "name:spa_x_preferred":[
         "Azeffoun"
     ],
+    "name:swa_x_preferred":[
+        "Azeffoun"
+    ],
     "name:und_x_variant":[
         "Port Guedon"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5bb0\u8c50"
+    ],
+    "name:zul_x_preferred":[
+        "Azeffoun"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421182417,
-    "wof:lastmodified":1566583503,
+    "wof:lastmodified":1690875536,
     "wof:name":"Azeffoun",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

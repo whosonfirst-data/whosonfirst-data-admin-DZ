@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0410\u043b\u0436\u0438\u0440"
+    ],
     "name:ady_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
@@ -31,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+    ],
     "name:arc_x_preferred":[
         "\u0713\u0719\u0710\u0710\u072a"
     ],
@@ -40,11 +46,17 @@
     "name:arq_x_preferred":[
         "\u062f\u0652\u0632\u064e\u0627\u064a\u064e\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u062c\u0632\u0627\u0626\u0631\u200e"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062c\u0632\u0627\u064a\u0631"
     ],
     "name:ast_x_preferred":[
         "Arxel"
+    ],
+    "name:avk_x_preferred":[
+        "Aljazair"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u062c\u0632\u06cc\u0631\u0647"
@@ -57,6 +69,9 @@
     ],
     "name:bam_x_preferred":[
         "Alger"
+    ],
+    "name:ban_x_preferred":[
+        "Aljir"
     ],
     "name:bcl_x_preferred":[
         "Algiers"
@@ -223,6 +238,9 @@
     "name:ilo_x_preferred":[
         "Arhel"
     ],
+    "name:ina_x_preferred":[
+        "Alger"
+    ],
     "name:ind_x_preferred":[
         "Aljir"
     ],
@@ -319,6 +337,12 @@
     "name:mlg_x_preferred":[
         "Algiers"
     ],
+    "name:mlt_x_preferred":[
+        "Al\u0121iers"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabdc\uabd6\uabe4\uabcc\uabd4\uabc1"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440 \u0445\u043e\u0442"
     ],
@@ -331,11 +355,17 @@
     "name:mya_x_preferred":[
         "\u1021\u101a\u103a\u101c\u1002\u103b\u102e\u1038\u101a\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u06cc\u0631\u0647"
+    ],
     "name:nah_x_preferred":[
         "Argel"
     ],
     "name:nan_x_preferred":[
         "Algiers"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00e1\u0142k\u00e1\u00e1\u02bc Dahndaa\u02bcee\u0142"
     ],
     "name:nds_x_preferred":[
         "Algier"
@@ -366,6 +396,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
+    ],
+    "name:pam_x_preferred":[
+        "Algiers"
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a32-\u0a1c\u0a1c\u0a3c\u0a3e\u0a07\u0a30"
@@ -400,6 +433,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c5e\u1c61\u1c64\u1c6d\u1c5f\u1c68\u1c65"
+    ],
     "name:scn_x_preferred":[
         "Algeri"
     ],
@@ -409,6 +445,9 @@
     "name:sgs_x_preferred":[
         "Al\u017e\u012brs"
     ],
+    "name:shi_x_preferred":[
+        "Dzayr"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0dbd\u0dca\u0da2\u0dd2\u0dba\u0dbb\u0dca\u0dc3\u0dca"
     ],
@@ -417,6 +456,9 @@
     ],
     "name:slv_x_preferred":[
         "Al\u017eir"
+    ],
+    "name:smn_x_preferred":[
+        "Alger"
     ],
     "name:sna_x_preferred":[
         "Algiers"
@@ -429,6 +471,9 @@
     ],
     "name:sqi_x_preferred":[
         "Algier"
+    ],
+    "name:srd_x_preferred":[
+        "Algeri"
     ],
     "name:srp_ec_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
@@ -453,6 +498,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb2\u0bcd\u0b9c\u0bbf\u0baf\u0bb0\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u04d8\u043b\u0497\u04d9\u0437\u0430\u0438\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c32\u0c4d\u0c1c\u0c40\u0c30\u0c4d\u0c38\u0c4d"
@@ -501,6 +549,9 @@
     ],
     "name:vec_x_preferred":[
         "Algeri"
+    ],
+    "name:vec_x_variant":[
+        "Alzeri"
     ],
     "name:vep_x_preferred":[
         "Al\u017eir"
@@ -695,7 +746,7 @@
         }
     ],
     "wof:id":421174649,
-    "wof:lastmodified":1608688187,
+    "wof:lastmodified":1690875516,
     "wof:megacity":1,
     "wof:name":"Algiers",
     "wof:parent_id":85670761,

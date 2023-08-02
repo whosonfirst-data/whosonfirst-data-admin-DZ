@@ -53,6 +53,9 @@
     "name:ceb_x_preferred":[
         "Relizane"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Relizane"
+    ],
     "name:dan_x_preferred":[
         "Relizane Province"
     ],
@@ -62,6 +65,9 @@
     "name:ell_x_preferred":[
         "\u03a1\u03b5\u03bb\u03b9\u03b6\u03ac\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a1\u03b5\u03bb\u03b9\u03b6\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Relizane"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Relizan"
+    ],
+    "name:eus_x_preferred":[
+        "Relizaneko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u063a\u0644\u06cc\u0632\u0627\u0646\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -85,6 +94,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Relizane"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Relizane"
     ],
     "name:glg_x_preferred":[
         "Provincia de Relizane"
@@ -246,7 +258,11 @@
         "\u57c3\u5229\u8d5e"
     ],
     "name:zho_x_variant":[
-        "\u57c3\u5229\u8d5e\u7701"
+        "\u57c3\u5229\u8d5e\u7701",
+        "\u57c3\u5229\u8d0a\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Relizane Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -368,7 +384,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501716,
+    "wof:lastmodified":1690875499,
     "wof:name":"Relizane",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

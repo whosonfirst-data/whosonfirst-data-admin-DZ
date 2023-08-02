@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0645\u064a \u0645\u0648\u0633\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0645\u0649 \u0645\u0648\u0633\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0645\u06cc \u0645\u0648\u0633\u06cc"
     ],
@@ -46,6 +49,9 @@
     "name:ita_x_preferred":[
         "Ammi Moussa"
     ],
+    "name:kab_x_preferred":[
+        "\u0190emmi Musa"
+    ],
     "name:msa_x_preferred":[
         "Ammi Moussa"
     ],
@@ -65,6 +71,9 @@
         "Ammi Moussa"
     ],
     "name:swe_x_preferred":[
+        "Ammi Moussa"
+    ],
+    "name:uzb_x_preferred":[
         "Ammi Moussa"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1125881715,
-    "wof:lastmodified":1566583520,
+    "wof:lastmodified":1690875558,
     "wof:name":"Ammi Moussa",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",

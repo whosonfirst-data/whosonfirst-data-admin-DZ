@@ -25,6 +25,9 @@
     "name:arq_x_preferred":[
         "\u0627\u0644\u062a\u0644\u0627\u063a\u0645\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u0627\u063a\u0645\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0644\u0627\u063a\u0645\u0647"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30ec\u30eb\u30b0\u30de"
+    ],
+    "name:kab_x_preferred":[
+        "Tla\u0263ma"
     ],
     "name:msa_x_preferred":[
         "Telerghma"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890435465,
-    "wof:lastmodified":1566583518,
+    "wof:lastmodified":1690875555,
     "wof:name":"Telerghma",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

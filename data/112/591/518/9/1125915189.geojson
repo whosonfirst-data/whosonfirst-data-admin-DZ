@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062e\u0636\u0631\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0627\u062e\u0636\u0631\u064a\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Lakhdaria"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:kab_x_preferred":[
         "Lex\u1e0dareyya"
+    ],
+    "name:kab_x_variant":[
+        "At Ulmu"
     ],
     "name:msa_x_preferred":[
         "Lakhdaria"
@@ -77,6 +83,9 @@
         "Palestro"
     ],
     "name:vie_x_preferred":[
+        "Lakhdaria"
+    ],
+    "name:zul_x_preferred":[
         "Lakhdaria"
     ],
     "qs_pg:aaroncc":"DZ",
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1125915189,
-    "wof:lastmodified":1566583521,
+    "wof:lastmodified":1690875560,
     "wof:name":"Lakhdaria",
     "wof:parent_id":85670823,
     "wof:placetype":"locality",

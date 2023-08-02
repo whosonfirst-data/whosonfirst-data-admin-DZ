@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u0632\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0641\u064a\u0632\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0641\u06cc\u0632\u0641"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:kab_x_preferred":[
         "Sfisef"
+    ],
+    "name:kab_x_variant":[
+        "Sfizef"
     ],
     "name:msa_x_preferred":[
         "Sfissef"
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421198657,
-    "wof:lastmodified":1566583495,
+    "wof:lastmodified":1690875523,
     "wof:name":"Sfizef",
     "wof:parent_id":85670691,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0632\u064a \u0631\u0627\u0634\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0632\u0649 \u0631\u0627\u0634\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0632\u06cc \u0631\u0627\u0634\u062f"
     ],
@@ -62,6 +65,9 @@
     "name:swe_x_preferred":[
         "Tizi Rached"
     ],
+    "name:uzb_x_preferred":[
+        "Tizi Rached"
+    ],
     "name:vie_x_preferred":[
         "Tizi-Rached"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u63d0\u6fdf\u62c9\u820d\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Tizi Rached"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421167711,
-    "wof:lastmodified":1566583485,
+    "wof:lastmodified":1690875512,
     "wof:name":"Tizi Rached",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

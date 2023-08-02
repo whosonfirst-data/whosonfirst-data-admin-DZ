@@ -22,6 +22,9 @@
     "name:ara_x_variant":[
         "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0645\u062f\u0646\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u0646\u064a\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u062f\u0646\u06cc\u0647"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ita_x_preferred":[
         "El Madania"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30de\u30c0\u30cb\u30a2"
     ],
     "name:kab_x_preferred":[
         "Lmadaneyya"
@@ -57,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "El Madania"
+    ],
+    "name:tur_x_preferred":[
+        "El-Medeniye"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u062f\u06cc\u0646\u06c1\u060c \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421181849,
-    "wof:lastmodified":1566583493,
+    "wof:lastmodified":1690875521,
     "wof:name":"El Madania",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

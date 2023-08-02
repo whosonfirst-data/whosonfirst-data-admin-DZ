@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0645\u0631\u0648\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0645\u0631\u0648\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0645\u0631\u0648\u0627\u0646"
     ],
@@ -35,8 +38,14 @@
     "name:fra_x_preferred":[
         "Sidi M\u00e9rouane"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d3\u05d9 \u05de\u05e8\u05d5\u05d5\u05d0\u05df"
+    ],
     "name:ita_x_preferred":[
         "Sidi M\u00e9rouane"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Merwan"
     ],
     "name:msa_x_preferred":[
         "Sidi Merouane"
@@ -64,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Sidi Merouane"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u6885\u9c81\u5b89"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421180379,
-    "wof:lastmodified":1566583490,
+    "wof:lastmodified":1690875517,
     "wof:name":"Sidi Merouane",
     "wof:parent_id":85670867,
     "wof:placetype":"locality",

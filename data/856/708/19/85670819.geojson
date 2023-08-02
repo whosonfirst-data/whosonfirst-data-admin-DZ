@@ -68,6 +68,9 @@
     "name:cym_x_preferred":[
         "Blida"
     ],
+    "name:cym_x_variant":[
+        "Talaith Blida"
+    ],
     "name:dan_x_preferred":[
         "Blida"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bb\u03af\u03bd\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03bb\u03b9\u03bd\u03c4\u03ac"
     ],
     "name:eng_x_preferred":[
         "Blida"
@@ -109,6 +115,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Blida"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Blida"
     ],
     "name:glg_x_preferred":[
         "Provincia de Blida"
@@ -287,11 +296,17 @@
     "name:war_x_preferred":[
         "Blida"
     ],
+    "name:wuu_x_preferred":[
+        "\u535c\u5229\u8fbe\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u535c\u5229\u8fbe"
     ],
     "name:zho_x_variant":[
         "\u535c\u5229\u8fbe\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Blida Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -416,7 +431,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501713,
+    "wof:lastmodified":1690875493,
     "wof:name":"Blida",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

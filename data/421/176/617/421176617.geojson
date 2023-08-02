@@ -23,6 +23,9 @@
     "name:arq_x_preferred":[
         "\u0627\u0644\u0639\u0644\u0645\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0645\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u098f\u0989\u09b2\u09cd\u09ae\u09be"
     ],
@@ -30,6 +33,9 @@
         "El Eulma"
     ],
     "name:dan_x_preferred":[
+        "El Eulma"
+    ],
+    "name:deu_x_preferred":[
         "El Eulma"
     ],
     "name:ell_x_preferred":[
@@ -95,6 +101,9 @@
     "name:por_x_preferred":[
         "El Eulma"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0645\u0647"
+    ],
     "name:ron_x_preferred":[
         "El Eulma"
     ],
@@ -105,6 +114,9 @@
         "\u0d91\u0dbd\u0dca \u0d91\u0d8b\u0dbd\u0dca\u0db8\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "El Eulma"
+    ],
+    "name:swa_x_preferred":[
         "El Eulma"
     ],
     "name:swe_x_preferred":[
@@ -189,7 +201,7 @@
         }
     ],
     "wof:id":421176617,
-    "wof:lastmodified":1566583504,
+    "wof:lastmodified":1690875536,
     "wof:name":"El Eulma",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",

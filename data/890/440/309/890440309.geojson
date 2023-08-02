@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0631\u0642\u0627\u0646"
     ],
+    "name:arq_x_preferred":[
+        "\u0631\u06a8\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0642\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0642\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "R\u0259qqan"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09c7\u0997\u0997\u09be\u09a8\u09c7"
@@ -36,6 +45,9 @@
     ],
     "name:deu_x_preferred":[
         "Reggane"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Reggane"
@@ -60,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Reggane"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0565\u0563\u0563\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Reggane"
@@ -109,6 +124,9 @@
     "name:tur_x_preferred":[
         "Reggane"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0433\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Zaouiet Reggane"
     ],
@@ -120,6 +138,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u7518"
+    ],
+    "name:zul_x_preferred":[
+        "Reggane"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -244,7 +265,7 @@
         }
     ],
     "wof:id":890440309,
-    "wof:lastmodified":1636501721,
+    "wof:lastmodified":1690875539,
     "wof:name":"Reggane",
     "wof:parent_id":85670677,
     "wof:placetype":"locality",
