@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u0639\u0627\u062a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0639\u0627\u062a\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0626\u0631 \u0639\u0627\u062a\u0631"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:ita_x_preferred":[
         "Bir el-Ater"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30fb\u30a8\u30eb\u30fb\u30a2\u30c6\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Bir L\u025bater"
     ],
     "name:msa_x_preferred":[
         "Bir El Ater"
@@ -64,6 +73,9 @@
     "name:spa_x_preferred":[
         "Bir el-Ater"
     ],
+    "name:swa_x_preferred":[
+        "Bir el Ater"
+    ],
     "name:swe_x_preferred":[
         "Bir el Ater"
     ],
@@ -72,6 +84,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u723e\u963f\u63d0\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Bir El Ater"
     ],
     "qs:name":"Bir el Ater",
     "qs:photos_9r":0,
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":890432331,
-    "wof:lastmodified":1566583516,
+    "wof:lastmodified":1690875552,
     "wof:name":"Bir el Ater",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",

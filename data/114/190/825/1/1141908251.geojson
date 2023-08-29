@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.12001053735,35.4104341828,8.12001053735,35.4104341828",
+    "geom:bbox":"8.120011,35.410434,8.120011,35.410434",
     "geom:latitude":35.410434,
     "geom:longitude":8.120011,
     "iso:country":"DZ",
@@ -20,6 +20,15 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0628\u0633\u0629"
+    ],
+    "name:arq_x_preferred":[
+        "\u062a\u0628\u0633\u0629 \u062a\u064a\u0641\u064a\u0633\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0628\u0633\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "T\u00e9bessa"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0628\u0633\u0647"
@@ -36,6 +45,9 @@
     "name:ceb_x_preferred":[
         "T\u00e9bessa"
     ],
+    "name:ces_x_preferred":[
+        "Tebessa"
+    ],
     "name:dan_x_preferred":[
         "Tebessa"
     ],
@@ -44,6 +56,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bc\u03c0\u03ad\u03c3\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b5\u03bc\u03c0\u03ad\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "T\u00e9bessa"
@@ -90,6 +105,9 @@
     "name:jpn_x_preferred":[
         "\u30c6\u30d9\u30c3\u30b5"
     ],
+    "name:kab_x_preferred":[
+        "Tbessa"
+    ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cc6\u0cac\u0cc6\u0cb8\u0ccd\u0cb8"
     ],
@@ -98,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud14c\ubca0\uc0ac"
+    ],
+    "name:lat_x_preferred":[
+        "Theveste"
     ],
     "name:lav_x_preferred":[
         "Tebesa"
@@ -141,6 +162,9 @@
     "name:spa_x_preferred":[
         "T\u00e9bessa"
     ],
+    "name:swa_x_preferred":[
+        "T\u00e9bessa"
+    ],
     "name:swe_x_preferred":[
         "T\u00e9bessa"
     ],
@@ -170,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u8d1d\u8428"
+    ],
+    "name:zul_x_preferred":[
+        "T\u00e9bessa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -278,7 +305,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130859,
-    "wof:geomhash":"4df20829799013e0ec73f4845e562b35",
+    "wof:geomhash":"2c826c12b5296d85578017b6daa912dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -288,7 +315,7 @@
         }
     ],
     "wof:id":1141908251,
-    "wof:lastmodified":1566583776,
+    "wof:lastmodified":1690875571,
     "wof:name":"Tebessa",
     "wof:parent_id":85670879,
     "wof:placetype":"locality",
@@ -298,10 +325,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.1200105373548,
-    35.41043418277525,
-    8.1200105373548,
-    35.41043418277525
+    8.120011,
+    35.410434,
+    8.120011,
+    35.410434
 ],
-  "geometry": {"coordinates":[8.1200105373548,35.41043418277525],"type":"Point"}
+  "geometry": {"coordinates":[8.120011,35.410434],"type":"Point"}
 }

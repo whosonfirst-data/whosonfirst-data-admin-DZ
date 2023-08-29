@@ -36,10 +36,17 @@
         "\u0628\u0648\u0645\u0631\u062f\u0627\u0633"
     ],
     "name:ara_x_variant":[
-        "Boumerdes"
+        "Boumerdes",
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
+    ],
+    "name:arq_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0645\u0631\u062f\u0627\u0633 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Bumerdes vilay\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0443\u043c\u0435\u0440\u0434\u044d\u0441"
@@ -59,6 +66,9 @@
     "name:ceb_x_preferred":[
         "Wilaya de Boumerdes"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Boumerd\u00e8s"
+    ],
     "name:dan_x_preferred":[
         "Boumerd\u00e8s Province"
     ],
@@ -67,6 +77,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03bc\u03b5\u03c1\u03bd\u03c4\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03bf\u03c5\u03bc\u03b5\u03c1\u03bd\u03c4\u03ad\u03c2"
     ],
     "name:eng_x_preferred":[
         "Boumerdes"
@@ -78,6 +91,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Bumerdes"
+    ],
+    "name:eus_x_preferred":[
+        "Boumerdesko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0645\u0631\u062f\u0627\u0633"
@@ -92,11 +108,17 @@
         "wilaya de Boumerd\u00e8s",
         "Boumerd\u00e8s"
     ],
+    "name:gle_x_preferred":[
+        "C\u00faige Boumerd\u00e8s"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Boumerd\u00e8s"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0aae\u0ac7\u0ab0\u0acd\u0aa1\u0ac7\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d1\u05d9\u05e0\u05e6\u05d9\u05d9\u05ea \u05d1\u05d5\u05de\u05e8\u05d3\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0909\u092e\u0947\u0930\u094d\u0921\u0947\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -214,6 +236,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u7c73\u5c14\u8fbe\u65af\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Boumerd\u00e8s Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -335,7 +360,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807362,
+    "wof:lastmodified":1690875499,
     "wof:name":"Boumerdes",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

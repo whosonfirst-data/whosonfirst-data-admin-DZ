@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0642"
     ],
+    "name:arq_x_preferred":[
+        "\u0633\u064a\u06a8"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0642"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0642"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:kab_x_preferred":[
         "Sigg"
+    ],
+    "name:kab_x_variant":[
+        "Sig"
     ],
     "name:msa_x_preferred":[
         "Sig"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":421199007,
-    "wof:lastmodified":1566583499,
+    "wof:lastmodified":1690875528,
     "wof:name":"Sig",
     "wof:parent_id":85670785,
     "wof:placetype":"locality",

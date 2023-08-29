@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0633\u0628\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u0633\u0628\u0627\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Besbes"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Besbes"
+    ],
+    "name:kab_x_preferred":[
+        "Lbesbas"
     ],
     "name:msa_x_preferred":[
         "Besbes"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421198645,
-    "wof:lastmodified":1566583494,
+    "wof:lastmodified":1690875523,
     "wof:name":"Besbes",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

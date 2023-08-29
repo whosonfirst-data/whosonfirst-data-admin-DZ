@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0642\u0627\u0644\u0645\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0627\u0644\u0645\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0644\u0645\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Qelma"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0435\u043b\u044c\u043c\u0430"
@@ -51,6 +57,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03ad\u03bb\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03b5\u03bb\u03bc\u03ac"
     ],
     "name:eng_x_preferred":[
         "Guelma"
@@ -151,6 +160,9 @@
     "name:spa_x_preferred":[
         "Guelma"
     ],
+    "name:swa_x_preferred":[
+        "Guelma"
+    ],
     "name:swe_x_preferred":[
         "Guelma"
     ],
@@ -218,7 +230,7 @@
         }
     ],
     "wof:id":1125915157,
-    "wof:lastmodified":1636501723,
+    "wof:lastmodified":1690875562,
     "wof:name":"Guelma",
     "wof:parent_id":85670857,
     "wof:placetype":"locality",

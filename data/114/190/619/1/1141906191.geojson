@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u064a\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u064a\u0644\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0645\u0633\u06cc\u0644\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Msila"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09ae \u099c\u09bf\u09b2\u09be"
@@ -36,8 +42,14 @@
     "name:dan_x_preferred":[
         "M'Sila"
     ],
+    "name:deu_x_preferred":[
+        "M'Sila"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bc\u03c3\u03af\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c'\u03c3\u03b9\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "M'Sila"
@@ -80,6 +92,9 @@
     ],
     "name:kab_x_preferred":[
         "Msila"
+    ],
+    "name:kab_x_variant":[
+        "Tamsilt"
     ],
     "name:kan_x_preferred":[
         "\u0c8e\u0c82\u0cb8\u0cbf\u0cb2\u0cbe"
@@ -133,6 +148,9 @@
         "M'Sila"
     ],
     "name:spa_x_preferred":[
+        "M'Sila"
+    ],
+    "name:swa_x_preferred":[
         "M'Sila"
     ],
     "name:swe_x_preferred":[
@@ -285,7 +303,7 @@
         }
     ],
     "wof:id":1141906191,
-    "wof:lastmodified":1636501725,
+    "wof:lastmodified":1690875566,
     "wof:name":"M'sila",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

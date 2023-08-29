@@ -46,8 +46,14 @@
     "name:cat_x_preferred":[
         "Mustafa"
     ],
+    "name:cat_x_variant":[
+        "M\u00fastafa"
+    ],
     "name:ces_x_preferred":[
         "Mustafa"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0648\u0633\u062a\u06d5\u0641\u0627"
     ],
     "name:cos_x_preferred":[
         "Mustafa"
@@ -136,8 +142,14 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30b9\u30bf\u30d5\u30a1"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u04b1\u0441\u0442\u0430\u0444\u0430"
+    ],
     "name:kon_x_preferred":[
         "Mustafa"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc2a4\ud0c0\ud30c"
     ],
     "name:lat_x_preferred":[
         "Mustapha"
@@ -222,6 +234,9 @@
     ],
     "name:slv_x_preferred":[
         "Mustafa"
+    ],
+    "name:snd_x_preferred":[
+        "\u0645\u0635\u0637\u0641\u064a"
     ],
     "name:spa_x_preferred":[
         "Mustaf\u00e1"
@@ -325,7 +340,7 @@
         }
     ],
     "wof:id":421192365,
-    "wof:lastmodified":1566583481,
+    "wof:lastmodified":1690875508,
     "wof:name":"Mustapha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

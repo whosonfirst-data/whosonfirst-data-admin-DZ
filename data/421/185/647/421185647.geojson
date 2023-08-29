@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0641\u0627\u0631\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0641\u0627\u0631\u064a\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0641\u0627\u0631\u06cc\u06a9"
     ],
+    "name:aze_x_preferred":[
+        "Bufarik"
+    ],
     "name:bre_x_preferred":[
+        "Boufarik"
+    ],
+    "name:cat_x_preferred":[
         "Boufarik"
     ],
     "name:ceb_x_preferred":[
@@ -35,6 +44,9 @@
     "name:deu_x_preferred":[
         "Boufarik"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c6\u03b1\u03c1\u03af\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Boufarik"
     ],
@@ -43,6 +55,9 @@
     ],
     "name:fra_x_preferred":[
         "Boufarik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0586\u0561\u0580\u056b\u056f"
     ],
     "name:ita_x_preferred":[
         "Boufarik"
@@ -80,6 +95,9 @@
     "name:spa_x_preferred":[
         "Boufarik"
     ],
+    "name:swa_x_preferred":[
+        "Boufarik"
+    ],
     "name:swe_x_preferred":[
         "Boufarik"
     ],
@@ -90,6 +108,9 @@
         "Boufarik"
     ],
     "name:zho_min_nan_x_preferred":[
+        "Boufarik"
+    ],
+    "name:zul_x_preferred":[
         "Boufarik"
     ],
     "qs:gn_country":"DZ",
@@ -138,7 +159,7 @@
         }
     ],
     "wof:id":421185647,
-    "wof:lastmodified":1566583506,
+    "wof:lastmodified":1690875538,
     "wof:name":"Boufarik",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

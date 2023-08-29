@@ -21,11 +21,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0643\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0633\u0643\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Biskra"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0633\u06a9\u0631\u0647"
     ],
+    "name:aze_x_preferred":[
+        "Biskra"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u0438\u0441\u043a\u0440\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0441\u043a\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b8\u0995\u09cd\u09b0\u09be"
@@ -60,6 +72,9 @@
     "name:epo_x_preferred":[
         "Biskra"
     ],
+    "name:est_x_preferred":[
+        "Biskra"
+    ],
     "name:eus_x_preferred":[
         "Biskra"
     ],
@@ -73,6 +88,12 @@
         "Biskra"
     ],
     "name:fra_x_preferred":[
+        "Biskra"
+    ],
+    "name:frr_x_preferred":[
+        "Biskra"
+    ],
+    "name:gle_x_preferred":[
         "Biskra"
     ],
     "name:guj_x_preferred":[
@@ -89,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "Biskra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u057d\u056f\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Biskra"
@@ -110,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\uc2a4\ud06c\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Vescera"
     ],
     "name:lav_x_preferred":[
         "Biskra"
@@ -153,6 +180,9 @@
     "name:spa_x_preferred":[
         "Biskra"
     ],
+    "name:swa_x_preferred":[
+        "Biskra"
+    ],
     "name:swe_x_preferred":[
         "Biskra"
     ],
@@ -174,6 +204,9 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0633\u06a9\u0631\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Biskra"
+    ],
     "name:vie_x_preferred":[
         "Biskra"
     ],
@@ -182,6 +215,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u65af\u514b\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Biskra"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -300,7 +336,7 @@
         }
     ],
     "wof:id":1141909131,
-    "wof:lastmodified":1636501726,
+    "wof:lastmodified":1690875568,
     "wof:name":"Biskra",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

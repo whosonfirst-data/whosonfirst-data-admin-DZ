@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u063a\u0646\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u063a\u0646\u06cc"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Boghni"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d2\u05e0\u05d9"
     ],
     "name:ita_x_preferred":[
         "Boghni"
@@ -73,6 +79,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u683c\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Boghni"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421183231,
-    "wof:lastmodified":1566583501,
+    "wof:lastmodified":1690875532,
     "wof:name":"Boghni",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

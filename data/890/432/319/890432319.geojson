@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u062f\u0644\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0644\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Dellis"
+    ],
     "name:cat_x_preferred":[
         "Dellys"
     ],
@@ -32,6 +38,12 @@
         "Dellys"
     ],
     "name:cym_x_preferred":[
+        "Dellys"
+    ],
+    "name:dan_x_preferred":[
+        "Dellys"
+    ],
+    "name:deu_x_preferred":[
         "Dellys"
     ],
     "name:eng_x_preferred":[
@@ -76,11 +88,17 @@
     "name:spa_x_preferred":[
         "Dellys"
     ],
+    "name:swa_x_preferred":[
+        "Dellys"
+    ],
     "name:swe_x_preferred":[
         "Dellys"
     ],
     "name:und_x_variant":[
         "Delis"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0644\u0633"
     ],
     "name:vie_x_preferred":[
         "Dellys"
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":890432319,
-    "wof:lastmodified":1566583517,
+    "wof:lastmodified":1690875554,
     "wof:name":"Dellys",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

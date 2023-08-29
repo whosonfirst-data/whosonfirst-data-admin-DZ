@@ -23,11 +23,17 @@
     "name:arq_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0648\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0648\u0628"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0648\u0628"
     ],
     "name:ceb_x_preferred":[
         "El Khroub"
+    ],
+    "name:deu_x_preferred":[
+        "El Chroub"
     ],
     "name:eng_x_preferred":[
         "El Khroub"
@@ -65,11 +71,17 @@
     "name:nld_x_preferred":[
         "El Khroub"
     ],
+    "name:nob_x_preferred":[
+        "El Khroub"
+    ],
     "name:pol_x_preferred":[
         "Al-Churub"
     ],
     "name:por_x_preferred":[
         "El Khroub"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0648\u0628"
     ],
     "name:ron_x_preferred":[
         "El-Khroub"
@@ -79,6 +91,9 @@
     ],
     "name:spa_x_preferred":[
         "El Khroub"
+    ],
+    "name:swa_x_preferred":[
+        "El-Khroub"
     ],
     "name:swe_x_preferred":[
         "El-Khroub"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":421178271,
-    "wof:lastmodified":1566583502,
+    "wof:lastmodified":1690875534,
     "wof:name":"Le Khroub",
     "wof:parent_id":85670855,
     "wof:placetype":"locality",

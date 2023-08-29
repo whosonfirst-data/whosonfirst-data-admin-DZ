@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0632\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u064a\u0632\u0648\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645\u06cc\u0632\u0648\u0631"
     ],
@@ -50,6 +53,9 @@
     "name:nld_x_preferred":[
         "Amizour"
     ],
+    "name:pol_x_preferred":[
+        "Amizur"
+    ],
     "name:por_x_preferred":[
         "Amizour"
     ],
@@ -65,6 +71,9 @@
     "name:und_x_variant":[
         "Colmar"
     ],
+    "name:uzb_x_preferred":[
+        "Amizour"
+    ],
     "name:vie_x_preferred":[
         "Amizour"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u7c73\u7956\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Amizour"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421200183,
-    "wof:lastmodified":1566583500,
+    "wof:lastmodified":1690875530,
     "wof:name":"Amizour",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

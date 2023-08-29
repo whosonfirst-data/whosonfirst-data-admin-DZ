@@ -41,8 +41,14 @@
     "name:ast_x_preferred":[
         "Provincia d'Or\u00e1n"
     ],
+    "name:ast_x_variant":[
+        "provincia d'Or\u00e1n"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0647\u0631\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "V\u0259hran vilay\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0440\u0430\u043d"
@@ -59,6 +65,12 @@
     "name:ceb_x_preferred":[
         "Oran"
     ],
+    "name:ces_x_preferred":[
+        "Provincie Vahr\u00e1n"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Oran"
+    ],
     "name:dan_x_preferred":[
         "Oran"
     ],
@@ -68,6 +80,9 @@
     "name:ell_x_preferred":[
         "\u039f\u03c1\u03ac\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c1\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Oran"
     ],
@@ -76,6 +91,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Oran"
+    ],
+    "name:eus_x_preferred":[
+        "Orango probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0648\u0647\u0631\u0627\u0646"
@@ -88,6 +106,9 @@
     ],
     "name:fra_x_variant":[
         "Oran"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Oran"
     ],
     "name:glg_x_preferred":[
         "Provincia de Or\u00e1n"
@@ -103,6 +124,9 @@
     ],
     "name:hun_x_preferred":[
         "Oran"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0561\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ina_x_preferred":[
         "Provincia Oran"
@@ -218,6 +242,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0648\u06be\u0631\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Vahron viloyati"
+    ],
     "name:vie_x_preferred":[
         "Oran"
     ],
@@ -226,6 +253,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5965\u5170\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Oran Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -346,7 +376,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501712,
+    "wof:lastmodified":1690875489,
     "wof:name":"Oran",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

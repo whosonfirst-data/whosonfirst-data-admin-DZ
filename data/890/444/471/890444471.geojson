@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u062e\u0627\u0644\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u062e\u0627\u0644\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u062e\u0627\u0644\u062f"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:ita_x_preferred":[
         "Sidi Khaled"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c7\u30a3\u30fb\u30cf\u30ec\u30c9"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Xaled"
     ],
     "name:msa_x_preferred":[
         "Sidi Khaled"
@@ -65,6 +74,9 @@
         "Sidi Kraled"
     ],
     "name:vie_x_preferred":[
+        "Sidi Khaled"
+    ],
+    "name:zul_x_preferred":[
         "Sidi Khaled"
     ],
     "qs:name":"Sidi Khaled",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":890444471,
-    "wof:lastmodified":1566583511,
+    "wof:lastmodified":1690875546,
     "wof:name":"Sidi Khaled",
     "wof:parent_id":85670827,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0628\u064a\u0636 \u0633\u064a\u062f\u064a \u0627\u0644\u0634\u064a\u062e"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0627\u0628\u064a\u0636 \u0633\u064a\u062f\u0649 \u0627\u0644\u0634\u064a\u062e"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0628\u06cc\u0636 \u0633\u06cc\u062f\u06cc \u0634\u06cc\u062e"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "El Abiodh Sidi Cheikh"
+    ],
+    "name:kab_x_preferred":[
+        "Lebye\u1e0d Sidi Ccix"
     ],
     "name:msa_x_preferred":[
         "El Abiodh Sidi Cheikh"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890435437,
-    "wof:lastmodified":1566583518,
+    "wof:lastmodified":1690875555,
     "wof:name":"El Abiodh Sidi Cheikh",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",

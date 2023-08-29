@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0637\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0637\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0637\u0641"
+    ],
+    "name:deu_x_preferred":[
+        "El Atteuf"
     ],
     "name:eng_x_preferred":[
         "El Atteuf"
@@ -32,11 +38,17 @@
     "name:fra_x_preferred":[
         "El Atteuf"
     ],
+    "name:ind_x_preferred":[
+        "El Atteuf"
+    ],
     "name:ita_x_preferred":[
         "El Atteuf"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\uff1d\u30a2\u30c3\u30c8\u30a5\u30d5"
+    ],
+    "name:kab_x_preferred":[
+        "L\u025ba\u1e6def"
     ],
     "name:msa_x_preferred":[
         "El Atteuf"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421190889,
-    "wof:lastmodified":1566583497,
+    "wof:lastmodified":1690875527,
     "wof:name":"El Ateuf",
     "wof:parent_id":85670749,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0635\u062f\u0648\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u062f\u0648\u0642"
+    ],
     "name:ceb_x_preferred":[
         "Seddouk"
     ],
@@ -56,6 +59,9 @@
     "name:swe_x_preferred":[
         "Seddouk"
     ],
+    "name:uzb_x_preferred":[
+        "Seddouk"
+    ],
     "name:vie_x_preferred":[
         "Seddouk"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u585e\u675c\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Seddouk"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421198661,
-    "wof:lastmodified":1566583494,
+    "wof:lastmodified":1690875523,
     "wof:name":"Seddouk",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

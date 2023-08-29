@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0623\u063a\u0631\u064a\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u063a\u0631\u064a\u0628"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u063a\u0631\u06cc\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Aghrib"
     ],
     "name:ceb_x_preferred":[
         "Arhribs"
@@ -79,6 +85,9 @@
     "name:zho_x_preferred":[
         "\u963f\u683c\u91cc\u535c"
     ],
+    "name:zul_x_preferred":[
+        "Aghrib"
+    ],
     "qs_pg:aaroncc":"DZ",
     "qs_pg:gn_country":"DZ",
     "qs_pg:gn_fcode":"PPL",
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1125788759,
-    "wof:lastmodified":1566583522,
+    "wof:lastmodified":1690875564,
     "wof:name":"Arhribs",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

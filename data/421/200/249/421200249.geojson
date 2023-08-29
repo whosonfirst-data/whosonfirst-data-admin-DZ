@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0645\u062a\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0631\u0645\u062a\u064a\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0631\u0645\u062a\u06cc\u0646"
     ],
@@ -59,6 +62,9 @@
     "name:swe_x_preferred":[
         "Tirmitine"
     ],
+    "name:uzb_x_preferred":[
+        "Tirmitin"
+    ],
     "name:vie_x_preferred":[
         "Tirmitine"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u63d0\u723e\u7c73\u4e01"
+    ],
+    "name:zul_x_preferred":[
+        "Tirmitine"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421200249,
-    "wof:lastmodified":1566583499,
+    "wof:lastmodified":1690875529,
     "wof:name":"Tirmitine",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

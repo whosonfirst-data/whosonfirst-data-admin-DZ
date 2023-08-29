@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u064a\u0632\u0627\u0631\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0645\u064a\u0632\u0627\u0631\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06cc\u0645\u06cc\u0632\u0627\u0631\u062a"
     ],
@@ -64,11 +67,17 @@
     "name:swe_x_preferred":[
         "Timizart"
     ],
+    "name:uzb_x_preferred":[
+        "Timizart"
+    ],
     "name:vie_x_preferred":[
         "Timizart"
     ],
     "name:zho_x_preferred":[
         "\u63d0\u7c73\u624e\u723e\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Timizart"
     ],
     "qs:name":"Timizart",
     "qs:photos_9r":0,
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":890437137,
-    "wof:lastmodified":1566583509,
+    "wof:lastmodified":1690875544,
     "wof:name":"Timizart",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

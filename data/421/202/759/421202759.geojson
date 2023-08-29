@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0639\u0627\u062f\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0633\u0639\u0627\u062f\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648 \u0633\u0639\u062f\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Bu-Sad\u0259"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb \u09b8\u09be\u09a6\u09be"
@@ -31,6 +37,9 @@
     ],
     "name:dan_x_preferred":[
         "Bou Saada"
+    ],
+    "name:deu_x_preferred":[
+        "Bou Sa\u00e2da"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5 \u03a3\u03b1\u03ac\u03bd\u03c4\u03b1"
@@ -122,6 +131,9 @@
     "name:spa_x_preferred":[
         "Bou Sa\u00e2da"
     ],
+    "name:swa_x_preferred":[
+        "Bou Sa\u00e2da"
+    ],
     "name:swe_x_preferred":[
         "Bou Sa\u00e2da"
     ],
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":421202759,
-    "wof:lastmodified":1566583487,
+    "wof:lastmodified":1690875514,
     "wof:name":"Bou Saada",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0644\u064a\u0644\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062a\u0644\u064a\u0644\u064a\u0633"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u062a\u0644\u06cc\u0644\u06cc\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Bou Tlelis"
     ],
     "name:eng_x_preferred":[
         "Boutl\u00e9lis"
@@ -59,6 +65,12 @@
         "Boutlelis"
     ],
     "name:spa_x_preferred":[
+        "Boutl\u00e9lis"
+    ],
+    "name:swe_x_preferred":[
+        "Bou Tlelis"
+    ],
+    "name:uzb_x_preferred":[
         "Boutl\u00e9lis"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125915267,
-    "wof:lastmodified":1566583520,
+    "wof:lastmodified":1690875560,
     "wof:name":"Bou Tlelis",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

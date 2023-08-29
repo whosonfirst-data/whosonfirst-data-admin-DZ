@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0639\u0632\u0627\u0628\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0632\u0627\u0628\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0632\u0627\u0628\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Azzaba"
+    ],
+    "name:ceb_x_preferred":[
+        "Azzaba"
     ],
     "name:eng_x_preferred":[
         "Azzaba"
@@ -55,7 +64,16 @@
     "name:ron_x_preferred":[
         "Azzaba"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u0437\u0430\u0431\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Azzaba"
+    ],
+    "name:swa_x_preferred":[
+        "Azzaba"
+    ],
+    "name:swe_x_preferred":[
         "Azzaba"
     ],
     "name:und_x_variant":[
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":890417881,
-    "wof:lastmodified":1566583510,
+    "wof:lastmodified":1690875546,
     "wof:name":"Azzaba",
     "wof:parent_id":85670727,
     "wof:placetype":"locality",

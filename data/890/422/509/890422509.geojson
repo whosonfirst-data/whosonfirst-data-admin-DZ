@@ -46,6 +46,9 @@
     "name:ita_x_preferred":[
         "Al-Mansura"
     ],
+    "name:kab_x_preferred":[
+        "Lmen\u1e63ura"
+    ],
     "name:nan_x_preferred":[
         "Mansourah"
     ],
@@ -72,6 +75,12 @@
     ],
     "name:urd_x_variant":[
         "\u0645\u0646\u0635\u0648\u0631\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Mansur"
+    ],
+    "name:zul_x_preferred":[
+        "Mansoura"
     ],
     "qs:name":"Manso\u00fbra",
     "qs:photos_9r":0,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890422509,
-    "wof:lastmodified":1566583507,
+    "wof:lastmodified":1690875541,
     "wof:name":"Manso\u00fbra",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

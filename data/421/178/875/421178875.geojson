@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0648\u0633\u0627\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0648\u0633\u0627\u0631\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0648\u0633\u0627\u0631\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fyn-\u00dcs\u0259ra"
     ],
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a8 \u0993\u09b8\u09c7\u09b0\u09be"
@@ -32,8 +38,14 @@
     "name:dan_x_preferred":[
         "A\u00efn Oussera"
     ],
+    "name:deu_x_preferred":[
+        "Ain Oussera"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03b9\u03bd \u039f\u03c5\u03c3\u03c3\u03b5\u03c1\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b9\u03bd \u039f\u03c5\u03c3\u03b5\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "A\u00efn Oussera"
@@ -111,6 +123,9 @@
         "\u0d85\u0dba\u0dd2\u0db1\u0dca \u0d94\u0d8b\u0dc3\u0dda\u0dbb\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "A\u00efn Oussara"
+    ],
+    "name:swa_x_preferred":[
         "A\u00efn Oussara"
     ],
     "name:swe_x_preferred":[
@@ -192,7 +207,7 @@
         }
     ],
     "wof:id":421178875,
-    "wof:lastmodified":1566583501,
+    "wof:lastmodified":1690875532,
     "wof:name":"Ain Oussera",
     "wof:parent_id":85670833,
     "wof:placetype":"locality",

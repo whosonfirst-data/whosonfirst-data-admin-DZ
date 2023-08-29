@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u062a\u0631\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062a\u0631\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u062a\u0631\u06a9"
     ],
@@ -47,6 +50,12 @@
     "name:ita_x_preferred":[
         "A\u00efn El Turk"
     ],
+    "name:kab_x_preferred":[
+        "\u0190in Tturk"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778 \uc5d8 \ud22c\ub974\ud06c"
+    ],
     "name:msa_x_preferred":[
         "A\u00efn El Turk"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:nld_x_preferred":[
         "A\u00efn El Turk"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn at-Turk"
     ],
     "name:por_x_preferred":[
         "A\u00efn El Turk"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421185653,
-    "wof:lastmodified":1566583506,
+    "wof:lastmodified":1690875539,
     "wof:name":"Ain Turk",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

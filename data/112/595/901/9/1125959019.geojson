@@ -25,8 +25,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062b\u0646\u064a\u0629"
     ],
+    "name:arq_x_preferred":[
+        "\u0627\u0644\u062b\u0646\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062b\u0646\u064a\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062b\u0646\u06cc\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Thenia"
+    ],
+    "name:cat_x_preferred":[
+        "Th\u00e9nia"
     ],
     "name:ceb_x_preferred":[
         "Thenia"
@@ -43,16 +55,37 @@
     "name:fra_x_preferred":[
         "Thenia"
     ],
+    "name:fra_x_variant":[
+        "Th\u00e9nia"
+    ],
+    "name:hau_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u0576\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Thenia"
+    ],
     "name:ita_x_preferred":[
         "Th\u00e9nia"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30cb\u30a2"
+    ],
     "name:kab_x_preferred":[
         "Tala \u03b5ica"
+    ],
+    "name:msa_x_preferred":[
+        "Thenia"
     ],
     "name:nan_x_preferred":[
         "Th\u00e9nia"
     ],
     "name:nld_x_preferred":[
+        "Th\u00e9nia"
+    ],
+    "name:pol_x_preferred":[
         "Th\u00e9nia"
     ],
     "name:por_x_preferred":[
@@ -65,6 +98,9 @@
         "Th\u00e9nia"
     ],
     "name:spa_x_preferred":[
+        "Thenia"
+    ],
+    "name:swa_x_preferred":[
         "Thenia"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +155,7 @@
         }
     ],
     "wof:id":1125959019,
-    "wof:lastmodified":1566583519,
+    "wof:lastmodified":1690875558,
     "wof:name":"Thenia",
     "wof:parent_id":85670765,
     "wof:placetype":"locality",

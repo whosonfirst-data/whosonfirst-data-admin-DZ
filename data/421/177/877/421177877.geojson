@@ -59,6 +59,9 @@
     "name:und_x_variant":[
         "Souk et Tnine"
     ],
+    "name:uzb_x_preferred":[
+        "Souk El-Tenin"
+    ],
     "name:vie_x_preferred":[
         "Souk El Tenine"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8607\u683c\u585e\u5be7"
+    ],
+    "name:zul_x_preferred":[
+        "Souk El-Thenine"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421177877,
-    "wof:lastmodified":1566583500,
+    "wof:lastmodified":1690875531,
     "wof:name":"Souk et Tenine",
     "wof:parent_id":85670815,
     "wof:placetype":"locality",

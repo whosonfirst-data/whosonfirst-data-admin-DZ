@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0641\u0631\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0641\u0631\u0648\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0641\u0631\u0648\u0646"
     ],
@@ -35,11 +38,17 @@
     "name:fra_x_preferred":[
         "El Affroun"
     ],
+    "name:glg_x_preferred":[
+        "El Affroun"
+    ],
     "name:ita_x_preferred":[
         "El Affroun"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30a2\u30d5\u30a9\u30ed\u30f3"
+    ],
+    "name:kab_x_preferred":[
+        "L\u025befrun"
     ],
     "name:msa_x_preferred":[
         "El Affroun"
@@ -72,6 +81,12 @@
         "El-Affroun"
     ],
     "name:zho_min_nan_x_preferred":[
+        "El Affroun"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u5f17\u6d1b\u6069"
+    ],
+    "name:zul_x_preferred":[
         "El Affroun"
     ],
     "qs:gn_country":"DZ",
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":421197479,
-    "wof:lastmodified":1566583498,
+    "wof:lastmodified":1690875528,
     "wof:name":"El Afroun",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

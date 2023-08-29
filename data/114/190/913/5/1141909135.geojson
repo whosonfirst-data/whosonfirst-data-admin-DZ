@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"5.39996984724,36.1800254507,5.39996984724,36.1800254507",
+    "geom:bbox":"5.39997,36.180025,5.39997,36.180025",
     "geom:latitude":36.180025,
     "geom:longitude":5.39997,
     "iso:country":"DZ",
@@ -24,14 +24,29 @@
     "name:ara_x_preferred":[
         "\u0633\u0637\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0637\u064a\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "S\u00e9tif"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0637\u06cc\u0641"
+    ],
+    "name:aze_x_preferred":[
+        "S\u0259tif"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u0442\u044b\u0444"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0435\u0442\u044b\u0444"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u099f\u09bf\u09ab"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09c7\u09a4\u09bf\u09ab"
     ],
     "name:bre_x_preferred":[
         "Setif"
@@ -43,6 +58,9 @@
         "Sitifis"
     ],
     "name:ceb_x_preferred":[
+        "S\u00e9tif"
+    ],
+    "name:ces_x_preferred":[
         "S\u00e9tif"
     ],
     "name:dan_x_preferred":[
@@ -73,6 +91,12 @@
         "S\u00e9tif"
     ],
     "name:fra_x_preferred":[
+        "S\u00e9tif"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00e9tif"
+    ],
+    "name:gle_x_preferred":[
         "S\u00e9tif"
     ],
     "name:guj_x_preferred":[
@@ -141,6 +165,12 @@
     "name:nob_x_preferred":[
         "S\u00e9tif"
     ],
+    "name:oci_x_preferred":[
+        "Setif"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0435\u0442\u0438\u0444"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u0637\u0641"
     ],
@@ -160,6 +190,9 @@
         "\u0dc3\u0dd9\u0da7\u0dd2\u0dc6\u0dca"
     ],
     "name:spa_x_preferred":[
+        "S\u00e9tif"
+    ],
+    "name:swa_x_preferred":[
         "S\u00e9tif"
     ],
     "name:swe_x_preferred":[
@@ -185,6 +218,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0637\u06cc\u0641"
+    ],
+    "name:vec_x_preferred":[
+        "S\u00e9tif"
     ],
     "name:vie_x_preferred":[
         "S\u00e9tif"
@@ -302,7 +338,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131031,
-    "wof:geomhash":"1a3c6c169e48ed653ccbdc58f2128081",
+    "wof:geomhash":"47b5a2bb3b0f70959f3c7c908061e8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +348,7 @@
         }
     ],
     "wof:id":1141909135,
-    "wof:lastmodified":1566583775,
+    "wof:lastmodified":1690875569,
     "wof:name":"Setif",
     "wof:parent_id":85670845,
     "wof:placetype":"locality",
@@ -322,10 +358,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.39996984723984,
-    36.18002545068208,
-    5.39996984723984,
-    36.18002545068208
+    5.39997,
+    36.180025,
+    5.39997,
+    36.180025
 ],
-  "geometry": {"coordinates":[5.39996984723984,36.18002545068208],"type":"Point"}
+  "geometry": {"coordinates":[5.39997,36.180025],"type":"Point"}
 }

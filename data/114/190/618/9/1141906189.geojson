@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.62999646641,36.0590040083,4.62999646641,36.0590040083",
+    "geom:bbox":"4.629996,36.059004,4.629996,36.059004",
     "geom:latitude":36.059004,
     "geom:longitude":4.629996,
     "iso:country":"DZ",
@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
+    "name:aze_x_preferred":[
+        "B\u00fcrc-B\u00fc-\u018frriric"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09a1\u099c \u09ac\u09cc \u0986\u09b0\u09c7\u0987\u099c"
@@ -39,17 +48,24 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c1\u03bd\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03bd\u03c4\u03b6"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03bf\u03c1\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5 \u0391\u03c1\u03b5\u03c1\u03af\u03c4\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
     ],
     "name:epo_x_preferred":[
         "Bor\u011d Bu Areri\u011d"
     ],
+    "name:eus_x_preferred":[
+        "Bordj Bou Arreridj"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
     ],
     "name:fas_x_variant":[
-        "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
+        "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c",
+        "\u0628\u0631\u062c \u0628\u0648\u0639\u0631\u06cc\u0631\u06cc\u062c"
     ],
     "name:fin_x_preferred":[
         "Bordj Bou Arreridj"
@@ -59,6 +75,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab0\u0acd\u0aa1\u0ac7\u0a9c\u0acd \u0aac\u0acc \u0a85\u0ab0\u0ac7\u0ab0\u0abf\u0a9c"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d2' \u05d0\u05d1\u05d5 \u05d0\u05e8\u05d2'"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0930\u094d\u091c \u092c\u094b\u0909 \u0905\u0930\u0940\u091c"
@@ -74,6 +93,9 @@
     ],
     "name:kab_x_preferred":[
         "Bur\u01e7 Bu A\u025briri\u01e7"
+    ],
+    "name:kab_x_variant":[
+        "Bur\u01e7 Bu\u025briri\u01e7"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccb\u0cb0\u0ccd\u0c9c\u0ccd \u0cac\u0ccc \u0c85\u0cb0\u0cc6\u0cb0\u0cbf\u0ca1\u0ccd\u0c9c\u0ccd"
@@ -123,6 +145,9 @@
     "name:spa_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
     ],
+    "name:swa_x_preferred":[
+        "Bordj Bou Arreridj"
+    ],
     "name:swe_x_preferred":[
         "Bordj Bou Arr\u00e9ridj"
     ],
@@ -143,6 +168,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u062c \u0628\u0648 \u0639\u0631\u06cc\u0631\u06cc\u062c"
+    ],
+    "name:uzb_x_preferred":[
+        "Bordj Bou Arr\u00e9ridj"
     ],
     "name:vie_x_preferred":[
         "Bordj Bou Arreridj"
@@ -260,7 +288,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499130553,
-    "wof:geomhash":"184a7f347dd047db420171103e6cc371",
+    "wof:geomhash":"0d846b6b3e5353fb48f59622ad21b94c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -270,7 +298,7 @@
         }
     ],
     "wof:id":1141906189,
-    "wof:lastmodified":1566583773,
+    "wof:lastmodified":1690875566,
     "wof:name":"Bordj Bou Arreridj",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",
@@ -280,10 +308,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.62999646640503,
-    36.05900400826653,
-    4.62999646640503,
-    36.05900400826653
+    4.629996,
+    36.059004,
+    4.629996,
+    36.059004
 ],
-  "geometry": {"coordinates":[4.62999646640503,36.05900400826653],"type":"Point"}
+  "geometry": {"coordinates":[4.629996,36.059004],"type":"Point"}
 }

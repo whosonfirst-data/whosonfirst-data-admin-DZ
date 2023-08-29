@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u0630\u0647\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0630\u0647\u0628"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0630\u0647\u0628"
+    ],
+    "name:ceb_x_preferred":[
+        "'A\u00efn Deheb"
     ],
     "name:eng_x_preferred":[
         "A\u00efn Deheb"
@@ -56,6 +62,9 @@
     "name:spa_x_preferred":[
         "A\u00efn Deheb"
     ],
+    "name:swe_x_preferred":[
+        "'A\u00efn Deheb"
+    ],
     "name:und_x_variant":[
         "El Ousseukh"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u56e0\u4ee3\u6d77\u535c"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00efn Deheb"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421205381,
-    "wof:lastmodified":1566583488,
+    "wof:lastmodified":1690875516,
     "wof:name":"'Ain Deheb",
     "wof:parent_id":85670801,
     "wof:placetype":"locality",

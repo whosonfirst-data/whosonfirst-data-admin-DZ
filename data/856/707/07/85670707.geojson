@@ -41,6 +41,9 @@
     "name:azb_x_preferred":[
         "\u0646\u0639\u0627\u0645\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Naama vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u0430\u0430\u043c\u0430"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:ceb_x_preferred":[
         "Naama"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Naama"
     ],
     "name:dan_x_preferred":[
         "Naama Province"
@@ -75,6 +81,9 @@
     "name:epo_x_preferred":[
         "Provinco Naama"
     ],
+    "name:eus_x_preferred":[
+        "Na\u00e2mako probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0646\u0639\u0627\u0645\u0647"
     ],
@@ -86,6 +95,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Na\u00e2ma"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Naama"
     ],
     "name:glg_x_preferred":[
         "Provincia de Na\u00e2ma"
@@ -222,6 +234,9 @@
     "name:zho_x_preferred":[
         "\u7eb3\u9a6c\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Na\u00e2ma Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -342,7 +357,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614807361,
+    "wof:lastmodified":1690875498,
     "wof:name":"Naama",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

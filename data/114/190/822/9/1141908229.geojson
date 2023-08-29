@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0651\u0636"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0651\u0636"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0628\u06cc\u0636"
     ],
@@ -33,11 +36,17 @@
     "name:deu_x_preferred":[
         "El Bayadh"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039c\u03c0\u03b1\u03b3\u03b9\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "El Bayadh"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u06cc\u0636"
+    ],
+    "name:fin_x_preferred":[
+        "El Bayadh"
     ],
     "name:fra_x_preferred":[
         "El Bayadh"
@@ -51,11 +60,17 @@
     "name:hun_x_preferred":[
         "El-Bayadh"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0532\u0561\u0575\u0561\u0564"
+    ],
     "name:ind_x_preferred":[
         "El Bayadh"
     ],
     "name:ita_x_preferred":[
         "El Bayadh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d0\u30e4\u30fc\u30c9"
     ],
     "name:kab_x_preferred":[
         "Lbeyye\u1e0d"
@@ -91,6 +106,9 @@
         "\u042d\u043b\u044c-\u0411\u0430\u044f\u0434"
     ],
     "name:spa_x_preferred":[
+        "El Bayadh"
+    ],
+    "name:swa_x_preferred":[
         "El Bayadh"
     ],
     "name:swe_x_preferred":[
@@ -231,7 +249,7 @@
         }
     ],
     "wof:id":1141908229,
-    "wof:lastmodified":1636501727,
+    "wof:lastmodified":1690875571,
     "wof:name":"El Bayadh",
     "wof:parent_id":85670741,
     "wof:placetype":"locality",

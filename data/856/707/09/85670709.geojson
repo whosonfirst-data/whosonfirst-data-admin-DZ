@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0648\u0644\u0627\u064a\u0629 \u062a\u0646\u062f\u0648\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0647 \u062a\u0646\u062f\u0648\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0646\u062f\u0648\u0641 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -59,6 +62,12 @@
     "name:ces_x_preferred":[
         "Tind\u00faf"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0438\u043d\u0434\u0443\u0444"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Tindouf"
+    ],
     "name:dan_x_preferred":[
         "Tindouf"
     ],
@@ -74,6 +83,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03bd\u03c4\u03bf\u03cd\u03c6"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b9\u03bd\u03c4\u03bf\u03cd\u03c6"
+    ],
     "name:eng_x_preferred":[
         "Tindouf"
     ],
@@ -85,6 +97,9 @@
     ],
     "name:eus_x_preferred":[
         "Tinduf"
+    ],
+    "name:eus_x_variant":[
+        "Tindufeko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0646\u062f\u0648\u0641"
@@ -106,6 +121,9 @@
     ],
     "name:frr_x_preferred":[
         "Tindouf"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Tindouf"
     ],
     "name:glg_x_preferred":[
         "Provincia de Tindouf"
@@ -281,6 +299,9 @@
     "name:zho_x_variant":[
         "\u5ef7\u675c\u592b\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Tindouf Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -401,7 +422,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501716,
+    "wof:lastmodified":1690875498,
     "wof:name":"Tindouf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0646\u062f\u0631\u0648\u0645\u0629"
     ],
+    "name:arq_x_preferred":[
+        "\u0646\u062f\u0631\u0648\u0645\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u062f\u0631\u0648\u0645\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u062f\u0631\u0648\u0645\u0647"
     ],
@@ -52,6 +58,9 @@
     "name:kab_x_preferred":[
         "Nadruma"
     ],
+    "name:kab_x_variant":[
+        "Nedruma"
+    ],
     "name:msa_x_preferred":[
         "Nedroma"
     ],
@@ -76,7 +85,19 @@
     "name:swe_x_preferred":[
         "Nedroma"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u062f\u0631\u0648\u0645\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Nedroma"
+    ],
     "name:vie_x_preferred":[
+        "Nedroma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u5fb7\u7f85\u99ac"
+    ],
+    "name:zul_x_preferred":[
         "Nedroma"
     ],
     "qs_pg:aaroncc":"DZ",
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":1125915113,
-    "wof:lastmodified":1566583521,
+    "wof:lastmodified":1690875561,
     "wof:name":"Nedroma",
     "wof:parent_id":85670695,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:ceb_x_preferred":[
         "M'Sila"
     ],
+    "name:cym_x_preferred":[
+        "Talaith M'Sila"
+    ],
     "name:dan_x_preferred":[
         "M'Sila Province"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bc\u03c3\u03af\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c'\u03a3\u03b9\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "M'sila"
@@ -72,6 +78,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco M'Sila"
+    ],
+    "name:eus_x_preferred":[
+        "M'Silako probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0645\u0633\u06cc\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -91,6 +100,9 @@
     "name:fra_x_variant":[
         "wilaya de M'Sila"
     ],
+    "name:gle_x_preferred":[
+        "C\u00faige M'Sila"
+    ],
     "name:glg_x_preferred":[
         "Provincia de M'Sila"
     ],
@@ -99,6 +111,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05de\u05e1\u05d9\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05e1\u05d9\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e'\u0938\u093f\u0932\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -250,6 +265,9 @@
     "name:zho_x_variant":[
         "\u59c6\u897f\u62c9\u7701"
     ],
+    "name:zul_x_preferred":[
+        "M'Sila Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -368,7 +386,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501714,
+    "wof:lastmodified":1690875494,
     "wof:name":"M'sila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -21,14 +21,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0628\u0627\u062f\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u0627\u062f\u0644\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0628\u0627\u062f\u0644\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Abadla"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09be\u09a6\u09b2\u09be"
     ],
     "name:deu_x_preferred":[
         "Abadla"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03b1\u03bd\u03c4\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "Abadla"
@@ -110,6 +119,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5df4\u5fb7\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Abadla"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":1141908221,
-    "wof:lastmodified":1636501727,
+    "wof:lastmodified":1690875572,
     "wof:name":"Abadla",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",

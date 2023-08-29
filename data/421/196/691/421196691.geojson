@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0639\u064a\u0633\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0639\u064a\u0633\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Sidi A\u00efssa"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Sidi A\u00efssa"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi \u0190isa"
     ],
     "name:msa_x_preferred":[
         "Sidi A\u00efssa"
@@ -64,6 +70,9 @@
     ],
     "name:und_x_variant":[
         "Sid A\u00efssa"
+    ],
+    "name:uzb_x_preferred":[
+        "Sidi Aissa"
     ],
     "name:vie_x_preferred":[
         "Sidi Aissa"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421196691,
-    "wof:lastmodified":1566583497,
+    "wof:lastmodified":1690875526,
     "wof:name":"Sidi Aissa",
     "wof:parent_id":85670841,
     "wof:placetype":"locality",

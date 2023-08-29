@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u064a\u0633 \u0645\u0644\u064a\u0627\u0646\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0645\u064a\u0633 \u0645\u0644\u064a\u0627\u0646\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0645\u06cc\u0633 \u0645\u0644\u06cc\u0627\u0646\u0647"
     ],
@@ -69,6 +72,9 @@
         "Khemis Miliana"
     ],
     "name:spa_x_preferred":[
+        "Khemis Miliana"
+    ],
+    "name:swa_x_preferred":[
         "Khemis Miliana"
     ],
     "name:swe_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421180073,
-    "wof:lastmodified":1566583490,
+    "wof:lastmodified":1690875518,
     "wof:name":"Khemis Miliana",
     "wof:parent_id":85670777,
     "wof:placetype":"locality",

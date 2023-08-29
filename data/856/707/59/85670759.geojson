@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Provincia d'Ouargla"
     ],
+    "name:ast_x_variant":[
+        "provincia d'Ouargla"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -62,6 +65,9 @@
     "name:ceb_x_preferred":[
         "Ouargla"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Ouargla"
+    ],
     "name:dan_x_preferred":[
         "Ouargla Province"
     ],
@@ -71,6 +77,9 @@
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03ad\u03c1\u03b3\u03ba\u03bb\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c5\u03ac\u03c1\u03b3\u03ba\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ouargla"
     ],
@@ -79,6 +88,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Uargla"
+    ],
+    "name:eus_x_preferred":[
+        "Ouarglako probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0642\u0644\u0647\u060c \u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
@@ -97,6 +109,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya d'Ouargla"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Ouargla"
     ],
     "name:glg_x_preferred":[
         "Provincia de Ouargla"
@@ -260,6 +275,9 @@
     "name:zho_x_variant":[
         "\u74e6\u5c14\u683c\u62c9\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Ouargla Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -383,7 +401,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501715,
+    "wof:lastmodified":1690875496,
     "wof:name":"Ouargla",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u064a\u0633"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u06cc\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Bir-Murad-Rays"
     ],
     "name:cym_x_preferred":[
         "Bir Mourad Ra\u00efs"
@@ -28,14 +34,23 @@
     "name:dan_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
+    "name:deu_x_preferred":[
+        "Birmandreis"
+    ],
     "name:eng_x_preferred":[
         "Bir Mourad Ra\u00efs"
+    ],
+    "name:eng_x_variant":[
+        "Bir Mourad Rais"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0631 \u0645\u0631\u0627\u062f \u0631\u0627\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Bir Mourad Ra\u00efs"
+    ],
+    "name:gle_x_preferred":[
+        "Bir Mourad Rais"
     ],
     "name:hrv_x_preferred":[
         "Bir Mourad Ra\u00efs"
@@ -58,6 +73,9 @@
     "name:nld_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
+    "name:pol_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
     "name:por_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
@@ -70,6 +88,12 @@
     "name:spa_x_preferred":[
         "Bir Mourad Ra\u00efs"
     ],
+    "name:swe_x_preferred":[
+        "Bir Mourad Ra\u00efs"
+    ],
+    "name:tur_x_preferred":[
+        "Bir Murad Reis"
+    ],
     "name:und_x_variant":[
         "Le Redoute"
     ],
@@ -78,6 +102,9 @@
     ],
     "name:vie_x_preferred":[
         "Bir Mourad Rais"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u66fc\u5fb7\u5229"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPLX",
@@ -124,7 +151,7 @@
         }
     ],
     "wof:id":421182383,
-    "wof:lastmodified":1566583503,
+    "wof:lastmodified":1690875536,
     "wof:name":"Bir Mourad Rais",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

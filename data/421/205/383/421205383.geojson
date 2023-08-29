@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646 \u0645\u0647\u064a\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646 \u0645\u0647\u064a\u062f\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0646 \u0645\u0647\u06cc\u062f\u06cc"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Ben Mehdi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bd \u039c\u03b5\u03c7\u03bd\u03c4\u03af"
     ],
     "name:eng_x_preferred":[
         "Ben Mehdi"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421205383,
-    "wof:lastmodified":1566583487,
+    "wof:lastmodified":1690875515,
     "wof:name":"Ben Mehidi",
     "wof:parent_id":85670719,
     "wof:placetype":"locality",

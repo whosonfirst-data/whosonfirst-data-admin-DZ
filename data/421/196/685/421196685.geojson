@@ -35,8 +35,14 @@
     "name:fra_x_preferred":[
         "Mansoura"
     ],
+    "name:glg_x_preferred":[
+        "Mansoura"
+    ],
     "name:ita_x_preferred":[
         "Mansoura"
+    ],
+    "name:kab_x_preferred":[
+        "Lmen\u1e63ura"
     ],
     "name:msa_x_preferred":[
         "Mansoura"
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Mansourah"
+    ],
+    "name:uzb_x_preferred":[
+        "Mansoura"
     ],
     "name:vie_x_preferred":[
         "Mansoura"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421196685,
-    "wof:lastmodified":1566583496,
+    "wof:lastmodified":1690875525,
     "wof:name":"Mansourah",
     "wof:parent_id":85670809,
     "wof:placetype":"locality",

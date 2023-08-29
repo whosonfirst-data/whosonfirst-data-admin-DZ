@@ -39,6 +39,9 @@
     "name:ast_x_preferred":[
         "Provincia d'Oum el-Bouaghi"
     ],
+    "name:ast_x_variant":[
+        "provincia d'Oum el-Bouaghi"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645\u200c\u0627\u0644\u0628\u0648\u0627\u0642\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -57,6 +60,9 @@
     "name:ceb_x_preferred":[
         "Oum el Bouaghi"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Oum El Bouaghi"
+    ],
     "name:dan_x_preferred":[
         "Oum El Bouaghi Province"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03bc \u0395\u03bb \u039c\u03c0\u03bf\u03c5\u03ac\u03b3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c5\u03bc \u0395\u03bb \u039c\u03c0\u03bf\u03c5\u03b1\u03b3\u03ba\u03af"
     ],
     "name:eng_x_preferred":[
         "Oum el Bouaghi"
@@ -90,6 +99,9 @@
     ],
     "name:fra_x_variant":[
         "Oum El Bouaghi"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Oum El Bouaghi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Oum El Bouaghi"
@@ -181,6 +193,9 @@
     "name:tam_x_preferred":[
         "\u0b93\u0bae\u0bcd  \u0b8e\u0bb2\u0bcd \u0baa\u0bcc\u0b85\u0b83\u0bb9\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b93\u0bae\u0bcd \u0b8e\u0bb2\u0bcd \u0baa\u0bcc\u0b85\u0b83\u0bb9\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c13\u0c35\u0c2e\u0c4d \u0c0e\u0c32\u0c4d \u0c2c\u0c4a\u0c35\u0c3e\u0c18\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -214,8 +229,14 @@
     "name:war_x_preferred":[
         "Oum el-Bouaghi"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u59c6\u5e03\u74e6\u5409\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4e4c\u59c6\u5e03\u74e6\u5409\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Oum El Bouaghi Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -337,7 +358,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501714,
+    "wof:lastmodified":1690875495,
     "wof:name":"Oum el Bouaghi",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -29,11 +29,20 @@
     "name:eng_x_preferred":[
         "Chr\u00e9a"
     ],
+    "name:eng_x_variant":[
+        "Chrea"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0634\u0631\u06cc\u0639\u0647"
     ],
     "name:fra_x_preferred":[
         "Chr\u00e9a"
+    ],
+    "name:ita_x_preferred":[
+        "Chr\u00e9a"
+    ],
+    "name:kab_x_preferred":[
+        "Ccri\u025ba"
     ],
     "name:msa_x_preferred":[
         "Chr\u00e9a"
@@ -64,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4ec0\u91cc\u963f"
+    ],
+    "name:zul_x_preferred":[
+        "Chr\u00e9a"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421192351,
-    "wof:lastmodified":1566583482,
+    "wof:lastmodified":1690875509,
     "wof:name":"Chrea",
     "wof:parent_id":85670819,
     "wof:placetype":"locality",

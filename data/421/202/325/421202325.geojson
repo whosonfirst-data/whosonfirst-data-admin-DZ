@@ -20,14 +20,38 @@
     "name:ara_x_preferred":[
         "\u0632\u0631\u0627\u0644\u062f\u0629"
     ],
+    "name:arq_x_preferred":[
+        "\u0632\u0631\u0627\u0644\u062f\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0632\u0631\u0627\u0644\u062f\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0632\u0631\u0627\u0644\u062f\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Zeralda"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0435\u0440\u0430\u043b\u044c\u0434\u0430"
     ],
     "name:ceb_x_preferred":[
         "Zeralda"
     ],
+    "name:dan_x_preferred":[
+        "Z\u00e9ralda"
+    ],
+    "name:deu_x_preferred":[
+        "Zeralda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03c1\u03ac\u03bb\u03bd\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Z\u00e9ralda"
+    ],
+    "name:eng_x_variant":[
+        "Zeralda"
     ],
     "name:fas_x_preferred":[
         "\u0632\u0631\u0627\u0644\u062f\u0627"
@@ -35,11 +59,23 @@
     "name:fra_x_preferred":[
         "Z\u00e9ralda"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e8\u05d0\u05dc\u05d3\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Z\u00e9ralda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30e9\u30eb\u30c0"
+    ],
     "name:kab_x_preferred":[
         "Ziralda"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ub784\ub2e4"
+    ],
+    "name:kur_x_preferred":[
+        "Zeralda"
     ],
     "name:msa_x_preferred":[
         "Zeralda"
@@ -48,6 +84,12 @@
         "Z\u00e9ralda"
     ],
     "name:nld_x_preferred":[
+        "Z\u00e9ralda"
+    ],
+    "name:nno_x_preferred":[
+        "Z\u00e9ralda"
+    ],
+    "name:nob_x_preferred":[
         "Z\u00e9ralda"
     ],
     "name:por_x_preferred":[
@@ -59,11 +101,20 @@
     "name:ron_x_variant":[
         "Zeralda"
     ],
+    "name:sco_x_preferred":[
+        "Zeralda"
+    ],
     "name:spa_x_preferred":[
         "Z\u00e9ralda"
     ],
     "name:swe_x_preferred":[
         "Zeralda"
+    ],
+    "name:tur_x_preferred":[
+        "Zeralide"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0440\u0430\u043b\u044c\u0434\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0631\u0627\u0644\u062f\u06c1"
@@ -117,7 +168,7 @@
         }
     ],
     "wof:id":421202325,
-    "wof:lastmodified":1566583487,
+    "wof:lastmodified":1690875514,
     "wof:name":"Zeralda",
     "wof:parent_id":85670771,
     "wof:placetype":"locality",

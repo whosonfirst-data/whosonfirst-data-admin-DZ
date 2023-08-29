@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.23000370422,31.611105366,-2.23000370422,31.611105366",
+    "geom:bbox":"-2.230004,31.611105,-2.230004,31.611105",
     "geom:latitude":31.611105,
     "geom:longitude":-2.230004,
     "iso:country":"DZ",
@@ -21,8 +21,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0634\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "B\u00e9char"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0634\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0259\u015far"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0448\u0430\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0995\u09b9\u09be\u09b0"
@@ -123,6 +135,9 @@
     "name:por_x_preferred":[
         "B\u00e9char"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0634\u0627\u0631"
+    ],
     "name:ron_x_preferred":[
         "B\u00e9char"
     ],
@@ -136,6 +151,9 @@
         "B\u00e9char"
     ],
     "name:spa_x_preferred":[
+        "B\u00e9char"
+    ],
+    "name:swa_x_preferred":[
         "B\u00e9char"
     ],
     "name:swe_x_preferred":[
@@ -170,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d1d\u6c99\u5c14"
+    ],
+    "name:zul_x_preferred":[
+        "B\u00e9char"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Algeria",
@@ -278,7 +299,7 @@
     },
     "wof:country":"DZ",
     "wof:created":1499131029,
-    "wof:geomhash":"025e0de5c90252015d714624f35813c2",
+    "wof:geomhash":"f8166d1ef5f78549d18e5dfd214cb582",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -288,7 +309,7 @@
         }
     ],
     "wof:id":1141909123,
-    "wof:lastmodified":1566583774,
+    "wof:lastmodified":1690875568,
     "wof:name":"Bechar",
     "wof:parent_id":85670699,
     "wof:placetype":"locality",
@@ -298,10 +319,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.23000370422301,
-    31.61110536602837,
-    -2.23000370422301,
-    31.61110536602837
+    -2.230004,
+    31.611105,
+    -2.230004,
+    31.611105
 ],
-  "geometry": {"coordinates":[-2.23000370422301,31.61110536602837],"type":"Point"}
+  "geometry": {"coordinates":[-2.230004,31.611105],"type":"Point"}
 }

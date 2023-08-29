@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0644\u0639"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0642\u0644\u0639"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0642\u0644\u0639"
     ],
@@ -65,6 +68,9 @@
     "name:swe_x_preferred":[
         "Mekla"
     ],
+    "name:uzb_x_preferred":[
+        "Mekla"
+    ],
     "name:vie_x_preferred":[
         "Mekla"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9081\u514b\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mekla"
     ],
     "qs:gn_country":"DZ",
     "qs:gn_fcode":"PPL",
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421182755,
-    "wof:lastmodified":1566583503,
+    "wof:lastmodified":1690875535,
     "wof:name":"Mekla",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

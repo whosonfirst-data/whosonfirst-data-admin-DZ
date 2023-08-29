@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0644\u0634\u062d\u0645\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0627\u0644\u0634\u062d\u0645\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u0634\u062d\u0645\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Sidi-\u015e\u0259mi"
     ],
     "name:ceb_x_preferred":[
         "Sidi ech Chahmi"
@@ -39,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Sidi Chami"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Cce\u1e25mi"
     ],
     "name:msa_x_preferred":[
         "Sidi Chami"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890444473,
-    "wof:lastmodified":1566583512,
+    "wof:lastmodified":1690875548,
     "wof:name":"Sidi ech Chahmi",
     "wof:parent_id":85670689,
     "wof:placetype":"locality",

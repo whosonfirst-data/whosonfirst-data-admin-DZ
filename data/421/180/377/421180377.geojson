@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0633\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u062f\u0649 \u0633\u0644\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u062f\u06cc \u0633\u0644\u06cc"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Oued Sly"
+    ],
+    "name:kab_x_preferred":[
+        "Wad Sli"
     ],
     "name:msa_x_preferred":[
         "Oued Sly"
@@ -69,6 +75,9 @@
         "Oued Sly"
     ],
     "name:zho_min_nan_x_preferred":[
+        "Oued Sly"
+    ],
+    "name:zul_x_preferred":[
         "Oued Sly"
     ],
     "qs:gn_country":"DZ",
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421180377,
-    "wof:lastmodified":1566583490,
+    "wof:lastmodified":1690875518,
     "wof:name":"Oued Sly",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",

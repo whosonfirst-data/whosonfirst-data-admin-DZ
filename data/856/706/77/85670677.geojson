@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Provincia d'Adrar"
     ],
+    "name:ast_x_variant":[
+        "provincia d'Adrar"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u062f\u0631\u0627\u0631 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -68,6 +71,12 @@
     "name:ces_x_preferred":[
         "Adrar"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0434\u0440\u0430\u0440"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Adrar"
+    ],
     "name:dan_x_preferred":[
         "Adrar"
     ],
@@ -79,6 +88,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c4\u03c1\u03ac\u03c1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bd\u03c4\u03c1\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Adrar"
@@ -109,6 +121,12 @@
     ],
     "name:fra_x_variant":[
         "wilaya d'Adrar"
+    ],
+    "name:frr_x_preferred":[
+        "Adrar"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Adrar"
     ],
     "name:glg_x_preferred":[
         "Adrar"
@@ -248,6 +266,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e14\u0e23\u0e32\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e14\u0e23\u0e2d\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Adrar"
     ],
@@ -272,6 +293,9 @@
     "name:war_x_preferred":[
         "Adrar"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5fb7\u62c9\u5c14\u7701"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d3\u10e0\u10d0\u10e0\u10d8\u10e8 \u10d5\u10d8\u10da\u10d0\u10d8\u10d4\u10d7\u10d8"
     ],
@@ -280,6 +304,9 @@
     ],
     "name:zho_x_variant":[
         "\u963f\u5fb7\u62c9\u723e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Adrar Province"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
@@ -401,7 +428,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501712,
+    "wof:lastmodified":1690875490,
     "wof:name":"Adrar",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

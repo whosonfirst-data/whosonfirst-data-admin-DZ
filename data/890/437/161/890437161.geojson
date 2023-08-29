@@ -22,14 +22,23 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u06cc\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
     ],
     "name:cat_x_preferred":[
         "Ain El Hammam"
     ],
+    "name:ceb_x_preferred":[
+        "'A\u00efn el Hammam"
+    ],
     "name:deu_x_preferred":[
         "A\u00efn El Hammam"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u0390\u03bd \u0395\u03bb \u03a7\u03b1\u03bc\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
         "A\u00efn El Hammam"
@@ -73,14 +82,23 @@
     "name:swe_x_preferred":[
         "A\u00efn El Hammam"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0457\u043d \u0415\u043b\u044c \u0425\u0430\u043c\u043c\u0430\u043c"
+    ],
     "name:und_x_variant":[
         "Michelet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u062d\u0645\u0627\u0645"
     ],
     "name:vie_x_preferred":[
         "Ain-El-Hammam"
     ],
     "name:zho_x_preferred":[
         "\u827e\u56e0\u54c8\u99ac\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "A\u00efn El Hammam"
     ],
     "qs:name":"\u2019A\u00efn el Hammam",
     "qs:photos_9r":0,
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":890437161,
-    "wof:lastmodified":1566583508,
+    "wof:lastmodified":1690875542,
     "wof:name":"\u2019A\u00efn el Hammam",
     "wof:parent_id":85670767,
     "wof:placetype":"locality",

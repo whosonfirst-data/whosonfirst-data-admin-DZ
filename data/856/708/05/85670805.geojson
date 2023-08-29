@@ -54,6 +54,9 @@
     "name:ceb_x_preferred":[
         "Tissemsilt"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tissemsilt"
+    ],
     "name:dan_x_preferred":[
         "Tissemsilt Province"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03c3\u03c3\u03b5\u03bc\u03c3\u03af\u03bb\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b9\u03c3\u03b5\u03bc\u03c3\u03af\u03bb\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tissemsilt"
@@ -72,8 +78,14 @@
     "name:epo_x_preferred":[
         "Provinco Tisemsilt"
     ],
+    "name:eus_x_preferred":[
+        "Tissemsilteko probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0633\u0645\u0633\u06cc\u0644\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u06cc\u0633\u0645\u0633\u06cc\u0644\u062a"
     ],
     "name:fin_x_preferred":[
         "Tissemsiltin provinssi"
@@ -83,6 +95,9 @@
     ],
     "name:fra_x_variant":[
         "wilaya de Tissemsilt"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Tissemsilt"
     ],
     "name:glg_x_preferred":[
         "Provincia de Tissemsilt"
@@ -231,6 +246,9 @@
     "name:zho_x_variant":[
         "\u63d0\u585e\u59c6\u897f\u52d2\u7279\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Tissemsilt Province"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DZA",
     "ne:adm0_label":"2",
@@ -353,7 +371,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636501713,
+    "wof:lastmodified":1690875492,
     "wof:name":"Tissemsilt",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

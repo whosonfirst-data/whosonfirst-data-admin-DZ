@@ -36,11 +36,17 @@
         "El Harrach 5 Maisons",
         "Maison Carr\u00e9e"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0634"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u062d\u0631\u0627\u0634"
     ],
     "name:deu_x_preferred":[
         "El-Harrach"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a7\u03b1\u03c1\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "El Harrach"
@@ -83,6 +89,9 @@
     ],
     "name:spa_x_preferred":[
         "El Harrach"
+    ],
+    "name:tur_x_preferred":[
+        "El-Harra\u015f"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062d\u0631\u0627\u0634"
@@ -155,7 +164,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582348638,
+    "wof:lastmodified":1690875504,
     "wof:name":"El Harrach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

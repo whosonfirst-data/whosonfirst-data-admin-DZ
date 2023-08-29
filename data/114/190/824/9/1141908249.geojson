@@ -21,10 +21,19 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0642 \u0623\u0647\u0631\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0647\u0631\u0627\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Suk-\u018fhras"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u0995\u09be \u09b9\u09be\u09b8"
     ],
     "name:bre_x_preferred":[
+        "Souk Ahras"
+    ],
+    "name:cat_x_preferred":[
         "Souk Ahras"
     ],
     "name:ceb_x_preferred":[
@@ -168,6 +177,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a-\u0410\u0445\u0440\u0430\u0441"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0443\u043a-\u0410\u0433\u0440\u0430\u0441"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0642 \u0627\u06c1\u0631\u0627\u0633"
     ],
@@ -297,7 +309,7 @@
         }
     ],
     "wof:id":1141908249,
-    "wof:lastmodified":1636501726,
+    "wof:lastmodified":1690875570,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85670875,
     "wof:placetype":"locality",

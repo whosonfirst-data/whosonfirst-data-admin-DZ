@@ -32,6 +32,9 @@
     "name:ind_x_preferred":[
         "Bandar Udara Mecheria"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30b7\u30a7\u30ea\u30a2\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Mecheria"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102521785,
-    "wof:lastmodified":1631750771,
+    "wof:lastmodified":1690875487,
     "wof:name":"Mecheria Airport",
     "wof:parent_id":85670707,
     "wof:placetype":"campus",
