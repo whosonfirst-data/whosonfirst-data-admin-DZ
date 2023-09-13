@@ -1258,7 +1258,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"213",
     "statoids:ds":"DZ",
     "statoids:fifa":"ALG",
@@ -1332,7 +1332,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694492087,
+    "wof:lastmodified":1694639541,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
