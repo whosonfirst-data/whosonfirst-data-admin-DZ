@@ -1296,6 +1296,7 @@
         "hasc:id":"DZ",
         "icao:code":"7T",
         "ioc:id":"ALG",
+        "iso:code":"DZ",
         "itu:id":"ALG",
         "loc:id":"n79064760",
         "m49:code":"012",
@@ -1310,6 +1311,7 @@
         "wk:page":"Algeria",
         "wmo:id":"AL"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
     "wof:country_alpha3":"DZA",
     "wof:geom_alt":[
@@ -1332,7 +1334,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694639541,
+    "wof:lastmodified":1695881198,
     "wof:name":"Algeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
