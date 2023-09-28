@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.566718,
-    "geom:area_square_m":68421118903.075432,
+    "geom:area_square_m":68421117264.003105,
     "geom:bbox":"-0.401133,30.708694,2.344849,34.438182",
     "geom:latitude":32.570439,
     "geom:longitude":0.9414,
@@ -354,13 +354,15 @@
         "gn:id":2498541,
         "gp:id":2344612,
         "hasc:id":"DZ.EB",
+        "iso:code":"DZ-32",
         "iso:id":"DZ-32",
         "qs_pg:id":1063253,
         "unlc:id":"DZ-32",
         "wd:id":"Q235703"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"7e6c1e25137d807e12400b6146efb405",
+    "wof:geomhash":"c5f16d08800c5eef4ca4da2064dbaab9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -377,7 +379,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875500,
+    "wof:lastmodified":1695884903,
     "wof:name":"El Bayadh",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

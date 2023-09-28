@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.46183,
-    "geom:area_square_m":165328310814.55722,
+    "geom:area_square_m":165328301116.52774,
     "geom:bbox":"-6.000765,28.207245,0.399128,32.327304",
     "geom:latitude":30.146045,
     "geom:longitude":-2.559673,
@@ -335,14 +335,16 @@
         "gn:id":2505525,
         "gp:id":2344608,
         "hasc:id":"DZ.BC",
+        "iso:code":"DZ-08",
         "iso:id":"DZ-08",
         "qs_pg:id":423533,
         "unlc:id":"DZ-08",
         "wd:id":"Q215467",
         "wk:page":"B\u00e9char Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"39c87fbfb8be8d150ae6e00d31a5b401",
+    "wof:geomhash":"f542902561c06b1cebf5cedc78cb31bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +361,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875490,
+    "wof:lastmodified":1695884481,
     "wof:name":"B\u00e9char",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019652,
-    "geom:area_square_m":194763777.522576,
+    "geom:area_square_m":194763453.390688,
     "geom:bbox":"2.96631,36.649934,3.229808,36.814964",
     "geom:latitude":36.724377,
     "geom:longitude":3.090418,
@@ -316,13 +316,15 @@
         "gn:id":2507475,
         "gp:id":2344579,
         "hasc:id":"DZ.AL",
+        "iso:code":"DZ-16",
         "iso:id":"DZ-16",
         "qs_pg:id":1134875,
         "unlc:id":"DZ-16",
         "wd:id":"Q141026"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"fddafee0ee84b7722139e8940318fb00",
+    "wof:geomhash":"161a654ded23d8c73b8db357e5c23bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875496,
+    "wof:lastmodified":1695884902,
     "wof:name":"Alger",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

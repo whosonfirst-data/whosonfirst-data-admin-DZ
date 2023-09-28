@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.619979,
-    "geom:area_square_m":6191428104.632976,
+    "geom:area_square_m":6191426993.444172,
     "geom:bbox":"4.785217,35.632399,5.983335,36.590635",
     "geom:latitude":36.134258,
     "geom:longitude":5.465657,
@@ -327,14 +327,16 @@
         "gn:id":2481696,
         "gp:id":2344586,
         "hasc:id":"DZ.SF",
+        "iso:code":"DZ-19",
         "iso:id":"DZ-19",
         "qs_pg:id":1046063,
         "unlc:id":"DZ-19",
         "wd:id":"Q237164",
         "wk:page":"S\u00e9tif Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"ab965c369f0938d21d065b50849a4f74",
+    "wof:geomhash":"b88bc9ff9911fa803848489fb67ea332",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -351,7 +353,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875492,
+    "wof:lastmodified":1695884479,
     "wof:name":"S\u00e9tif",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

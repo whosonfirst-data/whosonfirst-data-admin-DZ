@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.001296,
-    "geom:area_square_m":20281270046.175861,
+    "geom:area_square_m":20281268854.900734,
     "geom:bbox":"0.492249,34.068929,2.620285,35.689812",
     "geom:latitude":34.957859,
     "geom:longitude":1.51563,
@@ -366,13 +366,15 @@
         "gn:id":2476893,
         "gp:id":2344587,
         "hasc:id":"DZ.TR",
+        "iso:code":"DZ-14",
         "iso:id":"DZ-14",
         "qs_pg:id":963007,
         "unlc:id":"DZ-14",
         "wd:id":"Q233258"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"53bb67e65fbc650a5d4c2cb290c6d81a",
+    "wof:geomhash":"98479ca60b62acc28c07760bc842da9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -389,7 +391,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875494,
+    "wof:lastmodified":1695884902,
     "wof:name":"Tiaret",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

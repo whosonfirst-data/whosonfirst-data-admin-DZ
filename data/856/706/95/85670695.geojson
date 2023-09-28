@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940572,
-    "geom:area_square_m":9557849958.024862,
+    "geom:area_square_m":9557849645.993521,
     "geom:bbox":"-2.222564,34.092021,-0.758475,35.319899",
     "geom:latitude":34.733678,
     "geom:longitude":-1.422383,
@@ -420,13 +420,15 @@
         "gn:id":2475683,
         "gp:id":2344589,
         "hasc:id":"DZ.TL",
+        "iso:code":"DZ-13",
         "iso:id":"DZ-13",
         "qs_pg:id":399886,
         "unlc:id":"DZ-13",
         "wd:id":"Q233632"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"38cd651a3b6736ae391bcbe63dfe5e43",
+    "wof:geomhash":"0204099521ea0c28788898c9072b64b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -443,7 +445,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875489,
+    "wof:lastmodified":1695884902,
     "wof:name":"Tlemcen",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

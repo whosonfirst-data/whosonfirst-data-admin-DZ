@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463384,
-    "geom:area_square_m":4625151439.412546,
+    "geom:area_square_m":4625152602.706913,
     "geom:bbox":"1.553167,35.860499,2.661109,36.443151",
     "geom:latitude":36.176066,
     "geom:longitude":2.080172,
@@ -342,14 +342,16 @@
         "gn:id":2508226,
         "gp:id":2344605,
         "hasc:id":"DZ.AD",
+        "iso:code":"DZ-44",
         "iso:id":"DZ-44",
         "qs_pg:id":988719,
         "unlc:id":"DZ-44",
         "wd:id":"Q168953",
         "wk:page":"A\u00efn Defla Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"44434ecdbc82e35c97e6d42bf15dece9",
+    "wof:geomhash":"d54d6ac7cb744c102145c58e5fffaad8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -366,7 +368,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875500,
+    "wof:lastmodified":1695884479,
     "wof:name":"A\u00efn Defla",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

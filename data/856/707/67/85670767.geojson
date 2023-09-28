@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284924,
-    "geom:area_square_m":2825499565.834358,
+    "geom:area_square_m":2825500368.352717,
     "geom:bbox":"3.733654,36.46625,4.648068,36.911607",
     "geom:latitude":36.679941,
     "geom:longitude":4.223302,
@@ -378,13 +378,15 @@
         "gn:id":2475741,
         "gp:id":2344588,
         "hasc:id":"DZ.TO",
+        "iso:code":"DZ-15",
         "iso:id":"DZ-15",
         "qs_pg:id":399885,
         "unlc:id":"DZ-15",
         "wd:id":"Q233645"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"c775c461d9166cde2ce1eedb26caa769",
+    "wof:geomhash":"b2f6b7de0728888a54da5532503cb9cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -401,7 +403,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875496,
+    "wof:lastmodified":1695884902,
     "wof:name":"Tizi Ouzou",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

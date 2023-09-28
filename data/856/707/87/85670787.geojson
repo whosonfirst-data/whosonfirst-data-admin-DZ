@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222798,
-    "geom:area_square_m":2228990258.380057,
+    "geom:area_square_m":2228990555.520115,
     "geom:bbox":"-0.11438,35.68206,0.741278,36.337758",
     "geom:latitude":35.99256,
     "geom:longitude":0.331803,
@@ -318,13 +318,15 @@
         "gn:id":2487130,
         "gp:id":2344583,
         "hasc:id":"DZ.MG",
+        "iso:code":"DZ-27",
         "iso:id":"DZ-27",
         "qs_pg:id":1134878,
         "unlc:id":"DZ-27",
         "wd:id":"Q849524"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"bd34fa42dbb39f59ebb9c2edb91e85f8",
+    "wof:geomhash":"f29e8465bd5537706ddd122737447cde",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -341,7 +343,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875497,
+    "wof:lastmodified":1695884902,
     "wof:name":"Mostaganem",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

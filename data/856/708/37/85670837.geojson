@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.904332,
-    "geom:area_square_m":9049570038.06196,
+    "geom:area_square_m":9049569320.748617,
     "geom:bbox":"2.158194,35.439077,3.633866,36.490176",
     "geom:latitude":35.973555,
     "geom:longitude":2.93701,
@@ -339,14 +339,16 @@
         "gn:id":2488831,
         "gp:id":2344582,
         "hasc:id":"DZ.MD",
+        "iso:code":"DZ-26",
         "iso:id":"DZ-26",
         "qs_pg:id":1284958,
         "unlc:id":"DZ-26",
         "wd:id":"Q235810",
         "wk:page":"M\u00e9d\u00e9a Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"1ad4dbfefe9a4f3f52142111a45f2493",
+    "wof:geomhash":"76d789d0bcedf869fcc92f309d292eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875493,
+    "wof:lastmodified":1695884479,
     "wof:name":"Medea",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

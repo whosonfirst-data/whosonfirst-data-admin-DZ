@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242723,
-    "geom:area_square_m":2406326060.044773,
+    "geom:area_square_m":2406325118.41562,
     "geom:bbox":"5.427349,36.523972,6.478499,36.935315",
     "geom:latitude":36.701491,
     "geom:longitude":5.961302,
@@ -366,13 +366,15 @@
         "gn:id":2492910,
         "gp:id":2344596,
         "hasc:id":"DZ.JJ",
+        "iso:code":"DZ-18",
         "iso:id":"DZ-18",
         "qs_pg:id":1134892,
         "unlc:id":"DZ-18",
         "wd:id":"Q235718"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"3590235796f7d57fa08ce2acd14c8a36",
+    "wof:geomhash":"29a7aa725e1b36805bc87cb34bfa3885",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -389,7 +391,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875500,
+    "wof:lastmodified":1695884903,
     "wof:name":"Jijel",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

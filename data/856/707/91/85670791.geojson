@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.489007,
-    "geom:area_square_m":4904609933.623497,
+    "geom:area_square_m":4904609795.589678,
     "geom:bbox":"0.229371,35.43608,1.411625,36.201357",
     "geom:latitude":35.793638,
     "geom:longitude":0.800795,
@@ -361,13 +361,15 @@
         "gn:id":2483666,
         "gp:id":2344621,
         "hasc:id":"DZ.RE",
+        "iso:code":"DZ-48",
         "iso:id":"DZ-48",
         "qs_pg:id":114057,
         "unlc:id":"DZ-48",
         "wd:id":"Q236758"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"d874e4442e7ad082093f01e1cb65cf01",
+    "wof:geomhash":"64f35fb595f33b14753be295df8ffbb9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -384,7 +386,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875499,
+    "wof:lastmodified":1695884903,
     "wof:name":"Relizane",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

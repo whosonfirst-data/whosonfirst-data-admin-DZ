@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572815,
-    "geom:area_square_m":5774250136.084955,
+    "geom:area_square_m":5774249376.609795,
     "geom:bbox":"-0.545362,35.02148,0.880494,35.783759",
     "geom:latitude":35.389594,
     "geom:longitude":0.143033,
@@ -402,13 +402,15 @@
         "gn:id":2490095,
         "gp:id":2344598,
         "hasc:id":"DZ.MC",
+        "iso:code":"DZ-29",
         "iso:id":"DZ-29",
         "qs_pg:id":264448,
         "unlc:id":"DZ-29",
         "wd:id":"Q236776"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"f515f77617b4e1ba5ecb18ca5ca3978c",
+    "wof:geomhash":"a72b3cadfef20bd89368c4e0e3f2338d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -425,7 +427,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875501,
+    "wof:lastmodified":1695884903,
     "wof:name":"Mascara",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

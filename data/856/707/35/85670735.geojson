@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":54.093595,
-    "geom:area_square_m":610711320484.55481,
+    "geom:area_square_m":610711333962.157837,
     "geom:bbox":"0.825407,19.06077,11.968861,29.123546",
     "geom:latitude":23.972826,
     "geom:longitude":5.116536,
@@ -340,13 +340,15 @@
         "gn:id":2478217,
         "gp:id":2344623,
         "hasc:id":"DZ.TM",
+        "iso:code":"DZ-11",
         "iso:id":"DZ-11",
         "qs_pg:id":423540,
         "wd:id":"Q229467",
         "wk:page":"Tamanrasset Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"80f0fb9f54139a450d3ee66beadb5a65",
+    "wof:geomhash":"9083609324b5a3fe06cb30a8e2dc0960",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875496,
+    "wof:lastmodified":1695884902,
     "wof:name":"Tamanghasset",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

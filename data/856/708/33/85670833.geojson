@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.443764,
-    "geom:area_square_m":35161419911.10183,
+    "geom:area_square_m":35161419922.394714,
     "geom:bbox":"2.285732,32.840761,5.121786,35.80474",
     "geom:latitude":34.332577,
     "geom:longitude":3.550843,
@@ -362,13 +362,15 @@
         "gn:id":2500013,
         "gp:id":2344594,
         "hasc:id":"DZ.DJ",
+        "iso:code":"DZ-17",
         "iso:id":"DZ-17",
         "qs_pg:id":1134891,
         "unlc:id":"DZ-17",
         "wd:id":"Q233233"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"c6e558d6fbb95f65ed93849c77ae968e",
+    "wof:geomhash":"acd1149206123e45c15ae5fa93f42317",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -385,7 +387,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875491,
+    "wof:lastmodified":1695884902,
     "wof:name":"Djelfa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

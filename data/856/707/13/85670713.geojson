@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147509,
-    "geom:area_square_m":1459401567.730841,
+    "geom:area_square_m":1459400668.998469,
     "geom:bbox":"7.262677,36.612443,7.798595,37.082994",
     "geom:latitude":36.85893,
     "geom:longitude":7.530105,
@@ -432,13 +432,15 @@
         "gn:id":2506994,
         "gp:id":2344607,
         "hasc:id":"DZ.AN",
+        "iso:code":"DZ-23",
         "iso:id":"DZ-23",
         "qs_pg:id":362602,
         "unlc:id":"DZ-23",
         "wd:id":"Q213944"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"6ca9672b97566066adff11997ebce069",
+    "wof:geomhash":"e6ba14341fafd6859087bf08b7a8badd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -455,7 +457,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875502,
+    "wof:lastmodified":1695884903,
     "wof:name":"Annaba",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

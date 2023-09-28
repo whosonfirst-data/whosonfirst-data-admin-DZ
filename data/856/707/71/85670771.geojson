@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198583,
-    "geom:area_square_m":1972773683.53402,
+    "geom:area_square_m":1972771953.575024,
     "geom:bbox":"1.647786,36.366669,3.03504,36.815863",
     "geom:latitude":36.543145,
     "geom:longitude":2.312122,
@@ -328,14 +328,16 @@
         "gn:id":2476027,
         "gp:id":2344625,
         "hasc:id":"DZ.TP",
+        "iso:code":"DZ-42",
         "iso:id":"DZ-42",
         "qs_pg:id":423541,
         "unlc:id":"DZ-42",
         "wd:id":"Q235814",
         "wk:page":"Tipaza Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"85ccdd83096ae89173c1263882dcc656",
+    "wof:geomhash":"b2e82bc07c6435d016cd39397c96764c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -352,7 +354,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875501,
+    "wof:lastmodified":1695884903,
     "wof:name":"Tipaza",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

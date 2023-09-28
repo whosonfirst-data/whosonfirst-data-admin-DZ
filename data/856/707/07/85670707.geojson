@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.978443,
-    "geom:area_square_m":30790065960.493397,
+    "geom:area_square_m":30790060511.874695,
     "geom:bbox":"-1.746788,32.10463,0.086021,34.31372",
     "geom:latitude":33.274457,
     "geom:longitude":-0.782387,
@@ -334,13 +334,15 @@
         "gn:id":2486512,
         "gp:id":2344619,
         "hasc:id":"DZ.NA",
+        "iso:code":"DZ-45",
         "iso:id":"DZ-45",
         "qs_pg:id":1134898,
         "unlc:id":"DZ-45",
         "wd:id":"Q233675"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"7a0e0350a78c5c2cc9d8318d052b14e1",
+    "wof:geomhash":"e2e0c73e8019577555262d5048131076",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -357,7 +359,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875498,
+    "wof:lastmodified":1695884479,
     "wof:name":"Naama",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

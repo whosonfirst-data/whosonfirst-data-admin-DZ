@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.483506,
-    "geom:area_square_m":46375252720.607979,
+    "geom:area_square_m":46375246379.464485,
     "geom:bbox":"5.008046,32.000192,9.063304,34.499807",
     "geom:latitude":33.222433,
     "geom:longitude":6.957223,
@@ -381,13 +381,15 @@
         "gn:id":2497406,
         "gp:id":2344613,
         "hasc:id":"DZ.EO",
+        "iso:code":"DZ-39",
         "iso:id":"DZ-39",
         "qs_pg:id":237282,
         "unlc:id":"DZ-39",
         "wd:id":"Q233651"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"6a212332e2eb976a6fae394049d1b7f2",
+    "wof:geomhash":"7ac2bca87cda666a1cbcbaa2e99bb411",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -404,7 +406,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875497,
+    "wof:lastmodified":1695884902,
     "wof:name":"El Oued",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275706,
-    "geom:area_square_m":2732588345.340635,
+    "geom:area_square_m":2732590237.338462,
     "geom:bbox":"7.649745,36.404135,8.642552,36.958075",
     "geom:latitude":36.722264,
     "geom:longitude":8.117478,
@@ -356,13 +356,15 @@
         "gn:id":2497322,
         "gp:id":2344614,
         "hasc:id":"DZ.ET",
+        "iso:code":"DZ-36",
         "iso:id":"DZ-36",
         "qs_pg:id":985922,
         "unlc:id":"DZ-36",
         "wd:id":"Q236788"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"1ed8e0a2ec48dfae2f94e5c85e7d6be0",
+    "wof:geomhash":"8b03c7be32e2ec245223737c08b3e007",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -379,7 +381,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875497,
+    "wof:lastmodified":1695884902,
     "wof:name":"El Tarf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

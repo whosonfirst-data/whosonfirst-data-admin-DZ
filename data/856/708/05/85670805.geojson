@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301246,
-    "geom:area_square_m":3023249707.209126,
+    "geom:area_square_m":3023250817.086847,
     "geom:bbox":"1.245588,35.544032,2.311777,36.005658",
     "geom:latitude":35.745807,
     "geom:longitude":1.800488,
@@ -348,13 +348,15 @@
         "gn:id":2475858,
         "gp:id":2344626,
         "hasc:id":"DZ.TS",
+        "iso:code":"DZ-38",
         "iso:id":"DZ-38",
         "qs_pg:id":1134901,
         "unlc:id":"DZ-38",
         "wd:id":"Q235805"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"c8b6556ac960337f20dad4441e2773a6",
+    "wof:geomhash":"36012c76839bf33b06689a75c53142c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -371,7 +373,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875492,
+    "wof:lastmodified":1695884902,
     "wof:name":"Tissemsilt",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.909873,
-    "geom:area_square_m":9261101767.840248,
+    "geom:area_square_m":9261101236.322775,
     "geom:bbox":"-0.49968,33.915036,0.856878,35.160593",
     "geom:latitude":34.593407,
     "geom:longitude":0.171261,
@@ -339,14 +339,16 @@
         "gn:id":2482557,
         "gp:id":2344585,
         "hasc:id":"DZ.SD",
+        "iso:code":"DZ-20",
         "iso:id":"DZ-20",
         "qs_pg:id":1046062,
         "unlc:id":"DZ-20",
         "wd:id":"Q233640",
         "wk:page":"Sa\u00efda Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"252838958a2832ababea186944658f8d",
+    "wof:geomhash":"95c21db7fdf76823c3fbcb3feb4ec0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875500,
+    "wof:lastmodified":1695884903,
     "wof:name":"Saida",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.454634,
-    "geom:area_square_m":4531948484.869579,
+    "geom:area_square_m":4531948431.823167,
     "geom:bbox":"3.283035,35.861119,4.404465,36.695797",
     "geom:latitude":36.27712,
     "geom:longitude":3.849002,
@@ -348,13 +348,15 @@
         "gn:id":2502951,
         "gp:id":2344593,
         "hasc:id":"DZ.BU",
+        "iso:code":"DZ-10",
         "iso:id":"DZ-10",
         "qs_pg:id":1134883,
         "unlc:id":"DZ-10",
         "wd:id":"Q233655"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"654a4086a7183717a461e1bdcfbb4325",
+    "wof:geomhash":"443d95256dd1d5924af6d450020b7d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -371,7 +373,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875495,
+    "wof:lastmodified":1695884902,
     "wof:name":"Bouira",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
