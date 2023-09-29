@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24994,
-    "geom:area_square_m":2511998753.266726,
+    "geom:area_square_m":2511999820.440192,
     "geom:bbox":"-1.106344,35.294538,-0.113674,35.90705",
     "geom:latitude":35.629657,
     "geom:longitude":-0.632057,
@@ -353,13 +353,15 @@
         "gn:id":2485920,
         "gp:id":2344584,
         "hasc:id":"DZ.OR",
+        "iso:code":"DZ-31",
         "iso:id":"DZ-31",
         "qs_pg:id":221715,
         "unlc:id":"DZ-31",
         "wd:id":"Q231331"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"ed07eb100bbe4febe458445205caca7e",
+    "wof:geomhash":"9dc98e87f01ad60c90015d2bea6b5fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -376,7 +378,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875489,
+    "wof:lastmodified":1695884902,
     "wof:name":"Oran",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

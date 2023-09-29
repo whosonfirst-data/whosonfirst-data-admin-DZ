@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.40384,
-    "geom:area_square_m":4031875851.389768,
+    "geom:area_square_m":4031875002.997869,
     "geom:bbox":"7.324959,35.830992,8.359675,36.491995",
     "geom:latitude":36.155775,
     "geom:longitude":7.886955,
@@ -369,13 +369,15 @@
         "gn:id":2479213,
         "gp:id":2344622,
         "hasc:id":"DZ.SA",
+        "iso:code":"DZ-41",
         "iso:id":"DZ-41",
         "qs_pg:id":1134899,
         "unlc:id":"DZ-41",
         "wd:id":"Q236772"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"687c00b69b29de13b8e2ffb2cd3eb173",
+    "wof:geomhash":"f54c34c29216ba4281fe685f917d7e60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -392,7 +394,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875493,
+    "wof:lastmodified":1695884902,
     "wof:name":"Souk Ahras",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

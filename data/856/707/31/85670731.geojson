@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.807448,
-    "geom:area_square_m":196449686060.763214,
+    "geom:area_square_m":196449690536.421814,
     "geom:bbox":"5.815749,24.000137,11.71014,30.022794",
     "geom:latitude":26.795661,
     "geom:longitude":8.353429,
@@ -363,13 +363,15 @@
         "gn:id":2493455,
         "gp:id":2344616,
         "hasc:id":"DZ.IL",
+        "iso:code":"DZ-33",
         "iso:id":"DZ-33",
         "qs_pg:id":1134895,
         "unlc:id":"DZ-33",
         "wd:id":"Q233659"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"6dc0ceba4d60c58525251a40fdd16ac6",
+    "wof:geomhash":"8e6a266e2109dea60da09c2cc1099676",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -386,7 +388,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875499,
+    "wof:lastmodified":1695884902,
     "wof:name":"Illizi",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

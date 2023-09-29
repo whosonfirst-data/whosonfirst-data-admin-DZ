@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.380125,
-    "geom:area_square_m":3783132739.783228,
+    "geom:area_square_m":3783131789.525305,
     "geom:bbox":"6.937954,36.042503,7.987864,36.726131",
     "geom:latitude":36.402211,
     "geom:longitude":7.399147,
@@ -366,13 +366,15 @@
         "gn:id":2495659,
         "gp:id":2344595,
         "hasc:id":"DZ.GL",
+        "iso:code":"DZ-24",
         "iso:id":"DZ-24",
         "qs_pg:id":1134889,
         "unlc:id":"DZ-24",
         "wd:id":"Q235727"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"17bb1d28414c998641f05c5b78f30f9b",
+    "wof:geomhash":"d56a3e158f4971a391b7c2dd8530f82a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -389,7 +391,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875491,
+    "wof:lastmodified":1695884902,
     "wof:name":"Guelma",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404891,
-    "geom:area_square_m":4045987894.618408,
+    "geom:area_square_m":4045988935.061145,
     "geom:bbox":"4.08433,35.777326,5.254181,36.42478",
     "geom:latitude":36.085273,
     "geom:longitude":4.730866,
@@ -322,14 +322,16 @@
         "gn:id":2503699,
         "gp:id":2344609,
         "hasc:id":"DZ.BB",
+        "iso:code":"DZ-34",
         "iso:id":"DZ-34",
         "qs_pg:id":318266,
         "unlc:id":"DZ-34",
         "wd:id":"Q266411",
         "wk:page":"Bordj Bou Arr\u00e9ridj Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"619497152bc2280a0c4f5adc8dd104c9",
+    "wof:geomhash":"eb0f3a52d965e71fa2fce001fa5cdfe6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875493,
+    "wof:lastmodified":1695884479,
     "wof:name":"Bordj Bou Arr\u00e9ridj",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

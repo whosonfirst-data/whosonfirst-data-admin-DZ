@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.972928,
-    "geom:area_square_m":9857676029.930212,
+    "geom:area_square_m":9857673922.519957,
     "geom:bbox":"6.5109,34.160577,7.544842,35.68392",
     "geom:latitude":34.974376,
     "geom:longitude":6.999357,
@@ -371,13 +371,15 @@
         "gn:id":2491887,
         "gp:id":2344617,
         "hasc:id":"DZ.KH",
+        "iso:code":"DZ-40",
         "iso:id":"DZ-40",
         "qs_pg:id":1134893,
         "unlc:id":"DZ-40",
         "wd:id":"Q213950"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"8fa0e81844b87b35ba863b27c6c0a175",
+    "wof:geomhash":"f624faa925f812ab93ee8aa7174920cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -394,7 +396,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875490,
+    "wof:lastmodified":1695884902,
     "wof:name":"Khenchela",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

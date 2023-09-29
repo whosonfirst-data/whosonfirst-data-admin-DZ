@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.19653,
-    "geom:area_square_m":12055802158.28751,
+    "geom:area_square_m":12055804238.533699,
     "geom:bbox":"4.777001,34.764493,6.787266,35.915793",
     "geom:latitude":35.427852,
     "geom:longitude":5.883069,
@@ -346,13 +346,15 @@
         "gn:id":2505569,
         "gp:id":2344580,
         "hasc:id":"DZ.BT",
+        "iso:code":"DZ-05",
         "iso:id":"DZ-05",
         "qs_pg:id":1134876,
         "unlc:id":"DZ-05",
         "wd:id":"Q215452"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"9189c90dc7573a9dbaf8b621840fe528",
+    "wof:geomhash":"b1295c17c9573162b314333d005325c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -369,7 +371,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875491,
+    "wof:lastmodified":1695884902,
     "wof:name":"Batna",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

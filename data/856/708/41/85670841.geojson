@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.749396,
-    "geom:area_square_m":17653832990.630157,
+    "geom:area_square_m":17653832985.945061,
     "geom:bbox":"3.379515,34.2322,5.379703,36.029093",
     "geom:latitude":35.300692,
     "geom:longitude":4.2764,
@@ -364,12 +364,14 @@
         "gn:id":2486682,
         "gp:id":2344599,
         "hasc:id":"DZ.MS",
+        "iso:code":"DZ-28",
         "iso:id":"DZ-28",
         "qs_pg:id":224178,
         "wd:id":"Q240870"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"602127d73bbf45a81968c629ac48b3d5",
+    "wof:geomhash":"9a56c6cf6cfcd842050ba54bf8d20ea1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -386,7 +388,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875494,
+    "wof:lastmodified":1695884902,
     "wof:name":"M'sila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.413586,
-    "geom:area_square_m":4095963178.070495,
+    "geom:area_square_m":4095963415.601374,
     "geom:bbox":"6.247831,36.432867,7.384232,37.09394",
     "geom:latitude":36.781564,
     "geom:longitude":6.812256,
@@ -314,13 +314,15 @@
         "gn:id":2479532,
         "gp:id":2344602,
         "hasc:id":"DZ.SK",
+        "iso:code":"DZ-21",
         "iso:id":"DZ-21",
         "qs_pg:id":424927,
         "unlc:id":"DZ-21",
         "wd:id":"Q234227"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"7a9ec3704b2693cefae63f69dca4116b",
+    "wof:geomhash":"e5a420d4578801f56a920bffcd06fa59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875497,
+    "wof:lastmodified":1695884902,
     "wof:name":"Skikda",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

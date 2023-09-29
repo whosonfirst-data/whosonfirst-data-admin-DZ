@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.142433,
-    "geom:area_square_m":75566758285.855316,
+    "geom:area_square_m":75566753204.486725,
     "geom:bbox":"1.943427,29.036367,4.97828,33.029638",
     "geom:latitude":31.162297,
     "geom:longitude":3.117175,
@@ -326,14 +326,16 @@
         "gn:id":2496045,
         "gp:id":2344615,
         "hasc:id":"DZ.GR",
+        "iso:code":"DZ-47",
         "iso:id":"DZ-47",
         "qs_pg:id":423539,
         "unlc:id":"DZ-47",
         "wd:id":"Q17601",
         "wk:page":"Gharda\u00efa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"db80194ec5ad851f1d161dfa38a31980",
+    "wof:geomhash":"376dff9ec00edf065fb68ae0c4f8db8b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -350,7 +352,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875501,
+    "wof:lastmodified":1695884903,
     "wof:name":"Ghardaia",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

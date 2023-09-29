@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.042794,
-    "geom:area_square_m":20817054471.325794,
+    "geom:area_square_m":20817049656.803616,
     "geom:bbox":"4.184427,33.57268,6.749542,35.288441",
     "geom:latitude":34.5022,
     "geom:longitude":5.344496,
@@ -329,13 +329,15 @@
         "gn:id":2503822,
         "gp:id":2344591,
         "hasc:id":"DZ.BS",
+        "iso:code":"DZ-07",
         "iso:id":"DZ-07",
         "qs_pg:id":1134887,
         "unlc:id":"DZ-07",
         "wd:id":"Q458402"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"5de2bf7b3617501a443f0da4967252c2",
+    "wof:geomhash":"f9c28cd70e6ef3028a75ea0dfc48aee5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -352,7 +354,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875492,
+    "wof:lastmodified":1695884902,
     "wof:name":"Biskra",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

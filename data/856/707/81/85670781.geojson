@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.431956,
-    "geom:area_square_m":4308345857.094215,
+    "geom:area_square_m":4308346272.209496,
     "geom:bbox":"0.702366,35.841559,1.719203,36.547919",
     "geom:latitude":36.232518,
     "geom:longitude":1.260462,
@@ -365,13 +365,15 @@
         "gn:id":2501296,
         "gp:id":2344611,
         "hasc:id":"DZ.CH",
+        "iso:code":"DZ-02",
         "iso:id":"DZ-02",
         "qs_pg:id":911307,
         "unlc:id":"DZ-02",
         "wd:id":"Q231752"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"b94d1841256303ccf73db50f2dfebcfd",
+    "wof:geomhash":"c91220598896b90f6d31f3822aef725e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -388,7 +390,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875498,
+    "wof:lastmodified":1695884902,
     "wof:name":"Chlef",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

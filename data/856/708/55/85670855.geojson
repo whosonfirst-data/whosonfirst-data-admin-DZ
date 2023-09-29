@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212812,
-    "geom:area_square_m":2119486963.512141,
+    "geom:area_square_m":2119486683.564765,
     "geom:bbox":"6.317734,36.106892,7.048283,36.607895",
     "geom:latitude":36.347293,
     "geom:longitude":6.70924,
@@ -375,13 +375,15 @@
         "gn:id":2501147,
         "gp:id":2344581,
         "hasc:id":"DZ.CO",
+        "iso:code":"DZ-25",
         "iso:id":"DZ-25",
         "qs_pg:id":1134877,
         "unlc:id":"DZ-25",
         "wd:id":"Q232043"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"e81a0146223d0a7b5e474de000d50357",
+    "wof:geomhash":"5bd06832bcaf8c64bceff5952a5dd0a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -398,7 +400,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875494,
+    "wof:lastmodified":1695884902,
     "wof:name":"Constantine",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

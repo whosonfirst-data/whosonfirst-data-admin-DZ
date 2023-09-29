@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":42.805629,
-    "geom:area_square_m":476316718319.953125,
+    "geom:area_square_m":476316713773.768127,
     "geom:bbox":"-5.661525,18.975561,3.790291,31.658585",
     "geom:latitude":25.703585,
     "geom:longitude":-0.443128,
@@ -405,13 +405,15 @@
         "gn:id":2508807,
         "gp:id":2344604,
         "hasc:id":"DZ.AR",
+        "iso:code":"DZ-01",
         "iso:id":"DZ-01",
         "qs_pg:id":890532,
         "unlc:id":"DZ-01",
         "wd:id":"Q188166"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"d167ce6b03529143b75f567fe9192758",
+    "wof:geomhash":"7c0e904481de55e9fc544ea254f526ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -428,7 +430,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875490,
+    "wof:lastmodified":1695884902,
     "wof:name":"Adrar",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.356546,
-    "geom:area_square_m":3540770815.316984,
+    "geom:area_square_m":3540769610.487211,
     "geom:bbox":"4.356355,36.222906,5.475459,36.898017",
     "geom:latitude":36.570385,
     "geom:longitude":4.846781,
@@ -340,14 +340,16 @@
         "gn:id":2505325,
         "gp:id":2344590,
         "hasc:id":"DZ.BJ",
+        "iso:code":"DZ-06",
         "iso:id":"DZ-06",
         "qs_pg:id":894840,
         "unlc:id":"DZ-06",
         "wd:id":"Q233665",
         "wk:page":"B\u00e9ja\u00efa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"9b90e78780c60b04125ed033ed9a95eb",
+    "wof:geomhash":"3dac4ef5846e6d9f674b38809847a0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -364,7 +366,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875495,
+    "wof:lastmodified":1695884479,
     "wof:name":"B\u00e9jaia",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.329726,
-    "geom:area_square_m":13467309426.313122,
+    "geom:area_square_m":13467310423.713881,
     "geom:bbox":"7.135772,34.108306,8.431299,36.004211",
     "geom:latitude":35.005761,
     "geom:longitude":7.810236,
@@ -318,14 +318,16 @@
         "gn:id":2477457,
         "gp:id":2344603,
         "hasc:id":"DZ.TB",
+        "iso:code":"DZ-12",
         "iso:id":"DZ-12",
         "qs_pg:id":988718,
         "unlc:id":"DZ-12",
         "wd:id":"Q267224",
         "wk:page":"T\u00e9bessa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"72315e24dbef2f966c505ce17dee6afc",
+    "wof:geomhash":"a29e29dca372180c9ad1970bfae4a153",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -342,7 +344,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875494,
+    "wof:lastmodified":1695884479,
     "wof:name":"T\u00e9bessa",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

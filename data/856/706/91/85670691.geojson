@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.752372,
-    "geom:area_square_m":7640540346.292261,
+    "geom:area_square_m":7640542714.384405,
     "geom:bbox":"-1.120417,34.215121,-0.052575,35.429388",
     "geom:latitude":34.789479,
     "geom:longitude":-0.565931,
@@ -323,13 +323,15 @@
         "gn:id":2481001,
         "gp:id":2344601,
         "hasc:id":"DZ.SB",
+        "iso:code":"DZ-22",
         "iso:id":"DZ-22",
         "qs_pg:id":57196,
         "unlc:id":"DZ-22",
         "wd:id":"Q235714"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"0212e021ccd61df489429c40ffc4e81c",
+    "wof:geomhash":"825e5bc10bf124310e7aec4997f344bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875489,
+    "wof:lastmodified":1695884479,
     "wof:name":"Sidi Bel Abbes",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

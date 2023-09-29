@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.943876,
-    "geom:area_square_m":152783325657.715546,
+    "geom:area_square_m":152783333876.206696,
     "geom:bbox":"-8.682385,25.508881,-2.974257,29.579127",
     "geom:latitude":27.622506,
     "geom:longitude":-6.095668,
@@ -399,13 +399,15 @@
         "gn:id":2476302,
         "gp:id":2344624,
         "hasc:id":"DZ.TN",
+        "iso:code":"DZ-37",
         "iso:id":"DZ-37",
         "qs_pg:id":1134900,
         "unlc:id":"DZ-37",
         "wd:id":"Q231151"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"5ed5e6c7f10ab9712680c35d3fc5f37a",
+    "wof:geomhash":"09f4b0c9cb683b28994c9d1fb54ce3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -422,7 +424,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875498,
+    "wof:lastmodified":1695884902,
     "wof:name":"Tindouf",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

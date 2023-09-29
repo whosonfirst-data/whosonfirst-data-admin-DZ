@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.633126,
-    "geom:area_square_m":27130028706.710953,
+    "geom:area_square_m":27130030764.448509,
     "geom:bbox":"1.336229,32.695989,4.176211,34.69287",
     "geom:latitude":33.559921,
     "geom:longitude":2.699189,
@@ -366,13 +366,15 @@
         "gn:id":2491188,
         "gp:id":2344597,
         "hasc:id":"DZ.LG",
+        "iso:code":"DZ-03",
         "iso:id":"DZ-03",
         "qs_pg:id":399887,
         "unlc:id":"DZ-03",
         "wd:id":"Q231748"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"7dc0a67ec9c1b1046ace0e78c35f15d3",
+    "wof:geomhash":"0932fca53e6fd86c69f60c4860612740",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -389,7 +391,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875499,
+    "wof:lastmodified":1695884902,
     "wof:name":"Laghouat",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

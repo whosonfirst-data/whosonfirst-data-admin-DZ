@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.882183,
-    "geom:area_square_m":211462155080.158112,
+    "geom:area_square_m":211462162135.835083,
     "geom:bbox":"2.985999,28.461855,9.519708,33.441887",
     "geom:latitude":30.658124,
     "geom:longitude":6.209051,
@@ -378,13 +378,15 @@
         "gn:id":2485794,
         "gp:id":2344620,
         "hasc:id":"DZ.OG",
+        "iso:code":"DZ-30",
         "iso:id":"DZ-30",
         "qs_pg:id":1134894,
         "unlc:id":"DZ-30",
         "wd:id":"Q235709"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"18cd06c3fd3cc172186dff3a11e89df7",
+    "wof:geomhash":"e022e214d1486af9d23730d533833bdf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -401,7 +403,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875496,
+    "wof:lastmodified":1695884902,
     "wof:name":"Ouargla",
     "wof:parent_id":85632451,
     "wof:placetype":"region",

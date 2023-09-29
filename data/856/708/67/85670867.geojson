@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.356228,
-    "geom:area_square_m":3550203926.635746,
+    "geom:area_square_m":3550205918.314277,
     "geom:bbox":"5.737201,35.892797,6.525008,36.624251",
     "geom:latitude":36.294398,
     "geom:longitude":6.158336,
@@ -342,13 +342,15 @@
         "gn:id":2487449,
         "gp:id":2344618,
         "hasc:id":"DZ.ML",
+        "iso:code":"DZ-43",
         "iso:id":"DZ-43",
         "qs_pg:id":1134896,
         "unlc:id":"DZ-43",
         "wd:id":"Q235723"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DZ",
-    "wof:geomhash":"01f5980af17fb99706438019c5bf7707",
+    "wof:geomhash":"e504c301200a4a0891a47f5bd23b2872",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -365,7 +367,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690875491,
+    "wof:lastmodified":1695884902,
     "wof:name":"Mila",
     "wof:parent_id":85632451,
     "wof:placetype":"region",
