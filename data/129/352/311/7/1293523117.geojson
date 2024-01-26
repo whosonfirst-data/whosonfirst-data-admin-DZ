@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Chabat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -38,6 +41,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2572900
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2501883
+        ]
     },
     "wof:country":"DZ",
     "wof:geomhash":"a9b8ecd272f1250c2c7d99b3817abdcc",
@@ -50,13 +58,15 @@
         }
     ],
     "wof:id":1293523117,
-    "wof:lastmodified":1566582959,
+    "wof:lastmodified":1706239503,
     "wof:name":"Ouled Cheikh",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343893961
+    ],
     "wof:tags":[]
 },
   "bbox": [

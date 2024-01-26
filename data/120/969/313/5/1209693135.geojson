@@ -11,6 +11,7 @@
     "geom:longitude":5.71841,
     "gn:admin1_code":"12.0",
     "gn:asciiname":"Mechta Laouaska",
+    "gn:cc2":"DZ",
     "gn:country_code":"DZ",
     "gn:dem":927,
     "gn:feature_class":"P",
@@ -43,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2489479
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2488898
+        ]
+    },
     "wof:country":"DZ",
     "wof:geomhash":"e28fdb218a392700fb91e8881f1dff70",
     "wof:hierarchy":[
@@ -52,13 +58,15 @@
         }
     ],
     "wof:id":1209693135,
-    "wof:lastmodified":1566583248,
+    "wof:lastmodified":1706239503,
     "wof:name":"Mechta Laouaska",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344134087
+    ],
     "wof:tags":[]
 },
   "bbox": [

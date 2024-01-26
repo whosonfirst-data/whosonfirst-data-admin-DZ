@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bahira el Menasseria"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -38,6 +41,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2572604
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2505747
+        ]
     },
     "wof:country":"DZ",
     "wof:geomhash":"8bce9119f415c2c07e5bd44a0df2e74a",
@@ -50,13 +58,15 @@
         }
     ],
     "wof:id":1242709103,
-    "wof:lastmodified":1566583584,
+    "wof:lastmodified":1706239503,
     "wof:name":"Douar Menasseria",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276159449
+    ],
     "wof:tags":[]
 },
   "bbox": [

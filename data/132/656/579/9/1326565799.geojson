@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":2475568
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2572626
+        ]
+    },
     "wof:country":"DZ",
     "wof:geomhash":"002cd7cafacda3bdffe51b761257ff94",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1326565799,
-    "wof:lastmodified":1566582716,
+    "wof:lastmodified":1706239504,
     "wof:name":"Douar Touadjine",
     "wof:parent_id":85670781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343895141
+    ],
     "wof:tags":[]
 },
   "bbox": [
