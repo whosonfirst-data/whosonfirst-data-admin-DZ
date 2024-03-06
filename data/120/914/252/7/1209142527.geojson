@@ -71,6 +71,11 @@
         "gn:id":2481095,
         "wk:page":"Sidi_Amar%2C_Tipaza"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2592676
+        ]
+    },
     "wof:country":"DZ",
     "wof:geomhash":"dc4e57d19e7aa2d0ea799e7927e2b0a4",
     "wof:hierarchy":[
@@ -80,13 +85,15 @@
         }
     ],
     "wof:id":1209142527,
-    "wof:lastmodified":1566583230,
+    "wof:lastmodified":1706239503,
     "wof:name":"Sidi Amar",
     "wof:parent_id":85632451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209746213
+    ],
     "wof:tags":[]
 },
   "bbox": [

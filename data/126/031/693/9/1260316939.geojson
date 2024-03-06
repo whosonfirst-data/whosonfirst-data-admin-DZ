@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":2577133
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2485320
+        ]
+    },
     "wof:country":"DZ",
     "wof:geomhash":"96ce77b678b285195b9f4cfc56c32084",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1260316939,
-    "wof:lastmodified":1566583321,
+    "wof:lastmodified":1706239503,
     "wof:name":"Douar Ouled Rahal",
     "wof:parent_id":85670791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343495687
+    ],
     "wof:tags":[]
 },
   "bbox": [
